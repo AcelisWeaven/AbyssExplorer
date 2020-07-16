@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Chinese (Mainland China)",
+    "code": "",
+    "icon": "🇨🇳"
+  },
+  {
+    "name": "Chinese (Simplified)",
+    "code": "zh-CN",
+    "icon": "🇨🇳"
+  },
+  {
+    "name": "Chinese (Traditional)",
+    "code": "zh-TW",
+    "icon": "🇨🇳"
+  },
+  {
+    "name": "English (United States)",
+    "code": "en-US",
+    "icon": "🇺🇸"
+  },
+  {
+    "name": "French",
+    "code": "fr",
+    "icon": "🇫🇷"
+  },
+  {
+    "name": "German",
+    "code": "de",
+    "icon": "🇩🇪"
+  },
+  {
+    "name": "Italian",
+    "code": "it",
+    "icon": "🇮🇹"
+  },
+  {
+    "name": "Japanese",
+    "code": "ja",
+    "icon": "🇯🇵"
+  },
+  {
+    "name": "Russian",
+    "code": "ru",
+    "icon": "🇷🇺"
+  },
+  {
+    "name": "Spanish",
+    "code": "es",
+    "icon": "🇪🇸"
+  }
+]
