@@ -12,7 +12,7 @@ module.exports = {
 
         // configure the workbox plugin
         workboxPluginMode: 'GenerateSW',
-        assetsVersion: 1,
+        assetsVersion: 2,
         manifestOptions: {
             icons: [{
                 'src': './icon/192.png',

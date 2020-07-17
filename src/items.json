@@ -13019,5 +13019,237 @@
     },
     "category": "pet",
     "tags": []
+  },
+  {
+    "id": "7_skill_james",
+    "name": {
+      "": "双色扑克",
+      "zh-CN": "双色王牌",
+      "zh-TW": "鬼牌",
+      "en-US": "WILDCARD",
+      "ja": "ワイルドカード",
+      "fr": "JOKER",
+      "it": "JOLLY",
+      "de": "JOKER",
+      "es": "COMODÍN",
+      "ru": "ДЖОКЕР"
+    },
+    "desc": {
+      "": "【角色特性】詹姆斯可以携带两个枪械。使用⚪来切换武器。",
+      "zh-CN": "【角色特性】詹姆斯可以携带两个枪械。使用⚪来切换武器。",
+      "zh-TW": "【角色特性】詹姆斯可攜帶兩把槍，按 ⚪即可切換武器。",
+      "en-US": "[Characteristics] James can carry two guns and switch between them by pressing ⚪.",
+      "ja": "[キャラクター固有] ジェームズは2つの銃を持ち運び、切り替えて使い分けられる。⚪ を押すと銃を切り替えられる。",
+      "fr": "[Caractéristiques] James peut porter deux armes et passer de l'une à l'autre en appuyant sur ⚪.",
+      "it": "[Proprietà] James può trasportare due armi e alternarle con il comando ⚪.",
+      "de": "[Eigenschaft] James kann zwei Waffen tragen und mit ⚪ zwischen ihnen wechseln.",
+      "es": "[Características] James puede llevar dos armas y cambiar de una a otra pulsando ⚪.",
+      "ru": "[Характеристики] Джеймс может нести два огнестрельных оружия, меняя их при нажатии ⚪."
+    },
+    "category": "item",
+    "tags": []
+  },
+  {
+    "id": "7_skill_kanon",
+    "name": {
+      "": "兔子玩偶",
+      "zh-CN": "兔子玩偶",
+      "zh-TW": "兔子玩偶",
+      "en-US": "RABBIT DOLL",
+      "ja": "ウサギのぬいぐるみ",
+      "fr": "LAPIN EN PELUCHE",
+      "it": "CONIGLIO DI PEZZA",
+      "de": "HASENPUPPE",
+      "es": "CONEJITO DE PELUCHE",
+      "ru": "ПЛЮШЕВЫЙ КРОЛИК"
+    },
+    "desc": {
+      "": "【角色特性】纱夜拥有远程和近战两种战斗形态，分别使用枪械和武士刀。使用⚪来切换武器和形态。",
+      "zh-CN": "【角色特性】纱夜拥有远程和近战两种战斗形态，分别使用枪械和武士刀。使用⚪来切换武器和形态。",
+      "zh-TW": "【角色特性】紗耶擁有遠程和近戰兩種戰鬥型態，分別使用槍和武士刀。使用 ⚪ 切換這兩種武器。",
+      "en-US": "[Characteristics] Saya has two different battle forms for ranged attacks and melee attacks. Use ⚪ to switch weapons between the gun and the katana.",
+      "ja": "[キャラクター固有] サヤは長距離と近距離、2つの異なる戦闘スタイルを使い分けられる。⚪ を押すと銃と刀を切り替えられる。",
+      "fr": "[Caractéristiques] Saya a deux formes de combat pour les attaques à distance et de mêlée. Utilisez ⚪ pour passer du pistolet au katana.",
+      "it": "[Proprietà] Saya può combattere dalla distanza e in mischia. Usa il comando ⚪ per alternare l'arma da fuoco e la katana.",
+      "de": "[Eigenschaft] Saya hat zwei verschiedene Kampfformen für Fernkampf- und Nahkampfangriffe. Drücke ⚪, um zwischen Schusswaffe und Katana zu wechseln.",
+      "es": "[Características] Saya tiene 2 formas de combate para ataques a distancia y cuerpo a cuerpo. Usa ⚪ para cambiar de pistola a catana.",
+      "ru": "[Характеристики] У Сайи есть два боевых стиля: для дальнего и для ближнего боя. С помощью ⚪ можно переключаться между огнестрельным оружием и катаной."
+    },
+    "category": "item",
+    "tags": []
+  },
+  {
+    "id": "7_skill_lucas",
+    "name": {
+      "": "打火机",
+      "zh-CN": "打火机",
+      "zh-TW": "打火機",
+      "en-US": "LIGHTER",
+      "ja": "ライター",
+      "fr": "BRIQUET",
+      "it": "ACCENDINO",
+      "de": "FEUERZEUG",
+      "es": "MECHERO",
+      "ru": "ЗАЖИГАЛКА"
+    },
+    "desc": {
+      "": "【角色特性】卢卡斯可以放置一个不稳定的地雷，有可能会立刻爆炸。使用⚪来放置地雷。",
+      "zh-CN": "【角色特性】卢卡斯可以放置一个不稳定的地雷，有可能会立刻爆炸。使用⚪来放置地雷。",
+      "zh-TW": "【角色特性】盧卡斯可放置一枚不定時地雷，有可能會立即爆炸。使用 ⚪ 來放置地雷。",
+      "en-US": "[Characteristics] Lucas can place an unstable mine which has a chance to explode immediately. Use ⚪ to place mines.",
+      "ja": "[キャラクター固有] ルーカスはすぐ爆発する可能性のある不安定な地雷を設置できる。⚪ を押すと地雷を設置する。",
+      "fr": "[Caractéristiques] Lucas peut poser une mine instable qui a une chance d'exploser immédiatement. Utilisez ⚪ pour poser des mines.",
+      "it": "[Proprietà] Lucas può piazzare una mina instabile che può esplodere all'istante. Usa il comando ⚪ per piazzare le mine.",
+      "de": "[Eigenschaft] Lucas kann eine instabile Mine legen, die möglicherweise sofort hochgeht. Lege Minen mit ⚪.",
+      "es": "[Características] Lucas puede colocar una mina inestable que tiene la posibilidad de estallar al instante. Usa ⚪ para colocar minas.",
+      "ru": "[Характеристики] Лукас может установить неустойчивую мину, способную сразу же взорваться. Мины устанавливаются нажатием ⚪."
+    },
+    "category": "item",
+    "tags": []
+  },
+  {
+    "id": "7_skill_matt",
+    "name": {
+      "": "绷带卷",
+      "zh-CN": "绷带卷",
+      "zh-TW": "繃帶",
+      "en-US": "BANDAGE",
+      "ja": "包帯",
+      "fr": "BANDAGE",
+      "it": "BENDA",
+      "de": "VERBAND",
+      "es": "VENDA",
+      "ru": "БИНТ"
+    },
+    "desc": {
+      "": "【角色特性】马特可以向前翻滚一小段距离，过程中免疫伤害。按⚪来使用。",
+      "zh-CN": "【角色特性】马特可以向前翻滚一小段距离，过程中免疫伤害。按⚪来使用。",
+      "zh-TW": "【角色特性】麥特可往前翻滾一小段距離。使用 ⚪ 翻滾。",
+      "en-US": "[Characteristics] Matt can roll forward a short distance. Use ⚪ to roll.",
+      "ja": "[キャラクター固有] マットは短い距離、前に転がり移動できる。⚪ を押すと転がることができる。",
+      "fr": "[Caractéristiques] Matt peut faire une roulade avant sur une courte distance. Utilisez ⚪ pour rouler.",
+      "it": "[Proprietà] Matt può eseguire una breve capriola in avanti con il comando ⚪.",
+      "de": "[Eigenschaft] Matt kann eine kurze Distanz nach vorn rollen. Rolle mit ⚪.",
+      "es": "[Características] Matt puede rodar hacia delante una distancia corta. Usa ⚪ para rodar.",
+      "ru": "[Характеристики] Мэтт может выполнить кувырок вперед на небольшое расстояние. Чтобы исполнить кувырок, нажмите⚪."
+    },
+    "category": "item",
+    "tags": []
+  },
+  {
+    "id": "7_skill_ming",
+    "name": {
+      "": "象棋子",
+      "zh-CN": "象棋子",
+      "zh-TW": "棋子",
+      "en-US": "CHESS PIECES",
+      "ja": "チーズのかけら",
+      "fr": "PIÈCE D'ÉCHEC",
+      "it": "PEZZI DA SCACCHI",
+      "de": "SCHACHFIGUREN",
+      "es": "PIEZAS DE AJEDREZ",
+      "ru": "ШАХМАТНАЯ ФИГУРКА"
+    },
+    "desc": {
+      "": "【角色特性】小明孵化蛋的成功率要稍高一点。蛋在孵化的时候，你可以手动使用{[k:Cancel]}来中止孵化进程。",
+      "zh-CN": "【角色特性】小明孵化蛋的成功率要稍高一点。蛋在孵化的时候，你可以手动使用{[k:Cancel]}来中止孵化进程。",
+      "zh-TW": "【角色特性】小明孵化寵物蛋的成功機率較高。你也可以使用 {[k:Cancel]} 手動取消孵化。",
+      "en-US": "[Characteristics] Ming has a higher egg-hatching success rate. Also, you can use the {[k:Cancel]} to manually cancel egg hatching.",
+      "ja": "[キャラクター固有] ミンは高い確率でエッグのふ化を成功させることができる。また、 {[k:Cancel]} を押すことでエッグのふ化を手動でキャンセルできる。",
+      "fr": "[Caractéristiques] Ming a un taux de succès d'éclosion d'œufs plus élevé. Vous pouvez utiliser {[k:Cancel]} pour annuler manuellement l'éclosion.",
+      "it": "[Proprietà] Ming ha maggiori probabilità di successo nella schiusa delle uova. Usa il comando {[k:Cancel]} per bloccarne l'apertura.",
+      "de": "[Eigenschaft] Mings Eier schlüpfen mit höherer Wahrscheinlichkeit erfolgreich. Außerdem kannst du das Schlüpfen mit {[k:Cancel]} abbrechen.",
+      "es": "[Características] Ming tiene más éxito en la incubación de huevos. También puedes usar {[k:Cancel]} para cancelar manualmente la incubación.",
+      "ru": "[Характеристики] У Мина повышен показатель успеха в вылуплении яиц. Чтобы вручную отменить вылупление, нажмите {[k:Cancel]}."
+    },
+    "category": "item",
+    "tags": []
+  },
+  {
+    "id": "7_skill_ray",
+    "name": {
+      "": "纸鹤",
+      "zh-CN": "纸鹤",
+      "zh-TW": "紙鶴",
+      "en-US": "PAPER CRANE",
+      "ja": "折りヅル",
+      "fr": "GRUE EN PAPIER",
+      "it": "GRU DI CARTA",
+      "de": "PAPIERKRANICH",
+      "es": "GRULLA DE PAPEL",
+      "ru": "БУМАЖНЫЙ ЖУРАВЛИК"
+    },
+    "desc": {
+      "": "【角色特性】艾尔6号没有红心容器，只能获得护盾。另外他不拾取道具也可以预览到详细信息。",
+      "zh-CN": "【角色特性】R-6没有红心容器，只能获得护盾。另外他不拾取道具也可以预览到它们的详细信息。",
+      "zh-TW": "【角色特性】R-6沒有血槽，只能使用護盾。而且他不拾取道具也可以預覽道具的詳細內容。",
+      "en-US": "[Characteristics] R-6 can use only shields, as he can't have any heart containers. Also, he can preview the description of items without picking them up.",
+      "ja": "[キャラクター固有] R-6はハートの容器を持てず、シールドしか使えない。また、彼はアイテムをひろわなくても説明文を読める。",
+      "fr": "[Caractéristiques] N'ayant pas de réceptacle de cœur, R-6 n'utilise que des boucliers. Il voit aussi la description des objets sans les ramasser.",
+      "it": "[Proprietà] R-6 usa solo scudi, perché non possiede contenitori di cuori. Inoltre, può leggere le descrizioni degli oggetti senza raccoglierli.",
+      "de": "[Eigenschaft] R-6 kann nur Schilde benutzen, hat keine Herzbehälter und kann sich die Beschreibung eines Gegenstands ansehen, ohne ihn aufzuheben.",
+      "es": "[Características] R-6 solo usa escudos, pues no tiene recipientes de corazón. También puede ver la descripción de los objetos sin recogerlos.",
+      "ru": "[Характеристики] R-6 орудует только щитами, у него нет контейнеров-сердец. Зато R-6 умеет читать описания предметов, не подбирая самих предметов."
+    },
+    "category": "item",
+    "tags": []
+  },
+  {
+    "id": "7_skill_wade",
+    "name": {
+      "": "旧相机",
+      "zh-CN": "旧相机",
+      "zh-TW": "老舊相機",
+      "en-US": "OLD CAMERA",
+      "ja": "古いカメラ",
+      "fr": "VIEIL APPAREIL PHOTO",
+      "it": "MACCHINA FOTOGRAFICA",
+      "de": "ALTE KAMERA",
+      "es": "CÁMARA VIEJA",
+      "ru": "СТАРЫЙ ФОТОАППАРАТ"
+    },
+    "desc": {
+      "": "【角色特性】无论身处任何一个地方，韦德都会带着这个相机。但是目前似乎损坏了。",
+      "zh-CN": "【角色特性】无论身处任何一个地方，韦德都会带着这个相机。但是目前似乎损坏了。",
+      "zh-TW": "【角色特性】偉德不管到哪裡都隨身帶著這台相機，只是相機似乎已經壞了。",
+      "en-US": "[Characteristics] No matter where he is, Wade always carries this camera, even though it seems to be broken.",
+      "ja": "[キャラクター固有] どこへ行こうと、ウェイドは常にこのカメラを持ち歩く。たとえ壊れているように見えたとしても。",
+      "fr": "[Caractéristiques] Où qu'il soit, Wade porte toujours cet appareil photo sur lui, même s'il a l'air cassé.",
+      "it": "[Proprietà] Wade porta sempre con sé questa macchina fotografica, nonostante sembri rotta.",
+      "de": "[Eigenschaft] Ganz egal, wo er ist, seine Kamera hat Wade immer dabei ... Und das, obwohl sie kaputt zu sein scheint.",
+      "es": "[Características] Esté donde esté, Wade siempre lleva consigo esta cámara, aunque parece que está rota.",
+      "ru": "[Характеристики] Где бы Уэйд ни был, он всегда таскает с собой этот фотоаппарат, хоть тот, кажется, и сломан."
+    },
+    "category": "item",
+    "tags": []
+  },
+  {
+    "id": "7_skill_zack",
+    "name": {
+      "": "蓝晶吊坠",
+      "zh-CN": "蓝晶吊坠",
+      "zh-TW": "海藍寶吊飾",
+      "en-US": "AQUAMARINE PENDANT",
+      "ja": "アクアマリンのペンダント",
+      "fr": "PENDENTIF AIGUE-MARINE",
+      "it": "CIONDOLO DI ACQUAMARINA",
+      "de": "AQUAMARIN-ANHÄNGER",
+      "es": "COLGANTE DE AGUAMARINA",
+      "ru": "АКВАМАРИНОВЫЙ КУЛОН"
+    },
+    "desc": {
+      "": "【角色特性】扎克可以进行一次蓄力斩，对路径上的敌人造成近战伤害。按住⚪来进行蓄力斩。",
+      "zh-CN": "【角色特性】扎克可以进行一次蓄力斩，对路径上的敌人造成近战伤害。按住⚪来进行蓄力斩。",
+      "zh-TW": "【角色特性】札克蓄力後即可衝刺，沿途對敵人造成近戰傷害。長按 ⚪ 衝刺。",
+      "en-US": "[Characteristics] Zack can launch a dash after he gathers his power, dealing melee damage to enemies in his way. Hold ⚪ to dash.",
+      "ja": "[キャラクター固有] ザックは力を溜めた後にダッシュし、進路上の敵にダメージを与えることができる。 ⚪ を長押しするとダッシュできる。",
+      "fr": "[Caractéristiques] Avec son pouvoir, Zack peut charger en avant, infligeant des dégâts de mêlée aux ennemis. Maintenez ⚪ pour charger.",
+      "it": "[Proprietà] Zack raccoglie le forze ed esegue uno scatto, ferendo i nemici che incontra. Tieni premuto ⚪ per scattare.",
+      "de": "[Eigenschaft] Zack kann vorstürmen, wenn er Kraft gesammelt hat, und Gegnern im Weg Schaden zufügen. Halte ⚪ zum Stürmen gedrückt.",
+      "es": "[Características] Zack puede dar un acelerón tras reunir su poder, infligiendo daño cuerpo a cuerpo a los enemigos. Mantén pulsado ⚪.",
+      "ru": "[Характеристики] Зак может выполнить рывок, нанося урон в ближнем бою всем врагам на своем пути. Чтобы исполнить рывок, удерживайте ⚪."
+    },
+    "category": "item",
+    "tags": []
   }
 ]
