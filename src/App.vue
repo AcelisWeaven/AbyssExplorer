@@ -29,7 +29,10 @@
             <div class="item" v-for="(item, i) in searchItems" :key="i">
                 <div>
                     <div class="img" :class="`img-${item.category}`">
-                        <img :src="`${publicPath}item/${item.id}.png`" :alt="item.name[lang]">
+                        <picture>
+                            <source :srcset="`${publicPath}item/${item.id}.webp`" type="image/webp">
+                            <img :src="`${publicPath}item/${item.id}.png`" :alt="item.name[lang]">
+                        </picture>
                     </div>
                 </div>
                 <div>
@@ -65,10 +68,8 @@
         text-shadow: 0 0 3px white, 0 0 3px white;
     }
 
-    img {
-        &::selection {
-            background: none;
-        }
+    img::selection {
+        background: none;
     }
 
     html {
@@ -298,7 +299,6 @@
         display: flex;
         align-items: center;
         justify-content: center;
-        box-shadow: 0 0 0 3px black;
         height: 35px;
         width: 60px;
 
@@ -309,25 +309,23 @@
         }
     }
 
+    @mixin imgColor($color) {
+        img {
+            filter: drop-shadow(0 0 4px $color) drop-shadow(0 0 1px rgba($color, .4));
+        }
+    }
+
     .img {
         &.img-weapon {
-            background-color: $yellow;
-            box-shadow: 0 0 12px 2px #feec1c;
+            @include imgColor($yellow);
         }
 
         &.img-powerup {
-            background-color: $pink-light;
-            box-shadow: 0 0 12px 2px #eb6afd;
+            @include imgColor($pink-light);
         }
 
-        &.img-item {
-            background-color: $cyan;
-            box-shadow: 0 0 12px 2px #02fffb;
-        }
-
-        &.img-pet {
-            background-color: $cyan;
-            box-shadow: 0 0 12px 2px #02fffb;
+        &.img-item, &.img-pet {
+            @include imgColor($cyan);
         }
     }
 

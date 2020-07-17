@@ -33,6 +33,12 @@ module.exports = {
                 'type': 'image/png',
                 'purpose': 'maskable'
             }]
+        },
+        iconPaths: {
+            favicon32: './icon/32.png',
+            favicon16: './icon/16.png',
+            appleTouchIcon: './icon/152.png',
+            msTileImage: './icon/144.png'
         }
     }
 };
