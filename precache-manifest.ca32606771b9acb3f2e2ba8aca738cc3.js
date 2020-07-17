@@ -32,7 +32,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/icon/180.png"
   },
   {
-    "revision": "281feeca22a4729258f3e29b3102d1b6",
+    "revision": "574028cc42702fd482ef3fba8485d7cc",
     "url": "/AbyssExplorer/icon/192-mask.png"
   },
   {
@@ -48,7 +48,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/icon/32.png"
   },
   {
-    "revision": "a855a6e63be5fbf43fd361899fd4376b",
+    "revision": "7cb6c2a349505c69557775a6a4fc1b22",
     "url": "/AbyssExplorer/icon/512-mask.png"
   },
   {
