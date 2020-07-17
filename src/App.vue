@@ -7,10 +7,10 @@
                 <p>Search tool for <strong>Neon Abyss</strong> items</p>
             </div>
             <div class="lang">
-                <div class="dropdown">
-                    <div class="button">{{ langIcon }} <i class="arrow-down"></i></div>
+                <div class="dropdown" :class="{'active': isMenuOpen}">
+                    <div class="button" @click="isMenuOpen = !isMenuOpen">{{ langIcon }} <i class="arrow-down"></i></div>
                     <div class="dropdown-options">
-                        <div class="option" v-for="l in languages" :key="l.name" @click="lang = l.code"
+                        <div class="option" v-for="l in languages" :key="l.name" @click="switchLanguage(l.code)"
                              :class="{'active': l.code === lang}">{{ l.icon }} {{ l.name }}
                         </div>
                     </div>
@@ -157,9 +157,14 @@
             border-radius: 3px;
             border: 1px solid white;
             color: white;
+
+            &:hover {
+                cursor: pointer;
+                background: linear-gradient(to right, $purple, $black);
+            }
         }
 
-        &:hover {
+        &.active {
             .dropdown-options {
                 display: block;
             }
@@ -330,11 +335,18 @@
     export default {
         data() {
             return {
-                publicPath: process.env.BASE_URL,
+                items: processedItems,
+                isMenuOpen: false,
                 lang: 'en-US',
                 languages: languages.default,
-                items: processedItems,
+                publicPath: process.env.BASE_URL,
                 search: '',
+            }
+        },
+        methods: {
+            switchLanguage(lang) {
+                this.lang = lang;
+                this.isMenuOpen = false;
             }
         },
         watch: {
