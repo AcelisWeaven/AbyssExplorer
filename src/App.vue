@@ -1,14 +1,19 @@
 <template>
     <div class="body">
         <div class="background"></div>
+        <div class="update-available red-line" v-if="swUpdateExists">
+            An update is available
+            <span class="button" @click="refreshApp">Update</span>
+        </div>
         <div class="header">
             <div class="title">
-                <h1>ABYSS <span class="pink">EXPLORER</span></h1>
+                <h1 class="red-line">ABYSS <span class="pink">EXPLORER</span></h1>
                 <p>Search tool for <strong>Neon Abyss</strong> items</p>
             </div>
             <div class="lang">
                 <div class="dropdown" :class="{'active': isMenuOpen}">
-                    <div class="button" @click="isMenuOpen = !isMenuOpen">{{ langIcon }} <i class="arrow-down"></i></div>
+                    <div class="button" @click="isMenuOpen = !isMenuOpen">{{ langIcon }} <i class="arrow-down"></i>
+                    </div>
                     <div class="dropdown-options">
                         <div class="option" v-for="l in languages" :key="l.name" @click="switchLanguage(l.code)"
                              :class="{'active': l.code === lang}">{{ l.icon }} {{ l.name }}
@@ -72,6 +77,10 @@
         text-shadow: 0 0 5px $pink;
     }
 
+    .body {
+        margin: 0;
+    }
+
     //noinspection CssReplaceWithShorthandSafely
     .background {
         position: fixed;
@@ -89,9 +98,43 @@
         background-position: bottom center;
     }
 
-    h1 {
+    .button {
+        padding: 5px 10px;
+        box-shadow: 0 0 2px 1px rgba($cyan, 0.6), 0 0 5px 5px rgba($cyan, 0.3);
+        border-radius: 3px;
+        border: 1px solid white;
+        color: white;
+
+        &:hover {
+            cursor: pointer;
+            background: linear-gradient(to right, $purple, $black);
+        }
+    }
+
+    .update-available {
+        padding: 10px 0;
+        text-align: center;
+        text-shadow: 0 0 10px $pink, 0 0 6px $pink, 0 0 4px $pink, 0 0 2px $pink;
+
+        .button {
+            margin-left: 20px;
+            text-shadow: 0 0 10px $cyan, 0 0 4px $cyan;
+            animation: flicker 3000ms ease-in infinite;
+            opacity: 1;
+        }
+    }
+
+    @keyframes flicker {
+        20%, 24%, 30%, 34% {
+            opacity: 1;
+        }
+        22%, 32% {
+            opacity: 0.7;
+        }
+    }
+
+    .red-line {
         position: relative;
-        display: inline-block;
 
         &::after {
             position: absolute;
@@ -104,6 +147,10 @@
             background-color: white;
             box-shadow: 0 0 1px rgba(255, 255, 255, 0.65), 0 0 5px 5px rgba($red, 0.7);
         }
+    }
+
+    h1 {
+        display: inline-block;
 
         .pink {
             font-weight: 100;
@@ -152,16 +199,6 @@
         .button {
             display: inline-flex;
             flex-direction: row;
-            padding: 5px 10px;
-            box-shadow: 0 0 2px 1px rgba($cyan, 0.6), 0 0 5px 5px rgba($cyan, 0.3);
-            border-radius: 3px;
-            border: 1px solid white;
-            color: white;
-
-            &:hover {
-                cursor: pointer;
-                background: linear-gradient(to right, $purple, $black);
-            }
         }
 
         &.active {
@@ -176,6 +213,7 @@
         position: absolute;
         right: 0;
         min-width: 240px;
+        padding-top: 10px;
 
         .option {
             padding: 5px 10px;
@@ -341,13 +379,33 @@
                 languages: languages.default,
                 publicPath: process.env.BASE_URL,
                 search: '',
+                swIsRefreshing: false,
+                swRegistration: null,
+                swUpdateExists: false,
             }
         },
         methods: {
             switchLanguage(lang) {
                 this.lang = lang;
                 this.isMenuOpen = false;
-            }
+            },
+
+            // Store the SW registration so we can send it a message
+            // We use `updateExists` to control whatever alert, toast, dialog, etc we want to use
+            // To alert the user there is an update they need to refresh for
+            updateAvailable(event) {
+                this.swRegistration = event.detail;
+                this.swUpdateExists = true;
+            },
+
+            // Called when the user accepts the update
+            refreshApp() {
+                this.swUpdateExists = false;
+                // Make sure we only send a 'skip waiting' message if the SW is waiting
+                if (!this.swRegistration || !this.swRegistration.waiting) return;
+                // send message to SW to skip the waiting and activate the new SW
+                this.swRegistration.waiting.postMessage({type: 'SKIP_WAITING'});
+            },
         },
         watch: {
             lang() {
@@ -369,6 +427,18 @@
             langIcon() {
                 return this.languages.filter(l => l.code === this.lang)[0].icon;
             }
-        }
+        },
+        created() {
+            // Listen for our custom event from the SW registration
+            document.addEventListener('swUpdated', this.updateAvailable, {once: true})
+
+            // Prevent multiple refreshes
+            navigator.serviceWorker.addEventListener('controllerchange', () => {
+                if (this.swIsRefreshing) return
+                this.swIsRefreshing = true
+                // Here the actual reload of the page occurs
+                window.location.reload()
+            })
+        },
     }
 </script>
