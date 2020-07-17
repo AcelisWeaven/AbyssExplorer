@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/AbyssExplorer/precache-manifest.2bcb535880c2677cd28b5d23185730f1.js"
+  "/AbyssExplorer/precache-manifest.7e161a9022a4f844e2625aec4c0ec102.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "abyss-explorer"});
