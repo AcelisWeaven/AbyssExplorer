@@ -1,4 +1,8 @@
-# abyss-explorer-2
+# Abyss Explorer
+
+An app to search for Neon Abyss items.
+
+All sprites and item name and descriptions are Team 17 and Veewo property.
 
 ## Project setup
 ```
@@ -19,6 +23,3 @@ yarn build
 ```
 yarn lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
