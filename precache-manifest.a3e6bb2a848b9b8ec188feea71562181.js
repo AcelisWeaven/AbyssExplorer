@@ -76,7 +76,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/index.html"
   },
   {
-    "revision": "035f3f1ff23e4e5875f0863a6dac1b25",
+    "revision": "98ea22ff4f3388102d5d87a611154a33",
     "url": "/AbyssExplorer/item/1_weapon_0_anna.png"
   },
   {
@@ -84,7 +84,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/1_weapon_0_anna.webp"
   },
   {
-    "revision": "e8441c98dcc52aede152aeef8cd77a08",
+    "revision": "31a524572dc63174d7aaf62e483f5f61",
     "url": "/AbyssExplorer/item/1_weapon_0_david.png"
   },
   {
@@ -92,7 +92,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/1_weapon_0_david.webp"
   },
   {
-    "revision": "2351a3825e93a10b70b659d1bf6ddfa7",
+    "revision": "312b81bcc44f7fee972cddf5eb1362e2",
     "url": "/AbyssExplorer/item/1_weapon_0_james1.png"
   },
   {
@@ -100,7 +100,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/1_weapon_0_james1.webp"
   },
   {
-    "revision": "c20c4f0dc945f3b6e9f3391fa9f8bdd9",
+    "revision": "d8b68cb4a949dc64400932690828417b",
     "url": "/AbyssExplorer/item/1_weapon_0_james2.png"
   },
   {
@@ -108,7 +108,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/1_weapon_0_james2.webp"
   },
   {
-    "revision": "01af7550844a0513f3d26c617ac5c997",
+    "revision": "9eb2aee47407401e5b87e65b48a0850e",
     "url": "/AbyssExplorer/item/1_weapon_0_kanon.png"
   },
   {
@@ -116,7 +116,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/1_weapon_0_kanon.webp"
   },
   {
-    "revision": "4c2336624e6de7ff87a9294b550346f1",
+    "revision": "bcb792ec41ced3ec318e36add4622b04",
     "url": "/AbyssExplorer/item/1_weapon_0_lucas.png"
   },
   {
@@ -124,7 +124,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/1_weapon_0_lucas.webp"
   },
   {
-    "revision": "64b55711870d90a406cef352f8e9645a",
+    "revision": "8a6cc9b4f34299e271ff68c6392a633c",
     "url": "/AbyssExplorer/item/1_weapon_0_matt.png"
   },
   {
@@ -132,7 +132,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/1_weapon_0_matt.webp"
   },
   {
-    "revision": "b64f81bb9dbd15d7250e30d954ab3c3d",
+    "revision": "4610de69b85c96f800cc279dfde75a7a",
     "url": "/AbyssExplorer/item/1_weapon_0_ming.png"
   },
   {
@@ -140,7 +140,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/1_weapon_0_ming.webp"
   },
   {
-    "revision": "43d1e9a42bca33d612ea6d2c5eed3a97",
+    "revision": "58a5578b80407cc361e1f3add2403eaa",
     "url": "/AbyssExplorer/item/1_weapon_0_ray.png"
   },
   {
@@ -148,7 +148,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/1_weapon_0_ray.webp"
   },
   {
-    "revision": "e0f683104b460486fc0d7133b590c3aa",
+    "revision": "92d32e501a1235d7fb7f80dce49bfd01",
     "url": "/AbyssExplorer/item/1_weapon_0_wade.png"
   },
   {
@@ -156,7 +156,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/1_weapon_0_wade.webp"
   },
   {
-    "revision": "fbc05961574842b1c5d77cbe3d574923",
+    "revision": "de946db883248618a9eb61bbb02f9f44",
     "url": "/AbyssExplorer/item/1_weapon_0_zack.png"
   },
   {
@@ -164,7 +164,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/1_weapon_0_zack.webp"
   },
   {
-    "revision": "ae5b49d22c19457a8c84d9187db3fa40",
+    "revision": "97ab13b903c6fbbb1667264aae154a24",
     "url": "/AbyssExplorer/item/1_weapon_bomb_1.png"
   },
   {
@@ -172,7 +172,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/1_weapon_bomb_1.webp"
   },
   {
-    "revision": "ba293949c8bbaac629bc1651de85e5cf",
+    "revision": "58e4d982b76b43d04c6b3c0ab4d3e35a",
     "url": "/AbyssExplorer/item/1_weapon_coin_1.png"
   },
   {
@@ -180,7 +180,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/1_weapon_coin_1.webp"
   },
   {
-    "revision": "79ae0951da2c1899257ca711275d94f6",
+    "revision": "0ff34c80598a8d1a4f1fcd72ebf5dfde",
     "url": "/AbyssExplorer/item/1_weapon_coin_2.png"
   },
   {
@@ -188,7 +188,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/1_weapon_coin_2.webp"
   },
   {
-    "revision": "4d59f7257bba278d1f1d82383a8e0c4f",
+    "revision": "7d8eb68bd029622a9f307e6ff7570477",
     "url": "/AbyssExplorer/item/1_weapon_coin_3.png"
   },
   {
@@ -196,7 +196,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/1_weapon_coin_3.webp"
   },
   {
-    "revision": "40ea68274a817f13697d0c8e35628d1e",
+    "revision": "7ab45f244709acdaa362b2d2f4fe2564",
     "url": "/AbyssExplorer/item/1_weapon_defense_1.png"
   },
   {
@@ -204,7 +204,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/1_weapon_defense_1.webp"
   },
   {
-    "revision": "0769541ccf836325e2b4c8e478b7b4cd",
+    "revision": "3c17a47245572cb95d7812a703bb53f9",
     "url": "/AbyssExplorer/item/1_weapon_defense_2.png"
   },
   {
@@ -212,7 +212,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/1_weapon_defense_2.webp"
   },
   {
-    "revision": "fe2e35503c339b722cb9884a98bf509b",
+    "revision": "4cd182c5268d83c00677d2ff0293a025",
     "url": "/AbyssExplorer/item/1_weapon_defense_4.png"
   },
   {
@@ -220,7 +220,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/1_weapon_defense_4.webp"
   },
   {
-    "revision": "39389692a982bf3c27f6f2c03fdd487d",
+    "revision": "a280d370f73d76230c522fbf8de8a4b0",
     "url": "/AbyssExplorer/item/1_weapon_defense_5.png"
   },
   {
@@ -228,7 +228,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/1_weapon_defense_5.webp"
   },
   {
-    "revision": "d3af2e76a2b4b24ca26262ec5ed1801f",
+    "revision": "c4fa763a3a3d8d8ef9ec9f81bb45f328",
     "url": "/AbyssExplorer/item/1_weapon_drop_1.png"
   },
   {
@@ -236,7 +236,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/1_weapon_drop_1.webp"
   },
   {
-    "revision": "e0ee4ba8e77d79da55b68c920f112d1e",
+    "revision": "fd7ea67844d98c3493f531ab66de45bf",
     "url": "/AbyssExplorer/item/1_weapon_drop_2.png"
   },
   {
@@ -244,7 +244,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/1_weapon_drop_2.webp"
   },
   {
-    "revision": "9cc3292196d69ada7e4b57e65dccb99f",
+    "revision": "47b8955c7eb8df81e5bc08d6ee8673b3",
     "url": "/AbyssExplorer/item/1_weapon_drop_3.png"
   },
   {
@@ -252,7 +252,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/1_weapon_drop_3.webp"
   },
   {
-    "revision": "048816fe713c4f7f18a65fdc44ffb861",
+    "revision": "cf46c8b72ea8afa0c1ba90be97c78539",
     "url": "/AbyssExplorer/item/1_weapon_drop_re_1.png"
   },
   {
@@ -260,7 +260,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/1_weapon_drop_re_1.webp"
   },
   {
-    "revision": "a21e27fe39e34d37627440a1fe4a0396",
+    "revision": "7c8955f4b50827307c112dc43e6306ae",
     "url": "/AbyssExplorer/item/1_weapon_drop_re_2.png"
   },
   {
@@ -268,7 +268,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/1_weapon_drop_re_2.webp"
   },
   {
-    "revision": "048816fe713c4f7f18a65fdc44ffb861",
+    "revision": "cf46c8b72ea8afa0c1ba90be97c78539",
     "url": "/AbyssExplorer/item/1_weapon_drop_re_3.png"
   },
   {
@@ -276,7 +276,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/1_weapon_drop_re_3.webp"
   },
   {
-    "revision": "7d7e1321f8af2dac0c80ec3cf5b398cc",
+    "revision": "397a52ea110dff2ede26278a09ac1a1a",
     "url": "/AbyssExplorer/item/1_weapon_egg_1.png"
   },
   {
@@ -284,7 +284,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/1_weapon_egg_1.webp"
   },
   {
-    "revision": "9cc3292196d69ada7e4b57e65dccb99f",
+    "revision": "47b8955c7eb8df81e5bc08d6ee8673b3",
     "url": "/AbyssExplorer/item/1_weapon_egg_2.png"
   },
   {
@@ -292,7 +292,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/1_weapon_egg_2.webp"
   },
   {
-    "revision": "abe0fcb79c51d4ca4bf52808db98924d",
+    "revision": "e332be409505f6923b440ba7d483ed69",
     "url": "/AbyssExplorer/item/1_weapon_egg_3.png"
   },
   {
@@ -300,7 +300,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/1_weapon_egg_3.webp"
   },
   {
-    "revision": "73d5c79b435a9902bee2dbbf3af4cb9a",
+    "revision": "b55863cf778271c6c03c0df3220f0377",
     "url": "/AbyssExplorer/item/1_weapon_explo_1.png"
   },
   {
@@ -308,7 +308,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/1_weapon_explo_1.webp"
   },
   {
-    "revision": "94ef6f51ad1df7e0ffc685cacbd65cc9",
+    "revision": "3ada124ba485aa74b4dadc6c4e8f3d04",
     "url": "/AbyssExplorer/item/1_weapon_explo_2.png"
   },
   {
@@ -316,7 +316,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/1_weapon_explo_2.webp"
   },
   {
-    "revision": "344146c0fded2b4d2e6d76735d31632b",
+    "revision": "744ba8139147fc474402c9e3c39001f9",
     "url": "/AbyssExplorer/item/1_weapon_explo_3.png"
   },
   {
@@ -324,7 +324,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/1_weapon_explo_3.webp"
   },
   {
-    "revision": "9fd993e2d31d991b4ac5445155260745",
+    "revision": "cc3714b59be7c84a1b70f428e624a462",
     "url": "/AbyssExplorer/item/1_weapon_explo_4.png"
   },
   {
@@ -332,7 +332,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/1_weapon_explo_4.webp"
   },
   {
-    "revision": "a6a3bb59e356760463464409f2f8c96b",
+    "revision": "2e4f6637071ef64d881b9b102cd4d11d",
     "url": "/AbyssExplorer/item/1_weapon_explo_5.png"
   },
   {
@@ -340,7 +340,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/1_weapon_explo_5.webp"
   },
   {
-    "revision": "140219bcaf7f16dbe444adcee3f5d991",
+    "revision": "b53fd6cc7c7736119dc0379549d83498",
     "url": "/AbyssExplorer/item/1_weapon_heart_1.png"
   },
   {
@@ -348,7 +348,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/1_weapon_heart_1.webp"
   },
   {
-    "revision": "f418d134db3555e816f7c56a1bff700a",
+    "revision": "86b4c4d7578572d7a419f3b942c4057e",
     "url": "/AbyssExplorer/item/1_weapon_heart_2.png"
   },
   {
@@ -356,7 +356,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/1_weapon_heart_2.webp"
   },
   {
-    "revision": "943b91a49f085d1185c23c64a9ec6bd9",
+    "revision": "b4a2c7a5cb649a43bca1d8a7285ca6af",
     "url": "/AbyssExplorer/item/1_weapon_heart_3.png"
   },
   {
@@ -364,7 +364,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/1_weapon_heart_3.webp"
   },
   {
-    "revision": "2ba8c52a8fa498c67f0fefc55881726c",
+    "revision": "154186a42d642decd4173fd1b79b40eb",
     "url": "/AbyssExplorer/item/1_weapon_key_1.png"
   },
   {
@@ -372,7 +372,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/1_weapon_key_1.webp"
   },
   {
-    "revision": "6af43f26a0ecd46da92b83716dadd83b",
+    "revision": "160bf62a10146b7046e682f15c2e8e16",
     "url": "/AbyssExplorer/item/1_weapon_key_2.png"
   },
   {
@@ -380,7 +380,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/1_weapon_key_2.webp"
   },
   {
-    "revision": "abfb269626c60f87bd6b48988d37b744",
+    "revision": "b861c6a7b0899ed974a1132611b80d10",
     "url": "/AbyssExplorer/item/1_weapon_key_3.png"
   },
   {
@@ -388,7 +388,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/1_weapon_key_3.webp"
   },
   {
-    "revision": "2f67ff2011d87fc149000d9706cba4da",
+    "revision": "bfa25e2fd6e220e61d1f6c64cb617c0a",
     "url": "/AbyssExplorer/item/1_weapon_key_4.png"
   },
   {
@@ -396,7 +396,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/1_weapon_key_4.webp"
   },
   {
-    "revision": "8f5f31b6263c6c814fb9feca68a28b67",
+    "revision": "2567bce2e7718e63dd56e268d85a49c4",
     "url": "/AbyssExplorer/item/1_weapon_kill_1.png"
   },
   {
@@ -404,7 +404,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/1_weapon_kill_1.webp"
   },
   {
-    "revision": "7655def3169ad77fc4bce857163d0566",
+    "revision": "ea85f85b083e6f838a08b8fc55e98ee6",
     "url": "/AbyssExplorer/item/1_weapon_kill_2.png"
   },
   {
@@ -412,7 +412,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/1_weapon_kill_2.webp"
   },
   {
-    "revision": "c17b3007ccc1c216d7f924178f69ea58",
+    "revision": "0536279c1345b1d4e7254229a6b2e8e2",
     "url": "/AbyssExplorer/item/1_weapon_kill_4.png"
   },
   {
@@ -420,7 +420,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/1_weapon_kill_4.webp"
   },
   {
-    "revision": "1873816e1ea7d099653c04209f615a08",
+    "revision": "646ed7b32ab3b52c88f3bd893f459565",
     "url": "/AbyssExplorer/item/1_weapon_kill_5.png"
   },
   {
@@ -428,7 +428,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/1_weapon_kill_5.webp"
   },
   {
-    "revision": "c1ad6cc8e850f939b82fe9e7abbc571e",
+    "revision": "db333a69e11febe37a4301d0ec6a3242",
     "url": "/AbyssExplorer/item/1_weapon_mana_1.png"
   },
   {
@@ -436,7 +436,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/1_weapon_mana_1.webp"
   },
   {
-    "revision": "73c1664b83ccaa8a3a0da0131f4c0967",
+    "revision": "30c03bffc6329157b41ec8848f4d7b77",
     "url": "/AbyssExplorer/item/1_weapon_mana_2.png"
   },
   {
@@ -444,7 +444,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/1_weapon_mana_2.webp"
   },
   {
-    "revision": "64ff3f939e1a0eb955e8bd1304d92da8",
+    "revision": "b5f18a1d74771fcc7a890510d48432e6",
     "url": "/AbyssExplorer/item/1_weapon_mana_4.png"
   },
   {
@@ -452,7 +452,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/1_weapon_mana_4.webp"
   },
   {
-    "revision": "6d017edf1b8b3d4ea2bfce69680ee436",
+    "revision": "fa80153a4af0aa9a8d5ed802a208c9ea",
     "url": "/AbyssExplorer/item/1_weapon_mana_5.png"
   },
   {
@@ -460,7 +460,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/1_weapon_mana_5.webp"
   },
   {
-    "revision": "a25766fa5a0d0a93d1a955197b37b1c4",
+    "revision": "d41c9aa9257ce23880597ff84b2227aa",
     "url": "/AbyssExplorer/item/1_weapon_num_1.png"
   },
   {
@@ -468,7 +468,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/1_weapon_num_1.webp"
   },
   {
-    "revision": "09207b4b186411a1c40520b3777d5118",
+    "revision": "fd1336e4fbd50071090167f367ccbe1c",
     "url": "/AbyssExplorer/item/1_weapon_num_5.png"
   },
   {
@@ -476,7 +476,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/1_weapon_num_5.webp"
   },
   {
-    "revision": "ee871fbf20f1d5d00e1e133fe2e8d601",
+    "revision": "0822612cf918099272254d66de203eb4",
     "url": "/AbyssExplorer/item/1_weapon_op_1.png"
   },
   {
@@ -484,7 +484,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/1_weapon_op_1.webp"
   },
   {
-    "revision": "40ea68274a817f13697d0c8e35628d1e",
+    "revision": "1e4591d9121d11dabb48d00bfb470476",
     "url": "/AbyssExplorer/item/1_weapon_op_2.png"
   },
   {
@@ -492,7 +492,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/1_weapon_op_2.webp"
   },
   {
-    "revision": "7a5f21c607c98c2ea44812ab846126cf",
+    "revision": "b1aa1ffc9f1a2f753a9ea21369ebbf5b",
     "url": "/AbyssExplorer/item/1_weapon_op_3.png"
   },
   {
@@ -500,7 +500,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/1_weapon_op_3.webp"
   },
   {
-    "revision": "f5c2d18b9b1edfe83ff3f2e73b5ea1d0",
+    "revision": "a85c5e8194dc33fd80ad1a4ff82fef9d",
     "url": "/AbyssExplorer/item/1_weapon_op_5.png"
   },
   {
@@ -508,7 +508,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/1_weapon_op_5.webp"
   },
   {
-    "revision": "c231cf28d8c4e14e31b263e95b65eac8",
+    "revision": "8ebfa87e4fa61ad967b86b500bd49cca",
     "url": "/AbyssExplorer/item/1_weapon_op_6.png"
   },
   {
@@ -516,7 +516,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/1_weapon_op_6.webp"
   },
   {
-    "revision": "0470f9271f5e8da0aaf55917ec053f04",
+    "revision": "c2d408e5911375266d85f8459dc62d48",
     "url": "/AbyssExplorer/item/1_weapon_op_7.png"
   },
   {
@@ -524,7 +524,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/1_weapon_op_7.webp"
   },
   {
-    "revision": "0470f9271f5e8da0aaf55917ec053f04",
+    "revision": "c2d408e5911375266d85f8459dc62d48",
     "url": "/AbyssExplorer/item/1_weapon_pet_4.png"
   },
   {
@@ -532,7 +532,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/1_weapon_pet_4.webp"
   },
   {
-    "revision": "101ed6e17ed798da2e26a054ef88312c",
+    "revision": "121ce66e9f66e2d8827771e9e087417e",
     "url": "/AbyssExplorer/item/1_weapon_room_1.png"
   },
   {
@@ -540,7 +540,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/1_weapon_room_1.webp"
   },
   {
-    "revision": "140219bcaf7f16dbe444adcee3f5d991",
+    "revision": "b4910ce23850c7d36def5353a1210a9b",
     "url": "/AbyssExplorer/item/1_weapon_room_2.png"
   },
   {
@@ -548,7 +548,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/1_weapon_room_2.webp"
   },
   {
-    "revision": "c4e507ddfff39113aa72bd892f48b5ee",
+    "revision": "2484662055f08a96a1a2af3c7dfc1e4b",
     "url": "/AbyssExplorer/item/1_weapon_room_3.png"
   },
   {
@@ -556,7 +556,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/1_weapon_room_3.webp"
   },
   {
-    "revision": "ae51c57ba36cea6bacfaf7bcd86db148",
+    "revision": "74391872552ad6de836f2b5fe02cdf87",
     "url": "/AbyssExplorer/item/1_weapon_rpm_1.png"
   },
   {
@@ -564,7 +564,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/1_weapon_rpm_1.webp"
   },
   {
-    "revision": "42f1e86a20a55426d7d3783be9c3e7c8",
+    "revision": "d14c8830d207f7ea5e40bc4259ed8efa",
     "url": "/AbyssExplorer/item/1_weapon_rpm_2.png"
   },
   {
@@ -572,7 +572,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/1_weapon_rpm_2.webp"
   },
   {
-    "revision": "2b0b516c33ea9d44b52477991f715211",
+    "revision": "06f9fbd26fb84a513467f46927d71124",
     "url": "/AbyssExplorer/item/1_weapon_rpm_3.png"
   },
   {
@@ -580,7 +580,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/1_weapon_rpm_3.webp"
   },
   {
-    "revision": "ae5f327841073c5f64b206cdbed0125a",
+    "revision": "480a15f7cb4bb2a779b10594eeaa238f",
     "url": "/AbyssExplorer/item/1_weapon_terr_2.png"
   },
   {
@@ -588,7 +588,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/1_weapon_terr_2.webp"
   },
   {
-    "revision": "d3963323067b876a102e48f6e24bb0e9",
+    "revision": "78b93a362cd994ad391b1fe9d7ee43b9",
     "url": "/AbyssExplorer/item/1_weapon_terr_3.png"
   },
   {
@@ -596,7 +596,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/1_weapon_terr_3.webp"
   },
   {
-    "revision": "0788b45c6fcb4c4633eaf2aa4f58e99e",
+    "revision": "d3bb3a579f2f3abc76da9d3ee578add4",
     "url": "/AbyssExplorer/item/1_weapon_terr_4.png"
   },
   {
@@ -604,7 +604,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/1_weapon_terr_4.webp"
   },
   {
-    "revision": "cd2dde4461ff0767331038af5e6e0eaf",
+    "revision": "a20976f2a253e5bbe683987df8560b59",
     "url": "/AbyssExplorer/item/1_weapon_terr_5.png"
   },
   {
@@ -612,7 +612,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/1_weapon_terr_5.webp"
   },
   {
-    "revision": "7e4ff6c15dfc3aed5a479ce773264527",
+    "revision": "685ffaf6be4a9d5ae7422b22715a5684",
     "url": "/AbyssExplorer/item/2_power_a_back.png"
   },
   {
@@ -620,7 +620,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/2_power_a_back.webp"
   },
   {
-    "revision": "ea9d0e0b7f3e3a42f632023fdc2c64c0",
+    "revision": "d923d60be7b2a9e1dcac6ad89a349e12",
     "url": "/AbyssExplorer/item/2_power_a_blink.png"
   },
   {
@@ -628,7 +628,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/2_power_a_blink.webp"
   },
   {
-    "revision": "38bf322489704935263781a7255e7112",
+    "revision": "9a2229d7764d717f2f6f8dee4a47bae1",
     "url": "/AbyssExplorer/item/2_power_a_buy_egg.png"
   },
   {
@@ -636,7 +636,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/2_power_a_buy_egg.webp"
   },
   {
-    "revision": "f95ddea4451bf41223f1707c6f09f69d",
+    "revision": "2a8b313559c5b7d43987c32eb7dcfe3f",
     "url": "/AbyssExplorer/item/2_power_a_doublegun.png"
   },
   {
@@ -644,7 +644,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/2_power_a_doublegun.webp"
   },
   {
-    "revision": "3fedcb244141f332ff626b8a70811e68",
+    "revision": "326db5b21fd6ff97d07e08ade1a86994",
     "url": "/AbyssExplorer/item/2_power_a_eggtodamage.png"
   },
   {
@@ -652,7 +652,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/2_power_a_eggtodamage.webp"
   },
   {
-    "revision": "3402d699254f48e36b2be669b0724553",
+    "revision": "898af512dfefc54563b43d298862f078",
     "url": "/AbyssExplorer/item/2_power_a_glide.png"
   },
   {
@@ -660,7 +660,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/2_power_a_glide.webp"
   },
   {
-    "revision": "8d6d40c6f1f935c08244fb5201bc2a22",
+    "revision": "649569b2d1c8215014c96d1640d7a8cb",
     "url": "/AbyssExplorer/item/2_power_a_jetpack.png"
   },
   {
@@ -668,7 +668,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/2_power_a_jetpack.webp"
   },
   {
-    "revision": "163821a67612654aaaa6580cb07d7605",
+    "revision": "7839dc0fe1ff219027da240de21c3e95",
     "url": "/AbyssExplorer/item/2_power_a_lift.png"
   },
   {
@@ -676,7 +676,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/2_power_a_lift.webp"
   },
   {
-    "revision": "c2e935ab7c35bc9c869e75cf2d227463",
+    "revision": "65b6f9082a62077f125b058e0c711083",
     "url": "/AbyssExplorer/item/2_power_a_melee.png"
   },
   {
@@ -684,7 +684,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/2_power_a_melee.webp"
   },
   {
-    "revision": "000736b69b30553253147a832637cfbb",
+    "revision": "95f101943d176f88d1d62b68da6aaf83",
     "url": "/AbyssExplorer/item/2_power_a_roll.png"
   },
   {
@@ -692,7 +692,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/2_power_a_roll.webp"
   },
   {
-    "revision": "0c9e0385fcbba72a12bf499f3e6bd9f4",
+    "revision": "d3e4e21e0122dd40d6ee6de07899e5af",
     "url": "/AbyssExplorer/item/2_power_a_smash.png"
   },
   {
@@ -700,7 +700,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/2_power_a_smash.webp"
   },
   {
-    "revision": "0b05b36f1f570945c14090fe69c215b7",
+    "revision": "876533e65bb26ef277bf1e826a7e815c",
     "url": "/AbyssExplorer/item/2_power_a_unlock.png"
   },
   {
@@ -708,7 +708,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/2_power_a_unlock.webp"
   },
   {
-    "revision": "abebd26f310509ed44dbbb7f325344c6",
+    "revision": "d201d49d0ef438094c1abf09aa71862a",
     "url": "/AbyssExplorer/item/2_power_blank_bomb.png"
   },
   {
@@ -716,7 +716,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/2_power_blank_bomb.webp"
   },
   {
-    "revision": "99af48b9da5cdc67dd16918a0ba36393",
+    "revision": "3bfeb7b4272221c6fcd1a433181b26b6",
     "url": "/AbyssExplorer/item/2_power_damage.png"
   },
   {
@@ -724,7 +724,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/2_power_damage.webp"
   },
   {
-    "revision": "0cad38c50e259ceb46782efc2e3eb87c",
+    "revision": "3f4029bc5d7db52da76d8fbe76f76ba8",
     "url": "/AbyssExplorer/item/2_power_dmg_invinci.png"
   },
   {
@@ -732,7 +732,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/2_power_dmg_invinci.webp"
   },
   {
-    "revision": "bf409cecad091d0a3f3d03ca03e2b1a1",
+    "revision": "df8e43436364999202414607aedaf5a9",
     "url": "/AbyssExplorer/item/2_power_drop_bomb.png"
   },
   {
@@ -740,7 +740,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/2_power_drop_bomb.webp"
   },
   {
-    "revision": "c6388dd27e9d3b8602a2e252e86cc056",
+    "revision": "18af3cf85a0d673bfe0717d72cc439d0",
     "url": "/AbyssExplorer/item/2_power_drop_coin.png"
   },
   {
@@ -748,7 +748,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/2_power_drop_coin.webp"
   },
   {
-    "revision": "f478c6463fc727e04ffd79bcd02608ad",
+    "revision": "d03f3fc7da7b573546d6606ce54f454c",
     "url": "/AbyssExplorer/item/2_power_drop_key.png"
   },
   {
@@ -756,7 +756,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/2_power_drop_key.webp"
   },
   {
-    "revision": "7789ea0feb15132f21e4a36524c5a00a",
+    "revision": "74e6b7a6926954b0e419d30f83f09d80",
     "url": "/AbyssExplorer/item/2_power_drop_random_item.png"
   },
   {
@@ -764,7 +764,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/2_power_drop_random_item.webp"
   },
   {
-    "revision": "7035cd9e55446b5d861ba1d4cd73c7ea",
+    "revision": "ec734bb06430f78da7c5afff87f9f38e",
     "url": "/AbyssExplorer/item/2_power_egg_born.png"
   },
   {
@@ -772,7 +772,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/2_power_egg_born.webp"
   },
   {
-    "revision": "d7a85eb7a9573f4ac9e27cf30afc4a8b",
+    "revision": "11eec065c0622933b67f48ff56cb5fec",
     "url": "/AbyssExplorer/item/2_power_egg_damage.png"
   },
   {
@@ -780,7 +780,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/2_power_egg_damage.webp"
   },
   {
-    "revision": "8ff9aa241d8b9c63a366df73d655da3c",
+    "revision": "54835de89639ccad37686967386a08ad",
     "url": "/AbyssExplorer/item/2_power_fireball_mana.png"
   },
   {
@@ -788,7 +788,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/2_power_fireball_mana.webp"
   },
   {
-    "revision": "d1296d998a240a640f917fe3a8b42660",
+    "revision": "5f9d23bebbd50007aeb362c71c2b988e",
     "url": "/AbyssExplorer/item/2_power_fishing.png"
   },
   {
@@ -796,7 +796,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/2_power_fishing.webp"
   },
   {
-    "revision": "968752110c1cb936ed5a8cfc819208c9",
+    "revision": "8f3a74f8c38321d213f6dd61130b9bc4",
     "url": "/AbyssExplorer/item/2_power_gain_heart.png"
   },
   {
@@ -804,7 +804,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/2_power_gain_heart.webp"
   },
   {
-    "revision": "f0e0880490d89c0d86f609704adb4780",
+    "revision": "cbaa7bdfe24ad85be2629aabfac346ad",
     "url": "/AbyssExplorer/item/2_power_gain_shield.png"
   },
   {
@@ -812,7 +812,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/2_power_gain_shield.webp"
   },
   {
-    "revision": "fc45d8594cb89349fa5f0c35fe8d0e98",
+    "revision": "dfef8e660d63417f08cc985023e9a36c",
     "url": "/AbyssExplorer/item/2_power_gamble.png"
   },
   {
@@ -820,7 +820,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/2_power_gamble.webp"
   },
   {
-    "revision": "02b5ce088f724a58ac5146aa3ad2310a",
+    "revision": "48d7923f4cabdc4dafbbfd3a4fde7e38",
     "url": "/AbyssExplorer/item/2_power_get_barrel.png"
   },
   {
@@ -828,7 +828,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/2_power_get_barrel.webp"
   },
   {
-    "revision": "c850be8f17504aa68b7cdb3b9923f39b",
+    "revision": "ce0f3d13c9e872f5e265198790cd322e",
     "url": "/AbyssExplorer/item/2_power_get_box.png"
   },
   {
@@ -836,7 +836,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/2_power_get_box.webp"
   },
   {
-    "revision": "fb009cb74394da217329cc5c306dd806",
+    "revision": "567764e73a90ae0bf4d6f6e2e7579f92",
     "url": "/AbyssExplorer/item/2_power_get_ladder.png"
   },
   {
@@ -844,7 +844,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/2_power_get_ladder.webp"
   },
   {
-    "revision": "c711b37ebb0666ca4872cb080c64368a",
+    "revision": "f0feada04e88f06b8f9ba02f1d932310",
     "url": "/AbyssExplorer/item/2_power_golden_egg.png"
   },
   {
@@ -852,7 +852,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/2_power_golden_egg.webp"
   },
   {
-    "revision": "fef7cacf8e85f8ba27651fde2d0c9ea0",
+    "revision": "c59b786cbb220c1bb02da48226507045",
     "url": "/AbyssExplorer/item/2_power_gun_reroll.png"
   },
   {
@@ -860,7 +860,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/2_power_gun_reroll.webp"
   },
   {
-    "revision": "7ca0c5de5fc104a7b1bc502a3d4985fa",
+    "revision": "4886ba737a04e4c5e73c118e79bd774e",
     "url": "/AbyssExplorer/item/2_power_gun_up.png"
   },
   {
@@ -868,7 +868,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/2_power_gun_up.webp"
   },
   {
-    "revision": "99d92242d962be0a7d01e1af95af59a7",
+    "revision": "d8d0f9343006d8ae173066eb0ae7129e",
     "url": "/AbyssExplorer/item/2_power_heart2coin.png"
   },
   {
@@ -876,7 +876,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/2_power_heart2coin.webp"
   },
   {
-    "revision": "fdc78726c8687318f5b2871676c8f63b",
+    "revision": "58f0a94bfdd1b68d5dae0b1fa4756550",
     "url": "/AbyssExplorer/item/2_power_mark_mana_explo.png"
   },
   {
@@ -884,7 +884,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/2_power_mark_mana_explo.webp"
   },
   {
-    "revision": "bd795de46152bfe3caa3858316289bca",
+    "revision": "5d72301e6326be28613575180fbf5027",
     "url": "/AbyssExplorer/item/2_power_pet_evolve.png"
   },
   {
@@ -892,7 +892,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/2_power_pet_evolve.webp"
   },
   {
-    "revision": "7ae3ebb3c6277431da6b0e7711c66a50",
+    "revision": "d9e87672ef957ee3b1dfc829a7c0980b",
     "url": "/AbyssExplorer/item/2_power_pet_kill.png"
   },
   {
@@ -900,7 +900,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/2_power_pet_kill.webp"
   },
   {
-    "revision": "70379f15167e4d3e89ab086da78c0426",
+    "revision": "01fa15a315fa1dc8ecd25a331243743f",
     "url": "/AbyssExplorer/item/2_power_place_mana.png"
   },
   {
@@ -908,7 +908,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/2_power_place_mana.webp"
   },
   {
-    "revision": "aeac06879e72a9998f227d3eb4bf9d90",
+    "revision": "a815a70be0359bc1d9962aa84e74c8d0",
     "url": "/AbyssExplorer/item/2_power_refesh_chest.png"
   },
   {
@@ -916,7 +916,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/2_power_refesh_chest.webp"
   },
   {
-    "revision": "ce3fafc11382e0812aedd9205de6db42",
+    "revision": "2c49a91ac8b5394a1831ca19ed481b59",
     "url": "/AbyssExplorer/item/2_power_refesh_drop.png"
   },
   {
@@ -924,7 +924,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/2_power_refesh_drop.webp"
   },
   {
-    "revision": "b8591eaacf644aca960587e9518cf78b",
+    "revision": "61198a8613c4dc5ee0d0d98cff9f81ec",
     "url": "/AbyssExplorer/item/2_power_refesh_item.png"
   },
   {
@@ -932,7 +932,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/2_power_refesh_item.webp"
   },
   {
-    "revision": "d67ab38201822535471819e18aefee02",
+    "revision": "2f726f7c2d13ccc19ed4c4522cb5a711",
     "url": "/AbyssExplorer/item/2_power_refesh_itemtocoin.png"
   },
   {
@@ -940,7 +940,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/2_power_refesh_itemtocoin.webp"
   },
   {
-    "revision": "a716868ef2a6c279bd55734006f91e94",
+    "revision": "d9ad9d46912bc0e5cf42c00985b2cbaf",
     "url": "/AbyssExplorer/item/2_power_refesh_itemtodrop.png"
   },
   {
@@ -948,7 +948,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/2_power_refesh_itemtodrop.webp"
   },
   {
-    "revision": "1916c11d0e1f13c0e0e161d2bb2defc5",
+    "revision": "2573311dc277c78bc4aa0bb2ddb92d43",
     "url": "/AbyssExplorer/item/2_power_room_damageUP.png"
   },
   {
@@ -956,7 +956,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/2_power_room_damageUP.webp"
   },
   {
-    "revision": "8171e037b35717cda66d1611c661e815",
+    "revision": "6e95ce2a99b0e1d414e04e7745cfe3b6",
     "url": "/AbyssExplorer/item/2_power_room_fly.png"
   },
   {
@@ -964,7 +964,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/2_power_room_fly.webp"
   },
   {
-    "revision": "a17dd0e89affb4cd8e59d5ed624889a8",
+    "revision": "84bc8300feb5506ecb05f92519e28da3",
     "url": "/AbyssExplorer/item/2_power_room_gunUP.png"
   },
   {
@@ -972,7 +972,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/2_power_room_gunUP.webp"
   },
   {
-    "revision": "af24e8bd94a010c2ceae633340634d25",
+    "revision": "c8002207d755e30c4a48447c43aaa2fb",
     "url": "/AbyssExplorer/item/2_power_room_rpmUP.png"
   },
   {
@@ -980,7 +980,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/2_power_room_rpmUP.webp"
   },
   {
-    "revision": "525f381dd52804bdc46b8e2ef0f59724",
+    "revision": "ac87145a7a0d716e81e12c768b6ca472",
     "url": "/AbyssExplorer/item/2_power_self_explo.png"
   },
   {
@@ -988,7 +988,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/2_power_self_explo.webp"
   },
   {
-    "revision": "a401e4caffaa0c03ee20fdd5b50d79d8",
+    "revision": "752b677fca284981998815b02cb5afd0",
     "url": "/AbyssExplorer/item/2_power_show_icon.png"
   },
   {
@@ -996,7 +996,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/2_power_show_icon.webp"
   },
   {
-    "revision": "5a88056daed71ad927a769a93923f06d",
+    "revision": "5dfb99a35ff0ecd2b3d44d81055584a0",
     "url": "/AbyssExplorer/item/2_power_show_map.png"
   },
   {
@@ -1004,7 +1004,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/2_power_show_map.webp"
   },
   {
-    "revision": "18e7a2050786648b887d0f30ed0a3664",
+    "revision": "6b06278092975c6cbab88ace0ee3b277",
     "url": "/AbyssExplorer/item/2_power_stack_coin.png"
   },
   {
@@ -1012,7 +1012,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/2_power_stack_coin.webp"
   },
   {
-    "revision": "ef7d69dfb7d8fd8f9a2a6035928a198f",
+    "revision": "5f8d135f16b3816f628f8dabb476fa35",
     "url": "/AbyssExplorer/item/2_power_store_a_sprite.png"
   },
   {
@@ -1020,7 +1020,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/2_power_store_a_sprite.webp"
   },
   {
-    "revision": "031b96f0519ce6ec1fe9a3d7691f0311",
+    "revision": "a2cdadba278e133dc2d115a1f9e3fb4c",
     "url": "/AbyssExplorer/item/2_power_store_g_sprite.png"
   },
   {
@@ -1028,7 +1028,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/2_power_store_g_sprite.webp"
   },
   {
-    "revision": "002cb36aa28a40a4a0fe4b861ae7d948",
+    "revision": "c9ea6a747890fa8e259a2273a9dfa781",
     "url": "/AbyssExplorer/item/2_power_timeslow.png"
   },
   {
@@ -1036,7 +1036,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/2_power_timeslow.webp"
   },
   {
-    "revision": "9f8a7830d6114e25f47f32c417f34042",
+    "revision": "63dfba59f21a206acfc57d725609a40a",
     "url": "/AbyssExplorer/item/2_power_unlock.png"
   },
   {
@@ -1044,7 +1044,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/2_power_unlock.webp"
   },
   {
-    "revision": "511c1a3526bd662b09a6eda5166cbe55",
+    "revision": "334e36bb37fe0e0dc5eb4822e5287f3b",
     "url": "/AbyssExplorer/item/3_item_all_01.png"
   },
   {
@@ -1052,7 +1052,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/3_item_all_01.webp"
   },
   {
-    "revision": "11c046db3ea38dd65ca51fc1fe9e38e3",
+    "revision": "32fe16db67f2ed582f5edcab5ed05137",
     "url": "/AbyssExplorer/item/3_item_blue_01.png"
   },
   {
@@ -1060,7 +1060,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/3_item_blue_01.webp"
   },
   {
-    "revision": "799431ea9aa2b13283ed910251934c47",
+    "revision": "67655a2f4c99fbea997934aa68358d75",
     "url": "/AbyssExplorer/item/3_item_blue_02.png"
   },
   {
@@ -1068,7 +1068,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/3_item_blue_02.webp"
   },
   {
-    "revision": "cb946f8419245d41766391767ac8e5ac",
+    "revision": "0c3e33aaf150e17c7a9ec72249d86434",
     "url": "/AbyssExplorer/item/3_item_blue_03.png"
   },
   {
@@ -1076,7 +1076,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/3_item_blue_03.webp"
   },
   {
-    "revision": "52a22cb01ee2e3082a210b9d0d246905",
+    "revision": "233af920904ea9779f1ecdda82dd5e8f",
     "url": "/AbyssExplorer/item/3_item_blue_04.png"
   },
   {
@@ -1084,7 +1084,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/3_item_blue_04.webp"
   },
   {
-    "revision": "16526511d79f263135da6e79a120df1f",
+    "revision": "8782bf000a058df5c148ec97fe5baa97",
     "url": "/AbyssExplorer/item/3_item_blue_05.png"
   },
   {
@@ -1092,7 +1092,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/3_item_blue_05.webp"
   },
   {
-    "revision": "e7b5c6651f2e7c9dd3bb24ff2e9c000e",
+    "revision": "aa65d81295ebf005be2a46f0efffc6bc",
     "url": "/AbyssExplorer/item/3_item_blue_06.png"
   },
   {
@@ -1100,7 +1100,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/3_item_blue_06.webp"
   },
   {
-    "revision": "1b8a9103796a403e920135fd6f567c3d",
+    "revision": "f362046ee1c4c5ab6af19c2c4db632ce",
     "url": "/AbyssExplorer/item/3_item_blue_07.png"
   },
   {
@@ -1108,7 +1108,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/3_item_blue_07.webp"
   },
   {
-    "revision": "01a7fd781252d8b286cd232c0504407f",
+    "revision": "17c8c048d2b5511a318cd0ae45e7e2b3",
     "url": "/AbyssExplorer/item/3_item_blue_08.png"
   },
   {
@@ -1116,7 +1116,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/3_item_blue_08.webp"
   },
   {
-    "revision": "41d26b182f9b809f2ad54b0fe5d00bdf",
+    "revision": "61cba6fb58d66ecd4caf36ef41442eb4",
     "url": "/AbyssExplorer/item/3_item_mana_01.png"
   },
   {
@@ -1124,7 +1124,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/3_item_mana_01.webp"
   },
   {
-    "revision": "1d054f161ba9c7fb93ba256f0224890c",
+    "revision": "80020ad136d44685653f4afa9f0bb8ee",
     "url": "/AbyssExplorer/item/3_item_mana_02.png"
   },
   {
@@ -1132,7 +1132,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/3_item_mana_02.webp"
   },
   {
-    "revision": "cc494b2445e20a794744ed6ec42f93a3",
+    "revision": "c8ebadfa84b9887c2eb4b107ef9775aa",
     "url": "/AbyssExplorer/item/3_item_mana_03.png"
   },
   {
@@ -1140,7 +1140,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/3_item_mana_03.webp"
   },
   {
-    "revision": "8d54bf9a021af2e885f87afc3626284e",
+    "revision": "355310e7922c10873594c4b9e94dc9a0",
     "url": "/AbyssExplorer/item/3_item_mana_04.png"
   },
   {
@@ -1148,7 +1148,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/3_item_mana_04.webp"
   },
   {
-    "revision": "7b455ffbed095b9e459675ca19155248",
+    "revision": "6952313fb631a54cb88615bf41b67056",
     "url": "/AbyssExplorer/item/3_item_mana_05.png"
   },
   {
@@ -1156,7 +1156,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/3_item_mana_05.webp"
   },
   {
-    "revision": "12226a03d1375182ed9e31d4ed074d39",
+    "revision": "574c8f2cf76d517b57c28fd3930692eb",
     "url": "/AbyssExplorer/item/3_item_mana_06.png"
   },
   {
@@ -1164,7 +1164,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/3_item_mana_06.webp"
   },
   {
-    "revision": "fcea00f272d1fb8140f8638a0f4c6428",
+    "revision": "4403c5b8fe575c2cda5919e3a0e6a3a0",
     "url": "/AbyssExplorer/item/3_item_move_01.png"
   },
   {
@@ -1172,7 +1172,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/3_item_move_01.webp"
   },
   {
-    "revision": "e80590c56ebdcead7d911a7e69ae2cae",
+    "revision": "e0a1f6033fc50b9369735dcc2195d5cc",
     "url": "/AbyssExplorer/item/3_item_move_02.png"
   },
   {
@@ -1180,7 +1180,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/3_item_move_02.webp"
   },
   {
-    "revision": "28df8447b3ef822ad1bd1c8a7c9586bb",
+    "revision": "20f0d0af47b945c4124ad059d93dad91",
     "url": "/AbyssExplorer/item/3_item_move_03.png"
   },
   {
@@ -1188,7 +1188,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/3_item_move_03.webp"
   },
   {
-    "revision": "fdab037925b5ba037e2a0180bc48b809",
+    "revision": "d567356322f02451d3280fb997f5e0dc",
     "url": "/AbyssExplorer/item/3_item_move_04.png"
   },
   {
@@ -1196,7 +1196,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/3_item_move_04.webp"
   },
   {
-    "revision": "7a32acf3931d2328e2f3047409c0a22d",
+    "revision": "c5257930857250dad493e3deb52b86a5",
     "url": "/AbyssExplorer/item/3_item_move_05.png"
   },
   {
@@ -1204,7 +1204,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/3_item_move_05.webp"
   },
   {
-    "revision": "397deb74616413295a53060269c134da",
+    "revision": "5e6ba68e2851466279366735cc4bc93f",
     "url": "/AbyssExplorer/item/3_item_move_06.png"
   },
   {
@@ -1212,7 +1212,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/3_item_move_06.webp"
   },
   {
-    "revision": "7767a7997a921283fc5ce0c4f55f3e64",
+    "revision": "6c4e7bb368ccb6a122b00713458b4248",
     "url": "/AbyssExplorer/item/3_item_red_01.png"
   },
   {
@@ -1220,7 +1220,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/3_item_red_01.webp"
   },
   {
-    "revision": "35924726c602ce9db44548f17c6d0a2c",
+    "revision": "bc3a222f622db879065628677a855179",
     "url": "/AbyssExplorer/item/3_item_red_02.png"
   },
   {
@@ -1228,7 +1228,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/3_item_red_02.webp"
   },
   {
-    "revision": "09af9000cec7fee38a8110aa147d6409",
+    "revision": "ef04f82bee2a91ab20f2a88894bed7dd",
     "url": "/AbyssExplorer/item/3_item_red_03.png"
   },
   {
@@ -1236,7 +1236,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/3_item_red_03.webp"
   },
   {
-    "revision": "580ec7a5eb048dd21c0b6af4c6d66fa3",
+    "revision": "d984c04f5b483556c4904f5ff169bd75",
     "url": "/AbyssExplorer/item/3_item_red_04.png"
   },
   {
@@ -1244,7 +1244,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/3_item_red_04.webp"
   },
   {
-    "revision": "79d5a0254e5a49be94acdbcd7cf7e407",
+    "revision": "911acfc5c56ce8d5cae4033cec4456c2",
     "url": "/AbyssExplorer/item/3_item_red_05.png"
   },
   {
@@ -1252,7 +1252,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/3_item_red_05.webp"
   },
   {
-    "revision": "bf92ebd2d35423d0b4403ea3c8d47588",
+    "revision": "6deb5d0072c43998a683354df704e2be",
     "url": "/AbyssExplorer/item/3_item_red_06.png"
   },
   {
@@ -1260,7 +1260,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/3_item_red_06.webp"
   },
   {
-    "revision": "d88ce184da312f1006862bee576b2315",
+    "revision": "10c7e5681e256a2a2157b25ae264741f",
     "url": "/AbyssExplorer/item/3_item_red_07.png"
   },
   {
@@ -1268,7 +1268,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/3_item_red_07.webp"
   },
   {
-    "revision": "e8d80bd9d80a6576b978ddb17f72dde2",
+    "revision": "02aa3d73c7052fd0486b9c840513bbde",
     "url": "/AbyssExplorer/item/3_item_red_08.png"
   },
   {
@@ -1276,7 +1276,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/3_item_red_08.webp"
   },
   {
-    "revision": "c17daccc77e3e61388eba7fd60757d05",
+    "revision": "b952a1e6eb424592519394ca2940bf72",
     "url": "/AbyssExplorer/item/3_item_red_09.png"
   },
   {
@@ -1284,7 +1284,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/3_item_red_09.webp"
   },
   {
-    "revision": "f6343bbe754543312464fc43c1bc9c5d",
+    "revision": "32c21bb1ce9d99f385fcfeeb2fdf613a",
     "url": "/AbyssExplorer/item/3_item_red_10.png"
   },
   {
@@ -1292,7 +1292,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/3_item_red_10.webp"
   },
   {
-    "revision": "43bb50b974949d66c3c954e51bb30b90",
+    "revision": "ab7595833a3d0474cbb82480faafb472",
     "url": "/AbyssExplorer/item/3_item_red_11.png"
   },
   {
@@ -1300,7 +1300,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/3_item_red_11.webp"
   },
   {
-    "revision": "4b5501d378ec682f0930201463bc9d0d",
+    "revision": "34114bac423b0082921670a8a8f5a630",
     "url": "/AbyssExplorer/item/3_item_red_12.png"
   },
   {
@@ -1308,7 +1308,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/3_item_red_12.webp"
   },
   {
-    "revision": "37c3f171943231495d8f93b8060073a7",
+    "revision": "ac750b171dc94392ca56bb614435eac6",
     "url": "/AbyssExplorer/item/3_item_red_13.png"
   },
   {
@@ -1316,7 +1316,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/3_item_red_13.webp"
   },
   {
-    "revision": "00d8687da18345d506e5e1d6cdb36958",
+    "revision": "fe0ef6210213b02cf69101cdeb9935e7",
     "url": "/AbyssExplorer/item/4_item_damage_01.png"
   },
   {
@@ -1324,7 +1324,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/4_item_damage_01.webp"
   },
   {
-    "revision": "674edd740784d71e2e85a97f453fe79a",
+    "revision": "2737ad03180021a816c2a3bb54f5ca03",
     "url": "/AbyssExplorer/item/4_item_damage_02.png"
   },
   {
@@ -1332,7 +1332,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/4_item_damage_02.webp"
   },
   {
-    "revision": "46542ef12557ed83177db29aa9401098",
+    "revision": "5b9b26447824adca97164385f5fa6d09",
     "url": "/AbyssExplorer/item/4_item_damage_03.png"
   },
   {
@@ -1340,7 +1340,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/4_item_damage_03.webp"
   },
   {
-    "revision": "5a2686368adab03d8f353fbe56e70447",
+    "revision": "cf197612f065779c9d55fe6ec3399dfb",
     "url": "/AbyssExplorer/item/4_item_damage_04.png"
   },
   {
@@ -1348,7 +1348,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/4_item_damage_04.webp"
   },
   {
-    "revision": "d08b6c2643039dea38c28a145197d8b0",
+    "revision": "3209bf951d52e841933edcce26a0b2b4",
     "url": "/AbyssExplorer/item/4_item_damage_05.png"
   },
   {
@@ -1356,7 +1356,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/4_item_damage_05.webp"
   },
   {
-    "revision": "57673f126f4da9b7201c4fb2a5a3761e",
+    "revision": "a928a68260368bed6a4bd95dcdd39c49",
     "url": "/AbyssExplorer/item/4_item_damage_06.png"
   },
   {
@@ -1364,7 +1364,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/4_item_damage_06.webp"
   },
   {
-    "revision": "3bc100686ea7b6f092b9f2785a3136e0",
+    "revision": "253b2ced88f303411df25c20265f2fdf",
     "url": "/AbyssExplorer/item/4_item_damage_07.png"
   },
   {
@@ -1372,7 +1372,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/4_item_damage_07.webp"
   },
   {
-    "revision": "ac374106065835358a4b3030be484188",
+    "revision": "d92cf4922050605fdeaf14233d063e47",
     "url": "/AbyssExplorer/item/4_item_damage_08.png"
   },
   {
@@ -1380,7 +1380,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/4_item_damage_08.webp"
   },
   {
-    "revision": "be5b178d8ea971e71491a2225d077232",
+    "revision": "56e7e6637e1ce2a0346cc9fff6e423e8",
     "url": "/AbyssExplorer/item/4_item_multibullet_01.png"
   },
   {
@@ -1388,7 +1388,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/4_item_multibullet_01.webp"
   },
   {
-    "revision": "c61c49c2e36977bae5209f32460b7564",
+    "revision": "b543d131b98b3dd7c637f2948d6c74a1",
     "url": "/AbyssExplorer/item/4_item_multibullet_02.png"
   },
   {
@@ -1396,7 +1396,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/4_item_multibullet_02.webp"
   },
   {
-    "revision": "13103ee8cb4dfceaf53515378aab2037",
+    "revision": "e675e2e6e55030cbbecfa7f4f52abc87",
     "url": "/AbyssExplorer/item/4_item_multibullet_03.png"
   },
   {
@@ -1404,7 +1404,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/4_item_multibullet_03.webp"
   },
   {
-    "revision": "289995c5a988d1caf004ea65ac04ead7",
+    "revision": "40c20699853b8fef5d58632703e39f80",
     "url": "/AbyssExplorer/item/4_item_multibullet_04.png"
   },
   {
@@ -1412,7 +1412,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/4_item_multibullet_04.webp"
   },
   {
-    "revision": "0f1b468d6e48c08d9bd44ad0227a40ef",
+    "revision": "a935230a485827ebfea41415f4c817ec",
     "url": "/AbyssExplorer/item/4_item_multibullet_05.png"
   },
   {
@@ -1420,7 +1420,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/4_item_multibullet_05.webp"
   },
   {
-    "revision": "541dbd191df314600e5f56999b47fb87",
+    "revision": "b7e63505c2b842cd24ee12c1b91b06d7",
     "url": "/AbyssExplorer/item/4_item_multibullet_06.png"
   },
   {
@@ -1428,7 +1428,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/4_item_multibullet_06.webp"
   },
   {
-    "revision": "f2571402f6c0320beee26abf709d69c7",
+    "revision": "8da7be40a56263f8cc37d6b0c374a5e9",
     "url": "/AbyssExplorer/item/4_item_range_01.png"
   },
   {
@@ -1436,7 +1436,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/4_item_range_01.webp"
   },
   {
-    "revision": "332e576c527378cfac2959d2824eb694",
+    "revision": "5df854feea2b41aff1387529ca4a2ab5",
     "url": "/AbyssExplorer/item/4_item_range_02.png"
   },
   {
@@ -1444,7 +1444,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/4_item_range_02.webp"
   },
   {
-    "revision": "2502c24d5464cf936f3fe9fa3d0e1ee5",
+    "revision": "2578edaaf49003f2543420868993405e",
     "url": "/AbyssExplorer/item/4_item_range_03.png"
   },
   {
@@ -1452,7 +1452,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/4_item_range_03.webp"
   },
   {
-    "revision": "1dc3093d3df3fa294dfe31786d3c33c4",
+    "revision": "c3503d9244e4000614b9d7b9903131a6",
     "url": "/AbyssExplorer/item/4_item_range_04.png"
   },
   {
@@ -1460,7 +1460,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/4_item_range_04.webp"
   },
   {
-    "revision": "b75fcfe41e790c98d42f7d37aa4664b0",
+    "revision": "3cff7ae469b0e0d0489b2fe4586129d9",
     "url": "/AbyssExplorer/item/4_item_rate_01.png"
   },
   {
@@ -1468,7 +1468,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/4_item_rate_01.webp"
   },
   {
-    "revision": "9b3cdba39ffbe0da455b22c1e01a56b8",
+    "revision": "950e80146bd7c917c42861ab1f95d56a",
     "url": "/AbyssExplorer/item/4_item_rate_02.png"
   },
   {
@@ -1476,7 +1476,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/4_item_rate_02.webp"
   },
   {
-    "revision": "ea7de50a40deb8b2d3fc08bc9351d91b",
+    "revision": "ab1cddaba7264e324a27a8c88cf96eb2",
     "url": "/AbyssExplorer/item/4_item_rate_03.png"
   },
   {
@@ -1484,7 +1484,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/4_item_rate_03.webp"
   },
   {
-    "revision": "d86f07e0471bd26d43f466606e39d871",
+    "revision": "0d67cc47d271c6dee6f35b418ec97908",
     "url": "/AbyssExplorer/item/4_item_rate_04.png"
   },
   {
@@ -1492,7 +1492,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/4_item_rate_04.webp"
   },
   {
-    "revision": "2ff1d20a8063df991e801f01fb255548",
+    "revision": "935664f091fb505c1ccf3e87ab8e6bc9",
     "url": "/AbyssExplorer/item/4_item_rate_05.png"
   },
   {
@@ -1500,7 +1500,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/4_item_rate_05.webp"
   },
   {
-    "revision": "0443ee514a85eb7e2a8572f15f9b5d82",
+    "revision": "9f14d9801f1af9185d354acc869d2f05",
     "url": "/AbyssExplorer/item/4_item_rate_06.png"
   },
   {
@@ -1508,7 +1508,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/4_item_rate_06.webp"
   },
   {
-    "revision": "5f19db78319b1af54861ec86060189b2",
+    "revision": "1177e74033fca654da0497f2e0f36fac",
     "url": "/AbyssExplorer/item/4_item_upgrade_01.png"
   },
   {
@@ -1516,7 +1516,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/4_item_upgrade_01.webp"
   },
   {
-    "revision": "388c7a2f758700d9b8da59c3228271d8",
+    "revision": "ce10070158a6bd5325dd29bbafc8ff20",
     "url": "/AbyssExplorer/item/4_item_upgrade_02.png"
   },
   {
@@ -1524,7 +1524,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/4_item_upgrade_02.webp"
   },
   {
-    "revision": "b127076c0e3a4d1c6ca3ccb820afe1bd",
+    "revision": "7bcc28e10d75c5d80888b559b2a8cc5a",
     "url": "/AbyssExplorer/item/4_item_upgrade_03.png"
   },
   {
@@ -1532,7 +1532,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/4_item_upgrade_03.webp"
   },
   {
-    "revision": "3021cdc9f67c5ade5130c4bdb3415a06",
+    "revision": "4fef772b530d510dc78389e93a7fd563",
     "url": "/AbyssExplorer/item/4_item_upgrade_04.png"
   },
   {
@@ -1540,7 +1540,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/4_item_upgrade_04.webp"
   },
   {
-    "revision": "e368b4ad64aaa806940133c12580ae5d",
+    "revision": "71500bb809d6ecfbe7da91da54a7fbb0",
     "url": "/AbyssExplorer/item/4_item_upgrade_05.png"
   },
   {
@@ -1548,7 +1548,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/4_item_upgrade_05.webp"
   },
   {
-    "revision": "28e4f2db6eba23ce24e8ef86304ef320",
+    "revision": "7570b323a2ac97c49c35ccb3582b8542",
     "url": "/AbyssExplorer/item/4_item_upgrade_06.png"
   },
   {
@@ -1556,7 +1556,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/4_item_upgrade_06.webp"
   },
   {
-    "revision": "0d13efe1d5fd90ccd4091b996190296b",
+    "revision": "9fd35f3279e0624b0b852029893479fa",
     "url": "/AbyssExplorer/item/4_item_upgrade_07.png"
   },
   {
@@ -1564,7 +1564,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/4_item_upgrade_07.webp"
   },
   {
-    "revision": "98e760a37a8f3dab462cbdc0a5e2f6cd",
+    "revision": "3c3cfe0a7ea1e8d3e8a9eb2f7f7eaa5f",
     "url": "/AbyssExplorer/item/4_item_upgrade_08.png"
   },
   {
@@ -1572,7 +1572,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/4_item_upgrade_08.webp"
   },
   {
-    "revision": "d1cad81fd546a25351d71f63e24e5933",
+    "revision": "c2d306a970d7c61d3836966b1d23ffa5",
     "url": "/AbyssExplorer/item/5_01_item_aura_elec.png"
   },
   {
@@ -1580,7 +1580,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_01_item_aura_elec.webp"
   },
   {
-    "revision": "75f845b6106c440128be0c3d66fa57ad",
+    "revision": "ce88f1021d8ec7f48aeebf54a5fb46f9",
     "url": "/AbyssExplorer/item/5_01_item_fly_athena.png"
   },
   {
@@ -1588,7 +1588,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_01_item_fly_athena.webp"
   },
   {
-    "revision": "c7412d7ef180d254645cec47f345cc34",
+    "revision": "53d6b1ebec00fa887db6ed85d4621813",
     "url": "/AbyssExplorer/item/5_01_item_fly_devil.png"
   },
   {
@@ -1596,7 +1596,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_01_item_fly_devil.webp"
   },
   {
-    "revision": "d9a8705e0cb6087ea9185015f2ea9fc2",
+    "revision": "d13f1832b3a97f6e8c8988674aa97450",
     "url": "/AbyssExplorer/item/5_01_item_fly_god.png"
   },
   {
@@ -1604,7 +1604,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_01_item_fly_god.webp"
   },
   {
-    "revision": "e84cb1d4ab4fada4028b5585848bf24f",
+    "revision": "75fc62fcd239390dc09d3ddfa7aa260d",
     "url": "/AbyssExplorer/item/5_01_item_fly_pega.png"
   },
   {
@@ -1612,7 +1612,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_01_item_fly_pega.webp"
   },
   {
-    "revision": "0d516d042c818fb9b396a1a3626366ed",
+    "revision": "846fa4362bd432419cfa9af8e956f85a",
     "url": "/AbyssExplorer/item/5_01_item_hero_sizeDOWN.png"
   },
   {
@@ -1620,7 +1620,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_01_item_hero_sizeDOWN.webp"
   },
   {
-    "revision": "0548c3d71f0331a9b16288994adcccd3",
+    "revision": "84c193ba6f0798994469d4a924176b2f",
     "url": "/AbyssExplorer/item/5_01_item_hero_sizeUP.png"
   },
   {
@@ -1628,7 +1628,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_01_item_hero_sizeUP.webp"
   },
   {
-    "revision": "a5119bcf175a03fe01fcf97766f5d7c2",
+    "revision": "576fd2e43573840f4d311abccb81921a",
     "url": "/AbyssExplorer/item/5_01_item_jump_attack.png"
   },
   {
@@ -1636,7 +1636,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_01_item_jump_attack.webp"
   },
   {
-    "revision": "b1af64073e5ec91ff21a9055718cf977",
+    "revision": "ab00f56a4c1b15056b0d0e1275975ecb",
     "url": "/AbyssExplorer/item/5_01_item_jump_bomb.png"
   },
   {
@@ -1644,7 +1644,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_01_item_jump_bomb.webp"
   },
   {
-    "revision": "69d049246dcd65db0276d8cf27eaf74a",
+    "revision": "2385945cea90b4d7d1f4ba1d90ec7816",
     "url": "/AbyssExplorer/item/5_01_item_jump_shootdown.png"
   },
   {
@@ -1652,7 +1652,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_01_item_jump_shootdown.webp"
   },
   {
-    "revision": "67117f4073d002c616fa4a9f46bd6278",
+    "revision": "9a5af5043f0b1ff4975f5389c33a4b1c",
     "url": "/AbyssExplorer/item/5_01_item_map_extra_golden.png"
   },
   {
@@ -1660,7 +1660,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_01_item_map_extra_golden.webp"
   },
   {
-    "revision": "64be0031fe35f21d5e7d8df9f2b3503a",
+    "revision": "4dfa5f8146a3b83d2a397aaed6f6e2c6",
     "url": "/AbyssExplorer/item/5_01_item_map_eye.png"
   },
   {
@@ -1668,7 +1668,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_01_item_map_eye.webp"
   },
   {
-    "revision": "408ad8ae033fc8bc7637c36afb9ba86d",
+    "revision": "f70f1b79ba76f32a2d35e38d855eb250",
     "url": "/AbyssExplorer/item/5_01_item_map_full.png"
   },
   {
@@ -1676,7 +1676,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_01_item_map_full.webp"
   },
   {
-    "revision": "617d5df165f1e1398e074752613cb2ca",
+    "revision": "be9b1b3101f0bd430bafbf9bb3003a86",
     "url": "/AbyssExplorer/item/5_01_item_map_icon_hidden.png"
   },
   {
@@ -1684,7 +1684,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_01_item_map_icon_hidden.webp"
   },
   {
-    "revision": "65ea0e4c695e334532cdc6c636ac0a5f",
+    "revision": "2d79be0429536d50e6ba6a66492b8772",
     "url": "/AbyssExplorer/item/5_01_item_map_icon_sp.png"
   },
   {
@@ -1692,7 +1692,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_01_item_map_icon_sp.webp"
   },
   {
-    "revision": "5ed8310d03714c126fb4bb9e273cf1df",
+    "revision": "a9d1eed875609c7f6e274b9416b9988f",
     "url": "/AbyssExplorer/item/5_01_item_map_reveal.png"
   },
   {
@@ -1700,7 +1700,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_01_item_map_reveal.webp"
   },
   {
-    "revision": "db9b6cb9b6b6c92593092ce73190cd83",
+    "revision": "7fd4dfdee2169ef11c7ad4ded94e6698",
     "url": "/AbyssExplorer/item/5_01_item_revive_aegis.png"
   },
   {
@@ -1708,7 +1708,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_01_item_revive_aegis.webp"
   },
   {
-    "revision": "fe4c9c762d0f0256454fd5aff199521e",
+    "revision": "5286efc4304d58189bac9d81d8e1e8fe",
     "url": "/AbyssExplorer/item/5_01_item_revive_coin.png"
   },
   {
@@ -1716,7 +1716,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_01_item_revive_coin.webp"
   },
   {
-    "revision": "337db09dba9cc57f5d48f1390f9b1820",
+    "revision": "45b27c9397daf4324dd900208ef0bc91",
     "url": "/AbyssExplorer/item/5_01_item_revive_fire.png"
   },
   {
@@ -1724,7 +1724,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_01_item_revive_fire.webp"
   },
   {
-    "revision": "9a27ea2150c5f31ef93317ee912187e0",
+    "revision": "1405f8cf2baf01116d30b629e09bc29a",
     "url": "/AbyssExplorer/item/5_01_item_revive_gamble.png"
   },
   {
@@ -1732,7 +1732,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_01_item_revive_gamble.webp"
   },
   {
-    "revision": "82a4c80fcc7f31b7b7408f177283ed75",
+    "revision": "afd18a895cd045e37ebb4b7513cedd8d",
     "url": "/AbyssExplorer/item/5_01_item_wiki.png"
   },
   {
@@ -1740,7 +1740,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_01_item_wiki.webp"
   },
   {
-    "revision": "fcda595349cc0ac96e0b134d0629a257",
+    "revision": "7bdfc3c92095082723b3160e98ecb637",
     "url": "/AbyssExplorer/item/5_02_item_coin_bomb.png"
   },
   {
@@ -1748,7 +1748,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_02_item_coin_bomb.webp"
   },
   {
-    "revision": "c6e6f0d105198e06f264c0b4c6e11903",
+    "revision": "69ee6790f7573e6043a3ab834513cf33",
     "url": "/AbyssExplorer/item/5_02_item_coin_damage.png"
   },
   {
@@ -1756,7 +1756,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_02_item_coin_damage.webp"
   },
   {
-    "revision": "29598ff097ddfe90318d5e8c24850288",
+    "revision": "19acaf67dc13ea96226aea9b96c5e4ac",
     "url": "/AbyssExplorer/item/5_02_item_coin_gs.png"
   },
   {
@@ -1764,7 +1764,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_02_item_coin_gs.webp"
   },
   {
-    "revision": "ba316f980dafee767173aa67a7759615",
+    "revision": "94c85473ec953aea87c167077bccb5b1",
     "url": "/AbyssExplorer/item/5_02_item_coin_gun.png"
   },
   {
@@ -1772,7 +1772,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_02_item_coin_gun.webp"
   },
   {
-    "revision": "614615edf6af7a4e8d0541aa29ec6220",
+    "revision": "c12fcde4e67c994de3698f186d02f18a",
     "url": "/AbyssExplorer/item/5_02_item_coin_rpm.png"
   },
   {
@@ -1780,7 +1780,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_02_item_coin_rpm.webp"
   },
   {
-    "revision": "0e9a9e2a0d5a2f8b91582c99590705f8",
+    "revision": "073c2e0c34491a0978fe2dd278b067d6",
     "url": "/AbyssExplorer/item/5_02_item_egg_instead_bomb.png"
   },
   {
@@ -1788,7 +1788,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_02_item_egg_instead_bomb.webp"
   },
   {
-    "revision": "0d3c3f4688fa5a7a8878923154842dce",
+    "revision": "59c2763e18813d00dde84136e7179461",
     "url": "/AbyssExplorer/item/5_02_item_egg_instead_key.png"
   },
   {
@@ -1796,7 +1796,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_02_item_egg_instead_key.webp"
   },
   {
-    "revision": "e774c3d551188c8306eda26d364e4028",
+    "revision": "e3bce9f04e95bc2a10c4a50b0d135053",
     "url": "/AbyssExplorer/item/5_02_item_heart_doublecure.png"
   },
   {
@@ -1804,7 +1804,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_02_item_heart_doublecure.webp"
   },
   {
-    "revision": "c23eb57a4a5269cb40b8024d4bc7485d",
+    "revision": "9acd8f1678a948c71003c45b4232e19d",
     "url": "/AbyssExplorer/item/5_02_item_heart_full_damageUP.png"
   },
   {
@@ -1812,7 +1812,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_02_item_heart_full_damageUP.webp"
   },
   {
-    "revision": "300b46643fc4580870ddb5259a214de9",
+    "revision": "fb172aaffe852cbfb602f3a8c4526226",
     "url": "/AbyssExplorer/item/5_02_item_heart_full_recover.png"
   },
   {
@@ -1820,7 +1820,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_02_item_heart_full_recover.webp"
   },
   {
-    "revision": "cd0bd52514d6c021de76c8884b8a941b",
+    "revision": "1312863e7a54725617c5fd00ce8522e2",
     "url": "/AbyssExplorer/item/5_02_item_heart_less_damageUP.png"
   },
   {
@@ -1828,7 +1828,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_02_item_heart_less_damageUP.webp"
   },
   {
-    "revision": "c3e6c4758f31ecbd8c1f0690223f24d3",
+    "revision": "d43418b8799db02499a1efa1a2786d53",
     "url": "/AbyssExplorer/item/5_02_item_heart_less_gunlevelUP.png"
   },
   {
@@ -1836,7 +1836,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_02_item_heart_less_gunlevelUP.webp"
   },
   {
-    "revision": "8ebdd46bfe2b3424394ac5bd634a5732",
+    "revision": "424c59321abeed778953101beb658939",
     "url": "/AbyssExplorer/item/5_02_item_heart_to_shield.png"
   },
   {
@@ -1844,7 +1844,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_02_item_heart_to_shield.webp"
   },
   {
-    "revision": "e2cefb631581fe9667d47e1328d146b2",
+    "revision": "c9e6d9581a812bd0d7f19b57fb5d818e",
     "url": "/AbyssExplorer/item/5_02_item_key_dmg_up.png"
   },
   {
@@ -1852,7 +1852,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_02_item_key_dmg_up.webp"
   },
   {
-    "revision": "495269b884f48effc612f3daeff8c14c",
+    "revision": "b27a9998ebc31f2f6072b793c2b3ada9",
     "url": "/AbyssExplorer/item/5_02_item_key_instead_bomb.png"
   },
   {
@@ -1860,7 +1860,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_02_item_key_instead_bomb.webp"
   },
   {
-    "revision": "050814d5c2266b5d36421dd50f2906d4",
+    "revision": "4a3943f4a1af9060b75c46b6db807d90",
     "url": "/AbyssExplorer/item/5_02_item_key_rpm_up.png"
   },
   {
@@ -1868,7 +1868,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_02_item_key_rpm_up.webp"
   },
   {
-    "revision": "8d44462b17ddee06d19ff60d39296ac1",
+    "revision": "1b296828cbc111a6f6b97605f23a35e5",
     "url": "/AbyssExplorer/item/5_02_item_key_use_bomb.png"
   },
   {
@@ -1876,7 +1876,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_02_item_key_use_bomb.webp"
   },
   {
-    "revision": "94b2ab917992a7e0c0c6260d9fec282d",
+    "revision": "8d805f8c32fffd93eacc2ca076c31b0a",
     "url": "/AbyssExplorer/item/5_02_item_key_use_egg.png"
   },
   {
@@ -1884,7 +1884,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_02_item_key_use_egg.webp"
   },
   {
-    "revision": "09445fe792c9ac7155f07d5a1fab883f",
+    "revision": "5ae00bfc115f9339c3f71ba0221665ec",
     "url": "/AbyssExplorer/item/5_02_item_key_use_fs.png"
   },
   {
@@ -1892,7 +1892,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_02_item_key_use_fs.webp"
   },
   {
-    "revision": "eeebc22f2522cb997a33769c614af266",
+    "revision": "0e02f755208c3e2aeefb537cef4b6083",
     "url": "/AbyssExplorer/item/5_02_item_key_use_heart.png"
   },
   {
@@ -1900,7 +1900,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_02_item_key_use_heart.webp"
   },
   {
-    "revision": "9e836d43522bf90a3898579bb87665ec",
+    "revision": "a53df3550404e0092b1c89432e3018d6",
     "url": "/AbyssExplorer/item/5_02_item_key_use_shell.png"
   },
   {
@@ -1908,7 +1908,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_02_item_key_use_shell.webp"
   },
   {
-    "revision": "02029c682dcb63b9b579e10040f7c93c",
+    "revision": "e305ab3bd63151ff62d4386ec07c7363",
     "url": "/AbyssExplorer/item/5_02_item_key_use_shield.png"
   },
   {
@@ -1916,7 +1916,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_02_item_key_use_shield.webp"
   },
   {
-    "revision": "9cc77ded50c7c748ca83a02ec0db7498",
+    "revision": "2dae6b4e5139d9169bd5dc4fa87574a2",
     "url": "/AbyssExplorer/item/5_02_item_mana_full_damageUP.png"
   },
   {
@@ -1924,7 +1924,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_02_item_mana_full_damageUP.webp"
   },
   {
-    "revision": "af7744abae8dfc1789ff2173473e2eb2",
+    "revision": "7ac5c22e6443622f5739e83ebcf54a5a",
     "url": "/AbyssExplorer/item/5_02_item_mana_less_damageUP.png"
   },
   {
@@ -1932,7 +1932,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_02_item_mana_less_damageUP.webp"
   },
   {
-    "revision": "3d775b06ae02eaf5b942de03e04dc5ea",
+    "revision": "cfcb300a4ba981e7cbc388ea8f1612ac",
     "url": "/AbyssExplorer/item/5_02_item_pick_coin_dropBomb.png"
   },
   {
@@ -1940,7 +1940,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_02_item_pick_coin_dropBomb.webp"
   },
   {
-    "revision": "25e6b48590e8bad12c2afda993a6d432",
+    "revision": "a9f2bc55589e274ece99766b00798c69",
     "url": "/AbyssExplorer/item/5_02_item_pick_coin_dropHeart.png"
   },
   {
@@ -1948,7 +1948,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_02_item_pick_coin_dropHeart.webp"
   },
   {
-    "revision": "fcbc8a549cd2b6275fa862aba401257a",
+    "revision": "375b80fde96f3c5fb2794f999d6f1c75",
     "url": "/AbyssExplorer/item/5_02_item_pick_coin_dropKey.png"
   },
   {
@@ -1956,7 +1956,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_02_item_pick_coin_dropKey.webp"
   },
   {
-    "revision": "528b38a454006d5431736c409cbfba1c",
+    "revision": "ebf62cf114755e75decd4970389fab21",
     "url": "/AbyssExplorer/item/5_02_item_pick_coin_dropMana.png"
   },
   {
@@ -1964,7 +1964,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_02_item_pick_coin_dropMana.webp"
   },
   {
-    "revision": "11c88197c8cd43d74a289d51e830de6a",
+    "revision": "5af0f0d629b63e35c2b68d4320b42f12",
     "url": "/AbyssExplorer/item/5_02_item_pick_coin_dropShield.png"
   },
   {
@@ -1972,7 +1972,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_02_item_pick_coin_dropShield.webp"
   },
   {
-    "revision": "4b3e46d54f1d4cd5938620f2aa8da423",
+    "revision": "dc1ceb0825d1294ba5c4afc92c2d6143",
     "url": "/AbyssExplorer/item/5_02_item_pick_damageUP.png"
   },
   {
@@ -1980,7 +1980,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_02_item_pick_damageUP.webp"
   },
   {
-    "revision": "af670c171c53df939721b3d7532aa82b",
+    "revision": "eaae0599130458d770224ac329542e79",
     "url": "/AbyssExplorer/item/5_02_item_pick_speedUP.png"
   },
   {
@@ -1988,7 +1988,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_02_item_pick_speedUP.webp"
   },
   {
-    "revision": "1677696038c7463ce3fda0c9eff38967",
+    "revision": "0ab89e3ce1e4b818fac0aff6dfde10d1",
     "url": "/AbyssExplorer/item/5_02_item_res_bomb.png"
   },
   {
@@ -1996,7 +1996,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_02_item_res_bomb.webp"
   },
   {
-    "revision": "39a2bfe0dbd508fdb59f5fff5a134f0d",
+    "revision": "58cfc79798e219e2367213d7b36dfe17",
     "url": "/AbyssExplorer/item/5_02_item_res_chest_to_curse.png"
   },
   {
@@ -2004,7 +2004,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_02_item_res_chest_to_curse.webp"
   },
   {
-    "revision": "9911825f145f9f183f20fe32a0c67933",
+    "revision": "5b1c76b6c30ab039343a9fe589d89124",
     "url": "/AbyssExplorer/item/5_02_item_res_coin250.png"
   },
   {
@@ -2012,7 +2012,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_02_item_res_coin250.webp"
   },
   {
-    "revision": "146cd388fb7a70eef4d036fc5532c496",
+    "revision": "b5ef3c95c2e6cda52395da8db3598e2a",
     "url": "/AbyssExplorer/item/5_02_item_res_coin999.png"
   },
   {
@@ -2020,7 +2020,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_02_item_res_coin999.webp"
   },
   {
-    "revision": "beb83e5ac866b844a82499895bca948b",
+    "revision": "1b1ce7e829d63ac2f84bf66d6c5f0189",
     "url": "/AbyssExplorer/item/5_02_item_res_coin_instead_key.png"
   },
   {
@@ -2028,7 +2028,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_02_item_res_coin_instead_key.webp"
   },
   {
-    "revision": "9df3a7b56fcc8c031e432a543fd6a024",
+    "revision": "6d5f6c4a8336fb4872dba57646b1aa53",
     "url": "/AbyssExplorer/item/5_02_item_res_double_bomb.png"
   },
   {
@@ -2036,7 +2036,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_02_item_res_double_bomb.webp"
   },
   {
-    "revision": "6fc8c4bcc124194a051323bef283bb55",
+    "revision": "8b4042b04fba903f2e4aa8b477868d24",
     "url": "/AbyssExplorer/item/5_02_item_res_extra_coin.png"
   },
   {
@@ -2044,7 +2044,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_02_item_res_extra_coin.webp"
   },
   {
-    "revision": "74993126ccf69014886bf116dc4d8f65",
+    "revision": "2a5c0db6afd543c7fad68d44161acd42",
     "url": "/AbyssExplorer/item/5_02_item_res_extra_key.png"
   },
   {
@@ -2052,7 +2052,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_02_item_res_extra_key.webp"
   },
   {
-    "revision": "696418a6d7868f3a1a897e6da6d3dc24",
+    "revision": "9924b8b8f0e9ac6c19fd15eb64126e54",
     "url": "/AbyssExplorer/item/5_02_item_res_heart_instead_key.png"
   },
   {
@@ -2060,7 +2060,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_02_item_res_heart_instead_key.webp"
   },
   {
-    "revision": "eff2a0c1941baeeb403a004fdb7a5dcc",
+    "revision": "e76c36675d297b0dee832662431b9dff",
     "url": "/AbyssExplorer/item/5_02_item_res_key99.png"
   },
   {
@@ -2068,7 +2068,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_02_item_res_key99.webp"
   },
   {
-    "revision": "b8a9d0d3e806b2e7b344579cf1d7c478",
+    "revision": "ec7fd95ce17e800d6a53c2855b09afb2",
     "url": "/AbyssExplorer/item/5_02_item_res_shop_halfprice.png"
   },
   {
@@ -2076,7 +2076,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_02_item_res_shop_halfprice.webp"
   },
   {
-    "revision": "59233fef5ee6a9895b40dc8bed7d9a28",
+    "revision": "87a31be4bc3794dc069c9aeb8f2fbaaf",
     "url": "/AbyssExplorer/item/5_02_item_res_shop_refesh.png"
   },
   {
@@ -2084,7 +2084,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_02_item_res_shop_refesh.webp"
   },
   {
-    "revision": "db6f78d8be5b17528fac9dce20f5b26e",
+    "revision": "dce548956dc2fdc1d0a907cbaefde565",
     "url": "/AbyssExplorer/item/5_02_item_shield_damageUP.png"
   },
   {
@@ -2092,7 +2092,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_02_item_shield_damageUP.webp"
   },
   {
-    "revision": "e9d26dd4ef58ce03b7f0d1842582272a",
+    "revision": "9318ad4ee80e8cf214f701561f85313c",
     "url": "/AbyssExplorer/item/5_02_item_shield_frist.png"
   },
   {
@@ -2100,7 +2100,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_02_item_shield_frist.webp"
   },
   {
-    "revision": "259f7d430297dc92bba36699432e9ea2",
+    "revision": "6fab816d4601527e89120d98f820f8d4",
     "url": "/AbyssExplorer/item/5_02_item_shield_levelup.png"
   },
   {
@@ -2108,7 +2108,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_02_item_shield_levelup.webp"
   },
   {
-    "revision": "5d296176e41d65ffbddbde0b3e26bcda",
+    "revision": "1c2c31e3de391df6813c61066a655f37",
     "url": "/AbyssExplorer/item/5_02_item_shield_melee_dmgup.png"
   },
   {
@@ -2116,7 +2116,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_02_item_shield_melee_dmgup.webp"
   },
   {
-    "revision": "9f408ea960f8feeb59dddbd1a6c0aed8",
+    "revision": "a3e942dbdadc601b40f0c018b89b2d54",
     "url": "/AbyssExplorer/item/5_02_item_shield_rpmup.png"
   },
   {
@@ -2124,7 +2124,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_02_item_shield_rpmup.webp"
   },
   {
-    "revision": "5e600d280b437d9fe7cd78e54cac151a",
+    "revision": "6dc256a0c9e478576cb09201040f1d22",
     "url": "/AbyssExplorer/item/5_02_item_shield_to_coins.png"
   },
   {
@@ -2132,7 +2132,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_02_item_shield_to_coins.webp"
   },
   {
-    "revision": "9b39022b98bbef131a70d99e6c554e39",
+    "revision": "66b590573c00a7ef2ee1415f7abd8822",
     "url": "/AbyssExplorer/item/5_02_item_shield_zero_defend.png"
   },
   {
@@ -2140,7 +2140,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_02_item_shield_zero_defend.webp"
   },
   {
-    "revision": "3284ba5b568c7832e5978223fad594a6",
+    "revision": "94e384fc03bd87789a144ef001aa5932",
     "url": "/AbyssExplorer/item/5_02_item_shield_zero_jump.png"
   },
   {
@@ -2148,7 +2148,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_02_item_shield_zero_jump.webp"
   },
   {
-    "revision": "f789c0b775857919002d28b1213f64e7",
+    "revision": "fb8ad82df96a3dad5e62453c60d50fcf",
     "url": "/AbyssExplorer/item/5_03_item_defend_back.png"
   },
   {
@@ -2156,7 +2156,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_03_item_defend_back.webp"
   },
   {
-    "revision": "a72e641d1f829ea9309ea6732b4930e5",
+    "revision": "a494ab571c1ef1de00239aa08fbe60e1",
     "url": "/AbyssExplorer/item/5_03_item_defend_bullet.png"
   },
   {
@@ -2164,7 +2164,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_03_item_defend_bullet.webp"
   },
   {
-    "revision": "80515759381abb6ed7c0bdd539cd3499",
+    "revision": "63959e02a8dd88bc3fc8d5e3bf575a7f",
     "url": "/AbyssExplorer/item/5_03_item_defend_melee.png"
   },
   {
@@ -2172,7 +2172,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_03_item_defend_melee.webp"
   },
   {
-    "revision": "b9bab0d8e761daaa543e15ac1ff0eb65",
+    "revision": "df7a3643aaa5e68dac285208910cee91",
     "url": "/AbyssExplorer/item/5_03_item_defend_once_room.png"
   },
   {
@@ -2180,7 +2180,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_03_item_defend_once_room.webp"
   },
   {
-    "revision": "63d3e7a42d2bc212c771203920d69aec",
+    "revision": "368f41079186dfa03f44bdb5c96c5222",
     "url": "/AbyssExplorer/item/5_03_item_defend_trap.png"
   },
   {
@@ -2188,7 +2188,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_03_item_defend_trap.webp"
   },
   {
-    "revision": "e1799a6becee85fc8633b1223164cede",
+    "revision": "e80bb732849fcae5b3225379c09ac2a2",
     "url": "/AbyssExplorer/item/5_03_item_hurt_attack_gunlevel_up.png"
   },
   {
@@ -2196,7 +2196,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_03_item_hurt_attack_gunlevel_up.webp"
   },
   {
-    "revision": "618591a0385888368ba876e1d7b6fa8c",
+    "revision": "6391cb2e91de2cd48cf16eb29474237c",
     "url": "/AbyssExplorer/item/5_03_item_hurt_attack_speed_up.png"
   },
   {
@@ -2204,7 +2204,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_03_item_hurt_attack_speed_up.webp"
   },
   {
-    "revision": "0f344110629c2888032c5e20b1ef9374",
+    "revision": "1f82251dc37a384fbacc69c32e1db220",
     "url": "/AbyssExplorer/item/5_03_item_hurt_damageUP.png"
   },
   {
@@ -2212,7 +2212,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_03_item_hurt_damageUP.webp"
   },
   {
-    "revision": "e9c94ec0d10c4b196deedb248feb4ba8",
+    "revision": "b61195b7bb79193e283f834b84bd90e0",
     "url": "/AbyssExplorer/item/5_03_item_hurt_drop_bomb.png"
   },
   {
@@ -2220,7 +2220,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_03_item_hurt_drop_bomb.webp"
   },
   {
-    "revision": "8841718eaa2c8a4f9711ba713d29cf75",
+    "revision": "ef1b12c86ce14ec76e2d3eb8f3a305c5",
     "url": "/AbyssExplorer/item/5_03_item_hurt_drop_coin.png"
   },
   {
@@ -2228,7 +2228,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_03_item_hurt_drop_coin.webp"
   },
   {
-    "revision": "93f0f42a1f8a92f12cce3b419de308b7",
+    "revision": "91e285fffce0d7f3505236acd30556fc",
     "url": "/AbyssExplorer/item/5_03_item_hurt_drop_crystal.png"
   },
   {
@@ -2236,7 +2236,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_03_item_hurt_drop_crystal.webp"
   },
   {
-    "revision": "537f2d1bfb48cbc91246ffcdd541f607",
+    "revision": "e9c7476b75af8d2b0bbb27921f6ba417",
     "url": "/AbyssExplorer/item/5_03_item_hurt_drop_random_pickup.png"
   },
   {
@@ -2244,7 +2244,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_03_item_hurt_drop_random_pickup.webp"
   },
   {
-    "revision": "000734617d9e02e9fb351910d05e1cad",
+    "revision": "e42d29c47d9ac920975cd6f3ba9e5348",
     "url": "/AbyssExplorer/item/5_03_item_hurt_drop_shield.png"
   },
   {
@@ -2252,7 +2252,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_03_item_hurt_drop_shield.webp"
   },
   {
-    "revision": "04bfc74dc5518c6ad4ef9d987f628e51",
+    "revision": "133c257df1c9d7a366624a22b31ac3a8",
     "url": "/AbyssExplorer/item/5_03_item_hurt_elec_ring.png"
   },
   {
@@ -2260,7 +2260,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_03_item_hurt_elec_ring.webp"
   },
   {
-    "revision": "69283082c2c27300736b38bd7a28ba0f",
+    "revision": "1148a4cba071ff68b8464da0f1d74435",
     "url": "/AbyssExplorer/item/5_03_item_hurt_explo_key.png"
   },
   {
@@ -2268,7 +2268,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_03_item_hurt_explo_key.webp"
   },
   {
-    "revision": "8a6b6a75fb25490393286e15fc56708d",
+    "revision": "af5313651cdcd6f22ab21988f190a133",
     "url": "/AbyssExplorer/item/5_03_item_hurt_explosion.png"
   },
   {
@@ -2276,7 +2276,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_03_item_hurt_explosion.webp"
   },
   {
-    "revision": "f82c2890c90f3cab75112d6c6b955f7b",
+    "revision": "d85284df2f7ccf87548f3185cf8c6fdb",
     "url": "/AbyssExplorer/item/5_03_item_hurt_fs.png"
   },
   {
@@ -2284,7 +2284,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_03_item_hurt_fs.webp"
   },
   {
-    "revision": "a0a3fe10ecf5eee6b8a938fdae14d4dd",
+    "revision": "cf4555042b6f467590913d79a244ca6a",
     "url": "/AbyssExplorer/item/5_03_item_hurt_gain_mana.png"
   },
   {
@@ -2292,7 +2292,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_03_item_hurt_gain_mana.webp"
   },
   {
-    "revision": "466ca59534535748e471854c7f203133",
+    "revision": "8152c3814b4965b9c42daec18fe3bef2",
     "url": "/AbyssExplorer/item/5_03_item_hurt_gain_shield.png"
   },
   {
@@ -2300,7 +2300,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_03_item_hurt_gain_shield.webp"
   },
   {
-    "revision": "9e785869fb045de1f3c5b815696f9382",
+    "revision": "f272791f70ce7bca5ef42f189981da33",
     "url": "/AbyssExplorer/item/5_03_item_hurt_get_item.png"
   },
   {
@@ -2308,7 +2308,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_03_item_hurt_get_item.webp"
   },
   {
-    "revision": "e1d4f85d7a93374a38bc0d4b28cd9aad",
+    "revision": "f43f5ec51da32d337d702b3075324b07",
     "url": "/AbyssExplorer/item/5_03_item_hurt_gs.png"
   },
   {
@@ -2316,7 +2316,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_03_item_hurt_gs.webp"
   },
   {
-    "revision": "aac07fb5786dd71dec1ecdd79f1f1fe7",
+    "revision": "fbbd6655042c3f5d5325835816beb7ae",
     "url": "/AbyssExplorer/item/5_03_item_hurt_last_attack.png"
   },
   {
@@ -2324,7 +2324,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_03_item_hurt_last_attack.webp"
   },
   {
-    "revision": "965124f7e397efa7de5eafa9256585fc",
+    "revision": "98c76471e8afb09579363c177745f3c3",
     "url": "/AbyssExplorer/item/5_03_item_hurt_last_fly.png"
   },
   {
@@ -2332,7 +2332,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_03_item_hurt_last_fly.webp"
   },
   {
-    "revision": "a3a0903fec20bc74290b9f03465e62fe",
+    "revision": "5c76b0f68af3fcbaeab52b40d6159e89",
     "url": "/AbyssExplorer/item/5_03_item_hurt_last_stand.png"
   },
   {
@@ -2340,7 +2340,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_03_item_hurt_last_stand.webp"
   },
   {
-    "revision": "54ded9951c7c5be1ee24a216be974db2",
+    "revision": "2bc7ca765cf95560c94677ed78e834cf",
     "url": "/AbyssExplorer/item/5_03_item_hurt_only_half.png"
   },
   {
@@ -2348,7 +2348,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_03_item_hurt_only_half.webp"
   },
   {
-    "revision": "5e0b1f142cff87156bac2b75ad4910df",
+    "revision": "2b45a2f73db28f15c0ae0d0d37e836c4",
     "url": "/AbyssExplorer/item/5_03_item_hurt_zero_or_double.png"
   },
   {
@@ -2356,7 +2356,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_03_item_hurt_zero_or_double.webp"
   },
   {
-    "revision": "c47f88a70cd3be9cde3d02b5961b13b9",
+    "revision": "292b8d353c4739b9fc4f0e5201092775",
     "url": "/AbyssExplorer/item/5_03_item_immu_explo_0.png"
   },
   {
@@ -2364,7 +2364,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_03_item_immu_explo_0.webp"
   },
   {
-    "revision": "7e85ea552fd2072d0ff8ed3ee953b97d",
+    "revision": "b5af8258b1417badcfe2eab86939ad2d",
     "url": "/AbyssExplorer/item/5_03_item_immu_explo_get_heart.png"
   },
   {
@@ -2372,7 +2372,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_03_item_immu_explo_get_heart.webp"
   },
   {
-    "revision": "8b5506920c72458312dbb55215ce42cc",
+    "revision": "763d486f934f06e40236aab4a27608dd",
     "url": "/AbyssExplorer/item/5_03_item_touch_melee.png"
   },
   {
@@ -2380,7 +2380,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_03_item_touch_melee.webp"
   },
   {
-    "revision": "74df5e8ac00122e685036588357a2a97",
+    "revision": "8f76989b0176d29414a671d3a5084613",
     "url": "/AbyssExplorer/item/5_04_item_attack_back_damageUP.png"
   },
   {
@@ -2388,7 +2388,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_04_item_attack_back_damageUP.webp"
   },
   {
-    "revision": "f83286b1cad5cfa0e6263fa8876b3f0e",
+    "revision": "4f469272623d5b2f64a46dd7d9efd384",
     "url": "/AbyssExplorer/item/5_04_item_attack_continue_damageUP.png"
   },
   {
@@ -2396,7 +2396,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_04_item_attack_continue_damageUP.webp"
   },
   {
-    "revision": "d4f9912f6113ad45637449a59316fcf6",
+    "revision": "68680cd29fd96026aa0d9b558ed93fc2",
     "url": "/AbyssExplorer/item/5_04_item_kill_bomb_bee.png"
   },
   {
@@ -2404,7 +2404,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_04_item_kill_bomb_bee.webp"
   },
   {
-    "revision": "5f00b84ef405b8b59a970707d667309b",
+    "revision": "a40cafc1ca3cba92ed5c8b030955f2fd",
     "url": "/AbyssExplorer/item/5_04_item_kill_bomb_heart.png"
   },
   {
@@ -2412,7 +2412,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_04_item_kill_bomb_heart.webp"
   },
   {
-    "revision": "c7d68b4d925428af9750c3854fd9c48a",
+    "revision": "0f264889d631f64122b2a7fd9ee5c14c",
     "url": "/AbyssExplorer/item/5_04_item_kill_bomb_shield.png"
   },
   {
@@ -2420,7 +2420,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_04_item_kill_bomb_shield.webp"
   },
   {
-    "revision": "622abcd95e3ad2b5fc656ca99bd54134",
+    "revision": "376a0cec4603fe976e96312fcbf04dc1",
     "url": "/AbyssExplorer/item/5_04_item_kill_damgeUP.png"
   },
   {
@@ -2428,7 +2428,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_04_item_kill_damgeUP.webp"
   },
   {
-    "revision": "337789ef449e29b8bc8b1c2ec892d529",
+    "revision": "c13d1989ac80a54c7e3d30aad9b8b13e",
     "url": "/AbyssExplorer/item/5_04_item_kill_double_coin.png"
   },
   {
@@ -2436,7 +2436,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_04_item_kill_double_coin.webp"
   },
   {
-    "revision": "a837c9c27425eb4d05321c5361820d3b",
+    "revision": "e45425ca81ffef37c65708be0d9ea2da",
     "url": "/AbyssExplorer/item/5_04_item_kill_get_bomb_count.png"
   },
   {
@@ -2444,7 +2444,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_04_item_kill_get_bomb_count.webp"
   },
   {
-    "revision": "fcae577e70b1f8110db85e283b231281",
+    "revision": "83f41dcb015d9dfd69939170f539cc63",
     "url": "/AbyssExplorer/item/5_04_item_kill_get_eggs_count.png"
   },
   {
@@ -2452,7 +2452,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_04_item_kill_get_eggs_count.webp"
   },
   {
-    "revision": "6d3c84750848d1ed2125b23a2229020c",
+    "revision": "eea990f9306ee2516e05c1009c4023d1",
     "url": "/AbyssExplorer/item/5_04_item_kill_get_key_count.png"
   },
   {
@@ -2460,7 +2460,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_04_item_kill_get_key_count.webp"
   },
   {
-    "revision": "8b1255fc554f20674cd73afda5c1bbf6",
+    "revision": "374721d3111d4e646ffc9176eebe7962",
     "url": "/AbyssExplorer/item/5_04_item_kill_get_shield_count.png"
   },
   {
@@ -2468,7 +2468,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_04_item_kill_get_shield_count.webp"
   },
   {
-    "revision": "e5ad5b06c162c49d2ee1ae15297d09ae",
+    "revision": "fce52d568f1e6f1b45f0223be4ca01fb",
     "url": "/AbyssExplorer/item/5_04_item_kill_player_explo.png"
   },
   {
@@ -2476,7 +2476,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_04_item_kill_player_explo.webp"
   },
   {
-    "revision": "c4dec2591b90b3f633eac2a98eef0607",
+    "revision": "e1efbe1769d18befe0fa6a78c83a986b",
     "url": "/AbyssExplorer/item/5_04_item_kill_player_shell.png"
   },
   {
@@ -2484,7 +2484,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_04_item_kill_player_shell.webp"
   },
   {
-    "revision": "16728e4395dfef8c7b199a902250a514",
+    "revision": "a4a761d033ceffbc2c3d1bac3f5e7736",
     "url": "/AbyssExplorer/item/5_04_item_kill_recover_heart_chance.png"
   },
   {
@@ -2492,7 +2492,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_04_item_kill_recover_heart_chance.webp"
   },
   {
-    "revision": "df59c98df4536111f10e43c0c86b6c90",
+    "revision": "7fb276086a7a00ab22876c8d5999c8d8",
     "url": "/AbyssExplorer/item/5_04_item_kill_recover_heart_count.png"
   },
   {
@@ -2500,7 +2500,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_04_item_kill_recover_heart_count.webp"
   },
   {
-    "revision": "78e3e9626a2de51fab5c29e791b1730d",
+    "revision": "e0bb911d70da9bada133e9a486eb8453",
     "url": "/AbyssExplorer/item/5_04_item_kill_recover_mana_count.png"
   },
   {
@@ -2508,7 +2508,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_04_item_kill_recover_mana_count.webp"
   },
   {
-    "revision": "71c04c0b13938e2a6c2177cef2af67ab",
+    "revision": "5ee4b52ce6a1a356d61bc1eadcdcc472",
     "url": "/AbyssExplorer/item/5_04_item_kill_rpmUP.png"
   },
   {
@@ -2516,7 +2516,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_04_item_kill_rpmUP.webp"
   },
   {
-    "revision": "dfe72c46c8a0f417d446401fd8ff54e8",
+    "revision": "d0c9ac21504c0fc83d5a06c2c113f891",
     "url": "/AbyssExplorer/item/5_04_item_kill_to_explo.png"
   },
   {
@@ -2524,7 +2524,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_04_item_kill_to_explo.webp"
   },
   {
-    "revision": "f6a54ded51c593f3faa7f3b79528b7bc",
+    "revision": "8281e0afb6b7a00136620ee6c18b3294",
     "url": "/AbyssExplorer/item/5_04_item_kill_weaponUP.png"
   },
   {
@@ -2532,7 +2532,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_04_item_kill_weaponUP.webp"
   },
   {
-    "revision": "7d4b8b2fc215ace04669ff7f0078bb62",
+    "revision": "ee232976cc0dc18026a6ca4abb1ad43b",
     "url": "/AbyssExplorer/item/5_04_item_weapon_air_damUP.png"
   },
   {
@@ -2540,7 +2540,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_04_item_weapon_air_damUP.webp"
   },
   {
-    "revision": "af4a1867ea47354073c643a044b00b77",
+    "revision": "177f0062335bee5dce2ead892b0bd47c",
     "url": "/AbyssExplorer/item/5_05_item_bullet_bighit_1of10.png"
   },
   {
@@ -2548,7 +2548,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_05_item_bullet_bighit_1of10.webp"
   },
   {
-    "revision": "98f02417e370f9d94590f8da79b101ec",
+    "revision": "f9e2883b2928e4941c557e7f4f025f1f",
     "url": "/AbyssExplorer/item/5_05_item_bullet_bighit_chance.png"
   },
   {
@@ -2556,7 +2556,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_05_item_bullet_bighit_chance.webp"
   },
   {
-    "revision": "47690b94951cfcb1cf17501e1e5b8666",
+    "revision": "49366df8f5e61fa5ade6addcd1e12ba5",
     "url": "/AbyssExplorer/item/5_05_item_bullet_chase.png"
   },
   {
@@ -2564,7 +2564,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_05_item_bullet_chase.webp"
   },
   {
-    "revision": "3d8f57b9d196d06ea2c21595a083097e",
+    "revision": "145fa8b102675e6617b720d1311e6049",
     "url": "/AbyssExplorer/item/5_05_item_bullet_dis_explo.png"
   },
   {
@@ -2572,7 +2572,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_05_item_bullet_dis_explo.webp"
   },
   {
-    "revision": "cb22a8bbfb67e07d959b16063a04ebf0",
+    "revision": "ff68b846ca55a6b5215f84982c5b2c5d",
     "url": "/AbyssExplorer/item/5_05_item_bullet_dis_fireworks.png"
   },
   {
@@ -2580,7 +2580,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_05_item_bullet_dis_fireworks.webp"
   },
   {
-    "revision": "b446e00e9b64dc743acae6ba2c1ef25a",
+    "revision": "25bb2ebd14cf493e2779455736020e66",
     "url": "/AbyssExplorer/item/5_05_item_bullet_dis_platform.png"
   },
   {
@@ -2588,7 +2588,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_05_item_bullet_dis_platform.webp"
   },
   {
-    "revision": "cbee18da63131c82fab73fa3aefc3619",
+    "revision": "7bec15d1daffa07dc86cf515eb96d57c",
     "url": "/AbyssExplorer/item/5_05_item_bullet_dis_spread_1.png"
   },
   {
@@ -2596,7 +2596,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_05_item_bullet_dis_spread_1.webp"
   },
   {
-    "revision": "51efd41bc04f288cc90e8ad94d98662c",
+    "revision": "2842d14b3c2bc7db6747471c2eb2097b",
     "url": "/AbyssExplorer/item/5_05_item_bullet_dis_spread_2.png"
   },
   {
@@ -2604,7 +2604,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_05_item_bullet_dis_spread_2.webp"
   },
   {
-    "revision": "2624cd9e474a2abdcc5bf03b49a547f0",
+    "revision": "0d44fcb5da74f9d1cf0656ccddf2494a",
     "url": "/AbyssExplorer/item/5_05_item_bullet_dis_spread_3.png"
   },
   {
@@ -2612,7 +2612,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_05_item_bullet_dis_spread_3.webp"
   },
   {
-    "revision": "7ae690cd32d48fa0a6760955feed0caa",
+    "revision": "6f9b66046660ee45329e1ac56162898f",
     "url": "/AbyssExplorer/item/5_05_item_bullet_reflect.png"
   },
   {
@@ -2620,7 +2620,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_05_item_bullet_reflect.webp"
   },
   {
-    "revision": "69ad80f08c3e626e5431d1bfb7e889cb",
+    "revision": "11c42d100ecc8000b3383ded417b14da",
     "url": "/AbyssExplorer/item/5_05_item_bullet_shield.png"
   },
   {
@@ -2628,7 +2628,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_05_item_bullet_shield.webp"
   },
   {
-    "revision": "cbdfb41d2c67a169547d603b46769581",
+    "revision": "c8f2f1bac632e9669e99dc051d9fda25",
     "url": "/AbyssExplorer/item/5_05_item_bullet_tag_electric.png"
   },
   {
@@ -2636,7 +2636,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_05_item_bullet_tag_electric.webp"
   },
   {
-    "revision": "4f646243ec6309920e12a7f6d1331ab5",
+    "revision": "5f2ca2a53f486ede9ca642ae769e8aa1",
     "url": "/AbyssExplorer/item/5_05_item_bullet_tag_fire.png"
   },
   {
@@ -2644,7 +2644,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_05_item_bullet_tag_fire.webp"
   },
   {
-    "revision": "f13b4f6acab3de88d2a90f25e6c6c4ea",
+    "revision": "f89db95d208d41f496b83399fe15d832",
     "url": "/AbyssExplorer/item/5_05_item_bullet_tag_ice.png"
   },
   {
@@ -2652,7 +2652,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_05_item_bullet_tag_ice.webp"
   },
   {
-    "revision": "a5efe73659351dbd53cf55d0fea6224b",
+    "revision": "e32b8eccb13678f7b9f5088588a42a4c",
     "url": "/AbyssExplorer/item/5_05_item_bullet_tag_poison.png"
   },
   {
@@ -2660,7 +2660,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_05_item_bullet_tag_poison.webp"
   },
   {
-    "revision": "0ab4c3fe6a71c0588d1f56a5c3f8c4e6",
+    "revision": "f1673ce3c9395d6fd55c18879e6460b4",
     "url": "/AbyssExplorer/item/5_05_item_bullet_through_monster.png"
   },
   {
@@ -2668,7 +2668,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_05_item_bullet_through_monster.webp"
   },
   {
-    "revision": "e497286c60c55538ffb834f1b18ed6b3",
+    "revision": "e95fb8f5a10bc0f111e1b4e7eebd6711",
     "url": "/AbyssExplorer/item/5_05_item_bullet_through_wall.png"
   },
   {
@@ -2676,7 +2676,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_05_item_bullet_through_wall.webp"
   },
   {
-    "revision": "13c36c6f2b459621cbd760a4e3111882",
+    "revision": "720531375ef13c6b29b5afa548930a03",
     "url": "/AbyssExplorer/item/5_05_item_sub_bouncy.png"
   },
   {
@@ -2684,7 +2684,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_05_item_sub_bouncy.webp"
   },
   {
-    "revision": "e6f2540a2ff04a07f4583500a8820648",
+    "revision": "1146e219e7b7c3dc7c8366bfbb5ce13e",
     "url": "/AbyssExplorer/item/5_05_item_sub_chase.png"
   },
   {
@@ -2692,7 +2692,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_05_item_sub_chase.webp"
   },
   {
-    "revision": "f335959056e0bf42b771419661c8d060",
+    "revision": "7b9a70e8cb2013d18e2ef165a8d131bb",
     "url": "/AbyssExplorer/item/5_05_item_sub_laser_fast.png"
   },
   {
@@ -2700,7 +2700,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_05_item_sub_laser_fast.webp"
   },
   {
-    "revision": "dbda8da0eceb85959f4b66f7cea12638",
+    "revision": "028bdf9eb6bae44a8a2c8e95fc08a28e",
     "url": "/AbyssExplorer/item/5_05_item_sub_mouse.png"
   },
   {
@@ -2708,7 +2708,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_05_item_sub_mouse.webp"
   },
   {
-    "revision": "96080b862f109ba76b68e9acde7aebe8",
+    "revision": "8e004cb1d4cfb918de2a29a485ff3732",
     "url": "/AbyssExplorer/item/5_05_item_sub_reflect.png"
   },
   {
@@ -2716,7 +2716,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_05_item_sub_reflect.webp"
   },
   {
-    "revision": "3fe8789d2843c0eb5b0b67d548c897ac",
+    "revision": "5e4fe7304071d1cd94794eb94c3e0f14",
     "url": "/AbyssExplorer/item/5_05_item_sub_rocket.png"
   },
   {
@@ -2724,7 +2724,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_05_item_sub_rocket.webp"
   },
   {
-    "revision": "9e77dc51027fc64e9e3607b90452593c",
+    "revision": "4356a331d9234f4a84acbb7680e2c949",
     "url": "/AbyssExplorer/item/5_05_item_sub_shotgun.png"
   },
   {
@@ -2732,7 +2732,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_05_item_sub_shotgun.webp"
   },
   {
-    "revision": "5bc6db971cb5623598141c53ed5a80bb",
+    "revision": "3d696d5ec64a2999ae9815791884735a",
     "url": "/AbyssExplorer/item/5_05_item_sub_tag_electric.png"
   },
   {
@@ -2740,7 +2740,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_05_item_sub_tag_electric.webp"
   },
   {
-    "revision": "2703c634f570cf30ebd24378daef467a",
+    "revision": "f3eff6172a813d7f723195a2721dd0fb",
     "url": "/AbyssExplorer/item/5_05_item_sub_tag_fire.png"
   },
   {
@@ -2748,7 +2748,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_05_item_sub_tag_fire.webp"
   },
   {
-    "revision": "37566d88961ed030cd143f7b53a2eccb",
+    "revision": "ee9e0f54fa66240288889a069fc0b6dd",
     "url": "/AbyssExplorer/item/5_05_item_sub_tag_ice.png"
   },
   {
@@ -2756,7 +2756,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_05_item_sub_tag_ice.webp"
   },
   {
-    "revision": "eb0a24d462d2d7e6764d7fce4ff12eef",
+    "revision": "586ecb4fa36ee20def58fb47d792fdd5",
     "url": "/AbyssExplorer/item/5_05_item_sub_tag_poison.png"
   },
   {
@@ -2764,7 +2764,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_05_item_sub_tag_poison.webp"
   },
   {
-    "revision": "a4761b46fb79650bdf80423665bd164f",
+    "revision": "f5fccc642b797f44436bc2f58c7a77d2",
     "url": "/AbyssExplorer/item/5_05_item_sub_tag_random.png"
   },
   {
@@ -2772,7 +2772,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_05_item_sub_tag_random.webp"
   },
   {
-    "revision": "bb66e6fa8a3a3e55f51da0674dc68368",
+    "revision": "2b7ea252ed87d80b20243d24e51c1d1a",
     "url": "/AbyssExplorer/item/5_05_item_sub_through.png"
   },
   {
@@ -2780,7 +2780,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_05_item_sub_through.webp"
   },
   {
-    "revision": "8ad476becb620f5f1e4feb16c1971e95",
+    "revision": "04f56d95572fa1560088e83d722a3e60",
     "url": "/AbyssExplorer/item/5_06_item_melee_air_dmgUP.png"
   },
   {
@@ -2788,7 +2788,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_06_item_melee_air_dmgUP.webp"
   },
   {
-    "revision": "39a1615220d9fa4ca3642c24166653c1",
+    "revision": "20965ee26e956f89490813943ca6f8b2",
     "url": "/AbyssExplorer/item/5_06_item_melee_box_coin.png"
   },
   {
@@ -2796,7 +2796,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_06_item_melee_box_coin.webp"
   },
   {
-    "revision": "c43a191c687924c39d6f016e6424dc8e",
+    "revision": "f9f357d5e10cf9255d4722d16c21a5f6",
     "url": "/AbyssExplorer/item/5_06_item_melee_coin_dmgUP.png"
   },
   {
@@ -2804,7 +2804,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_06_item_melee_coin_dmgUP.webp"
   },
   {
-    "revision": "4c09632d932d8313fe92d33307c61254",
+    "revision": "5a9aebbec0041b6658a92604aca2925b",
     "url": "/AbyssExplorer/item/5_06_item_melee_count_dmgUP.png"
   },
   {
@@ -2812,7 +2812,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_06_item_melee_count_dmgUP.webp"
   },
   {
-    "revision": "4d99c1d5e92fc499cc3aec3aa3e89d5b",
+    "revision": "a410d60d9b46f005b0d078cfcf4e1172",
     "url": "/AbyssExplorer/item/5_06_item_melee_death_explo.png"
   },
   {
@@ -2820,7 +2820,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_06_item_melee_death_explo.webp"
   },
   {
-    "revision": "5f23868643a714807c01d9324b1bc964",
+    "revision": "9e651bbb69e459d73e6ea7a770045402",
     "url": "/AbyssExplorer/item/5_06_item_melee_dmgUP.png"
   },
   {
@@ -2828,7 +2828,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_06_item_melee_dmgUP.webp"
   },
   {
-    "revision": "6e7fe015f1e4356d9ebc1d3be0aec496",
+    "revision": "cb8d5894a000cd5d040ef48d1a1bc287",
     "url": "/AbyssExplorer/item/5_06_item_melee_drop_instantbomb.png"
   },
   {
@@ -2836,7 +2836,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_06_item_melee_drop_instantbomb.webp"
   },
   {
-    "revision": "9c66996c00dfa739605f406b6a59e4fc",
+    "revision": "ea6ae8a234ee08b44bee858fb0b5e51d",
     "url": "/AbyssExplorer/item/5_06_item_melee_egg_dmgUP.png"
   },
   {
@@ -2844,7 +2844,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_06_item_melee_egg_dmgUP.webp"
   },
   {
-    "revision": "9829d2055e9fdb95ff4e81bf78509457",
+    "revision": "f2b5ed72745d997dfbbcec083b0757fa",
     "url": "/AbyssExplorer/item/5_06_item_melee_egg_rangeUP.png"
   },
   {
@@ -2852,7 +2852,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_06_item_melee_egg_rangeUP.webp"
   },
   {
-    "revision": "f7295b50a4583034d1d680d019e01d4e",
+    "revision": "bb2a84650c08a724ee64f299cea3e4b2",
     "url": "/AbyssExplorer/item/5_06_item_melee_elec.png"
   },
   {
@@ -2860,7 +2860,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_06_item_melee_elec.webp"
   },
   {
-    "revision": "e93e88e80b89746379bf8c3a9f808cc4",
+    "revision": "93cca580966cb95ca1fe5d92c1388c9a",
     "url": "/AbyssExplorer/item/5_06_item_melee_fire.png"
   },
   {
@@ -2868,7 +2868,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_06_item_melee_fire.webp"
   },
   {
-    "revision": "5c80d55ba31d9877ee853136b222b6f3",
+    "revision": "0ace5b0d8f4699ce19d2ac217395845f",
     "url": "/AbyssExplorer/item/5_06_item_melee_gain_heart.png"
   },
   {
@@ -2876,7 +2876,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_06_item_melee_gain_heart.webp"
   },
   {
-    "revision": "0ebc338e48fca6a60b3e6b19b716f07e",
+    "revision": "7953a2175dd8599b8d5d7991a82ea6fd",
     "url": "/AbyssExplorer/item/5_06_item_melee_get_bomb.png"
   },
   {
@@ -2884,7 +2884,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_06_item_melee_get_bomb.webp"
   },
   {
-    "revision": "b6661454c48f0c7ee690e9979729d5bf",
+    "revision": "f626a68c4e842b3c70dc65c0c33c2cf4",
     "url": "/AbyssExplorer/item/5_06_item_melee_get_egg.png"
   },
   {
@@ -2892,7 +2892,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_06_item_melee_get_egg.webp"
   },
   {
-    "revision": "b26dcaaf1b99aaae51c40c07e8fbc932",
+    "revision": "858d7b2f3d35e3133f233a66901df726",
     "url": "/AbyssExplorer/item/5_06_item_melee_get_key.png"
   },
   {
@@ -2900,7 +2900,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_06_item_melee_get_key.webp"
   },
   {
-    "revision": "943bb24a8eae837ea9050ce18bd7709b",
+    "revision": "9ab51160806443106cbf39209b7cf094",
     "url": "/AbyssExplorer/item/5_06_item_melee_get_mana.png"
   },
   {
@@ -2908,7 +2908,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_06_item_melee_get_mana.webp"
   },
   {
-    "revision": "3a50dce897f6b71011fdc216269a4fd7",
+    "revision": "cb6777c64ed8486fd731f7e5d7427d2c",
     "url": "/AbyssExplorer/item/5_06_item_melee_get_moreCoin.png"
   },
   {
@@ -2916,7 +2916,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_06_item_melee_get_moreCoin.webp"
   },
   {
-    "revision": "b1cfa7b9af5a6c72f530c36af232b0aa",
+    "revision": "1be8f7a0f5835f6f6b7bcfc2b8f45a9b",
     "url": "/AbyssExplorer/item/5_06_item_melee_get_shield.png"
   },
   {
@@ -2924,7 +2924,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_06_item_melee_get_shield.webp"
   },
   {
-    "revision": "2e8c3b8eb23053db753a763b5da037bb",
+    "revision": "d030073466e54e5070f6f6778aa033d9",
     "url": "/AbyssExplorer/item/5_06_item_melee_hurt_dmgUP.png"
   },
   {
@@ -2932,7 +2932,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_06_item_melee_hurt_dmgUP.webp"
   },
   {
-    "revision": "b0820e6458c93327453c3fe75b13db00",
+    "revision": "f791d1f4b980bbed9855bc6f1c47ef0d",
     "url": "/AbyssExplorer/item/5_06_item_melee_jump_dmgUP.png"
   },
   {
@@ -2940,7 +2940,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_06_item_melee_jump_dmgUP.webp"
   },
   {
-    "revision": "922e7b870a7f4f4de4ce3082ca566285",
+    "revision": "7710d5f8f30bbc547b644983a9921de0",
     "url": "/AbyssExplorer/item/5_06_item_melee_meleeRadius.png"
   },
   {
@@ -2948,7 +2948,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_06_item_melee_meleeRadius.webp"
   },
   {
-    "revision": "fd68c24c299f6b873edd8d99f4345c2f",
+    "revision": "7b72ef003e0403c6922f02b0ea6ba1ca",
     "url": "/AbyssExplorer/item/5_06_item_melee_onepunch.png"
   },
   {
@@ -2956,7 +2956,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_06_item_melee_onepunch.webp"
   },
   {
-    "revision": "d99fd706bd10d4bd399bb11cdc3ebb9a",
+    "revision": "78ffa0aa6a0fc12e0e9ea16a563676ea",
     "url": "/AbyssExplorer/item/5_06_item_melee_triger.png"
   },
   {
@@ -2964,7 +2964,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_06_item_melee_triger.webp"
   },
   {
-    "revision": "9dfdcd372aa013f2e71462f8528b5565",
+    "revision": "9a7cc085a0b3ca6dd7772b271e2a2fbd",
     "url": "/AbyssExplorer/item/5_07_item_bomb_bullet_bouncy.png"
   },
   {
@@ -2972,7 +2972,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_07_item_bomb_bullet_bouncy.webp"
   },
   {
-    "revision": "2882b3cb75ead13297cd7719b56a6580",
+    "revision": "f2f57fdd71190e60d2c02928f7166e9f",
     "url": "/AbyssExplorer/item/5_07_item_bomb_bullet_chase.png"
   },
   {
@@ -2980,7 +2980,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_07_item_bomb_bullet_chase.webp"
   },
   {
-    "revision": "7bcc174af1b4dbf1d7c7ed6b08fb4cb2",
+    "revision": "855c495c0da62b21d30e96993743e107",
     "url": "/AbyssExplorer/item/5_07_item_bomb_bullet_player.png"
   },
   {
@@ -2988,7 +2988,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_07_item_bomb_bullet_player.webp"
   },
   {
-    "revision": "2b7c3f95a3b8f6d18282feae524f9f25",
+    "revision": "4703a430d1398d71d2de34bd175f9c06",
     "url": "/AbyssExplorer/item/5_07_item_bomb_bullet_through.png"
   },
   {
@@ -2996,7 +2996,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_07_item_bomb_bullet_through.webp"
   },
   {
-    "revision": "e82240c2801a405d2ddba89d276fe5cc",
+    "revision": "cff36f8e548063bbbf74c65c10ccb695",
     "url": "/AbyssExplorer/item/5_07_item_bomb_clear.png"
   },
   {
@@ -3004,7 +3004,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_07_item_bomb_clear.webp"
   },
   {
-    "revision": "95c2f5b5f959fc02ecfc8a1995d5c856",
+    "revision": "1239178cee71d1f135d21a0003ccdd81",
     "url": "/AbyssExplorer/item/5_07_item_bomb_drop.png"
   },
   {
@@ -3012,7 +3012,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_07_item_bomb_drop.webp"
   },
   {
-    "revision": "7c1599e52b13816907c3d9970f72a4a0",
+    "revision": "4ffdedb3023681544ffd7dc980d9ef95",
     "url": "/AbyssExplorer/item/5_07_item_bomb_expand_cross.png"
   },
   {
@@ -3020,7 +3020,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_07_item_bomb_expand_cross.webp"
   },
   {
-    "revision": "37562400219e1a8e121c776f7b6b08b6",
+    "revision": "c35d574f927303758fef05013e157c85",
     "url": "/AbyssExplorer/item/5_07_item_bomb_expand_plus.png"
   },
   {
@@ -3028,7 +3028,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_07_item_bomb_expand_plus.webp"
   },
   {
-    "revision": "520ad591e3208c07bb93a4f954d4c09e",
+    "revision": "b921595dcb4ad0a8adc7d22e151042a8",
     "url": "/AbyssExplorer/item/5_07_item_bomb_flame.png"
   },
   {
@@ -3036,7 +3036,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_07_item_bomb_flame.webp"
   },
   {
-    "revision": "da1c079bdbc6ccf85d7956d5dc93e42e",
+    "revision": "2c03ec89eee32b0dcd338630ec7c4200",
     "url": "/AbyssExplorer/item/5_07_item_bomb_mine.png"
   },
   {
@@ -3044,7 +3044,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_07_item_bomb_mine.webp"
   },
   {
-    "revision": "5e9ba9ec86b0ca8ec76e12baf17125a7",
+    "revision": "e11a66845c789806ed5f886e6c5e9cc5",
     "url": "/AbyssExplorer/item/5_07_item_bomb_rangeUP.png"
   },
   {
@@ -3052,7 +3052,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_07_item_bomb_rangeUP.webp"
   },
   {
-    "revision": "c965d715890a24635ff68b7a72cf785c",
+    "revision": "723b09e1418c92992e285f0abbf0a846",
     "url": "/AbyssExplorer/item/5_07_item_bomb_spwan.png"
   },
   {
@@ -3060,7 +3060,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_07_item_bomb_spwan.webp"
   },
   {
-    "revision": "7356ee101c869608c38815ac27c4a7c7",
+    "revision": "eabb3d50f99a9d5f369169f8e6bf1f8b",
     "url": "/AbyssExplorer/item/5_07_item_bomb_unlock.png"
   },
   {
@@ -3068,7 +3068,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_07_item_bomb_unlock.webp"
   },
   {
-    "revision": "60ca9fd9fe54b4a7ea29969a8792bb38",
+    "revision": "2257a0a99a5ce4761dc7a3c0f6cc12b2",
     "url": "/AbyssExplorer/item/5_08_item_egg_RPMUP.png"
   },
   {
@@ -3076,7 +3076,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_08_item_egg_RPMUP.webp"
   },
   {
-    "revision": "2953bb860c21b33341479684931e96fe",
+    "revision": "28067eba5cd081409187d021481f8093",
     "url": "/AbyssExplorer/item/5_08_item_egg_allstone.png"
   },
   {
@@ -3084,7 +3084,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_08_item_egg_allstone.webp"
   },
   {
-    "revision": "7c40aa9c5a5bd2b9376506f0346fd653",
+    "revision": "a28204c61c5683b9124ea8c7ecb302d6",
     "url": "/AbyssExplorer/item/5_08_item_egg_break.png"
   },
   {
@@ -3092,7 +3092,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_08_item_egg_break.webp"
   },
   {
-    "revision": "775748f9fe59c890e7279af623a1c820",
+    "revision": "0769e952ff01a93bb8ce2a6b1ef1dd77",
     "url": "/AbyssExplorer/item/5_08_item_egg_cancel.png"
   },
   {
@@ -3100,7 +3100,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_08_item_egg_cancel.webp"
   },
   {
-    "revision": "909b860ebd271a31dfb961e2f3c962f9",
+    "revision": "14448c7ec9dc054663258a216dcc8b72",
     "url": "/AbyssExplorer/item/5_08_item_egg_damageUP.png"
   },
   {
@@ -3108,7 +3108,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_08_item_egg_damageUP.webp"
   },
   {
-    "revision": "67fbba6f8bd73768bdb303f15fe0ca5c",
+    "revision": "3ce4c53ece386a5c9518cc8c32a6f2d5",
     "url": "/AbyssExplorer/item/5_08_item_egg_defend.png"
   },
   {
@@ -3116,7 +3116,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_08_item_egg_defend.webp"
   },
   {
-    "revision": "1d95eb890d553dc947b494f771e81143",
+    "revision": "c21b198a982ee91ab54278286ce9c2f4",
     "url": "/AbyssExplorer/item/5_08_item_egg_double.png"
   },
   {
@@ -3124,7 +3124,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_08_item_egg_double.webp"
   },
   {
-    "revision": "8c8b05a7f79136a0f63024ef4b6923c6",
+    "revision": "d803424d74268008fd7e11deba22111d",
     "url": "/AbyssExplorer/item/5_08_item_egg_empty_bomb.png"
   },
   {
@@ -3132,7 +3132,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_08_item_egg_empty_bomb.webp"
   },
   {
-    "revision": "9fbecae5805ce6d0ad38eb33e71a30a1",
+    "revision": "d7a64209f36acdb0659af98542b1974a",
     "url": "/AbyssExplorer/item/5_08_item_egg_empty_explo.png"
   },
   {
@@ -3140,7 +3140,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_08_item_egg_empty_explo.webp"
   },
   {
-    "revision": "1e9b4d76f2e1443285e0f766ee10d273",
+    "revision": "8d7c998474b92e2039722cee72f9c696",
     "url": "/AbyssExplorer/item/5_08_item_egg_empty_heart.png"
   },
   {
@@ -3148,7 +3148,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_08_item_egg_empty_heart.webp"
   },
   {
-    "revision": "bbed9731e8708ab2f54541dfea62531e",
+    "revision": "7e42abb5862b3f2f3c9bab49caf09953",
     "url": "/AbyssExplorer/item/5_08_item_egg_empty_key.png"
   },
   {
@@ -3156,7 +3156,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_08_item_egg_empty_key.webp"
   },
   {
-    "revision": "8640d27e27122cf0520b69e41872bac7",
+    "revision": "85baaa92efeab9d58174e4b8da781f55",
     "url": "/AbyssExplorer/item/5_08_item_egg_empty_mana.png"
   },
   {
@@ -3164,7 +3164,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_08_item_egg_empty_mana.webp"
   },
   {
-    "revision": "d05dcdef11cd1c4286470275ba421b94",
+    "revision": "d573ad702b7ccf2535916b69534b8b2b",
     "url": "/AbyssExplorer/item/5_08_item_egg_empty_shield.png"
   },
   {
@@ -3172,7 +3172,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_08_item_egg_empty_shield.webp"
   },
   {
-    "revision": "fc4bd10f502b6c8dd7c2427b0236d4aa",
+    "revision": "c0954605e77fac1b5104d75e5f1ea0b8",
     "url": "/AbyssExplorer/item/5_08_item_egg_gunUP.png"
   },
   {
@@ -3180,7 +3180,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_08_item_egg_gunUP.webp"
   },
   {
-    "revision": "6fc196416ae49d6292f840564e53d37a",
+    "revision": "a9f1034a4a88f1145548896162b86eb0",
     "url": "/AbyssExplorer/item/5_08_item_egg_jumpMore.png"
   },
   {
@@ -3188,7 +3188,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_08_item_egg_jumpMore.webp"
   },
   {
-    "revision": "c35549e28744def022899ee29ac5576e",
+    "revision": "6ac23384f2215f9ae473d76eedefc6bb",
     "url": "/AbyssExplorer/item/5_08_item_egg_nodeath.png"
   },
   {
@@ -3196,7 +3196,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_08_item_egg_nodeath.webp"
   },
   {
-    "revision": "7fb1d8b66f934bb6efabd45cfc173a0d",
+    "revision": "ca0923c7c4e871af4cb1b39a17c14dd8",
     "url": "/AbyssExplorer/item/5_08_item_egg_rangeUP.png"
   },
   {
@@ -3204,7 +3204,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_08_item_egg_rangeUP.webp"
   },
   {
-    "revision": "5185a541a6ec291e07899a05204a6724",
+    "revision": "8ff87a72e34520294d2bde5e05c14b0b",
     "url": "/AbyssExplorer/item/5_08_item_egg_sp_random.png"
   },
   {
@@ -3212,7 +3212,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_08_item_egg_sp_random.webp"
   },
   {
-    "revision": "1b3a0d8a8cdf376de7d16fe8ee3eeafb",
+    "revision": "2ff1b5a28350801bf5bb5bee021d668a",
     "url": "/AbyssExplorer/item/5_08_item_egg_spike.png"
   },
   {
@@ -3220,7 +3220,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_08_item_egg_spike.webp"
   },
   {
-    "revision": "315358fdff57cdbbadefe2d96ae37fb9",
+    "revision": "cf2149e66c63e80511101d1c2e10eff2",
     "url": "/AbyssExplorer/item/5_09_item_pet_RPMUP.png"
   },
   {
@@ -3228,7 +3228,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_09_item_pet_RPMUP.webp"
   },
   {
-    "revision": "b7a1a25d45a23e182698f76a2233c0ad",
+    "revision": "7432b0bd9c04bc5bb86192e74660af25",
     "url": "/AbyssExplorer/item/5_09_item_pet_allUP.png"
   },
   {
@@ -3236,7 +3236,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_09_item_pet_allUP.webp"
   },
   {
-    "revision": "9f1ba5a5d32bc4709a9e9577d452f362",
+    "revision": "d1a9d8cc1e2094eaf375f4fd589678a6",
     "url": "/AbyssExplorer/item/5_09_item_pet_damageUP.png"
   },
   {
@@ -3244,7 +3244,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_09_item_pet_damageUP.webp"
   },
   {
-    "revision": "6416e5731d539fd5bf17e36f08ad012f",
+    "revision": "71403ed025d1b8d550218d78537834ea",
     "url": "/AbyssExplorer/item/5_09_item_pet_fullegg.png"
   },
   {
@@ -3252,7 +3252,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_09_item_pet_fullegg.webp"
   },
   {
-    "revision": "b6951379174227d4b73d10f3fa9fe38a",
+    "revision": "3e7092ee7bf6f9dfe21fea5607bc34de",
     "url": "/AbyssExplorer/item/5_09_item_pet_gunUP.png"
   },
   {
@@ -3260,7 +3260,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_09_item_pet_gunUP.webp"
   },
   {
-    "revision": "db4af63589b573386968699bfab1630a",
+    "revision": "517491f1b29ce734ffdfce19496091dc",
     "url": "/AbyssExplorer/item/5_09_item_pet_jumpMore.png"
   },
   {
@@ -3268,7 +3268,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_09_item_pet_jumpMore.webp"
   },
   {
-    "revision": "2ed0559f62acf536c5940bbc322fbce7",
+    "revision": "933fa78852ccbe1b31e325d53df0ed5f",
     "url": "/AbyssExplorer/item/5_09_item_pet_rangeUP.png"
   },
   {
@@ -3276,7 +3276,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_09_item_pet_rangeUP.webp"
   },
   {
-    "revision": "e1df5c3cb35de6bde27ceb4e58e77fb3",
+    "revision": "dad9c3176dc4adc1256e9182d97f38b5",
     "url": "/AbyssExplorer/item/5_09_item_pet_upgrade_bomb.png"
   },
   {
@@ -3284,7 +3284,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_09_item_pet_upgrade_bomb.webp"
   },
   {
-    "revision": "c2dc76215938193440cdd3ab8c7aff00",
+    "revision": "6a27371ee4684cf9b7b298f9e6125262",
     "url": "/AbyssExplorer/item/5_09_item_pet_upgrade_coin.png"
   },
   {
@@ -3292,7 +3292,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_09_item_pet_upgrade_coin.webp"
   },
   {
-    "revision": "cfc7032b6233f548b5dca5941a9ece83",
+    "revision": "4a7fe328071ff27829724d8297b9e726",
     "url": "/AbyssExplorer/item/5_09_item_pet_upgrade_gazinMana.png"
   },
   {
@@ -3300,7 +3300,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_09_item_pet_upgrade_gazinMana.webp"
   },
   {
-    "revision": "257433fafc3106a92076f16943bd5e51",
+    "revision": "34fe0e95db80a37f7421c2c126815012",
     "url": "/AbyssExplorer/item/5_09_item_pet_upgrade_gift.png"
   },
   {
@@ -3308,7 +3308,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_09_item_pet_upgrade_gift.webp"
   },
   {
-    "revision": "ec3e48121939ffcaf318736518aa271d",
+    "revision": "d203598ec8326d7ba95bef2509c0d6c2",
     "url": "/AbyssExplorer/item/5_09_item_pet_upgrade_heart.png"
   },
   {
@@ -3316,7 +3316,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_09_item_pet_upgrade_heart.webp"
   },
   {
-    "revision": "8144ef85440ae50a1822d8b593396e72",
+    "revision": "a3a56544fb9574c5e7a44d79105015db",
     "url": "/AbyssExplorer/item/5_09_item_pet_upgrade_key.png"
   },
   {
@@ -3324,7 +3324,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_09_item_pet_upgrade_key.webp"
   },
   {
-    "revision": "f7634548b16ff8633c2cb406f748ed6d",
+    "revision": "9345decd44ecce543e01ea384a132708",
     "url": "/AbyssExplorer/item/5_09_item_pet_upgrade_shield.png"
   },
   {
@@ -3332,7 +3332,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_09_item_pet_upgrade_shield.webp"
   },
   {
-    "revision": "55f004fd4f8363dd265a3c4c3bd28e53",
+    "revision": "939ccbb6914c8a5e34b8ba76b777e623",
     "url": "/AbyssExplorer/item/5_10_item_jumphigh_01.png"
   },
   {
@@ -3340,7 +3340,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_10_item_jumphigh_01.webp"
   },
   {
-    "revision": "91369d7739dac3e9ec55e030f53360ce",
+    "revision": "83aedb37017f4c976fffa59d931a0ce9",
     "url": "/AbyssExplorer/item/5_10_item_jumphigh_02.png"
   },
   {
@@ -3348,7 +3348,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_10_item_jumphigh_02.webp"
   },
   {
-    "revision": "ae184a84539c330ed5de4baebc19a6c8",
+    "revision": "da68030b461d8399d187aabbcabe2fa8",
     "url": "/AbyssExplorer/item/5_10_item_jumptwice_01.png"
   },
   {
@@ -3356,7 +3356,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_10_item_jumptwice_01.webp"
   },
   {
-    "revision": "a5bf54a401a49e6848b1d6952777751b",
+    "revision": "f2c48c5795b86471f551b42c80dd6bf4",
     "url": "/AbyssExplorer/item/5_10_item_jumptwice_02.png"
   },
   {
@@ -3364,7 +3364,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_10_item_jumptwice_02.webp"
   },
   {
-    "revision": "49d048138c4bedd0f3fefe6d5180ad49",
+    "revision": "c3726b11bdd14716fba76bfa09f089ca",
     "url": "/AbyssExplorer/item/5_10_item_jumptwice_03.png"
   },
   {
@@ -3372,7 +3372,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_10_item_jumptwice_03.webp"
   },
   {
-    "revision": "86ae4681c76a0331a904ecef8a503871",
+    "revision": "0aad8f2c222b6f0016317121e0369c86",
     "url": "/AbyssExplorer/item/5_10_item_jumptwice_04.png"
   },
   {
@@ -3380,7 +3380,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_10_item_jumptwice_04.webp"
   },
   {
-    "revision": "b8ca49a2f4bc661b7cd360ac5e1f8020",
+    "revision": "f95e18133c5ca00d3539566bd4558445",
     "url": "/AbyssExplorer/item/5_10_item_jumptwice_05.png"
   },
   {
@@ -3388,7 +3388,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/5_10_item_jumptwice_05.webp"
   },
   {
-    "revision": "e822eaf0b27ec0f396b0f2568e3ceffc",
+    "revision": "e239df515bcb9799402c94dd3c7e32fa",
     "url": "/AbyssExplorer/item/6_guard_billiards_1.png"
   },
   {
@@ -3396,7 +3396,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/6_guard_billiards_1.webp"
   },
   {
-    "revision": "26e4c6f6c343ab82facee15124198b61",
+    "revision": "549f546b0501f1d32ee79d4851196fee",
     "url": "/AbyssExplorer/item/6_guard_dart_1.png"
   },
   {
@@ -3404,7 +3404,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/6_guard_dart_1.webp"
   },
   {
-    "revision": "0dbbc5ec57ff0cb9dffea37252bd341f",
+    "revision": "144e30e85e491bf16b7eb1c7b9b93406",
     "url": "/AbyssExplorer/item/6_guard_lego_1.png"
   },
   {
@@ -3412,7 +3412,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/6_guard_lego_1.webp"
   },
   {
-    "revision": "69848ac598b5b0fb19ce65b9a26a0354",
+    "revision": "7ee4a6c5367a8212d2ecfb36f380ee06",
     "url": "/AbyssExplorer/item/6_guard_seaweed_1.png"
   },
   {
@@ -3420,7 +3420,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/6_guard_seaweed_1.webp"
   },
   {
-    "revision": "166922d8a19e969dca6a9c2d729806d1",
+    "revision": "51ad8225f454aec61c34162efad08248",
     "url": "/AbyssExplorer/item/6_guard_steelball_1.png"
   },
   {
@@ -3428,7 +3428,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/6_guard_steelball_1.webp"
   },
   {
-    "revision": "fec2577f6ef412f72290a17c26e8ead2",
+    "revision": "753d8004c0a45851a74e4b426a9845d6",
     "url": "/AbyssExplorer/item/6_pet_adam_1.png"
   },
   {
@@ -3436,7 +3436,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/6_pet_adam_1.webp"
   },
   {
-    "revision": "748a7ed09da0f0ecc83d40bc74c4b177",
+    "revision": "b435fa391e56be50653eea0131354813",
     "url": "/AbyssExplorer/item/6_pet_adam_2.png"
   },
   {
@@ -3444,7 +3444,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/6_pet_adam_2.webp"
   },
   {
-    "revision": "2f3302e10de06507e82ae185b09bb5cd",
+    "revision": "a390faa071dfc20ec18d2fe0e627ea6b",
     "url": "/AbyssExplorer/item/6_pet_adam_3.png"
   },
   {
@@ -3452,7 +3452,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/6_pet_adam_3.webp"
   },
   {
-    "revision": "07bbaebda60b406c25f5b8aee6d160c7",
+    "revision": "53b063adb4d938f68d79c3fd847b7af5",
     "url": "/AbyssExplorer/item/6_pet_aline_1.png"
   },
   {
@@ -3460,7 +3460,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/6_pet_aline_1.webp"
   },
   {
-    "revision": "9e275b2e4d51a262031c036fe0faa3b6",
+    "revision": "5dcf1c985e19850af49b656d8abde514",
     "url": "/AbyssExplorer/item/6_pet_aline_2.png"
   },
   {
@@ -3468,7 +3468,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/6_pet_aline_2.webp"
   },
   {
-    "revision": "97a6bb1f3f39ef368826aacc49e4f7bf",
+    "revision": "cee63757db1fef831ca86a5b0621a552",
     "url": "/AbyssExplorer/item/6_pet_bear_1.png"
   },
   {
@@ -3476,7 +3476,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/6_pet_bear_1.webp"
   },
   {
-    "revision": "f6ea1f6290dde66ac3084e5dc72e196d",
+    "revision": "2317792eedb317761a4eadb5fb53d120",
     "url": "/AbyssExplorer/item/6_pet_bear_2.png"
   },
   {
@@ -3484,7 +3484,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/6_pet_bear_2.webp"
   },
   {
-    "revision": "1bb2301453402f5c90ed9994668ef1f6",
+    "revision": "1d9b0be060b3c2886cd58a5907e7d4f9",
     "url": "/AbyssExplorer/item/6_pet_cactus_1.png"
   },
   {
@@ -3492,7 +3492,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/6_pet_cactus_1.webp"
   },
   {
-    "revision": "de1f63c0dd2fa3dfede66bea51e1dc0c",
+    "revision": "9c1f8543790d444508ea7c991f278c38",
     "url": "/AbyssExplorer/item/6_pet_cactus_2.png"
   },
   {
@@ -3500,7 +3500,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/6_pet_cactus_2.webp"
   },
   {
-    "revision": "f290efda04f92d0f453c80e886165cf0",
+    "revision": "6eeec91d90c5abe43d012512a3f7a9ec",
     "url": "/AbyssExplorer/item/6_pet_cactus_3.png"
   },
   {
@@ -3508,7 +3508,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/6_pet_cactus_3.webp"
   },
   {
-    "revision": "3bdd75dae9d0de5af73ea73381bce4dd",
+    "revision": "da681ee07f8ca97af42cf8dc531cf1a1",
     "url": "/AbyssExplorer/item/6_pet_firedevil_1.png"
   },
   {
@@ -3516,7 +3516,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/6_pet_firedevil_1.webp"
   },
   {
-    "revision": "61467dc9dc539eb2e9f0a9b270b73c32",
+    "revision": "bbd7816e3e285dcffe7fdc562617d2db",
     "url": "/AbyssExplorer/item/6_pet_firedevil_2.png"
   },
   {
@@ -3524,7 +3524,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/6_pet_firedevil_2.webp"
   },
   {
-    "revision": "6f2ba25ca9e78e0a41efa2a011df4769",
+    "revision": "1b0bae0247778427b3968e8cea6d8d88",
     "url": "/AbyssExplorer/item/6_pet_flower_1.png"
   },
   {
@@ -3532,7 +3532,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/6_pet_flower_1.webp"
   },
   {
-    "revision": "d5115fc1b330675cc96e1b94f628b666",
+    "revision": "86ba5888b6f9b4a52852e2a90357a6ba",
     "url": "/AbyssExplorer/item/6_pet_ghost_1.png"
   },
   {
@@ -3540,7 +3540,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/6_pet_ghost_1.webp"
   },
   {
-    "revision": "61c1a51a0601ae49fc46612c127760db",
+    "revision": "94a340a953b873913dd93c03302cc3b1",
     "url": "/AbyssExplorer/item/6_pet_joker_1.png"
   },
   {
@@ -3548,7 +3548,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/6_pet_joker_1.webp"
   },
   {
-    "revision": "d10b7ea5a03fefe4cf86f55f66c80f9e",
+    "revision": "456d3a13b45efebc314fec629dcfc43f",
     "url": "/AbyssExplorer/item/6_pet_joker_2.png"
   },
   {
@@ -3556,7 +3556,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/6_pet_joker_2.webp"
   },
   {
-    "revision": "d617ca7ffd26d05a739981545a4b0bcf",
+    "revision": "239a795f6208b8cd385f471ee5e85efd",
     "url": "/AbyssExplorer/item/6_pet_joker_3.png"
   },
   {
@@ -3564,7 +3564,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/6_pet_joker_3.webp"
   },
   {
-    "revision": "e63009aec64b7f24de81a8ea50ee0363",
+    "revision": "59dfa99a072e8a633f0b6cde974c71d9",
     "url": "/AbyssExplorer/item/6_pet_lpp.png"
   },
   {
@@ -3572,7 +3572,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/6_pet_lpp.webp"
   },
   {
-    "revision": "fd0cb8526b8f9e3d4e7ff5cac8ec2aaa",
+    "revision": "77dd833671d497ccbf20d65a2a6b2385",
     "url": "/AbyssExplorer/item/6_pet_mummy_1.png"
   },
   {
@@ -3580,7 +3580,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/6_pet_mummy_1.webp"
   },
   {
-    "revision": "cb601d1d8d978fa5c44cd01d2424ddce",
+    "revision": "73427d6e0aeae8b17de9b9e60a60f7c1",
     "url": "/AbyssExplorer/item/6_pet_mummy_2.png"
   },
   {
@@ -3588,7 +3588,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/6_pet_mummy_2.webp"
   },
   {
-    "revision": "d71bf2562d50d579ea21460f6b732009",
+    "revision": "27a156951c3668297c4e4a789ae3b736",
     "url": "/AbyssExplorer/item/6_pet_mummy_3.png"
   },
   {
@@ -3596,7 +3596,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/6_pet_mummy_3.webp"
   },
   {
-    "revision": "71d8fab43c1b14b3ede00e39cba8af81",
+    "revision": "460147f307a30346b13382253aedfa58",
     "url": "/AbyssExplorer/item/6_pet_pick_coin_random_1.png"
   },
   {
@@ -3604,7 +3604,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/6_pet_pick_coin_random_1.webp"
   },
   {
-    "revision": "7358e317aea25a8d7643b61e272c7105",
+    "revision": "f29fca5e4eb0172e826092c339c6e8fc",
     "url": "/AbyssExplorer/item/6_pet_pick_heart_1.png"
   },
   {
@@ -3612,7 +3612,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/6_pet_pick_heart_1.webp"
   },
   {
-    "revision": "fe4875aa8a6a47b574e2eda27e30815a",
+    "revision": "93ad47e1a51561a0c602d7e7f8850a0a",
     "url": "/AbyssExplorer/item/6_pet_snowboy_1.png"
   },
   {
@@ -3620,7 +3620,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/6_pet_snowboy_1.webp"
   },
   {
-    "revision": "752a579187b38f31b8be351cf64d4417",
+    "revision": "f0ee1e8ab45bd34516b7985c8310413e",
     "url": "/AbyssExplorer/item/6_pet_snowboy_2.png"
   },
   {
@@ -3628,7 +3628,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/6_pet_snowboy_2.webp"
   },
   {
-    "revision": "272aac65f67e0709a84a7268622b12bd",
+    "revision": "6af686ee551c1912e3d58f0124b8575a",
     "url": "/AbyssExplorer/item/6_pet_wukong_1.png"
   },
   {
@@ -3636,7 +3636,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/6_pet_wukong_1.webp"
   },
   {
-    "revision": "c50949147f12d70d3ac39b33488314c8",
+    "revision": "a22dcde7b0f4b8a9db42741ba6120314",
     "url": "/AbyssExplorer/item/6_pet_wukong_2.png"
   },
   {
@@ -3644,7 +3644,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/6_pet_wukong_2.webp"
   },
   {
-    "revision": "e3fe7f8560cc14781acb7748531fc32a",
+    "revision": "60d6d3e01013bfa8919d1e273225d995",
     "url": "/AbyssExplorer/item/6_pet_wukong_3.png"
   },
   {
@@ -3652,7 +3652,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/6_pet_wukong_3.webp"
   },
   {
-    "revision": "198afe9843e08108649b310888d08a3b",
+    "revision": "effdc323ff292d2f30a16546f9b78c4b",
     "url": "/AbyssExplorer/item/6_pet_zombie_1.png"
   },
   {
@@ -3660,7 +3660,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/6_pet_zombie_1.webp"
   },
   {
-    "revision": "a6ea893025a53bdc1c485c881e07842c",
+    "revision": "0105efbc5d0e308278fae3c5682c9e09",
     "url": "/AbyssExplorer/item/6_pet_zombie_2.png"
   },
   {
@@ -3668,7 +3668,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/6_pet_zombie_2.webp"
   },
   {
-    "revision": "2b1a180b8a466f0f39ad7375638076ad",
+    "revision": "57719f7abf34962ca9f71c4940930396",
     "url": "/AbyssExplorer/item/7_skill_james.png"
   },
   {
@@ -3676,7 +3676,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/7_skill_james.webp"
   },
   {
-    "revision": "20044c8f35b02ffa425107cf6d62b3d2",
+    "revision": "a21e304193e81bd33872235111aa9d59",
     "url": "/AbyssExplorer/item/7_skill_kanon.png"
   },
   {
@@ -3684,7 +3684,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/7_skill_kanon.webp"
   },
   {
-    "revision": "46151d85594c96dc75edd6401227ecd2",
+    "revision": "0464167c332400621d80200cbc6d3cf3",
     "url": "/AbyssExplorer/item/7_skill_lucas.png"
   },
   {
@@ -3692,7 +3692,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/7_skill_lucas.webp"
   },
   {
-    "revision": "9a40c70bd0493bbbb251bdc1b458fb3e",
+    "revision": "897e4f600ba2dd59c14a5f522ee91cf3",
     "url": "/AbyssExplorer/item/7_skill_matt.png"
   },
   {
@@ -3700,7 +3700,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/7_skill_matt.webp"
   },
   {
-    "revision": "5a630b9b46866b4ae72c95a14f7a4137",
+    "revision": "adeb900d4bc8ebc0a749c52589d9b46c",
     "url": "/AbyssExplorer/item/7_skill_ming.png"
   },
   {
@@ -3708,7 +3708,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/7_skill_ming.webp"
   },
   {
-    "revision": "fe414aa4c88b8a13d897f696b246baa2",
+    "revision": "1e804f7cc3bc832db3016195a97ee51e",
     "url": "/AbyssExplorer/item/7_skill_ray.png"
   },
   {
@@ -3716,7 +3716,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/7_skill_ray.webp"
   },
   {
-    "revision": "08eac763598f8cf30271491045260378",
+    "revision": "8e7182ec1a9c4a3a1d3e5a48d9715ed4",
     "url": "/AbyssExplorer/item/7_skill_wade.png"
   },
   {
@@ -3724,7 +3724,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/7_skill_wade.webp"
   },
   {
-    "revision": "b1e622b1a04b669d4315bde65b0cca69",
+    "revision": "8c547be9b9188e50be9422f584ecb4a0",
     "url": "/AbyssExplorer/item/7_skill_zack.png"
   },
   {
