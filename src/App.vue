@@ -35,7 +35,9 @@
             <div class="no-results" v-if="searchItems.length === 0">No results :(</div>
         </section>
         <footer>
-            <p>Made with ❤ by Jeremy Graziani.</p>
+            <p>Made with ❤ by Jeremy Graziani.
+                <a href="https://github.com/AcelisWeaven/AbyssExplorer">Source code</a>
+            </p>
             <p>Sprites and text are the property of Team 17 and Veewo.</p>
         </footer>
     </div>
@@ -108,6 +110,14 @@
             color: white;
             text-shadow: 0 0 15px $pink, 0 0 10px $pink, 0 0 5px $pink, 0 0 5px white;
         }
+    }
+
+    footer {
+        margin-top: 50px;
+    }
+
+    a {
+        color: $pink-light;
     }
 
     .arrow-down {
