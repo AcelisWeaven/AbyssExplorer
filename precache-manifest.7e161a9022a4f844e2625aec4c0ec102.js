@@ -4,7 +4,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/browserconfig.xml"
   },
   {
-    "revision": "a4b2240d8261bb183ef8",
+    "revision": "b4084318455aba9bc1f3",
     "url": "/AbyssExplorer/css/app.27ee27f1.css"
   },
   {
@@ -72,1808 +72,1840 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/icon/96.png"
   },
   {
-    "revision": "6d3343ac3ba6507b4ba4fe6bd0235144",
+    "revision": "c0bd85be7277d3781f8814c00d9ac873",
     "url": "/AbyssExplorer/index.html"
   },
   {
-    "revision": "9ed2c4df3538af6db25d11eb32f4702b",
+    "revision": "035f3f1ff23e4e5875f0863a6dac1b25",
     "url": "/AbyssExplorer/item/1_weapon_0_anna.png"
   },
   {
-    "revision": "ce0e6e2ef22cd9f6421f9bfb8a4ebc5a",
+    "revision": "e8441c98dcc52aede152aeef8cd77a08",
     "url": "/AbyssExplorer/item/1_weapon_0_david.png"
   },
   {
-    "revision": "9850e156eaa895a28cf0eae20ceda2f6",
+    "revision": "2351a3825e93a10b70b659d1bf6ddfa7",
     "url": "/AbyssExplorer/item/1_weapon_0_james1.png"
   },
   {
-    "revision": "6df5f402905140bbfe815e88930d1897",
+    "revision": "c20c4f0dc945f3b6e9f3391fa9f8bdd9",
     "url": "/AbyssExplorer/item/1_weapon_0_james2.png"
   },
   {
-    "revision": "a57250827f2dcd68b5e9ef44d710a46a",
+    "revision": "01af7550844a0513f3d26c617ac5c997",
     "url": "/AbyssExplorer/item/1_weapon_0_kanon.png"
   },
   {
-    "revision": "9d73dcb4a9e97286775632b4be08b33a",
+    "revision": "4c2336624e6de7ff87a9294b550346f1",
     "url": "/AbyssExplorer/item/1_weapon_0_lucas.png"
   },
   {
-    "revision": "b301a8dcf41ae652cf2b012c378a1ebe",
+    "revision": "64b55711870d90a406cef352f8e9645a",
     "url": "/AbyssExplorer/item/1_weapon_0_matt.png"
   },
   {
-    "revision": "3ad96a7eded0e6cc7c0287cb5d7c4e02",
+    "revision": "b64f81bb9dbd15d7250e30d954ab3c3d",
     "url": "/AbyssExplorer/item/1_weapon_0_ming.png"
   },
   {
-    "revision": "ae8dc1e132904c5c814e2bfe4340a9ae",
+    "revision": "43d1e9a42bca33d612ea6d2c5eed3a97",
     "url": "/AbyssExplorer/item/1_weapon_0_ray.png"
   },
   {
-    "revision": "6a91c9c4e9c0b9e32655bb3d10322548",
+    "revision": "e0f683104b460486fc0d7133b590c3aa",
     "url": "/AbyssExplorer/item/1_weapon_0_wade.png"
   },
   {
-    "revision": "8a7549f81f62c23cbf60c696b61af190",
+    "revision": "fbc05961574842b1c5d77cbe3d574923",
     "url": "/AbyssExplorer/item/1_weapon_0_zack.png"
   },
   {
-    "revision": "9ff0f6914c07c70b28f92083023e949e",
+    "revision": "ae5b49d22c19457a8c84d9187db3fa40",
     "url": "/AbyssExplorer/item/1_weapon_bomb_1.png"
   },
   {
-    "revision": "66302844c74138ef1795557793bf33e1",
+    "revision": "ba293949c8bbaac629bc1651de85e5cf",
     "url": "/AbyssExplorer/item/1_weapon_coin_1.png"
   },
   {
-    "revision": "c3f4c24faa7b59e50ea86251e7061f4e",
+    "revision": "79ae0951da2c1899257ca711275d94f6",
     "url": "/AbyssExplorer/item/1_weapon_coin_2.png"
   },
   {
-    "revision": "09657e6596a49a166b968e55680a9ce1",
+    "revision": "4d59f7257bba278d1f1d82383a8e0c4f",
     "url": "/AbyssExplorer/item/1_weapon_coin_3.png"
   },
   {
-    "revision": "55b43f30958af00153ef8f427ef4926f",
+    "revision": "40ea68274a817f13697d0c8e35628d1e",
     "url": "/AbyssExplorer/item/1_weapon_defense_1.png"
   },
   {
-    "revision": "d6ba34af34240eeb9f86799795f197a9",
+    "revision": "0769541ccf836325e2b4c8e478b7b4cd",
     "url": "/AbyssExplorer/item/1_weapon_defense_2.png"
   },
   {
-    "revision": "c8ebe8191005dfa21cc6247125f2e096",
+    "revision": "fe2e35503c339b722cb9884a98bf509b",
     "url": "/AbyssExplorer/item/1_weapon_defense_4.png"
   },
   {
-    "revision": "1ede8d320e92e7c54ad2f35b66081a31",
+    "revision": "39389692a982bf3c27f6f2c03fdd487d",
     "url": "/AbyssExplorer/item/1_weapon_defense_5.png"
   },
   {
-    "revision": "f1a31af944b9063169c09fcf82feaa9c",
+    "revision": "d3af2e76a2b4b24ca26262ec5ed1801f",
     "url": "/AbyssExplorer/item/1_weapon_drop_1.png"
   },
   {
-    "revision": "1bc37990e7f12b7fc0585306220c352c",
+    "revision": "e0ee4ba8e77d79da55b68c920f112d1e",
     "url": "/AbyssExplorer/item/1_weapon_drop_2.png"
   },
   {
-    "revision": "122a68d90b47e39c587e2a0630ac2835",
+    "revision": "9cc3292196d69ada7e4b57e65dccb99f",
     "url": "/AbyssExplorer/item/1_weapon_drop_3.png"
   },
   {
-    "revision": "561be24e3b386783b987a0694366e797",
+    "revision": "048816fe713c4f7f18a65fdc44ffb861",
     "url": "/AbyssExplorer/item/1_weapon_drop_re_1.png"
   },
   {
-    "revision": "561be24e3b386783b987a0694366e797",
+    "revision": "a21e27fe39e34d37627440a1fe4a0396",
     "url": "/AbyssExplorer/item/1_weapon_drop_re_2.png"
   },
   {
-    "revision": "cac3a6f5aa76d9226893a6611a361083",
+    "revision": "048816fe713c4f7f18a65fdc44ffb861",
     "url": "/AbyssExplorer/item/1_weapon_drop_re_3.png"
   },
   {
-    "revision": "f1a31af944b9063169c09fcf82feaa9c",
+    "revision": "7d7e1321f8af2dac0c80ec3cf5b398cc",
     "url": "/AbyssExplorer/item/1_weapon_egg_1.png"
   },
   {
-    "revision": "4b3050ce709e32458b4fa2fe6ed55972",
+    "revision": "9cc3292196d69ada7e4b57e65dccb99f",
     "url": "/AbyssExplorer/item/1_weapon_egg_2.png"
   },
   {
-    "revision": "603e9e5e587c16412feb39670ce426a3",
+    "revision": "abe0fcb79c51d4ca4bf52808db98924d",
     "url": "/AbyssExplorer/item/1_weapon_egg_3.png"
   },
   {
-    "revision": "c1fbddd35cbf65ab8ac020240d76a453",
+    "revision": "73d5c79b435a9902bee2dbbf3af4cb9a",
     "url": "/AbyssExplorer/item/1_weapon_explo_1.png"
   },
   {
-    "revision": "738898e77804674198b89606d33b2105",
+    "revision": "94ef6f51ad1df7e0ffc685cacbd65cc9",
     "url": "/AbyssExplorer/item/1_weapon_explo_2.png"
   },
   {
-    "revision": "ae43f7e9070c72d469d99e95bc1e5c3a",
+    "revision": "344146c0fded2b4d2e6d76735d31632b",
     "url": "/AbyssExplorer/item/1_weapon_explo_3.png"
   },
   {
-    "revision": "6549a830493b2e9ae0226a6965b29bc4",
+    "revision": "9fd993e2d31d991b4ac5445155260745",
     "url": "/AbyssExplorer/item/1_weapon_explo_4.png"
   },
   {
-    "revision": "675661d948bb2b057f8ed0496ed65dec",
+    "revision": "a6a3bb59e356760463464409f2f8c96b",
     "url": "/AbyssExplorer/item/1_weapon_explo_5.png"
   },
   {
-    "revision": "77a8efbd860ab98f10f132bd19b1cf16",
+    "revision": "140219bcaf7f16dbe444adcee3f5d991",
     "url": "/AbyssExplorer/item/1_weapon_heart_1.png"
   },
   {
-    "revision": "b8424220ecc290f36ee5bd7bc0ba2cc9",
+    "revision": "f418d134db3555e816f7c56a1bff700a",
     "url": "/AbyssExplorer/item/1_weapon_heart_2.png"
   },
   {
-    "revision": "1a35365d363cee76ccc172427a659de5",
+    "revision": "943b91a49f085d1185c23c64a9ec6bd9",
     "url": "/AbyssExplorer/item/1_weapon_heart_3.png"
   },
   {
-    "revision": "271e81da5920b8dd8d05fa762cd6bac8",
+    "revision": "2ba8c52a8fa498c67f0fefc55881726c",
     "url": "/AbyssExplorer/item/1_weapon_key_1.png"
   },
   {
-    "revision": "9ff0f6914c07c70b28f92083023e949e",
+    "revision": "6af43f26a0ecd46da92b83716dadd83b",
     "url": "/AbyssExplorer/item/1_weapon_key_2.png"
   },
   {
-    "revision": "f3d90d54b92041083faa00cee8b778b2",
+    "revision": "abfb269626c60f87bd6b48988d37b744",
     "url": "/AbyssExplorer/item/1_weapon_key_3.png"
   },
   {
-    "revision": "305674c89c7e997abfa415efeff7ee5d",
+    "revision": "2f67ff2011d87fc149000d9706cba4da",
     "url": "/AbyssExplorer/item/1_weapon_key_4.png"
   },
   {
-    "revision": "4c9c9bafef938a2de7bb7e8235efada8",
+    "revision": "8f5f31b6263c6c814fb9feca68a28b67",
     "url": "/AbyssExplorer/item/1_weapon_kill_1.png"
   },
   {
-    "revision": "26d2aa881e823aec61c354f946b9791e",
+    "revision": "7655def3169ad77fc4bce857163d0566",
     "url": "/AbyssExplorer/item/1_weapon_kill_2.png"
   },
   {
-    "revision": "2342055d2a5cae120f7bc167301626b9",
+    "revision": "c17b3007ccc1c216d7f924178f69ea58",
     "url": "/AbyssExplorer/item/1_weapon_kill_4.png"
   },
   {
-    "revision": "ea4583eb9b678ea4133739e75727ba96",
+    "revision": "1873816e1ea7d099653c04209f615a08",
     "url": "/AbyssExplorer/item/1_weapon_kill_5.png"
   },
   {
-    "revision": "7c37a128056464d3e1f17b53b08ea961",
+    "revision": "c1ad6cc8e850f939b82fe9e7abbc571e",
     "url": "/AbyssExplorer/item/1_weapon_mana_1.png"
   },
   {
-    "revision": "1bc37990e7f12b7fc0585306220c352c",
+    "revision": "73c1664b83ccaa8a3a0da0131f4c0967",
     "url": "/AbyssExplorer/item/1_weapon_mana_2.png"
   },
   {
-    "revision": "6b6e14a6cf53731d071acaa9c2e454f3",
+    "revision": "64ff3f939e1a0eb955e8bd1304d92da8",
     "url": "/AbyssExplorer/item/1_weapon_mana_4.png"
   },
   {
-    "revision": "c8ebe8191005dfa21cc6247125f2e096",
+    "revision": "6d017edf1b8b3d4ea2bfce69680ee436",
     "url": "/AbyssExplorer/item/1_weapon_mana_5.png"
   },
   {
-    "revision": "84c514b9cf65294456acf5152088aa0b",
+    "revision": "a25766fa5a0d0a93d1a955197b37b1c4",
     "url": "/AbyssExplorer/item/1_weapon_num_1.png"
   },
   {
-    "revision": "9db28fdf79b5077e4c18cec692d27cc1",
+    "revision": "09207b4b186411a1c40520b3777d5118",
     "url": "/AbyssExplorer/item/1_weapon_num_5.png"
   },
   {
-    "revision": "fc88cea335dc0561c61216be032cf324",
+    "revision": "ee871fbf20f1d5d00e1e133fe2e8d601",
     "url": "/AbyssExplorer/item/1_weapon_op_1.png"
   },
   {
-    "revision": "71567c07b044fc11ae09d0f63bae8cef",
+    "revision": "40ea68274a817f13697d0c8e35628d1e",
     "url": "/AbyssExplorer/item/1_weapon_op_2.png"
   },
   {
-    "revision": "e4e177434b56bf91d30ef6ed4bd1d860",
+    "revision": "7a5f21c607c98c2ea44812ab846126cf",
     "url": "/AbyssExplorer/item/1_weapon_op_3.png"
   },
   {
-    "revision": "746c4ca20432ea59543ca5822517a7f5",
+    "revision": "f5c2d18b9b1edfe83ff3f2e73b5ea1d0",
     "url": "/AbyssExplorer/item/1_weapon_op_5.png"
   },
   {
-    "revision": "f3d90d54b92041083faa00cee8b778b2",
+    "revision": "c231cf28d8c4e14e31b263e95b65eac8",
     "url": "/AbyssExplorer/item/1_weapon_op_6.png"
   },
   {
-    "revision": "c00fec729f1b508044b1d4fd520512b4",
+    "revision": "0470f9271f5e8da0aaf55917ec053f04",
     "url": "/AbyssExplorer/item/1_weapon_op_7.png"
   },
   {
-    "revision": "f60a89c04feda8400aea31f6a5a45be3",
+    "revision": "0470f9271f5e8da0aaf55917ec053f04",
     "url": "/AbyssExplorer/item/1_weapon_pet_4.png"
   },
   {
-    "revision": "5404784d11f694a03e9c9c7f9071e2bb",
+    "revision": "101ed6e17ed798da2e26a054ef88312c",
     "url": "/AbyssExplorer/item/1_weapon_room_1.png"
   },
   {
-    "revision": "77a8efbd860ab98f10f132bd19b1cf16",
+    "revision": "140219bcaf7f16dbe444adcee3f5d991",
     "url": "/AbyssExplorer/item/1_weapon_room_2.png"
   },
   {
-    "revision": "7a4eb88246a49a7f0608ca7a692503f8",
+    "revision": "c4e507ddfff39113aa72bd892f48b5ee",
     "url": "/AbyssExplorer/item/1_weapon_room_3.png"
   },
   {
-    "revision": "96ea902ba68a6dfa3e69287455504776",
+    "revision": "ae51c57ba36cea6bacfaf7bcd86db148",
     "url": "/AbyssExplorer/item/1_weapon_rpm_1.png"
   },
   {
-    "revision": "f8208900ec0c8c0982739a162d86a81c",
+    "revision": "42f1e86a20a55426d7d3783be9c3e7c8",
     "url": "/AbyssExplorer/item/1_weapon_rpm_2.png"
   },
   {
-    "revision": "52f3b7d4f4525a340ad347f70d1cd4db",
+    "revision": "2b0b516c33ea9d44b52477991f715211",
     "url": "/AbyssExplorer/item/1_weapon_rpm_3.png"
   },
   {
-    "revision": "2f3c7a684c5bfaae1a04582415ac6fd7",
+    "revision": "ae5f327841073c5f64b206cdbed0125a",
     "url": "/AbyssExplorer/item/1_weapon_terr_2.png"
   },
   {
-    "revision": "508a6bb081b276b3e2bba3996aaa30a0",
+    "revision": "d3963323067b876a102e48f6e24bb0e9",
     "url": "/AbyssExplorer/item/1_weapon_terr_3.png"
   },
   {
-    "revision": "3e9beb2ff413a3d2875647fe8e9a7159",
+    "revision": "0788b45c6fcb4c4633eaf2aa4f58e99e",
     "url": "/AbyssExplorer/item/1_weapon_terr_4.png"
   },
   {
-    "revision": "4fe0c2492058079835b117094cb5a186",
+    "revision": "cd2dde4461ff0767331038af5e6e0eaf",
     "url": "/AbyssExplorer/item/1_weapon_terr_5.png"
   },
   {
-    "revision": "4d54e333afe244c307bb4402fcb1ad33",
+    "revision": "7e4ff6c15dfc3aed5a479ce773264527",
     "url": "/AbyssExplorer/item/2_power_a_back.png"
   },
   {
-    "revision": "0f587aef36fd91ad2969b7539bcb4d6c",
+    "revision": "ea9d0e0b7f3e3a42f632023fdc2c64c0",
     "url": "/AbyssExplorer/item/2_power_a_blink.png"
   },
   {
-    "revision": "b5e6d3cc4e257b5992b8cea99173cfc6",
+    "revision": "38bf322489704935263781a7255e7112",
     "url": "/AbyssExplorer/item/2_power_a_buy_egg.png"
   },
   {
-    "revision": "7f6b56ce22dfc8c1b442e19d8722e705",
+    "revision": "f95ddea4451bf41223f1707c6f09f69d",
     "url": "/AbyssExplorer/item/2_power_a_doublegun.png"
   },
   {
-    "revision": "1e4651aa268ec2860fef33e8a3c03537",
+    "revision": "3fedcb244141f332ff626b8a70811e68",
     "url": "/AbyssExplorer/item/2_power_a_eggtodamage.png"
   },
   {
-    "revision": "eecd05015dac5ecabf1fc702b7b8c04e",
+    "revision": "3402d699254f48e36b2be669b0724553",
     "url": "/AbyssExplorer/item/2_power_a_glide.png"
   },
   {
-    "revision": "e471c336cafc820495401ad3fdfa585f",
+    "revision": "8d6d40c6f1f935c08244fb5201bc2a22",
     "url": "/AbyssExplorer/item/2_power_a_jetpack.png"
   },
   {
-    "revision": "7a97b18af9745fadf81bcd6672d61e77",
+    "revision": "163821a67612654aaaa6580cb07d7605",
     "url": "/AbyssExplorer/item/2_power_a_lift.png"
   },
   {
-    "revision": "3660709779f87cbbc8549175b527abe9",
+    "revision": "c2e935ab7c35bc9c869e75cf2d227463",
     "url": "/AbyssExplorer/item/2_power_a_melee.png"
   },
   {
-    "revision": "4f3333d89ca24e41417a91e5aba066ef",
+    "revision": "000736b69b30553253147a832637cfbb",
     "url": "/AbyssExplorer/item/2_power_a_roll.png"
   },
   {
-    "revision": "ab1d799b759ce505cc2d76f3a47788bb",
+    "revision": "0c9e0385fcbba72a12bf499f3e6bd9f4",
     "url": "/AbyssExplorer/item/2_power_a_smash.png"
   },
   {
-    "revision": "a348955bd7343398def9ecef1713af0d",
+    "revision": "0b05b36f1f570945c14090fe69c215b7",
     "url": "/AbyssExplorer/item/2_power_a_unlock.png"
   },
   {
-    "revision": "372c9ed9e35acb279acfbdf05b9e1460",
+    "revision": "abebd26f310509ed44dbbb7f325344c6",
     "url": "/AbyssExplorer/item/2_power_blank_bomb.png"
   },
   {
-    "revision": "e3257a9c2b402f2e32aee044232f15c4",
+    "revision": "99af48b9da5cdc67dd16918a0ba36393",
     "url": "/AbyssExplorer/item/2_power_damage.png"
   },
   {
-    "revision": "cb07a6eb86b6f2cd62b85e2c703aeea3",
+    "revision": "0cad38c50e259ceb46782efc2e3eb87c",
     "url": "/AbyssExplorer/item/2_power_dmg_invinci.png"
   },
   {
-    "revision": "a9c65fdaec341b217d4cda5f412ad644",
+    "revision": "bf409cecad091d0a3f3d03ca03e2b1a1",
     "url": "/AbyssExplorer/item/2_power_drop_bomb.png"
   },
   {
-    "revision": "1c7e4a47f85ef32160b3500359c34ee2",
+    "revision": "c6388dd27e9d3b8602a2e252e86cc056",
     "url": "/AbyssExplorer/item/2_power_drop_coin.png"
   },
   {
-    "revision": "e23d086f4efa2c669675c7c71f796321",
+    "revision": "f478c6463fc727e04ffd79bcd02608ad",
     "url": "/AbyssExplorer/item/2_power_drop_key.png"
   },
   {
-    "revision": "465569647bd3c0f1ed3b33be6fa23989",
+    "revision": "7789ea0feb15132f21e4a36524c5a00a",
     "url": "/AbyssExplorer/item/2_power_drop_random_item.png"
   },
   {
-    "revision": "bf460806561b844737542f53e96f5852",
+    "revision": "7035cd9e55446b5d861ba1d4cd73c7ea",
     "url": "/AbyssExplorer/item/2_power_egg_born.png"
   },
   {
-    "revision": "e0a2c68085a5ffcf57fe26cc7d921d60",
+    "revision": "d7a85eb7a9573f4ac9e27cf30afc4a8b",
     "url": "/AbyssExplorer/item/2_power_egg_damage.png"
   },
   {
-    "revision": "df92ba111d94a0e2003da12cb91a5995",
+    "revision": "8ff9aa241d8b9c63a366df73d655da3c",
     "url": "/AbyssExplorer/item/2_power_fireball_mana.png"
   },
   {
-    "revision": "85228fabe464886d2dd98fee24191440",
+    "revision": "d1296d998a240a640f917fe3a8b42660",
     "url": "/AbyssExplorer/item/2_power_fishing.png"
   },
   {
-    "revision": "c3d63c989da9501bded235237963dcdf",
+    "revision": "968752110c1cb936ed5a8cfc819208c9",
     "url": "/AbyssExplorer/item/2_power_gain_heart.png"
   },
   {
-    "revision": "a26a2c8bd8560c8700b88349623678d6",
+    "revision": "f0e0880490d89c0d86f609704adb4780",
     "url": "/AbyssExplorer/item/2_power_gain_shield.png"
   },
   {
-    "revision": "3b1d2291a450a1284e8d89fa2e129477",
+    "revision": "fc45d8594cb89349fa5f0c35fe8d0e98",
     "url": "/AbyssExplorer/item/2_power_gamble.png"
   },
   {
-    "revision": "656a5492150a846241c291f376cc89eb",
+    "revision": "02b5ce088f724a58ac5146aa3ad2310a",
     "url": "/AbyssExplorer/item/2_power_get_barrel.png"
   },
   {
-    "revision": "249de5f2e68e78b6a166998bc680f8be",
+    "revision": "c850be8f17504aa68b7cdb3b9923f39b",
     "url": "/AbyssExplorer/item/2_power_get_box.png"
   },
   {
-    "revision": "e2b395aab30ff79ef799fdad35808c01",
+    "revision": "fb009cb74394da217329cc5c306dd806",
     "url": "/AbyssExplorer/item/2_power_get_ladder.png"
   },
   {
-    "revision": "e6877e8e4e312215971bf063ff41c368",
+    "revision": "c711b37ebb0666ca4872cb080c64368a",
     "url": "/AbyssExplorer/item/2_power_golden_egg.png"
   },
   {
-    "revision": "5e63b2935eac5b9b7fae85402e7215cf",
+    "revision": "fef7cacf8e85f8ba27651fde2d0c9ea0",
     "url": "/AbyssExplorer/item/2_power_gun_reroll.png"
   },
   {
-    "revision": "1f60c6a2cb65377701b48abfa50776d1",
+    "revision": "7ca0c5de5fc104a7b1bc502a3d4985fa",
     "url": "/AbyssExplorer/item/2_power_gun_up.png"
   },
   {
-    "revision": "335be47fde91c06fdcfed112c25616eb",
+    "revision": "99d92242d962be0a7d01e1af95af59a7",
     "url": "/AbyssExplorer/item/2_power_heart2coin.png"
   },
   {
-    "revision": "de4cc363c6cf5e4ecc3f7052edd2ff01",
+    "revision": "fdc78726c8687318f5b2871676c8f63b",
     "url": "/AbyssExplorer/item/2_power_mark_mana_explo.png"
   },
   {
-    "revision": "c93d5e95f8dbef14997f68a96211cbc1",
+    "revision": "bd795de46152bfe3caa3858316289bca",
     "url": "/AbyssExplorer/item/2_power_pet_evolve.png"
   },
   {
-    "revision": "0b6dcde26eadbcb3b7e1d4f77a1e39f2",
+    "revision": "7ae3ebb3c6277431da6b0e7711c66a50",
     "url": "/AbyssExplorer/item/2_power_pet_kill.png"
   },
   {
-    "revision": "d6084fa0e19c0e443af38f1c601fa415",
+    "revision": "70379f15167e4d3e89ab086da78c0426",
     "url": "/AbyssExplorer/item/2_power_place_mana.png"
   },
   {
-    "revision": "3b33d76b6dacde84715b8f7e02de1ebc",
+    "revision": "aeac06879e72a9998f227d3eb4bf9d90",
     "url": "/AbyssExplorer/item/2_power_refesh_chest.png"
   },
   {
-    "revision": "aae3f3eb1cd27f0a16ec98501f878075",
+    "revision": "ce3fafc11382e0812aedd9205de6db42",
     "url": "/AbyssExplorer/item/2_power_refesh_drop.png"
   },
   {
-    "revision": "32825ff847e6fe2a4be1683d3b22d2ea",
+    "revision": "b8591eaacf644aca960587e9518cf78b",
     "url": "/AbyssExplorer/item/2_power_refesh_item.png"
   },
   {
-    "revision": "9059ccfe16acbee4fe5458214cbc22eb",
+    "revision": "d67ab38201822535471819e18aefee02",
     "url": "/AbyssExplorer/item/2_power_refesh_itemtocoin.png"
   },
   {
-    "revision": "e7c1a123492c5bf260da4b8a1ec07f60",
+    "revision": "a716868ef2a6c279bd55734006f91e94",
     "url": "/AbyssExplorer/item/2_power_refesh_itemtodrop.png"
   },
   {
-    "revision": "f5efe1408a60c8b10c5f3c3c00de50d0",
+    "revision": "1916c11d0e1f13c0e0e161d2bb2defc5",
     "url": "/AbyssExplorer/item/2_power_room_damageUP.png"
   },
   {
-    "revision": "dfa59468da58fe57c978cbd969e40231",
+    "revision": "8171e037b35717cda66d1611c661e815",
     "url": "/AbyssExplorer/item/2_power_room_fly.png"
   },
   {
-    "revision": "f906a8f6834943dd3b28bcdb7bd80e55",
+    "revision": "a17dd0e89affb4cd8e59d5ed624889a8",
     "url": "/AbyssExplorer/item/2_power_room_gunUP.png"
   },
   {
-    "revision": "e19ba9fd087b3fa390492bc890f993c7",
+    "revision": "af24e8bd94a010c2ceae633340634d25",
     "url": "/AbyssExplorer/item/2_power_room_rpmUP.png"
   },
   {
-    "revision": "4b35fcf6fcaa790064d332f37e73300f",
+    "revision": "525f381dd52804bdc46b8e2ef0f59724",
     "url": "/AbyssExplorer/item/2_power_self_explo.png"
   },
   {
-    "revision": "ac51e7fe05a440f27522d1b1d605f099",
+    "revision": "a401e4caffaa0c03ee20fdd5b50d79d8",
     "url": "/AbyssExplorer/item/2_power_show_icon.png"
   },
   {
-    "revision": "3e7c49a75e96207d9226c26684ba3a36",
+    "revision": "5a88056daed71ad927a769a93923f06d",
     "url": "/AbyssExplorer/item/2_power_show_map.png"
   },
   {
-    "revision": "c36b77626062c7d7b1cba3d45a372442",
+    "revision": "18e7a2050786648b887d0f30ed0a3664",
     "url": "/AbyssExplorer/item/2_power_stack_coin.png"
   },
   {
-    "revision": "3603ec0a1d2b59fbd779775e68126a6a",
+    "revision": "ef7d69dfb7d8fd8f9a2a6035928a198f",
     "url": "/AbyssExplorer/item/2_power_store_a_sprite.png"
   },
   {
-    "revision": "66ce07d22647b8132b70d05454f16b33",
+    "revision": "031b96f0519ce6ec1fe9a3d7691f0311",
     "url": "/AbyssExplorer/item/2_power_store_g_sprite.png"
   },
   {
-    "revision": "52c1afe09b8f8a5d52b106abc87a65b9",
+    "revision": "002cb36aa28a40a4a0fe4b861ae7d948",
     "url": "/AbyssExplorer/item/2_power_timeslow.png"
   },
   {
-    "revision": "852a88fc2cbfedf7e3bd224c59b6dd02",
+    "revision": "9f8a7830d6114e25f47f32c417f34042",
     "url": "/AbyssExplorer/item/2_power_unlock.png"
   },
   {
-    "revision": "f2f79003c5b359c486310ec7269ef99b",
+    "revision": "511c1a3526bd662b09a6eda5166cbe55",
     "url": "/AbyssExplorer/item/3_item_all_01.png"
   },
   {
-    "revision": "cbf4b957cd32ea056f6f74beffbccde3",
+    "revision": "11c046db3ea38dd65ca51fc1fe9e38e3",
     "url": "/AbyssExplorer/item/3_item_blue_01.png"
   },
   {
-    "revision": "7405a67923ca3f1bfa6f274ac0b461db",
+    "revision": "799431ea9aa2b13283ed910251934c47",
     "url": "/AbyssExplorer/item/3_item_blue_02.png"
   },
   {
-    "revision": "b6a66e1f297595b6268a17cc97f6d7fe",
+    "revision": "cb946f8419245d41766391767ac8e5ac",
     "url": "/AbyssExplorer/item/3_item_blue_03.png"
   },
   {
-    "revision": "f04e51bbf36505313ce51ca39694b2ab",
+    "revision": "52a22cb01ee2e3082a210b9d0d246905",
     "url": "/AbyssExplorer/item/3_item_blue_04.png"
   },
   {
-    "revision": "d8916a90a21a74fb84095c90b92eacb8",
+    "revision": "16526511d79f263135da6e79a120df1f",
     "url": "/AbyssExplorer/item/3_item_blue_05.png"
   },
   {
-    "revision": "4dc52ee2df91cdf3b82ba80b4943f525",
+    "revision": "e7b5c6651f2e7c9dd3bb24ff2e9c000e",
     "url": "/AbyssExplorer/item/3_item_blue_06.png"
   },
   {
-    "revision": "205154e6dbe228a08a2042cfd5836df0",
+    "revision": "1b8a9103796a403e920135fd6f567c3d",
     "url": "/AbyssExplorer/item/3_item_blue_07.png"
   },
   {
-    "revision": "e0c921e44d2e7676711e00488d6037d9",
+    "revision": "01a7fd781252d8b286cd232c0504407f",
     "url": "/AbyssExplorer/item/3_item_blue_08.png"
   },
   {
-    "revision": "f1e7df03dd03d3c1decc3dd36a270e9d",
+    "revision": "41d26b182f9b809f2ad54b0fe5d00bdf",
     "url": "/AbyssExplorer/item/3_item_mana_01.png"
   },
   {
-    "revision": "ea1f25cd6027d910e0e606a32015301b",
+    "revision": "1d054f161ba9c7fb93ba256f0224890c",
     "url": "/AbyssExplorer/item/3_item_mana_02.png"
   },
   {
-    "revision": "e714aca438decb3d1ee4ed20d2ace13b",
+    "revision": "cc494b2445e20a794744ed6ec42f93a3",
     "url": "/AbyssExplorer/item/3_item_mana_03.png"
   },
   {
-    "revision": "7b5aaf4263a754a6df09037dd8a62cbb",
+    "revision": "8d54bf9a021af2e885f87afc3626284e",
     "url": "/AbyssExplorer/item/3_item_mana_04.png"
   },
   {
-    "revision": "f7da695fc729b2651873b9e9cbdb04e8",
+    "revision": "7b455ffbed095b9e459675ca19155248",
     "url": "/AbyssExplorer/item/3_item_mana_05.png"
   },
   {
-    "revision": "530a3cc66d3e18f6770b6d1800e48a3a",
+    "revision": "12226a03d1375182ed9e31d4ed074d39",
     "url": "/AbyssExplorer/item/3_item_mana_06.png"
   },
   {
-    "revision": "a961e6a68c72c5ed4d6e0b24e04a9b6a",
+    "revision": "fcea00f272d1fb8140f8638a0f4c6428",
     "url": "/AbyssExplorer/item/3_item_move_01.png"
   },
   {
-    "revision": "4bd5de889cb4e016e20752a7f49b79d2",
+    "revision": "e80590c56ebdcead7d911a7e69ae2cae",
     "url": "/AbyssExplorer/item/3_item_move_02.png"
   },
   {
-    "revision": "588a52f54b46fbb3f5d16333163123a0",
+    "revision": "28df8447b3ef822ad1bd1c8a7c9586bb",
     "url": "/AbyssExplorer/item/3_item_move_03.png"
   },
   {
-    "revision": "6ef5cbc813608b122ae32e12eb790532",
+    "revision": "fdab037925b5ba037e2a0180bc48b809",
     "url": "/AbyssExplorer/item/3_item_move_04.png"
   },
   {
-    "revision": "5b2ac77cbbccb0d2022addfbcb78bdf9",
+    "revision": "7a32acf3931d2328e2f3047409c0a22d",
     "url": "/AbyssExplorer/item/3_item_move_05.png"
   },
   {
-    "revision": "80532697d91b0bc2dcdca454c1848434",
+    "revision": "397deb74616413295a53060269c134da",
     "url": "/AbyssExplorer/item/3_item_move_06.png"
   },
   {
-    "revision": "95a1221227b30c4274a67bea21d51c9f",
+    "revision": "7767a7997a921283fc5ce0c4f55f3e64",
     "url": "/AbyssExplorer/item/3_item_red_01.png"
   },
   {
-    "revision": "40b885300999858a9ff50c41c3461dc2",
+    "revision": "35924726c602ce9db44548f17c6d0a2c",
     "url": "/AbyssExplorer/item/3_item_red_02.png"
   },
   {
-    "revision": "70f2fe97028de7cbfc169c70e4d4e8c6",
+    "revision": "09af9000cec7fee38a8110aa147d6409",
     "url": "/AbyssExplorer/item/3_item_red_03.png"
   },
   {
-    "revision": "901b54bc24f0298a85cd46727cbdeb15",
+    "revision": "580ec7a5eb048dd21c0b6af4c6d66fa3",
     "url": "/AbyssExplorer/item/3_item_red_04.png"
   },
   {
-    "revision": "0040ef94181e09113b9b8af46a0b49f1",
+    "revision": "79d5a0254e5a49be94acdbcd7cf7e407",
     "url": "/AbyssExplorer/item/3_item_red_05.png"
   },
   {
-    "revision": "68109640670cdf6753d50f5df1f400e9",
+    "revision": "bf92ebd2d35423d0b4403ea3c8d47588",
     "url": "/AbyssExplorer/item/3_item_red_06.png"
   },
   {
-    "revision": "eba6ee9cf8e4b8b76de70b363ffb01c8",
+    "revision": "d88ce184da312f1006862bee576b2315",
     "url": "/AbyssExplorer/item/3_item_red_07.png"
   },
   {
-    "revision": "a031a8377a666579e32bd5de892e60c2",
+    "revision": "e8d80bd9d80a6576b978ddb17f72dde2",
     "url": "/AbyssExplorer/item/3_item_red_08.png"
   },
   {
-    "revision": "58a0c2a433692a1ce3e9cfc32597a81d",
+    "revision": "c17daccc77e3e61388eba7fd60757d05",
     "url": "/AbyssExplorer/item/3_item_red_09.png"
   },
   {
-    "revision": "ba5c755a575b5cebb43233a94cf6a86e",
+    "revision": "f6343bbe754543312464fc43c1bc9c5d",
     "url": "/AbyssExplorer/item/3_item_red_10.png"
   },
   {
-    "revision": "84c09ab7ee9fdbc54b9fafcff55978b5",
+    "revision": "43bb50b974949d66c3c954e51bb30b90",
     "url": "/AbyssExplorer/item/3_item_red_11.png"
   },
   {
-    "revision": "325bc8f0411c09c9c2a3527b7d9ed59b",
+    "revision": "4b5501d378ec682f0930201463bc9d0d",
     "url": "/AbyssExplorer/item/3_item_red_12.png"
   },
   {
-    "revision": "5d671bdf276b3769fb072e6af8de3377",
+    "revision": "37c3f171943231495d8f93b8060073a7",
     "url": "/AbyssExplorer/item/3_item_red_13.png"
   },
   {
-    "revision": "a0a8652e234ad17318a69f44856a2315",
+    "revision": "00d8687da18345d506e5e1d6cdb36958",
     "url": "/AbyssExplorer/item/4_item_damage_01.png"
   },
   {
-    "revision": "3b0acb298505bd02e1f152945c091498",
+    "revision": "674edd740784d71e2e85a97f453fe79a",
     "url": "/AbyssExplorer/item/4_item_damage_02.png"
   },
   {
-    "revision": "a8eaaa21773527d0c6d8e442aa9f539f",
+    "revision": "46542ef12557ed83177db29aa9401098",
     "url": "/AbyssExplorer/item/4_item_damage_03.png"
   },
   {
-    "revision": "d6e51fa7eb1c564766b34da94da000d7",
+    "revision": "5a2686368adab03d8f353fbe56e70447",
     "url": "/AbyssExplorer/item/4_item_damage_04.png"
   },
   {
-    "revision": "c8471bff83c57acb0e4316842e4db490",
+    "revision": "d08b6c2643039dea38c28a145197d8b0",
     "url": "/AbyssExplorer/item/4_item_damage_05.png"
   },
   {
-    "revision": "33cff7a99ccb31f263198ec942050b88",
+    "revision": "57673f126f4da9b7201c4fb2a5a3761e",
     "url": "/AbyssExplorer/item/4_item_damage_06.png"
   },
   {
-    "revision": "20a4fcf7f77b2d8f934b500739ab2469",
+    "revision": "3bc100686ea7b6f092b9f2785a3136e0",
     "url": "/AbyssExplorer/item/4_item_damage_07.png"
   },
   {
-    "revision": "ae334b6c2d1be9cf25c4fd73ee93fb24",
+    "revision": "ac374106065835358a4b3030be484188",
     "url": "/AbyssExplorer/item/4_item_damage_08.png"
   },
   {
-    "revision": "494b27ff930300c829e89d53427808de",
+    "revision": "be5b178d8ea971e71491a2225d077232",
     "url": "/AbyssExplorer/item/4_item_multibullet_01.png"
   },
   {
-    "revision": "d4d657df0fc7df1be16daeaa83e67da6",
+    "revision": "c61c49c2e36977bae5209f32460b7564",
     "url": "/AbyssExplorer/item/4_item_multibullet_02.png"
   },
   {
-    "revision": "05ba98dd8c9670069a18e853202b5ea5",
+    "revision": "13103ee8cb4dfceaf53515378aab2037",
     "url": "/AbyssExplorer/item/4_item_multibullet_03.png"
   },
   {
-    "revision": "87bef3c59a9789318e8c9fe5f2807dd0",
+    "revision": "289995c5a988d1caf004ea65ac04ead7",
     "url": "/AbyssExplorer/item/4_item_multibullet_04.png"
   },
   {
-    "revision": "90d4873e4cf8a7078dfb61bba586afc3",
+    "revision": "0f1b468d6e48c08d9bd44ad0227a40ef",
     "url": "/AbyssExplorer/item/4_item_multibullet_05.png"
   },
   {
-    "revision": "3d69599acad901172a56111e01a3e44d",
+    "revision": "541dbd191df314600e5f56999b47fb87",
     "url": "/AbyssExplorer/item/4_item_multibullet_06.png"
   },
   {
-    "revision": "a333bd53d1169e2e3e24450c60f7ca1b",
+    "revision": "f2571402f6c0320beee26abf709d69c7",
     "url": "/AbyssExplorer/item/4_item_range_01.png"
   },
   {
-    "revision": "30ef5ec567232138c0c8457ddc248cfa",
+    "revision": "332e576c527378cfac2959d2824eb694",
     "url": "/AbyssExplorer/item/4_item_range_02.png"
   },
   {
-    "revision": "8b07ec9da87fb5643cbd543ba2e5495c",
+    "revision": "2502c24d5464cf936f3fe9fa3d0e1ee5",
     "url": "/AbyssExplorer/item/4_item_range_03.png"
   },
   {
-    "revision": "46ff89b1731f92d99d0beeb0f2863701",
+    "revision": "1dc3093d3df3fa294dfe31786d3c33c4",
     "url": "/AbyssExplorer/item/4_item_range_04.png"
   },
   {
-    "revision": "0fe5e686efe9fce77f927066b0b08a1c",
+    "revision": "b75fcfe41e790c98d42f7d37aa4664b0",
     "url": "/AbyssExplorer/item/4_item_rate_01.png"
   },
   {
-    "revision": "f92a7442204a56ef04a82b6d2d19c226",
+    "revision": "9b3cdba39ffbe0da455b22c1e01a56b8",
     "url": "/AbyssExplorer/item/4_item_rate_02.png"
   },
   {
-    "revision": "58c04c56550bb1680abf88c710b52834",
+    "revision": "ea7de50a40deb8b2d3fc08bc9351d91b",
     "url": "/AbyssExplorer/item/4_item_rate_03.png"
   },
   {
-    "revision": "db9b96c304dcf6b114ef512f9f42107e",
+    "revision": "d86f07e0471bd26d43f466606e39d871",
     "url": "/AbyssExplorer/item/4_item_rate_04.png"
   },
   {
-    "revision": "7aa29bbd9dff3252469f709e67b54af9",
+    "revision": "2ff1d20a8063df991e801f01fb255548",
     "url": "/AbyssExplorer/item/4_item_rate_05.png"
   },
   {
-    "revision": "f152be61d187223b6ca96a196f31c190",
+    "revision": "0443ee514a85eb7e2a8572f15f9b5d82",
     "url": "/AbyssExplorer/item/4_item_rate_06.png"
   },
   {
-    "revision": "d9dec02edc7f92715cab5c373c6963d7",
+    "revision": "5f19db78319b1af54861ec86060189b2",
     "url": "/AbyssExplorer/item/4_item_upgrade_01.png"
   },
   {
-    "revision": "e3d848cf1929bf0517e94276eeb7e33f",
+    "revision": "388c7a2f758700d9b8da59c3228271d8",
     "url": "/AbyssExplorer/item/4_item_upgrade_02.png"
   },
   {
-    "revision": "6d8d4d256f6b5bdd7784ce8f601d6398",
+    "revision": "b127076c0e3a4d1c6ca3ccb820afe1bd",
     "url": "/AbyssExplorer/item/4_item_upgrade_03.png"
   },
   {
-    "revision": "90022a27e041c3c4f7d82fe6be7f5113",
+    "revision": "3021cdc9f67c5ade5130c4bdb3415a06",
     "url": "/AbyssExplorer/item/4_item_upgrade_04.png"
   },
   {
-    "revision": "a8850504f737407ebfcb708be50d0c58",
+    "revision": "e368b4ad64aaa806940133c12580ae5d",
     "url": "/AbyssExplorer/item/4_item_upgrade_05.png"
   },
   {
-    "revision": "1d705d81043c4d4899883eb9b3b8acfa",
+    "revision": "28e4f2db6eba23ce24e8ef86304ef320",
     "url": "/AbyssExplorer/item/4_item_upgrade_06.png"
   },
   {
-    "revision": "b6a29589d5b2dd17d706b4eb5bd5ece7",
+    "revision": "0d13efe1d5fd90ccd4091b996190296b",
     "url": "/AbyssExplorer/item/4_item_upgrade_07.png"
   },
   {
-    "revision": "780c71d929d4bedb8ae191811ed8fa32",
+    "revision": "98e760a37a8f3dab462cbdc0a5e2f6cd",
     "url": "/AbyssExplorer/item/4_item_upgrade_08.png"
   },
   {
-    "revision": "d6a998f6f1451679d7e0f2e0d88ba75a",
+    "revision": "d1cad81fd546a25351d71f63e24e5933",
     "url": "/AbyssExplorer/item/5_01_item_aura_elec.png"
   },
   {
-    "revision": "bf2d44c6a7f15e325b09aba9d6525eec",
+    "revision": "75f845b6106c440128be0c3d66fa57ad",
     "url": "/AbyssExplorer/item/5_01_item_fly_athena.png"
   },
   {
-    "revision": "7c20560a5b307d2472513a5ebea77074",
+    "revision": "c7412d7ef180d254645cec47f345cc34",
     "url": "/AbyssExplorer/item/5_01_item_fly_devil.png"
   },
   {
-    "revision": "3b3e8f540516e90eca9b7fb267651e50",
+    "revision": "d9a8705e0cb6087ea9185015f2ea9fc2",
     "url": "/AbyssExplorer/item/5_01_item_fly_god.png"
   },
   {
-    "revision": "c6344db2aafe75f4650c867c26e508f0",
+    "revision": "e84cb1d4ab4fada4028b5585848bf24f",
     "url": "/AbyssExplorer/item/5_01_item_fly_pega.png"
   },
   {
-    "revision": "d6f1662dfc394bd0e20f65bb922b1604",
+    "revision": "0d516d042c818fb9b396a1a3626366ed",
     "url": "/AbyssExplorer/item/5_01_item_hero_sizeDOWN.png"
   },
   {
-    "revision": "76997fc2e0ebfa3640efd39f919ced67",
+    "revision": "0548c3d71f0331a9b16288994adcccd3",
     "url": "/AbyssExplorer/item/5_01_item_hero_sizeUP.png"
   },
   {
-    "revision": "4c684b412a421a8436ef260710bf1f96",
+    "revision": "a5119bcf175a03fe01fcf97766f5d7c2",
     "url": "/AbyssExplorer/item/5_01_item_jump_attack.png"
   },
   {
-    "revision": "399a1d4d10b67155bf73c56d84470855",
+    "revision": "b1af64073e5ec91ff21a9055718cf977",
     "url": "/AbyssExplorer/item/5_01_item_jump_bomb.png"
   },
   {
-    "revision": "57b81662e3ed92b4365827b8491c2c96",
+    "revision": "69d049246dcd65db0276d8cf27eaf74a",
     "url": "/AbyssExplorer/item/5_01_item_jump_shootdown.png"
   },
   {
-    "revision": "c2d20165f5af2d42237d28db4486ec03",
+    "revision": "67117f4073d002c616fa4a9f46bd6278",
     "url": "/AbyssExplorer/item/5_01_item_map_extra_golden.png"
   },
   {
-    "revision": "f6863a9bbc7d4349076e46a17b819201",
+    "revision": "64be0031fe35f21d5e7d8df9f2b3503a",
     "url": "/AbyssExplorer/item/5_01_item_map_eye.png"
   },
   {
-    "revision": "18eae3a0dc7e671883d46da16f1a780b",
+    "revision": "408ad8ae033fc8bc7637c36afb9ba86d",
     "url": "/AbyssExplorer/item/5_01_item_map_full.png"
   },
   {
-    "revision": "ef1cf507171b783d60f973d7ebbd2fc3",
+    "revision": "617d5df165f1e1398e074752613cb2ca",
     "url": "/AbyssExplorer/item/5_01_item_map_icon_hidden.png"
   },
   {
-    "revision": "1e6b0e0500f19e7283beb75a0729c983",
+    "revision": "65ea0e4c695e334532cdc6c636ac0a5f",
     "url": "/AbyssExplorer/item/5_01_item_map_icon_sp.png"
   },
   {
-    "revision": "f24bb8a2a879d871d4f4c9060b74fe1b",
+    "revision": "5ed8310d03714c126fb4bb9e273cf1df",
     "url": "/AbyssExplorer/item/5_01_item_map_reveal.png"
   },
   {
-    "revision": "a2a1d2c8864e308529cd5cb9ec1c07cb",
+    "revision": "db9b6cb9b6b6c92593092ce73190cd83",
     "url": "/AbyssExplorer/item/5_01_item_revive_aegis.png"
   },
   {
-    "revision": "2a11f4a3c5e276af371a72ec866b96ae",
+    "revision": "fe4c9c762d0f0256454fd5aff199521e",
     "url": "/AbyssExplorer/item/5_01_item_revive_coin.png"
   },
   {
-    "revision": "42a373479dac5a8a98135979bb159a79",
+    "revision": "337db09dba9cc57f5d48f1390f9b1820",
     "url": "/AbyssExplorer/item/5_01_item_revive_fire.png"
   },
   {
-    "revision": "646a546bb03ef4daa2ba1f7e3b12a5e9",
+    "revision": "9a27ea2150c5f31ef93317ee912187e0",
     "url": "/AbyssExplorer/item/5_01_item_revive_gamble.png"
   },
   {
-    "revision": "36c4b7d2d4011ee7a77b2fa2ddfb31ac",
+    "revision": "82a4c80fcc7f31b7b7408f177283ed75",
     "url": "/AbyssExplorer/item/5_01_item_wiki.png"
   },
   {
-    "revision": "f11e0ca48918a02e2c460d1faf7a6c5f",
+    "revision": "fcda595349cc0ac96e0b134d0629a257",
     "url": "/AbyssExplorer/item/5_02_item_coin_bomb.png"
   },
   {
-    "revision": "86ec60f52cedb66f9d7646f4ae73c76c",
+    "revision": "c6e6f0d105198e06f264c0b4c6e11903",
     "url": "/AbyssExplorer/item/5_02_item_coin_damage.png"
   },
   {
-    "revision": "ca837c62e4ee8d8c72f865851733c899",
+    "revision": "29598ff097ddfe90318d5e8c24850288",
     "url": "/AbyssExplorer/item/5_02_item_coin_gs.png"
   },
   {
-    "revision": "032f2267f423d38db45c8a8fcaf874c1",
+    "revision": "ba316f980dafee767173aa67a7759615",
     "url": "/AbyssExplorer/item/5_02_item_coin_gun.png"
   },
   {
-    "revision": "a49ad97af31547ec959eb5a13c2a5614",
+    "revision": "614615edf6af7a4e8d0541aa29ec6220",
     "url": "/AbyssExplorer/item/5_02_item_coin_rpm.png"
   },
   {
-    "revision": "739d35c794bc4253171f82f19c7bb267",
+    "revision": "0e9a9e2a0d5a2f8b91582c99590705f8",
     "url": "/AbyssExplorer/item/5_02_item_egg_instead_bomb.png"
   },
   {
-    "revision": "5374cb53495b56e651efe482a86679ac",
+    "revision": "0d3c3f4688fa5a7a8878923154842dce",
     "url": "/AbyssExplorer/item/5_02_item_egg_instead_key.png"
   },
   {
-    "revision": "f13bbbb9c383c6e6fbe5d94f7895f97e",
+    "revision": "e774c3d551188c8306eda26d364e4028",
     "url": "/AbyssExplorer/item/5_02_item_heart_doublecure.png"
   },
   {
-    "revision": "e5502b21436d122e441de8b045c797ca",
+    "revision": "c23eb57a4a5269cb40b8024d4bc7485d",
     "url": "/AbyssExplorer/item/5_02_item_heart_full_damageUP.png"
   },
   {
-    "revision": "d174b6097ef9a8e56d46eb8772900b5e",
+    "revision": "300b46643fc4580870ddb5259a214de9",
     "url": "/AbyssExplorer/item/5_02_item_heart_full_recover.png"
   },
   {
-    "revision": "647951c731af72f54385aa34c76cd1a4",
+    "revision": "cd0bd52514d6c021de76c8884b8a941b",
     "url": "/AbyssExplorer/item/5_02_item_heart_less_damageUP.png"
   },
   {
-    "revision": "4457130716457c5cd033a1ca68551582",
+    "revision": "c3e6c4758f31ecbd8c1f0690223f24d3",
     "url": "/AbyssExplorer/item/5_02_item_heart_less_gunlevelUP.png"
   },
   {
-    "revision": "18561f019ac70b7171c71a39128ae29a",
+    "revision": "8ebdd46bfe2b3424394ac5bd634a5732",
     "url": "/AbyssExplorer/item/5_02_item_heart_to_shield.png"
   },
   {
-    "revision": "b96bb3d533888eb722fecb861b8ffc54",
+    "revision": "e2cefb631581fe9667d47e1328d146b2",
     "url": "/AbyssExplorer/item/5_02_item_key_dmg_up.png"
   },
   {
-    "revision": "61b5f2b08776d85be120bb100c5b268c",
+    "revision": "495269b884f48effc612f3daeff8c14c",
     "url": "/AbyssExplorer/item/5_02_item_key_instead_bomb.png"
   },
   {
-    "revision": "901ac977df25c22e5d300cbbc98abe52",
+    "revision": "050814d5c2266b5d36421dd50f2906d4",
     "url": "/AbyssExplorer/item/5_02_item_key_rpm_up.png"
   },
   {
-    "revision": "a35fdd38c3320579a94ccae7b569c3d7",
+    "revision": "8d44462b17ddee06d19ff60d39296ac1",
     "url": "/AbyssExplorer/item/5_02_item_key_use_bomb.png"
   },
   {
-    "revision": "3b9bb270303ec2953c90a83419507824",
+    "revision": "94b2ab917992a7e0c0c6260d9fec282d",
     "url": "/AbyssExplorer/item/5_02_item_key_use_egg.png"
   },
   {
-    "revision": "956af0cc9f8566f0c9c0c84039175608",
+    "revision": "09445fe792c9ac7155f07d5a1fab883f",
     "url": "/AbyssExplorer/item/5_02_item_key_use_fs.png"
   },
   {
-    "revision": "a3fdb87f1ebe7002e339f6e72ed9ce99",
+    "revision": "eeebc22f2522cb997a33769c614af266",
     "url": "/AbyssExplorer/item/5_02_item_key_use_heart.png"
   },
   {
-    "revision": "741ce77c13d471ee69584d884a10eda5",
+    "revision": "9e836d43522bf90a3898579bb87665ec",
     "url": "/AbyssExplorer/item/5_02_item_key_use_shell.png"
   },
   {
-    "revision": "01f7294e0eaac99a68ee07de0e493ae7",
+    "revision": "02029c682dcb63b9b579e10040f7c93c",
     "url": "/AbyssExplorer/item/5_02_item_key_use_shield.png"
   },
   {
-    "revision": "af6e7b1b106bd77835aacc297a9c2951",
+    "revision": "9cc77ded50c7c748ca83a02ec0db7498",
     "url": "/AbyssExplorer/item/5_02_item_mana_full_damageUP.png"
   },
   {
-    "revision": "556d4ad255079454238dd6ac8655cda6",
+    "revision": "af7744abae8dfc1789ff2173473e2eb2",
     "url": "/AbyssExplorer/item/5_02_item_mana_less_damageUP.png"
   },
   {
-    "revision": "c523d0aa334c1d8d35b3cc82baa65fda",
+    "revision": "3d775b06ae02eaf5b942de03e04dc5ea",
     "url": "/AbyssExplorer/item/5_02_item_pick_coin_dropBomb.png"
   },
   {
-    "revision": "b83791086359047ffcbab0e8783f446b",
+    "revision": "25e6b48590e8bad12c2afda993a6d432",
     "url": "/AbyssExplorer/item/5_02_item_pick_coin_dropHeart.png"
   },
   {
-    "revision": "5acde9580308b2a33e38961eefac17af",
+    "revision": "fcbc8a549cd2b6275fa862aba401257a",
     "url": "/AbyssExplorer/item/5_02_item_pick_coin_dropKey.png"
   },
   {
-    "revision": "471f17d90864691204b9fdc31b59923d",
+    "revision": "528b38a454006d5431736c409cbfba1c",
     "url": "/AbyssExplorer/item/5_02_item_pick_coin_dropMana.png"
   },
   {
-    "revision": "9bd4e7b05942b375399f310a2872f8b0",
+    "revision": "11c88197c8cd43d74a289d51e830de6a",
     "url": "/AbyssExplorer/item/5_02_item_pick_coin_dropShield.png"
   },
   {
-    "revision": "e2fb9a50ad5871d804126b0120961a5a",
+    "revision": "4b3e46d54f1d4cd5938620f2aa8da423",
     "url": "/AbyssExplorer/item/5_02_item_pick_damageUP.png"
   },
   {
-    "revision": "10af6c2c48c0f5b5278da898854fc449",
+    "revision": "af670c171c53df939721b3d7532aa82b",
     "url": "/AbyssExplorer/item/5_02_item_pick_speedUP.png"
   },
   {
-    "revision": "40c4e159e4e7e1c2a30521d76723a7b4",
+    "revision": "1677696038c7463ce3fda0c9eff38967",
     "url": "/AbyssExplorer/item/5_02_item_res_bomb.png"
   },
   {
-    "revision": "4da3e9560449d5b9c063efea2670d662",
+    "revision": "39a2bfe0dbd508fdb59f5fff5a134f0d",
     "url": "/AbyssExplorer/item/5_02_item_res_chest_to_curse.png"
   },
   {
-    "revision": "abddb66c6e0e7db88799ed30f84c8ebb",
+    "revision": "9911825f145f9f183f20fe32a0c67933",
     "url": "/AbyssExplorer/item/5_02_item_res_coin250.png"
   },
   {
-    "revision": "a65f3d551970745b7c0a5961493585ef",
+    "revision": "146cd388fb7a70eef4d036fc5532c496",
     "url": "/AbyssExplorer/item/5_02_item_res_coin999.png"
   },
   {
-    "revision": "aaa771a12b36f5376aef372232ef30ef",
+    "revision": "beb83e5ac866b844a82499895bca948b",
     "url": "/AbyssExplorer/item/5_02_item_res_coin_instead_key.png"
   },
   {
-    "revision": "63053b31a175e82b671c029b72a052b5",
+    "revision": "9df3a7b56fcc8c031e432a543fd6a024",
     "url": "/AbyssExplorer/item/5_02_item_res_double_bomb.png"
   },
   {
-    "revision": "6a1396f18057b133ab12afa383c717d5",
+    "revision": "6fc8c4bcc124194a051323bef283bb55",
     "url": "/AbyssExplorer/item/5_02_item_res_extra_coin.png"
   },
   {
-    "revision": "0e348546d3ecc1e24e3b51d29490a537",
+    "revision": "74993126ccf69014886bf116dc4d8f65",
     "url": "/AbyssExplorer/item/5_02_item_res_extra_key.png"
   },
   {
-    "revision": "a751c96e1361ff90cef936f3774cfdc8",
+    "revision": "696418a6d7868f3a1a897e6da6d3dc24",
     "url": "/AbyssExplorer/item/5_02_item_res_heart_instead_key.png"
   },
   {
-    "revision": "defa668eacd96f7c49bf68efaaad0358",
+    "revision": "eff2a0c1941baeeb403a004fdb7a5dcc",
     "url": "/AbyssExplorer/item/5_02_item_res_key99.png"
   },
   {
-    "revision": "f77a2d7223d00795c80cef06eb06b791",
+    "revision": "b8a9d0d3e806b2e7b344579cf1d7c478",
     "url": "/AbyssExplorer/item/5_02_item_res_shop_halfprice.png"
   },
   {
-    "revision": "2b7b0cdc4479969b0eebd97d9a126864",
+    "revision": "59233fef5ee6a9895b40dc8bed7d9a28",
     "url": "/AbyssExplorer/item/5_02_item_res_shop_refesh.png"
   },
   {
-    "revision": "19740720f8d405804e273d2a5a3732a0",
+    "revision": "db6f78d8be5b17528fac9dce20f5b26e",
     "url": "/AbyssExplorer/item/5_02_item_shield_damageUP.png"
   },
   {
-    "revision": "108b5a2d18aca5bb8123881d526263ec",
+    "revision": "e9d26dd4ef58ce03b7f0d1842582272a",
     "url": "/AbyssExplorer/item/5_02_item_shield_frist.png"
   },
   {
-    "revision": "c0a34e89daa288c5622e80cd5320eb65",
+    "revision": "259f7d430297dc92bba36699432e9ea2",
     "url": "/AbyssExplorer/item/5_02_item_shield_levelup.png"
   },
   {
-    "revision": "5da1a157808247aeb9cc35b90c1bf06b",
+    "revision": "5d296176e41d65ffbddbde0b3e26bcda",
     "url": "/AbyssExplorer/item/5_02_item_shield_melee_dmgup.png"
   },
   {
-    "revision": "30ca9224e6c204fde95fdfb20f15c95d",
+    "revision": "9f408ea960f8feeb59dddbd1a6c0aed8",
     "url": "/AbyssExplorer/item/5_02_item_shield_rpmup.png"
   },
   {
-    "revision": "ec30194189522c73abec46db453e9b82",
+    "revision": "5e600d280b437d9fe7cd78e54cac151a",
     "url": "/AbyssExplorer/item/5_02_item_shield_to_coins.png"
   },
   {
-    "revision": "b1e101a3d68a42e5006c2434f2578a99",
+    "revision": "9b39022b98bbef131a70d99e6c554e39",
     "url": "/AbyssExplorer/item/5_02_item_shield_zero_defend.png"
   },
   {
-    "revision": "90b41b91dcef228de2420bc9009912ca",
+    "revision": "3284ba5b568c7832e5978223fad594a6",
     "url": "/AbyssExplorer/item/5_02_item_shield_zero_jump.png"
   },
   {
-    "revision": "f2a0e4add5a54211a3c1ad0067495f59",
+    "revision": "f789c0b775857919002d28b1213f64e7",
     "url": "/AbyssExplorer/item/5_03_item_defend_back.png"
   },
   {
-    "revision": "9b918d91f513f40487d85dcac57b719c",
+    "revision": "a72e641d1f829ea9309ea6732b4930e5",
     "url": "/AbyssExplorer/item/5_03_item_defend_bullet.png"
   },
   {
-    "revision": "a673f1e5b729622c4a1d6137aee1d349",
+    "revision": "80515759381abb6ed7c0bdd539cd3499",
     "url": "/AbyssExplorer/item/5_03_item_defend_melee.png"
   },
   {
-    "revision": "bc7bf7f86aea246b10f6bd5356a6482f",
+    "revision": "b9bab0d8e761daaa543e15ac1ff0eb65",
     "url": "/AbyssExplorer/item/5_03_item_defend_once_room.png"
   },
   {
-    "revision": "0d33dea792439cd69bcedcb59ccd9042",
+    "revision": "63d3e7a42d2bc212c771203920d69aec",
     "url": "/AbyssExplorer/item/5_03_item_defend_trap.png"
   },
   {
-    "revision": "73ea8963786438c168155c4dd5d607ac",
+    "revision": "e1799a6becee85fc8633b1223164cede",
     "url": "/AbyssExplorer/item/5_03_item_hurt_attack_gunlevel_up.png"
   },
   {
-    "revision": "7417a1227cd364368c8be968a2bffff5",
+    "revision": "618591a0385888368ba876e1d7b6fa8c",
     "url": "/AbyssExplorer/item/5_03_item_hurt_attack_speed_up.png"
   },
   {
-    "revision": "975dfc84ba583d8a33899c905e8c0c16",
+    "revision": "0f344110629c2888032c5e20b1ef9374",
     "url": "/AbyssExplorer/item/5_03_item_hurt_damageUP.png"
   },
   {
-    "revision": "38e8bf4abaa8179e02aba0c2af81efec",
+    "revision": "e9c94ec0d10c4b196deedb248feb4ba8",
     "url": "/AbyssExplorer/item/5_03_item_hurt_drop_bomb.png"
   },
   {
-    "revision": "e59f6d6b3d655b70ad512dfb7e6fcae9",
+    "revision": "8841718eaa2c8a4f9711ba713d29cf75",
     "url": "/AbyssExplorer/item/5_03_item_hurt_drop_coin.png"
   },
   {
-    "revision": "44ed7b57b3362bc3aac1485932f297d3",
+    "revision": "93f0f42a1f8a92f12cce3b419de308b7",
     "url": "/AbyssExplorer/item/5_03_item_hurt_drop_crystal.png"
   },
   {
-    "revision": "b724536a5bda4e613c2ad5793897f227",
+    "revision": "537f2d1bfb48cbc91246ffcdd541f607",
     "url": "/AbyssExplorer/item/5_03_item_hurt_drop_random_pickup.png"
   },
   {
-    "revision": "7d4d9b43e554cbe89966a23a352e52f4",
+    "revision": "000734617d9e02e9fb351910d05e1cad",
     "url": "/AbyssExplorer/item/5_03_item_hurt_drop_shield.png"
   },
   {
-    "revision": "3e8b5884544d167a15358bb60b364381",
+    "revision": "04bfc74dc5518c6ad4ef9d987f628e51",
     "url": "/AbyssExplorer/item/5_03_item_hurt_elec_ring.png"
   },
   {
-    "revision": "47112f02729334528fb5993a75952711",
+    "revision": "69283082c2c27300736b38bd7a28ba0f",
     "url": "/AbyssExplorer/item/5_03_item_hurt_explo_key.png"
   },
   {
-    "revision": "35008c15f80a30c72568410fda5ae3ad",
+    "revision": "8a6b6a75fb25490393286e15fc56708d",
     "url": "/AbyssExplorer/item/5_03_item_hurt_explosion.png"
   },
   {
-    "revision": "7dfe904fdc832fb28d89dca4c2a769eb",
+    "revision": "f82c2890c90f3cab75112d6c6b955f7b",
     "url": "/AbyssExplorer/item/5_03_item_hurt_fs.png"
   },
   {
-    "revision": "b1b46393664378f8c67dc7447bedbb4b",
+    "revision": "a0a3fe10ecf5eee6b8a938fdae14d4dd",
     "url": "/AbyssExplorer/item/5_03_item_hurt_gain_mana.png"
   },
   {
-    "revision": "87b9f1c627a63fe82235518685d20c81",
+    "revision": "466ca59534535748e471854c7f203133",
     "url": "/AbyssExplorer/item/5_03_item_hurt_gain_shield.png"
   },
   {
-    "revision": "5bbc991071df4bf2191427188fa89039",
+    "revision": "9e785869fb045de1f3c5b815696f9382",
     "url": "/AbyssExplorer/item/5_03_item_hurt_get_item.png"
   },
   {
-    "revision": "9d3230b2b7a84518bc1319be042e4e87",
+    "revision": "e1d4f85d7a93374a38bc0d4b28cd9aad",
     "url": "/AbyssExplorer/item/5_03_item_hurt_gs.png"
   },
   {
-    "revision": "0441db3f5df42f1a273eb3652a17a9cd",
+    "revision": "aac07fb5786dd71dec1ecdd79f1f1fe7",
     "url": "/AbyssExplorer/item/5_03_item_hurt_last_attack.png"
   },
   {
-    "revision": "68666d11ee46502ebb29f99854b63d9e",
+    "revision": "965124f7e397efa7de5eafa9256585fc",
     "url": "/AbyssExplorer/item/5_03_item_hurt_last_fly.png"
   },
   {
-    "revision": "25005cc1664a16f59bf8246eff007c61",
+    "revision": "a3a0903fec20bc74290b9f03465e62fe",
     "url": "/AbyssExplorer/item/5_03_item_hurt_last_stand.png"
   },
   {
-    "revision": "17edb27884afd30c48f76e8a83f07d09",
+    "revision": "54ded9951c7c5be1ee24a216be974db2",
     "url": "/AbyssExplorer/item/5_03_item_hurt_only_half.png"
   },
   {
-    "revision": "706c5d94de467404702e81d56691a880",
+    "revision": "5e0b1f142cff87156bac2b75ad4910df",
     "url": "/AbyssExplorer/item/5_03_item_hurt_zero_or_double.png"
   },
   {
-    "revision": "42c36048424b328312907da1aca66cb3",
+    "revision": "c47f88a70cd3be9cde3d02b5961b13b9",
     "url": "/AbyssExplorer/item/5_03_item_immu_explo_0.png"
   },
   {
-    "revision": "f66da5df81956c8620f5580b9e38ddf1",
+    "revision": "7e85ea552fd2072d0ff8ed3ee953b97d",
     "url": "/AbyssExplorer/item/5_03_item_immu_explo_get_heart.png"
   },
   {
-    "revision": "145002bd86ed2783fc188a0c8bce82e7",
+    "revision": "8b5506920c72458312dbb55215ce42cc",
     "url": "/AbyssExplorer/item/5_03_item_touch_melee.png"
   },
   {
-    "revision": "bdba00d697592502c03404d22b60d1ec",
+    "revision": "74df5e8ac00122e685036588357a2a97",
     "url": "/AbyssExplorer/item/5_04_item_attack_back_damageUP.png"
   },
   {
-    "revision": "4c853c78aa4bf303abf0df0b33fcf525",
+    "revision": "f83286b1cad5cfa0e6263fa8876b3f0e",
     "url": "/AbyssExplorer/item/5_04_item_attack_continue_damageUP.png"
   },
   {
-    "revision": "ce32e0e634020deca4e3880682b99a76",
+    "revision": "d4f9912f6113ad45637449a59316fcf6",
     "url": "/AbyssExplorer/item/5_04_item_kill_bomb_bee.png"
   },
   {
-    "revision": "f7ccbca7ce19bdb547781b2b6bd09f6c",
+    "revision": "5f00b84ef405b8b59a970707d667309b",
     "url": "/AbyssExplorer/item/5_04_item_kill_bomb_heart.png"
   },
   {
-    "revision": "abddc3b63670af82c7234056aa3fcfe7",
+    "revision": "c7d68b4d925428af9750c3854fd9c48a",
     "url": "/AbyssExplorer/item/5_04_item_kill_bomb_shield.png"
   },
   {
-    "revision": "4be5cfd858a99ee35f2d9df6cd2a6a06",
+    "revision": "622abcd95e3ad2b5fc656ca99bd54134",
     "url": "/AbyssExplorer/item/5_04_item_kill_damgeUP.png"
   },
   {
-    "revision": "081ceea38dc42254ce3ec985bdda66c7",
+    "revision": "337789ef449e29b8bc8b1c2ec892d529",
     "url": "/AbyssExplorer/item/5_04_item_kill_double_coin.png"
   },
   {
-    "revision": "025756d9870f84cc8451eb6b122cc99e",
+    "revision": "a837c9c27425eb4d05321c5361820d3b",
     "url": "/AbyssExplorer/item/5_04_item_kill_get_bomb_count.png"
   },
   {
-    "revision": "bd8f7ed0bc11e71e687ce54d01955333",
+    "revision": "fcae577e70b1f8110db85e283b231281",
     "url": "/AbyssExplorer/item/5_04_item_kill_get_eggs_count.png"
   },
   {
-    "revision": "8108fb224a7a4c6acf71aeae49cd0bc2",
+    "revision": "6d3c84750848d1ed2125b23a2229020c",
     "url": "/AbyssExplorer/item/5_04_item_kill_get_key_count.png"
   },
   {
-    "revision": "dc5edbef78e587137ef51f6973e0b86a",
+    "revision": "8b1255fc554f20674cd73afda5c1bbf6",
     "url": "/AbyssExplorer/item/5_04_item_kill_get_shield_count.png"
   },
   {
-    "revision": "55f6beba35c55f944f29ea453833f0c7",
+    "revision": "e5ad5b06c162c49d2ee1ae15297d09ae",
     "url": "/AbyssExplorer/item/5_04_item_kill_player_explo.png"
   },
   {
-    "revision": "d9d51dfbf830796419824134857484bb",
+    "revision": "c4dec2591b90b3f633eac2a98eef0607",
     "url": "/AbyssExplorer/item/5_04_item_kill_player_shell.png"
   },
   {
-    "revision": "17099fcb112194c446d23a9df4ccac8d",
+    "revision": "16728e4395dfef8c7b199a902250a514",
     "url": "/AbyssExplorer/item/5_04_item_kill_recover_heart_chance.png"
   },
   {
-    "revision": "c5665f1a4c0c0671d3d126e95ea41079",
+    "revision": "df59c98df4536111f10e43c0c86b6c90",
     "url": "/AbyssExplorer/item/5_04_item_kill_recover_heart_count.png"
   },
   {
-    "revision": "6855ab13e5c38348993bcfd88dc0d5c2",
+    "revision": "78e3e9626a2de51fab5c29e791b1730d",
     "url": "/AbyssExplorer/item/5_04_item_kill_recover_mana_count.png"
   },
   {
-    "revision": "0241211b82473a449e1b92ab66228689",
+    "revision": "71c04c0b13938e2a6c2177cef2af67ab",
     "url": "/AbyssExplorer/item/5_04_item_kill_rpmUP.png"
   },
   {
-    "revision": "1feb90bce0fd48f57173d5eed60cd6d7",
+    "revision": "dfe72c46c8a0f417d446401fd8ff54e8",
     "url": "/AbyssExplorer/item/5_04_item_kill_to_explo.png"
   },
   {
-    "revision": "7abd406c044a8f9016e3961bb54792a6",
+    "revision": "f6a54ded51c593f3faa7f3b79528b7bc",
     "url": "/AbyssExplorer/item/5_04_item_kill_weaponUP.png"
   },
   {
-    "revision": "d078f9a431cb99b832b3c10e357f4a24",
+    "revision": "7d4b8b2fc215ace04669ff7f0078bb62",
     "url": "/AbyssExplorer/item/5_04_item_weapon_air_damUP.png"
   },
   {
-    "revision": "e30b9a8479fbd5d1487dd9940e4fc6a8",
+    "revision": "af4a1867ea47354073c643a044b00b77",
     "url": "/AbyssExplorer/item/5_05_item_bullet_bighit_1of10.png"
   },
   {
-    "revision": "f832e4efd84a83565d4247a7f05305ae",
+    "revision": "98f02417e370f9d94590f8da79b101ec",
     "url": "/AbyssExplorer/item/5_05_item_bullet_bighit_chance.png"
   },
   {
-    "revision": "fe68188c386cc695941498db171e10c1",
+    "revision": "47690b94951cfcb1cf17501e1e5b8666",
     "url": "/AbyssExplorer/item/5_05_item_bullet_chase.png"
   },
   {
-    "revision": "beb73ce6fbc87bf9c587cc2f41ee0f2c",
+    "revision": "3d8f57b9d196d06ea2c21595a083097e",
     "url": "/AbyssExplorer/item/5_05_item_bullet_dis_explo.png"
   },
   {
-    "revision": "52b1975e267595995c6a123e39b12c2a",
+    "revision": "cb22a8bbfb67e07d959b16063a04ebf0",
     "url": "/AbyssExplorer/item/5_05_item_bullet_dis_fireworks.png"
   },
   {
-    "revision": "dc08d51ee1bc545c71207815fcdb6bc1",
+    "revision": "b446e00e9b64dc743acae6ba2c1ef25a",
     "url": "/AbyssExplorer/item/5_05_item_bullet_dis_platform.png"
   },
   {
-    "revision": "14b4678bca108d40d7640c9c01a341dd",
+    "revision": "cbee18da63131c82fab73fa3aefc3619",
     "url": "/AbyssExplorer/item/5_05_item_bullet_dis_spread_1.png"
   },
   {
-    "revision": "bfdbac7c1a1b088d81d9db3c6b7b37c8",
+    "revision": "51efd41bc04f288cc90e8ad94d98662c",
     "url": "/AbyssExplorer/item/5_05_item_bullet_dis_spread_2.png"
   },
   {
-    "revision": "af3f11b281aa00c99e2c617d69db0205",
+    "revision": "2624cd9e474a2abdcc5bf03b49a547f0",
     "url": "/AbyssExplorer/item/5_05_item_bullet_dis_spread_3.png"
   },
   {
-    "revision": "3bb220c9b375da0053f3b6c277e04b07",
+    "revision": "7ae690cd32d48fa0a6760955feed0caa",
     "url": "/AbyssExplorer/item/5_05_item_bullet_reflect.png"
   },
   {
-    "revision": "9f11d34522ec119178416a810d96c73f",
+    "revision": "69ad80f08c3e626e5431d1bfb7e889cb",
     "url": "/AbyssExplorer/item/5_05_item_bullet_shield.png"
   },
   {
-    "revision": "3776a0e0810672a247f6df02a4bbe20e",
+    "revision": "cbdfb41d2c67a169547d603b46769581",
     "url": "/AbyssExplorer/item/5_05_item_bullet_tag_electric.png"
   },
   {
-    "revision": "4c32bdfa167b92fdf6af23a7f04579d0",
+    "revision": "4f646243ec6309920e12a7f6d1331ab5",
     "url": "/AbyssExplorer/item/5_05_item_bullet_tag_fire.png"
   },
   {
-    "revision": "cba526ba435b5b17efa1e8d90b91a170",
+    "revision": "f13b4f6acab3de88d2a90f25e6c6c4ea",
     "url": "/AbyssExplorer/item/5_05_item_bullet_tag_ice.png"
   },
   {
-    "revision": "b871d27139b178bd91f71fc0340a2e9a",
+    "revision": "a5efe73659351dbd53cf55d0fea6224b",
     "url": "/AbyssExplorer/item/5_05_item_bullet_tag_poison.png"
   },
   {
-    "revision": "fbc374706fdb8162d6fce788a0605b53",
+    "revision": "0ab4c3fe6a71c0588d1f56a5c3f8c4e6",
     "url": "/AbyssExplorer/item/5_05_item_bullet_through_monster.png"
   },
   {
-    "revision": "ec57e642c6b40797f276260f85e6b919",
+    "revision": "e497286c60c55538ffb834f1b18ed6b3",
     "url": "/AbyssExplorer/item/5_05_item_bullet_through_wall.png"
   },
   {
-    "revision": "3d990c258bc2fb097ca5b88341df3896",
+    "revision": "13c36c6f2b459621cbd760a4e3111882",
     "url": "/AbyssExplorer/item/5_05_item_sub_bouncy.png"
   },
   {
-    "revision": "12b9585e5b6120e3f843b506636766a5",
+    "revision": "e6f2540a2ff04a07f4583500a8820648",
     "url": "/AbyssExplorer/item/5_05_item_sub_chase.png"
   },
   {
-    "revision": "d85cf412810028b70419e46f81b14d20",
+    "revision": "f335959056e0bf42b771419661c8d060",
     "url": "/AbyssExplorer/item/5_05_item_sub_laser_fast.png"
   },
   {
-    "revision": "738edca28311cf21e07d0091c5849f31",
+    "revision": "dbda8da0eceb85959f4b66f7cea12638",
     "url": "/AbyssExplorer/item/5_05_item_sub_mouse.png"
   },
   {
-    "revision": "992ff97fc7a12f59028e49543ee77b35",
+    "revision": "96080b862f109ba76b68e9acde7aebe8",
     "url": "/AbyssExplorer/item/5_05_item_sub_reflect.png"
   },
   {
-    "revision": "38931d72f8b56a4917195b5904764343",
+    "revision": "3fe8789d2843c0eb5b0b67d548c897ac",
     "url": "/AbyssExplorer/item/5_05_item_sub_rocket.png"
   },
   {
-    "revision": "778962a66790edb897e07d4870e48efb",
+    "revision": "9e77dc51027fc64e9e3607b90452593c",
     "url": "/AbyssExplorer/item/5_05_item_sub_shotgun.png"
   },
   {
-    "revision": "b113234736389bb4b40921f506830721",
+    "revision": "5bc6db971cb5623598141c53ed5a80bb",
     "url": "/AbyssExplorer/item/5_05_item_sub_tag_electric.png"
   },
   {
-    "revision": "13b9b57ce5a8770af78698cdbe4d404b",
+    "revision": "2703c634f570cf30ebd24378daef467a",
     "url": "/AbyssExplorer/item/5_05_item_sub_tag_fire.png"
   },
   {
-    "revision": "398b36bdde237ced4e93d79d93023119",
+    "revision": "37566d88961ed030cd143f7b53a2eccb",
     "url": "/AbyssExplorer/item/5_05_item_sub_tag_ice.png"
   },
   {
-    "revision": "99443ecf1d7d1dbd3106eb59a59b6342",
+    "revision": "eb0a24d462d2d7e6764d7fce4ff12eef",
     "url": "/AbyssExplorer/item/5_05_item_sub_tag_poison.png"
   },
   {
-    "revision": "3bb2ff2a21c6197142ffd3b15dc29c6c",
+    "revision": "a4761b46fb79650bdf80423665bd164f",
     "url": "/AbyssExplorer/item/5_05_item_sub_tag_random.png"
   },
   {
-    "revision": "09766e040b8dd2b6524e2f549e018a06",
+    "revision": "bb66e6fa8a3a3e55f51da0674dc68368",
     "url": "/AbyssExplorer/item/5_05_item_sub_through.png"
   },
   {
-    "revision": "1ed3359e69bf8bf46db08224fec3c34c",
+    "revision": "8ad476becb620f5f1e4feb16c1971e95",
     "url": "/AbyssExplorer/item/5_06_item_melee_air_dmgUP.png"
   },
   {
-    "revision": "3af2175ba511d70a57a08bb2675ec807",
+    "revision": "39a1615220d9fa4ca3642c24166653c1",
     "url": "/AbyssExplorer/item/5_06_item_melee_box_coin.png"
   },
   {
-    "revision": "6edfcbd0126c3dd035d944c6d91ffbf9",
+    "revision": "c43a191c687924c39d6f016e6424dc8e",
     "url": "/AbyssExplorer/item/5_06_item_melee_coin_dmgUP.png"
   },
   {
-    "revision": "3562cefacd5520af44571a04a1aa0920",
+    "revision": "4c09632d932d8313fe92d33307c61254",
     "url": "/AbyssExplorer/item/5_06_item_melee_count_dmgUP.png"
   },
   {
-    "revision": "362d58106127704b816fc5d46f939280",
+    "revision": "4d99c1d5e92fc499cc3aec3aa3e89d5b",
     "url": "/AbyssExplorer/item/5_06_item_melee_death_explo.png"
   },
   {
-    "revision": "60b91fad574ac862c26f0f34bd07e202",
+    "revision": "5f23868643a714807c01d9324b1bc964",
     "url": "/AbyssExplorer/item/5_06_item_melee_dmgUP.png"
   },
   {
-    "revision": "80123ff9e9ad4ed2d9c69ce412166191",
+    "revision": "6e7fe015f1e4356d9ebc1d3be0aec496",
     "url": "/AbyssExplorer/item/5_06_item_melee_drop_instantbomb.png"
   },
   {
-    "revision": "736706bfa3125fdacdf5b6018815fe85",
+    "revision": "9c66996c00dfa739605f406b6a59e4fc",
     "url": "/AbyssExplorer/item/5_06_item_melee_egg_dmgUP.png"
   },
   {
-    "revision": "6c2c578838c4520159d68a4208fcbfb0",
+    "revision": "9829d2055e9fdb95ff4e81bf78509457",
     "url": "/AbyssExplorer/item/5_06_item_melee_egg_rangeUP.png"
   },
   {
-    "revision": "09f0defed144c481d7e12c35a56f6acc",
+    "revision": "f7295b50a4583034d1d680d019e01d4e",
     "url": "/AbyssExplorer/item/5_06_item_melee_elec.png"
   },
   {
-    "revision": "51ebac1605212fe6beb88a386ef2eb35",
+    "revision": "e93e88e80b89746379bf8c3a9f808cc4",
     "url": "/AbyssExplorer/item/5_06_item_melee_fire.png"
   },
   {
-    "revision": "f53d7a1702f57d31c1f8d29193e449e6",
+    "revision": "5c80d55ba31d9877ee853136b222b6f3",
     "url": "/AbyssExplorer/item/5_06_item_melee_gain_heart.png"
   },
   {
-    "revision": "b99f58f771cf98a3a9024d62d4082ee1",
+    "revision": "0ebc338e48fca6a60b3e6b19b716f07e",
     "url": "/AbyssExplorer/item/5_06_item_melee_get_bomb.png"
   },
   {
-    "revision": "7d0c2ea1dbd91f0d4ba217e98d972e29",
+    "revision": "b6661454c48f0c7ee690e9979729d5bf",
     "url": "/AbyssExplorer/item/5_06_item_melee_get_egg.png"
   },
   {
-    "revision": "5660fc00f92a95952e8704fa394833e7",
+    "revision": "b26dcaaf1b99aaae51c40c07e8fbc932",
     "url": "/AbyssExplorer/item/5_06_item_melee_get_key.png"
   },
   {
-    "revision": "53a77f7b3c4a61faa23f2d40a9d8dbcc",
+    "revision": "943bb24a8eae837ea9050ce18bd7709b",
     "url": "/AbyssExplorer/item/5_06_item_melee_get_mana.png"
   },
   {
-    "revision": "8196da2a3ed52c06956e8f98a0b80825",
+    "revision": "3a50dce897f6b71011fdc216269a4fd7",
     "url": "/AbyssExplorer/item/5_06_item_melee_get_moreCoin.png"
   },
   {
-    "revision": "0c07a848f5c94943d66599e4f452b921",
+    "revision": "b1cfa7b9af5a6c72f530c36af232b0aa",
     "url": "/AbyssExplorer/item/5_06_item_melee_get_shield.png"
   },
   {
-    "revision": "6a438f5bfe811f4c09115dd51c1e1250",
+    "revision": "2e8c3b8eb23053db753a763b5da037bb",
     "url": "/AbyssExplorer/item/5_06_item_melee_hurt_dmgUP.png"
   },
   {
-    "revision": "dd2f2fb4e139d85d24293daf7ec030f2",
+    "revision": "b0820e6458c93327453c3fe75b13db00",
     "url": "/AbyssExplorer/item/5_06_item_melee_jump_dmgUP.png"
   },
   {
-    "revision": "1c86b1f9434841aabfc300c1fb079047",
+    "revision": "922e7b870a7f4f4de4ce3082ca566285",
     "url": "/AbyssExplorer/item/5_06_item_melee_meleeRadius.png"
   },
   {
-    "revision": "1908657969359a4174a808a6ae78a81d",
+    "revision": "fd68c24c299f6b873edd8d99f4345c2f",
     "url": "/AbyssExplorer/item/5_06_item_melee_onepunch.png"
   },
   {
-    "revision": "3e78592cd6128564e59dc6d270854d1a",
+    "revision": "d99fd706bd10d4bd399bb11cdc3ebb9a",
     "url": "/AbyssExplorer/item/5_06_item_melee_triger.png"
   },
   {
-    "revision": "89c9723a6f14fe1e1400940bea49db32",
+    "revision": "9dfdcd372aa013f2e71462f8528b5565",
     "url": "/AbyssExplorer/item/5_07_item_bomb_bullet_bouncy.png"
   },
   {
-    "revision": "32b21870c688081783452fc163d74d48",
+    "revision": "2882b3cb75ead13297cd7719b56a6580",
     "url": "/AbyssExplorer/item/5_07_item_bomb_bullet_chase.png"
   },
   {
-    "revision": "d744a13b1521eca4c4e6364cec5b7e72",
+    "revision": "7bcc174af1b4dbf1d7c7ed6b08fb4cb2",
     "url": "/AbyssExplorer/item/5_07_item_bomb_bullet_player.png"
   },
   {
-    "revision": "2d68c17308a04bd9952b50bd8e3abfa6",
+    "revision": "2b7c3f95a3b8f6d18282feae524f9f25",
     "url": "/AbyssExplorer/item/5_07_item_bomb_bullet_through.png"
   },
   {
-    "revision": "cf1bd9057612a77187cdc8e39df8e947",
+    "revision": "e82240c2801a405d2ddba89d276fe5cc",
     "url": "/AbyssExplorer/item/5_07_item_bomb_clear.png"
   },
   {
-    "revision": "5bf9a9a7c5635a9305803571030155d3",
+    "revision": "95c2f5b5f959fc02ecfc8a1995d5c856",
     "url": "/AbyssExplorer/item/5_07_item_bomb_drop.png"
   },
   {
-    "revision": "4ed9fa036707d8b8cf39ad5d2b3c21e5",
+    "revision": "7c1599e52b13816907c3d9970f72a4a0",
     "url": "/AbyssExplorer/item/5_07_item_bomb_expand_cross.png"
   },
   {
-    "revision": "2d2e76bd75a6abeea5932a44aa9713b4",
+    "revision": "37562400219e1a8e121c776f7b6b08b6",
     "url": "/AbyssExplorer/item/5_07_item_bomb_expand_plus.png"
   },
   {
-    "revision": "6ecbfce2b65ca903f7fc6e4df4e24e34",
+    "revision": "520ad591e3208c07bb93a4f954d4c09e",
     "url": "/AbyssExplorer/item/5_07_item_bomb_flame.png"
   },
   {
-    "revision": "bb79db8762fca725f4a34bb32ee52595",
+    "revision": "da1c079bdbc6ccf85d7956d5dc93e42e",
     "url": "/AbyssExplorer/item/5_07_item_bomb_mine.png"
   },
   {
-    "revision": "81881b6ae43d4219c654fecf2788aeb4",
+    "revision": "5e9ba9ec86b0ca8ec76e12baf17125a7",
     "url": "/AbyssExplorer/item/5_07_item_bomb_rangeUP.png"
   },
   {
-    "revision": "4b83f1f564fabdb31c79e4842f62b274",
+    "revision": "c965d715890a24635ff68b7a72cf785c",
     "url": "/AbyssExplorer/item/5_07_item_bomb_spwan.png"
   },
   {
-    "revision": "7e89803f8260f1f29df69cde9051a9a3",
+    "revision": "7356ee101c869608c38815ac27c4a7c7",
     "url": "/AbyssExplorer/item/5_07_item_bomb_unlock.png"
   },
   {
-    "revision": "7c90bda57ae747a90e506e19c8d6017b",
+    "revision": "60ca9fd9fe54b4a7ea29969a8792bb38",
     "url": "/AbyssExplorer/item/5_08_item_egg_RPMUP.png"
   },
   {
-    "revision": "501d7f77cc5e742b9d935402625e3897",
+    "revision": "2953bb860c21b33341479684931e96fe",
     "url": "/AbyssExplorer/item/5_08_item_egg_allstone.png"
   },
   {
-    "revision": "b37cfcedadce0fd5a49c028e90127904",
+    "revision": "7c40aa9c5a5bd2b9376506f0346fd653",
     "url": "/AbyssExplorer/item/5_08_item_egg_break.png"
   },
   {
-    "revision": "77a89972db15927d83a5305554b82e85",
+    "revision": "775748f9fe59c890e7279af623a1c820",
     "url": "/AbyssExplorer/item/5_08_item_egg_cancel.png"
   },
   {
-    "revision": "a5b246d0a8c80fd71510f8e427cadb03",
+    "revision": "909b860ebd271a31dfb961e2f3c962f9",
     "url": "/AbyssExplorer/item/5_08_item_egg_damageUP.png"
   },
   {
-    "revision": "95a2008d1c794e29237dbb5541e138c6",
+    "revision": "67fbba6f8bd73768bdb303f15fe0ca5c",
     "url": "/AbyssExplorer/item/5_08_item_egg_defend.png"
   },
   {
-    "revision": "9edc0400cb900112806958b0c0adea8e",
+    "revision": "1d95eb890d553dc947b494f771e81143",
     "url": "/AbyssExplorer/item/5_08_item_egg_double.png"
   },
   {
-    "revision": "41c123bdbe8bc1b857064a313d256914",
+    "revision": "8c8b05a7f79136a0f63024ef4b6923c6",
     "url": "/AbyssExplorer/item/5_08_item_egg_empty_bomb.png"
   },
   {
-    "revision": "f4cc9022eecb2ccf4585295bbd5754bd",
+    "revision": "9fbecae5805ce6d0ad38eb33e71a30a1",
     "url": "/AbyssExplorer/item/5_08_item_egg_empty_explo.png"
   },
   {
-    "revision": "0029dd658e5ae41c700a335083f259db",
+    "revision": "1e9b4d76f2e1443285e0f766ee10d273",
     "url": "/AbyssExplorer/item/5_08_item_egg_empty_heart.png"
   },
   {
-    "revision": "b8f1bbe089f9a71a8a027d361f3015d4",
+    "revision": "bbed9731e8708ab2f54541dfea62531e",
     "url": "/AbyssExplorer/item/5_08_item_egg_empty_key.png"
   },
   {
-    "revision": "66e7edd39762c06c7f63f7fb17976861",
+    "revision": "8640d27e27122cf0520b69e41872bac7",
     "url": "/AbyssExplorer/item/5_08_item_egg_empty_mana.png"
   },
   {
-    "revision": "1cf5f6e42727790fed3c2cf68a6ea5d3",
+    "revision": "d05dcdef11cd1c4286470275ba421b94",
     "url": "/AbyssExplorer/item/5_08_item_egg_empty_shield.png"
   },
   {
-    "revision": "ae65aed3241a7360e480c30ccab6e9e0",
+    "revision": "fc4bd10f502b6c8dd7c2427b0236d4aa",
     "url": "/AbyssExplorer/item/5_08_item_egg_gunUP.png"
   },
   {
-    "revision": "b2a56d8f1a5c47c73de6d5c2780f6c88",
+    "revision": "6fc196416ae49d6292f840564e53d37a",
     "url": "/AbyssExplorer/item/5_08_item_egg_jumpMore.png"
   },
   {
-    "revision": "394ce4053d366df04bed86b4f3d328ff",
+    "revision": "c35549e28744def022899ee29ac5576e",
     "url": "/AbyssExplorer/item/5_08_item_egg_nodeath.png"
   },
   {
-    "revision": "5a5858c1b8eaf6857fdf77023d642078",
+    "revision": "7fb1d8b66f934bb6efabd45cfc173a0d",
     "url": "/AbyssExplorer/item/5_08_item_egg_rangeUP.png"
   },
   {
-    "revision": "b7a9cf12f215caebd79ccbfe54f0ef50",
+    "revision": "5185a541a6ec291e07899a05204a6724",
     "url": "/AbyssExplorer/item/5_08_item_egg_sp_random.png"
   },
   {
-    "revision": "c0aa2451f3e97d71f8eb7f1e7b0ff8c1",
+    "revision": "1b3a0d8a8cdf376de7d16fe8ee3eeafb",
     "url": "/AbyssExplorer/item/5_08_item_egg_spike.png"
   },
   {
-    "revision": "a97c375eb53ddd531d844803b58d55f3",
+    "revision": "315358fdff57cdbbadefe2d96ae37fb9",
     "url": "/AbyssExplorer/item/5_09_item_pet_RPMUP.png"
   },
   {
-    "revision": "8965f1ac7e2f69e2b8874cbc3f35ca2e",
+    "revision": "b7a1a25d45a23e182698f76a2233c0ad",
     "url": "/AbyssExplorer/item/5_09_item_pet_allUP.png"
   },
   {
-    "revision": "549bb7f4b9931f71d1d89f5bd4da5d14",
+    "revision": "9f1ba5a5d32bc4709a9e9577d452f362",
     "url": "/AbyssExplorer/item/5_09_item_pet_damageUP.png"
   },
   {
-    "revision": "715812c55f4ce2f4fe036603601b84e4",
+    "revision": "6416e5731d539fd5bf17e36f08ad012f",
     "url": "/AbyssExplorer/item/5_09_item_pet_fullegg.png"
   },
   {
-    "revision": "c5318dfe287ce4c936bdedbe2a04a8cd",
+    "revision": "b6951379174227d4b73d10f3fa9fe38a",
     "url": "/AbyssExplorer/item/5_09_item_pet_gunUP.png"
   },
   {
-    "revision": "cab093dae71f3443c365b52a354ea2cd",
+    "revision": "db4af63589b573386968699bfab1630a",
     "url": "/AbyssExplorer/item/5_09_item_pet_jumpMore.png"
   },
   {
-    "revision": "c495ae1c67c83a0c8927704ba79a274e",
+    "revision": "2ed0559f62acf536c5940bbc322fbce7",
     "url": "/AbyssExplorer/item/5_09_item_pet_rangeUP.png"
   },
   {
-    "revision": "d526f5910c008f1a292d9181eb1e93b8",
+    "revision": "e1df5c3cb35de6bde27ceb4e58e77fb3",
     "url": "/AbyssExplorer/item/5_09_item_pet_upgrade_bomb.png"
   },
   {
-    "revision": "3d82f9caecef26471882d25e58435106",
+    "revision": "c2dc76215938193440cdd3ab8c7aff00",
     "url": "/AbyssExplorer/item/5_09_item_pet_upgrade_coin.png"
   },
   {
-    "revision": "e06c751447fa0f82127fbf555904cfd5",
+    "revision": "cfc7032b6233f548b5dca5941a9ece83",
     "url": "/AbyssExplorer/item/5_09_item_pet_upgrade_gazinMana.png"
   },
   {
-    "revision": "9a14498eca1491a56863492341d6fd7b",
+    "revision": "257433fafc3106a92076f16943bd5e51",
     "url": "/AbyssExplorer/item/5_09_item_pet_upgrade_gift.png"
   },
   {
-    "revision": "ca8fbe10901ba7c266048e99a2019ca6",
+    "revision": "ec3e48121939ffcaf318736518aa271d",
     "url": "/AbyssExplorer/item/5_09_item_pet_upgrade_heart.png"
   },
   {
-    "revision": "8ee93b3cf60d2211ab50689b91b7caaf",
+    "revision": "8144ef85440ae50a1822d8b593396e72",
     "url": "/AbyssExplorer/item/5_09_item_pet_upgrade_key.png"
   },
   {
-    "revision": "7242c70a74f68e0edcba6fe8707d3051",
+    "revision": "f7634548b16ff8633c2cb406f748ed6d",
     "url": "/AbyssExplorer/item/5_09_item_pet_upgrade_shield.png"
   },
   {
-    "revision": "1e18eccfb6d08398f8c5fdd0a345f5fb",
+    "revision": "55f004fd4f8363dd265a3c4c3bd28e53",
     "url": "/AbyssExplorer/item/5_10_item_jumphigh_01.png"
   },
   {
-    "revision": "b10d53659b45e55066d8afb737b354be",
+    "revision": "91369d7739dac3e9ec55e030f53360ce",
     "url": "/AbyssExplorer/item/5_10_item_jumphigh_02.png"
   },
   {
-    "revision": "9f045bb06483aa62863e50318eb616f4",
+    "revision": "ae184a84539c330ed5de4baebc19a6c8",
     "url": "/AbyssExplorer/item/5_10_item_jumptwice_01.png"
   },
   {
-    "revision": "325f607b5e599bec838605b5a21db751",
+    "revision": "a5bf54a401a49e6848b1d6952777751b",
     "url": "/AbyssExplorer/item/5_10_item_jumptwice_02.png"
   },
   {
-    "revision": "96218a50e2461c3aead28168d536a5d6",
+    "revision": "49d048138c4bedd0f3fefe6d5180ad49",
     "url": "/AbyssExplorer/item/5_10_item_jumptwice_03.png"
   },
   {
-    "revision": "de3c84dd154025f6f01c868d2bbbe7c7",
+    "revision": "86ae4681c76a0331a904ecef8a503871",
     "url": "/AbyssExplorer/item/5_10_item_jumptwice_04.png"
   },
   {
-    "revision": "89c6adacad79c318120a9a136d4eedfc",
+    "revision": "b8ca49a2f4bc661b7cd360ac5e1f8020",
     "url": "/AbyssExplorer/item/5_10_item_jumptwice_05.png"
   },
   {
-    "revision": "dc7ce9aa369590248064c31ca2bc7936",
+    "revision": "e822eaf0b27ec0f396b0f2568e3ceffc",
     "url": "/AbyssExplorer/item/6_guard_billiards_1.png"
   },
   {
-    "revision": "6864b112c2fd9f38810d616c833a8091",
+    "revision": "26e4c6f6c343ab82facee15124198b61",
     "url": "/AbyssExplorer/item/6_guard_dart_1.png"
   },
   {
-    "revision": "e582f6098529256f6d8f1c74d778e9a4",
+    "revision": "0dbbc5ec57ff0cb9dffea37252bd341f",
     "url": "/AbyssExplorer/item/6_guard_lego_1.png"
   },
   {
-    "revision": "8d30aec33a25ac926d6ebdf71a8067ec",
+    "revision": "69848ac598b5b0fb19ce65b9a26a0354",
     "url": "/AbyssExplorer/item/6_guard_seaweed_1.png"
   },
   {
-    "revision": "1c664cb980c2b64326176a40e43c30f2",
+    "revision": "166922d8a19e969dca6a9c2d729806d1",
     "url": "/AbyssExplorer/item/6_guard_steelball_1.png"
   },
   {
-    "revision": "184adffb22eff4a6196e703715b323ff",
+    "revision": "fec2577f6ef412f72290a17c26e8ead2",
     "url": "/AbyssExplorer/item/6_pet_adam_1.png"
   },
   {
-    "revision": "acdfb81e3e397f6852f71f340f433292",
+    "revision": "748a7ed09da0f0ecc83d40bc74c4b177",
     "url": "/AbyssExplorer/item/6_pet_adam_2.png"
   },
   {
-    "revision": "68825742b086249edce94cf76f4cb42b",
+    "revision": "2f3302e10de06507e82ae185b09bb5cd",
     "url": "/AbyssExplorer/item/6_pet_adam_3.png"
   },
   {
-    "revision": "98660c8655a6272e3034d9eee5d90119",
+    "revision": "07bbaebda60b406c25f5b8aee6d160c7",
     "url": "/AbyssExplorer/item/6_pet_aline_1.png"
   },
   {
-    "revision": "84da3143cec6d7db3720d9f4a4d5da63",
+    "revision": "9e275b2e4d51a262031c036fe0faa3b6",
     "url": "/AbyssExplorer/item/6_pet_aline_2.png"
   },
   {
-    "revision": "172ac1ad8b83ad1793c03433a731444e",
+    "revision": "97a6bb1f3f39ef368826aacc49e4f7bf",
     "url": "/AbyssExplorer/item/6_pet_bear_1.png"
   },
   {
-    "revision": "b137f6e365cbfbbe0c8ad17de3dca4b4",
+    "revision": "f6ea1f6290dde66ac3084e5dc72e196d",
     "url": "/AbyssExplorer/item/6_pet_bear_2.png"
   },
   {
-    "revision": "339fb25d71f11c82303af3ad40033c86",
+    "revision": "1bb2301453402f5c90ed9994668ef1f6",
     "url": "/AbyssExplorer/item/6_pet_cactus_1.png"
   },
   {
-    "revision": "a0fefde0f38ba448c86296f9e75224b9",
+    "revision": "de1f63c0dd2fa3dfede66bea51e1dc0c",
     "url": "/AbyssExplorer/item/6_pet_cactus_2.png"
   },
   {
-    "revision": "078abeff69929c0ec2d58429c53d7155",
+    "revision": "f290efda04f92d0f453c80e886165cf0",
     "url": "/AbyssExplorer/item/6_pet_cactus_3.png"
   },
   {
-    "revision": "997179ecf417137a188df26fbec941c2",
+    "revision": "3bdd75dae9d0de5af73ea73381bce4dd",
     "url": "/AbyssExplorer/item/6_pet_firedevil_1.png"
   },
   {
-    "revision": "838a04c2f0d1f79fa9414994b3ae4fdf",
+    "revision": "61467dc9dc539eb2e9f0a9b270b73c32",
     "url": "/AbyssExplorer/item/6_pet_firedevil_2.png"
   },
   {
-    "revision": "d9a013281ca999e85ec560e2ddab2497",
+    "revision": "6f2ba25ca9e78e0a41efa2a011df4769",
     "url": "/AbyssExplorer/item/6_pet_flower_1.png"
   },
   {
-    "revision": "472a9908cbcfb3b316cc3917a526bf7b",
+    "revision": "d5115fc1b330675cc96e1b94f628b666",
     "url": "/AbyssExplorer/item/6_pet_ghost_1.png"
   },
   {
-    "revision": "ea073df1521a7404cfac39c1a725def9",
+    "revision": "61c1a51a0601ae49fc46612c127760db",
     "url": "/AbyssExplorer/item/6_pet_joker_1.png"
   },
   {
-    "revision": "0b4df9ae5a7acf56c625f4ce867ecd9d",
+    "revision": "d10b7ea5a03fefe4cf86f55f66c80f9e",
     "url": "/AbyssExplorer/item/6_pet_joker_2.png"
   },
   {
-    "revision": "0ac011cc8a098f9ff56fd8dd8df9877e",
+    "revision": "d617ca7ffd26d05a739981545a4b0bcf",
     "url": "/AbyssExplorer/item/6_pet_joker_3.png"
   },
   {
-    "revision": "5d6a024633b9b403ee40070d447263f3",
+    "revision": "e63009aec64b7f24de81a8ea50ee0363",
     "url": "/AbyssExplorer/item/6_pet_lpp.png"
   },
   {
-    "revision": "c424b7cc74a04b23d33c3851c2505c9e",
+    "revision": "fd0cb8526b8f9e3d4e7ff5cac8ec2aaa",
     "url": "/AbyssExplorer/item/6_pet_mummy_1.png"
   },
   {
-    "revision": "1b0c3830135e7e508026ee68740404c5",
+    "revision": "cb601d1d8d978fa5c44cd01d2424ddce",
     "url": "/AbyssExplorer/item/6_pet_mummy_2.png"
   },
   {
-    "revision": "5d0dc28e5485be01a76801c0168aa2ea",
+    "revision": "d71bf2562d50d579ea21460f6b732009",
     "url": "/AbyssExplorer/item/6_pet_mummy_3.png"
   },
   {
-    "revision": "de2cf39be4bd4221d18cba5f14b3f534",
+    "revision": "71d8fab43c1b14b3ede00e39cba8af81",
     "url": "/AbyssExplorer/item/6_pet_pick_coin_random_1.png"
   },
   {
-    "revision": "ee5f735b157ffde57b9981a597c39e9d",
+    "revision": "7358e317aea25a8d7643b61e272c7105",
     "url": "/AbyssExplorer/item/6_pet_pick_heart_1.png"
   },
   {
-    "revision": "d667229d484987a06f55f4516f68833c",
+    "revision": "fe4875aa8a6a47b574e2eda27e30815a",
     "url": "/AbyssExplorer/item/6_pet_snowboy_1.png"
   },
   {
-    "revision": "a51b05cd0c8c2ba83770b016b9abd809",
+    "revision": "752a579187b38f31b8be351cf64d4417",
     "url": "/AbyssExplorer/item/6_pet_snowboy_2.png"
   },
   {
-    "revision": "5ac3895e2a1aa7f6186db7775998408a",
+    "revision": "272aac65f67e0709a84a7268622b12bd",
     "url": "/AbyssExplorer/item/6_pet_wukong_1.png"
   },
   {
-    "revision": "37612ec2d967f82eaa11cdc771aa43b5",
+    "revision": "c50949147f12d70d3ac39b33488314c8",
     "url": "/AbyssExplorer/item/6_pet_wukong_2.png"
   },
   {
-    "revision": "15c6d4bc74788f32cf08620aeac871f1",
+    "revision": "e3fe7f8560cc14781acb7748531fc32a",
     "url": "/AbyssExplorer/item/6_pet_wukong_3.png"
   },
   {
-    "revision": "33ab222d56d5c121296ee61c9db82c20",
+    "revision": "198afe9843e08108649b310888d08a3b",
     "url": "/AbyssExplorer/item/6_pet_zombie_1.png"
   },
   {
-    "revision": "2e5f53e5aa32b96be513b19901026e88",
+    "revision": "a6ea893025a53bdc1c485c881e07842c",
     "url": "/AbyssExplorer/item/6_pet_zombie_2.png"
   },
   {
-    "revision": "a4b2240d8261bb183ef8",
-    "url": "/AbyssExplorer/js/app.89643b23.js"
+    "revision": "2b1a180b8a466f0f39ad7375638076ad",
+    "url": "/AbyssExplorer/item/7_skill_james.png"
+  },
+  {
+    "revision": "20044c8f35b02ffa425107cf6d62b3d2",
+    "url": "/AbyssExplorer/item/7_skill_kanon.png"
+  },
+  {
+    "revision": "46151d85594c96dc75edd6401227ecd2",
+    "url": "/AbyssExplorer/item/7_skill_lucas.png"
+  },
+  {
+    "revision": "9a40c70bd0493bbbb251bdc1b458fb3e",
+    "url": "/AbyssExplorer/item/7_skill_matt.png"
+  },
+  {
+    "revision": "5a630b9b46866b4ae72c95a14f7a4137",
+    "url": "/AbyssExplorer/item/7_skill_ming.png"
+  },
+  {
+    "revision": "fe414aa4c88b8a13d897f696b246baa2",
+    "url": "/AbyssExplorer/item/7_skill_ray.png"
+  },
+  {
+    "revision": "08eac763598f8cf30271491045260378",
+    "url": "/AbyssExplorer/item/7_skill_wade.png"
+  },
+  {
+    "revision": "b1e622b1a04b669d4315bde65b0cca69",
+    "url": "/AbyssExplorer/item/7_skill_zack.png"
+  },
+  {
+    "revision": "b4084318455aba9bc1f3",
+    "url": "/AbyssExplorer/js/app.b8c50ccd.js"
   },
   {
     "revision": "3fda7c1711785bcf7187",
