@@ -4,7 +4,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/browserconfig.xml"
   },
   {
-    "revision": "7634e3dd460e54d32eb5",
+    "revision": "9ce80cc0fd4e76b40692",
     "url": "/AbyssExplorer/css/app.5475aa58.css"
   },
   {
@@ -40,10 +40,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/icon/192.png"
   },
   {
-    "revision": "f7edbff29c34aaa7b38580da51ba2b41",
-    "url": "/AbyssExplorer/icon/24-mask.png"
-  },
-  {
     "revision": "f44f1911efbda4e56202f2b7e7a75e9e",
     "url": "/AbyssExplorer/icon/32.png"
   },
@@ -76,7 +72,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/icon/96.png"
   },
   {
-    "revision": "19e47aeac6f6d147f7564b02507764be",
+    "revision": "a8ff508f3ee6851671e33df9b52eb8c6",
     "url": "/AbyssExplorer/index.html"
   },
   {
@@ -1876,8 +1872,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/6_pet_zombie_2.png"
   },
   {
-    "revision": "7634e3dd460e54d32eb5",
-    "url": "/AbyssExplorer/js/app.313a7dab.js"
+    "revision": "9ce80cc0fd4e76b40692",
+    "url": "/AbyssExplorer/js/app.3aa4405c.js"
   },
   {
     "revision": "3fda7c1711785bcf7187",
