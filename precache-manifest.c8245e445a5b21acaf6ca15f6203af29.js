@@ -4,7 +4,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/browserconfig.xml"
   },
   {
-    "revision": "0ca4d1ef9c2dfe85fa59",
+    "revision": "e2fe0071dc86a1a115a2",
     "url": "/AbyssExplorer/css/app.fc0f03e8.css"
   },
   {
@@ -72,7 +72,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/icon/96.png"
   },
   {
-    "revision": "202f9ac20a364a94ae7f8098ddacd916",
+    "revision": "262e7645782c3997a3d39a8e6c9ff944",
     "url": "/AbyssExplorer/index.html"
   },
   {
@@ -3732,12 +3732,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/7_skill_zack.webp"
   },
   {
-    "revision": "0ca4d1ef9c2dfe85fa59",
-    "url": "/AbyssExplorer/js/app.ed8ce130.js"
+    "revision": "e2fe0071dc86a1a115a2",
+    "url": "/AbyssExplorer/js/app.eae4c926.js"
   },
   {
-    "revision": "c849c839b3faff7a0dd7",
-    "url": "/AbyssExplorer/js/chunk-vendors.129d8b2b.js"
+    "revision": "0ea9319b9603ad5c2dba",
+    "url": "/AbyssExplorer/js/chunk-vendors.39916aba.js"
   },
   {
     "revision": "18d0d53f40b09a3b46160db8d25109b6",
