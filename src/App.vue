@@ -302,6 +302,12 @@
             border-radius: 3px;
             border: 1px solid white;
             color: white;
+
+            &::placeholder {
+                // fix an issue where placeholder is barely visible in Chrome
+                color: rgba(white, .7);
+                opacity: 1;
+            }
         }
 
         .more-options {
