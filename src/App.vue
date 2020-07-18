@@ -49,7 +49,7 @@
         </div>
         <section>
             <div class="item" v-for="(item, i) in searchItems" :key="i">
-                <div>
+                <div class="item-img">
                     <div class="img" :class="`img-${item.category}`">
                         <picture>
                             <source :srcset="`${publicPath}item/${item.id}.webp`" type="image/webp">
@@ -57,9 +57,9 @@
                         </picture>
                     </div>
                 </div>
-                <div>
-                    <div>{{ item.name[lang] }}</div>
-                    <div>{{ item.desc[lang] }}</div>
+                <div class="item-content">
+                    <div class="item-name">{{ item.name[lang] }}</div>
+                    <div class="item-desc">{{ item.desc[lang] }}</div>
                 </div>
             </div>
             <div class="no-results" v-if="searchItems.length === 0">No results :(</div>
@@ -339,31 +339,24 @@
         margin-bottom: 1rem;
         align-items: center;
 
-        > div {
-            &:first-child {
-                width: 50px;
+        .item-img {
+            width: 50px;
+            margin-right: 20px;
+        }
+
+        .item-content {
+            flex: 1;
+            display: flex;
+            flex-wrap: wrap;
+            align-items: center;
+
+            .item-name {
+                width: max(15%, 280px);
+                font-weight: 600;
             }
 
-            &:nth-child(2) {
+            .item-desc {
                 flex: 1;
-                display: flex;
-                flex-wrap: wrap;
-                align-items: center;
-
-                > div {
-                    &:nth-child(1) {
-                        width: max(15%, 280px);
-                        font-weight: 600;
-                    }
-
-                    &:nth-child(2) {
-                        flex: 1;
-                    }
-                }
-            }
-
-            &:not(:last-child) {
-                margin-right: 20px;
             }
         }
     }
