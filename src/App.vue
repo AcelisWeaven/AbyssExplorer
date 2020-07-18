@@ -45,11 +45,20 @@
                         </select>
                     </div>
                 </div>
+                <div class="filter">
+                    <label for="layout">Layout</label>
+                    <div class="select">
+                        <select id="layout" v-model="layout">
+                            <option v-for="l in layoutsAvailable" :value="l.class" :key="l.class">{{ l.name }}</option>
+                        </select>
+                    </div>
+                </div>
             </div>
         </div>
-        <section>
-            <div class="item" v-for="(item, i) in searchItems" :key="i">
-                <div class="item-img">
+        <p class="has-text-centered" v-if="layout === 'compact'">Click an item to show its description.</p>
+        <section :class="'layout-'+layout">
+            <div class="item" v-for="(item, i) in searchItems" :key="i" :class="{'is-active': item.id === selectedItem}">
+                <div class="item-img" @click="selectItem(item.id)">
                     <div class="img" :class="`img-${item.category}`">
                         <picture>
                             <source :srcset="`${publicPath}item/${item.id}.webp`" type="image/webp">
@@ -333,32 +342,143 @@
         }
     }
 
-    .item {
-        display: flex;
-        margin-top: 1rem;
-        margin-bottom: 1rem;
-        align-items: center;
-
-        .item-img {
-            width: 50px;
-            margin-right: 20px;
-        }
-
-        .item-content {
-            flex: 1;
+    .layout-list {
+        .item {
             display: flex;
-            flex-wrap: wrap;
+            margin-top: 1rem;
+            margin-bottom: 1rem;
             align-items: center;
 
-            .item-name {
-                width: max(15%, 280px);
-                font-weight: 600;
+            .item-img {
+                width: 50px;
+                margin-right: 20px;
             }
 
-            .item-desc {
+            .item-content {
                 flex: 1;
+                display: flex;
+                flex-wrap: wrap;
+                align-items: center;
+
+                .item-name {
+                    width: max(15%, 280px);
+                    font-weight: 600;
+                }
+
+                .item-desc {
+                    flex: 1;
+                }
             }
         }
+    }
+
+    .layout-cards {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 2rem;
+        justify-content: space-between;
+
+        .item {
+            display: flex;
+            padding: .5rem;
+            align-items: center;
+            flex-direction: column;
+            width: 180px;
+            background-color: rgba($pink, .2);
+            box-shadow: 0 0 10px 5px rgba($pink-light, .075);
+
+            .item-img {
+                width: 50px;
+                margin-top: 20px;
+                margin-bottom: 20px;
+            }
+
+            .item-content {
+                flex-direction: column;
+                align-items: center;
+                padding: 0 1rem;
+
+                .item-name {
+                    text-align: center;
+                    font-weight: 600;
+                    margin-bottom: 10px;
+                }
+
+                .item-desc {
+                    flex: 1;
+                    margin-bottom: 20px;
+                }
+            }
+        }
+    }
+
+    .layout-compact {
+        display: flex;
+        flex-wrap: wrap;
+        gap: .5rem;
+        justify-content: space-between;
+
+        .item {
+            display: flex;
+            padding: .5rem;
+            align-items: center;
+            flex-direction: column;
+
+            .item-img {
+                width: 50px;
+
+                &:hover {
+                    cursor: pointer;
+
+                    img {
+                        transform: scale(3);
+                    }
+                }
+            }
+
+            .item-content {
+                display: none;
+            }
+
+
+            &.is-active {
+                background-color: rgba($pink, .2);
+
+                .item-img {
+                    margin-top: 20px;
+                    margin-bottom: 20px;
+
+                    img {
+                        transform: scale(3);
+                    }
+
+                    &:hover img {
+                        opacity: .9;
+                    }
+                }
+                .item-content {
+                    display: flex;
+                    flex-direction: column;
+                    align-items: center;
+                    max-width: 180px;
+
+                    .item-name {
+                        text-align: center;
+                        font-weight: 600;
+                        margin-bottom: 10px;
+                    }
+
+                    .item-desc {
+                        flex: 1;
+                        margin-bottom: 20px;
+                    }
+                }
+            }
+        }
+    }
+
+    .has-text-centered {
+        text-align: center;
     }
 
     .img {
@@ -377,7 +497,7 @@
 
     @mixin imgColor($color) {
         img {
-            filter: drop-shadow(0 0 4px $color) drop-shadow(0 0 1px rgba($color, .4));
+            filter: drop-shadow(0 0 4px rgba($color, .5)) drop-shadow(0 0 1px rgba($color, .4));
         }
     }
 
@@ -442,8 +562,24 @@
                 isMenuOpen: false,
                 lang: 'en-US',
                 languages: languages.default,
+                layout: 'list',
+                layoutsAvailable: [
+                    {
+                        class: 'list',
+                        name: 'List',
+                    },
+                    {
+                        class: 'cards',
+                        name: 'Cards',
+                    },
+                    {
+                        class: 'compact',
+                        name: 'Compact',
+                    },
+                ],
                 publicPath: process.env.BASE_URL,
                 search: '',
+                selectedItem: null,
                 swIsRefreshing: false,
                 swRegistration: null,
                 swUpdateExists: false,
@@ -545,6 +681,9 @@
             }
         },
         methods: {
+            selectItem(id) {
+                this.selectedItem = this.selectedItem === id ? null : id;
+            },
             switchLanguage(lang) {
                 this.lang = lang;
                 this.isMenuOpen = false;
@@ -571,6 +710,9 @@
             lang() {
                 localStorage.setItem('lang', this.lang);
             },
+            layout() {
+                localStorage.setItem('layout', this.layout);
+            },
             useAdvancedSearch() {
                 localStorage.setItem('useAdvancedSearch', this.useAdvancedSearch);
 
@@ -582,6 +724,10 @@
             const rememberedLanguage = localStorage.getItem('lang');
             if (rememberedLanguage !== null && this.languages.map(l => l.code).includes(rememberedLanguage))
                 this.lang = rememberedLanguage;
+
+            const rememberedLayout = localStorage.getItem('layout');
+            if (rememberedLayout != null && this.layoutsAvailable.map(l => l.class).includes(rememberedLayout))
+                this.layout = rememberedLayout;
 
             this.useAdvancedSearch = localStorage.getItem('useAdvancedSearch') === 'true';
         },
