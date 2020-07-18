@@ -57,7 +57,8 @@
         </div>
         <p class="has-text-centered" v-if="layout === 'compact'">Click an item to show its description.</p>
         <section :class="'layout-'+layout">
-            <div class="item" v-for="(item, i) in searchItems" :key="i" :class="{'is-active': item.id === selectedItem}">
+            <div class="item" v-for="(item, i) in searchItems" :key="i"
+                 :class="{'is-active': item.id === selectedItem}">
                 <div class="item-img" @click="selectItem(item.id)">
                     <div class="img" :class="`img-${item.category}`">
                         <picture>
@@ -457,6 +458,7 @@
                         opacity: .9;
                     }
                 }
+
                 .item-content {
                     display: flex;
                     flex-direction: column;
@@ -530,8 +532,12 @@
     }
 
     @media only screen and (max-width: 700px) {
-        .item > div:nth-child(2) > div:nth-child(2) {
-            flex: 0 0 100%;
+        .layout-list {
+            .item {
+                .item-name, .item-desc {
+                    flex: 0 0 100%;
+                }
+            }
         }
     }
 </style>
