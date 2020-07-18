@@ -22,8 +22,30 @@
                 </div>
             </div>
         </div>
-        <div class="input">
+        <div class="search">
             <input type="text" id="search" v-model="search" placeholder="Search an item here...">
+            <div class="more-options">
+                <input type="checkbox" id="more-options" v-model="useAdvancedSearch">
+                <label for="more-options">More options</label>
+            </div>
+
+            <div class="filters" v-if="useAdvancedSearch">
+                <div class="filter">
+                    <label for="filter">Filter by</label>
+                    <div class="select">
+                        <select id="filter" v-model="filter">
+                            <option value="">Everything</option>
+                            <option v-for="key in tagSingle" :key="key" :value="key">{{ tags[key].name }}</option>
+                            <optgroup v-for="(tagGroup, tagGroupIndex) in tagGroups"
+                                      :label="tagGroup.name"
+                                      :key="tagGroupIndex">
+                                <option v-for="key in tagGroup.tags" :key="key" :value="key">{{ tags[key].name }}
+                                </option>
+                            </optgroup>
+                        </select>
+                    </div>
+                </div>
+            </div>
         </div>
         <section>
             <div class="item" v-for="(item, i) in searchItems" :key="i">
@@ -65,7 +87,7 @@
     $black: #000014;
 
     ::selection {
-        background: $pink;
+        background: rgba($pink, .5);
         color: white;
         text-shadow: 0 0 3px white, 0 0 3px white;
     }
@@ -101,12 +123,14 @@
         background-position: bottom center;
     }
 
-    .button {
+    .button, select {
+        background-color: transparent;
         padding: 5px 10px;
         box-shadow: 0 0 2px 1px rgba($cyan, 0.6), 0 0 5px 5px rgba($cyan, 0.3);
         border-radius: 3px;
         border: 1px solid white;
         color: white;
+        appearance: none;
 
         &:hover {
             cursor: pointer;
@@ -170,7 +194,25 @@
         color: $pink-light;
     }
 
-    .arrow-down {
+    .select {
+        position: relative;
+        display: inline-block;
+
+        select {
+            padding-right: 20px;
+        }
+
+        &::after {
+            content: '';
+            display: block;
+            position: absolute;
+            right: 10px;
+            top: 5px;
+            bottom: 0;
+        }
+    }
+
+    .select::after, .arrow-down {
         border: solid white;
         border-width: 0 3px 3px 0;
         display: inline-block;
@@ -180,6 +222,7 @@
         height: 0;
         margin-top: 3px;
         margin-left: 10px;
+        pointer-events: none;
     }
 
     .header {
@@ -248,10 +291,10 @@
         }
     }
 
-    .input {
+    .search {
         margin-bottom: 3rem;
 
-        input {
+        input[type="text"] {
             width: calc(100% - 32px);
             padding: 10px 15px;
             background-color: transparent;
@@ -259,6 +302,24 @@
             border-radius: 3px;
             border: 1px solid white;
             color: white;
+        }
+
+        .more-options {
+            margin-top: 15px;
+            margin-bottom: 15px;
+        }
+
+        .filters {
+            display: flex;
+            flex-direction: row;
+
+            .filter {
+                margin-right: 30px;
+
+                label {
+                    margin-right: 10px;
+                }
+            }
         }
     }
 
@@ -373,6 +434,7 @@
     export default {
         data() {
             return {
+                filter: "",
                 items: processedItems,
                 isMenuOpen: false,
                 lang: 'en-US',
@@ -382,6 +444,101 @@
                 swIsRefreshing: false,
                 swRegistration: null,
                 swUpdateExists: false,
+                tagSingle: ["weapon", "powerup"],
+                tagGroups: [
+                    {
+                        name: "Items",
+                        tags: [
+                            "item",
+                            "player-stat",
+                            "gun-stat",
+                            "special",
+                            "resource",
+                            "hurt",
+                            "attack",
+                            "bullet",
+                            "melee",
+                            "bomb",
+                            "egg",
+                            "pet-effect",
+                            "jump",
+                            "pet-guard",
+                            "pet",
+                            "hero-skill",
+                        ],
+                    },
+                ],
+                tags: {
+                    "weapon": {
+                        name: "Weapon",
+
+                    },
+                    "powerup": {
+                        name: "Power up",
+
+                    },
+                    "item": {
+                        name: "All items",
+                    },
+                    "player-stat": {
+                        name: "  Player stats",
+                    },
+                    "gun-stat": {
+                        name: "Gun stats",
+
+                    },
+                    "special": {
+                        name: "Special",
+
+                    },
+                    "resource": {
+                        name: "Resource",
+
+                    },
+                    "hurt": {
+                        name: "Hurt",
+
+                    },
+                    "attack": {
+                        name: "Attack",
+
+                    },
+                    "bullet": {
+                        name: "Bullet",
+
+                    },
+                    "melee": {
+                        name: "Melee",
+
+                    },
+                    "bomb": {
+                        name: "Bomb",
+
+                    },
+                    "egg": {
+                        name: "Egg",
+
+                    },
+                    "pet-effect": {
+                        name: "Pet effect",
+                    },
+                    "jump": {
+                        name: "Jump",
+
+                    },
+                    "pet-guard": {
+                        name: "Guardian",
+
+                    },
+                    "pet": {
+                        name: "Pet",
+
+                    },
+                    "hero-skill": {
+                        name: "Hero skill",
+                    },
+                },
+                useAdvancedSearch: false,
             }
         },
         methods: {
@@ -410,18 +567,26 @@
         watch: {
             lang() {
                 localStorage.setItem('lang', this.lang);
-            }
+            },
+            useAdvancedSearch() {
+                localStorage.setItem('useAdvancedSearch', this.useAdvancedSearch);
+
+                // when disabled, reset options
+                this.filter = "";
+            },
         },
         mounted() {
             const rememberedLanguage = localStorage.getItem('lang');
             if (rememberedLanguage !== null && this.languages.map(l => l.code).includes(rememberedLanguage))
                 this.lang = rememberedLanguage;
+
+            this.useAdvancedSearch = localStorage.getItem('useAdvancedSearch') === 'true';
         },
         computed: {
             searchItems() {
                 const search = normalize(this.search);
                 return this.items.filter(i => {
-                    return i.search[this.lang].includes(search);
+                    return i.search[this.lang].includes(search) && (this.filter === "" || i.tags.indexOf(this.filter) !== -1);
                 })
             },
             langIcon() {
