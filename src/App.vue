@@ -200,6 +200,10 @@
 
         select {
             padding-right: 20px;
+
+            option {
+                color: initial;
+            }
         }
 
         &::after {
