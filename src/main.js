@@ -1,14 +1,16 @@
 import Vue from 'vue'
-import VueAnalytics from 'vue-analytics'
+import VueGtag from "vue-gtag"
 import App from './App.vue'
 import './registerServiceWorker'
 
 Vue.config.productionTip = false
-Vue.use(VueAnalytics, {
-  id: process.env.VUE_APP_GA_ID,
-  set: [
-    { field: 'anonymizeIp', value: true }
-  ]
+Vue.use(VueGtag, {
+  config: {
+    id: process.env.VUE_APP_GA_ID,
+    params: {
+      anonymize_ip: true
+    }
+  }
 })
 
 new Vue({
