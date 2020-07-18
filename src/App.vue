@@ -418,7 +418,7 @@
         display: flex;
         flex-wrap: wrap;
         gap: .5rem;
-        justify-content: space-between;
+        justify-content: space-evenly;
 
         .item {
             display: flex;
