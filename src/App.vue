@@ -43,8 +43,10 @@
             <div class="no-results" v-if="searchItems.length === 0">No results :(</div>
         </section>
         <footer>
-            <p>Made with ❤ by Jeremy Graziani.
-                <a href="https://github.com/AcelisWeaven/AbyssExplorer">Source code</a>
+            <p>Made with ❤ by Jeremy Graziani.</p>
+            <p>
+                <a href="https://github.com/AcelisWeaven/AbyssExplorer">Source code</a> |
+                <a href="https://github.com/AcelisWeaven/AbyssExplorer/issues/new">Suggest an improvement</a>
             </p>
             <p>Sprites and text are the property of Team 17 and Veewo.</p>
         </footer>
