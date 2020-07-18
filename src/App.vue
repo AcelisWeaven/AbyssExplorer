@@ -563,19 +563,19 @@
                 isMenuOpen: false,
                 lang: 'en-US',
                 languages: languages.default,
-                layout: 'list',
+                layout: 'compact',
                 layoutsAvailable: [
                     {
-                        class: 'list',
-                        name: 'List',
+                        class: 'compact',
+                        name: 'Compact',
                     },
                     {
                         class: 'cards',
                         name: 'Cards',
                     },
                     {
-                        class: 'compact',
-                        name: 'Compact',
+                        class: 'list',
+                        name: 'List',
                     },
                 ],
                 publicPath: process.env.BASE_URL,
