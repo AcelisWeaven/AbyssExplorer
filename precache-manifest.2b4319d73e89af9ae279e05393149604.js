@@ -4,7 +4,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/browserconfig.xml"
   },
   {
-    "revision": "87709b53d7fec09ba73d",
+    "revision": "3fcaba0f5a8a4a9bf268",
     "url": "/AbyssExplorer/css/app.a9bb3e48.css"
   },
   {
@@ -72,7 +72,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/icon/96.png"
   },
   {
-    "revision": "d19a7d8c23595c86e4502ce21efa0807",
+    "revision": "58aa2694076d6e5c3156ddfbe4a89385",
     "url": "/AbyssExplorer/index.html"
   },
   {
@@ -180,12 +180,28 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/1_weapon_coin_1.webp"
   },
   {
+    "revision": "bb9a14e6ab33c345e9337e178a2dedf4",
+    "url": "/AbyssExplorer/item/1_weapon_coin_1_1.png"
+  },
+  {
+    "revision": "aa9d5d09987ee55d57517ed4e4d24802",
+    "url": "/AbyssExplorer/item/1_weapon_coin_1_1.webp"
+  },
+  {
     "revision": "0ff34c80598a8d1a4f1fcd72ebf5dfde",
     "url": "/AbyssExplorer/item/1_weapon_coin_2.png"
   },
   {
     "revision": "0fce8b4b3275545ca0ee319944cf82d7",
     "url": "/AbyssExplorer/item/1_weapon_coin_2.webp"
+  },
+  {
+    "revision": "55456a946459f2b5733bbca33fdf7140",
+    "url": "/AbyssExplorer/item/1_weapon_coin_2_1.png"
+  },
+  {
+    "revision": "db60d5be096338a236a81fcdc42ee4d8",
+    "url": "/AbyssExplorer/item/1_weapon_coin_2_1.webp"
   },
   {
     "revision": "7d8eb68bd029622a9f307e6ff7570477",
@@ -226,6 +242,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "79794e9e1f44305aec56ede95f9ddbdb",
     "url": "/AbyssExplorer/item/1_weapon_defense_5.webp"
+  },
+  {
+    "revision": "2a419dc0fffd9521af9d12d390b65fc3",
+    "url": "/AbyssExplorer/item/1_weapon_dmg_1_1.png"
+  },
+  {
+    "revision": "613ba2af144a464486f923c1c9e5e53a",
+    "url": "/AbyssExplorer/item/1_weapon_dmg_1_1.webp"
   },
   {
     "revision": "c4fa763a3a3d8d8ef9ec9f81bb45f328",
@@ -284,12 +308,28 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/1_weapon_egg_1.webp"
   },
   {
+    "revision": "93afe85294c61d6a6f16909ea90f0bc4",
+    "url": "/AbyssExplorer/item/1_weapon_egg_1_1.png"
+  },
+  {
+    "revision": "bf5d9e5c863e15b431116adc9121e5af",
+    "url": "/AbyssExplorer/item/1_weapon_egg_1_1.webp"
+  },
+  {
     "revision": "47b8955c7eb8df81e5bc08d6ee8673b3",
     "url": "/AbyssExplorer/item/1_weapon_egg_2.png"
   },
   {
     "revision": "4d23d8a46f6d47e3905a978fe325cea4",
     "url": "/AbyssExplorer/item/1_weapon_egg_2.webp"
+  },
+  {
+    "revision": "3d5706823a168e00260a72900beebaa1",
+    "url": "/AbyssExplorer/item/1_weapon_egg_2_1.png"
+  },
+  {
+    "revision": "50d5e96f6eaeb15092691262b56c59d5",
+    "url": "/AbyssExplorer/item/1_weapon_egg_2_1.webp"
   },
   {
     "revision": "e332be409505f6923b440ba7d483ed69",
@@ -356,6 +396,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/1_weapon_heart_2.webp"
   },
   {
+    "revision": "3efecad7522769fecffebf4578866f1e",
+    "url": "/AbyssExplorer/item/1_weapon_heart_2_1.png"
+  },
+  {
+    "revision": "b1084be562d8125ddef82770c455370f",
+    "url": "/AbyssExplorer/item/1_weapon_heart_2_1.webp"
+  },
+  {
     "revision": "b4a2c7a5cb649a43bca1d8a7285ca6af",
     "url": "/AbyssExplorer/item/1_weapon_heart_3.png"
   },
@@ -386,6 +434,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "f681d3ca9fed27e066dbd5e027f4eabf",
     "url": "/AbyssExplorer/item/1_weapon_key_3.webp"
+  },
+  {
+    "revision": "97ca42d340aa5fb60e716f96f13d63f6",
+    "url": "/AbyssExplorer/item/1_weapon_key_3_1.png"
+  },
+  {
+    "revision": "3db534f42b50e3eeae3e65738089d74d",
+    "url": "/AbyssExplorer/item/1_weapon_key_3_1.webp"
   },
   {
     "revision": "bfa25e2fd6e220e61d1f6c64cb617c0a",
@@ -540,6 +596,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/1_weapon_room_1.webp"
   },
   {
+    "revision": "4d2236dd5492df7294f25cd47e533447",
+    "url": "/AbyssExplorer/item/1_weapon_room_1_1.png"
+  },
+  {
+    "revision": "6b55c18b6e3dce07b593d70220f76088",
+    "url": "/AbyssExplorer/item/1_weapon_room_1_1.webp"
+  },
+  {
     "revision": "b4910ce23850c7d36def5353a1210a9b",
     "url": "/AbyssExplorer/item/1_weapon_room_2.png"
   },
@@ -548,12 +612,28 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/1_weapon_room_2.webp"
   },
   {
+    "revision": "93afe85294c61d6a6f16909ea90f0bc4",
+    "url": "/AbyssExplorer/item/1_weapon_room_2_1.png"
+  },
+  {
+    "revision": "bf5d9e5c863e15b431116adc9121e5af",
+    "url": "/AbyssExplorer/item/1_weapon_room_2_1.webp"
+  },
+  {
     "revision": "2484662055f08a96a1a2af3c7dfc1e4b",
     "url": "/AbyssExplorer/item/1_weapon_room_3.png"
   },
   {
     "revision": "d65193200eecffa2dae83414a96bb969",
     "url": "/AbyssExplorer/item/1_weapon_room_3.webp"
+  },
+  {
+    "revision": "367a4a31f19a0a392729d2781a1b87a8",
+    "url": "/AbyssExplorer/item/1_weapon_room_3_1.png"
+  },
+  {
+    "revision": "e570dfd996850527e154b9ff7d87b20a",
+    "url": "/AbyssExplorer/item/1_weapon_room_3_1.webp"
   },
   {
     "revision": "74391872552ad6de836f2b5fe02cdf87",
@@ -610,6 +690,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "83848e2fa4863a0dcabc0316dab16c06",
     "url": "/AbyssExplorer/item/1_weapon_terr_5.webp"
+  },
+  {
+    "revision": "c28d5cdc66c773a5249251723372b77e",
+    "url": "/AbyssExplorer/item/1_weapon_terr_5_1.png"
+  },
+  {
+    "revision": "c3c8169ac4e3dce32abe11474d5562ca",
+    "url": "/AbyssExplorer/item/1_weapon_terr_5_1.webp"
   },
   {
     "revision": "685ffaf6be4a9d5ae7422b22715a5684",
@@ -3732,8 +3820,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/7_skill_zack.webp"
   },
   {
-    "revision": "87709b53d7fec09ba73d",
-    "url": "/AbyssExplorer/js/app.8be6d885.js"
+    "revision": "3fcaba0f5a8a4a9bf268",
+    "url": "/AbyssExplorer/js/app.06e105d9.js"
   },
   {
     "revision": "153a01cefe61bfff5a88",
