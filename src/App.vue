@@ -60,7 +60,7 @@
             <div class="item" v-for="(item, i) in searchItems" :key="i"
                  :class="{'is-active': item.id === selectedItem}">
                 <div class="item-img" @click="selectItem(item.id)">
-                    <div class="img" :class="`img-${item.category}`">
+                    <div class="img">
                         <picture>
                             <source :srcset="`${publicPath}item/${item.id}.webp`" type="image/webp">
                             <img :src="`${publicPath}item/${item.id}.png`" :alt="item.name[lang]">
@@ -495,26 +495,6 @@
             transform-origin: center center;
             transform: scale(2);
             image-rendering: pixelated;
-        }
-    }
-
-    @mixin imgColor($color) {
-        img {
-            filter: drop-shadow(0 0 4px rgba($color, .5)) drop-shadow(0 0 1px rgba($color, .4));
-        }
-    }
-
-    .img {
-        &.img-weapon {
-            @include imgColor($yellow);
-        }
-
-        &.img-powerup {
-            @include imgColor($pink-light);
-        }
-
-        &.img-item, &.img-pet {
-            @include imgColor($cyan);
         }
     }
 
