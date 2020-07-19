@@ -341,6 +341,68 @@
     ]
   },
   {
+    "id": "1_weapon_bomb_1",
+    "name": {
+      "": "审判",
+      "zh-CN": "审判",
+      "zh-TW": "審判",
+      "en-US": "JUDGMENT",
+      "ja": "ジャッジメント",
+      "fr": "JUGEMENT",
+      "it": "SENTENZA",
+      "de": "URTEIL",
+      "es": "JUICIO",
+      "ru": "ПРИГОВОР"
+    },
+    "desc": {
+      "": "准备迎接正义的制裁吧！",
+      "zh-CN": "准备迎接正义的制裁吧！",
+      "zh-TW": "正義將獲得伸張，倒數3...2...【主動】掉出一把鑰匙。",
+      "en-US": "Justice will be dispensed in 3...2... ",
+      "ja": "正義執行まであと3… 2… ",
+      "fr": "Justice sera rendue dans 3... 2...",
+      "it": "Preparati a essere giudicato.",
+      "de": "Verteilt Gerechtigkeit in 3 ... 2 ... ",
+      "es": "Se hará justicia dentro de 3... 2...",
+      "ru": "Правосудие восторжествует через 3... 2..."
+    },
+    "category": "weapon",
+    "tags": [
+      "weapon"
+    ]
+  },
+  {
+    "id": "1_weapon_coin_1",
+    "name": {
+      "": "金色波纹",
+      "zh-CN": "金色波纹",
+      "zh-TW": "金色漣漪",
+      "en-US": "GOLDEN RIPPLE",
+      "ja": "ゴールデンリップル",
+      "fr": "ONDE DORÉE",
+      "it": "RICCIOLO D'ORO",
+      "de": "GOLDENE WELLE",
+      "es": "OLA DORADA",
+      "ru": "РЫЖИЙ КОТ"
+    },
+    "desc": {
+      "": "善意的谎言。【被动】当你的子弹击中金币时，它可能会双倍，或消失。【主动技能】掉落随机金币。",
+      "zh-CN": "善意的谎言。【被动】当你的子弹击中金币时，它可能会双倍，或消失。【主动技能】掉落随机金币。",
+      "zh-TW": "善意謊言。【被動】你的子彈射中的金幣有可能加倍或消失。【主動】隨機掉出金幣。",
+      "en-US": "A white lie. [Passive] When your bullets hit the coin, it may double, or disappear. [Active] Drop random coins.",
+      "ja": "それは、罪のない嘘。 [パッシブ] 弾がコインに当たると、2倍になるか消えるかする。 [アクティブ] ランダムでコインをドロップする。",
+      "fr": "Un pieu mensonge. [Passive] Quand vos balles touchent la pièce, elle se dédouble ou disparaît. [Active] Laisse des pièces aléatoires.",
+      "it": "Una bugia bianca. [Passivo] Spara a una moneta per raddoppiarla... o distruggerla. [Attivo] Rilascia monete casuali.",
+      "de": "Eine Notlüge. [Passiv] Treffen deine Geschosse eine Münze, wird sie verdoppelt oder verschwindet. [Aktiv] Lasse Münzen fallen.",
+      "es": "Una mentira piadosa. [Pasivo] Cuando tus balas aciertan en la moneda, esta puede duplicarse o desaparecer. [Activo] Suelta monedas aleatorias.",
+      "ru": "Невинная ложь. [Пассивный] Когда ваши пули попадают в монету, она либо исчезнет, либо появится ее дубликат. [Активный] Выпадают случайные монеты."
+    },
+    "category": "weapon",
+    "tags": [
+      "weapon"
+    ]
+  },
+  {
     "id": "1_weapon_coin_1_1",
     "name": {
       "": "懒洋洋",
@@ -458,6 +520,37 @@
       "de": "Es hängt ganz von dir ab ... oder vom Zufall. [Aktiv] Weise deine Waffenwerte nach Zufall neu zu.",
       "es": "Depende de ti... o de la suerte. [Activo] Actualiza las variables de tu arma.",
       "ru": "Решать вам... или судьбе. [Активный] Случайным образом меняет характеристики вашего огнестрельного оружия."
+    },
+    "category": "weapon",
+    "tags": [
+      "weapon"
+    ]
+  },
+  {
+    "id": "1_weapon_defense_1",
+    "name": {
+      "": "风刃",
+      "zh-CN": "风刃",
+      "zh-TW": "風之刃",
+      "en-US": "WIND BLADE",
+      "ja": "ウィンドブレード",
+      "fr": "HÉLICE",
+      "it": "LAMA D'ARIA",
+      "de": "WINDKLINGE",
+      "es": "ESPADA DE VIENTO",
+      "ru": "КЛИНОК ВЕТРА"
+    },
+    "desc": {
+      "": "战场中的狂舞者。【被动】这个武器造成近战伤害。【主动】获得短暂的无敌。",
+      "zh-CN": "战场中的狂舞者。【被动】这个武器造成近战伤害。【主动】获得短暂的无敌。",
+      "zh-TW": "在戰場上亂舞。【被動】此武器可造成近戰傷害。【主動】進入短暫無敵狀態。",
+      "en-US": "Dancing on the battlefield. [Passive] This weapon deals melee damage. [Active] Be invincible for a short time.",
+      "ja": "戦場で踊れ。 [パッシブ] この武器は近接攻撃で敵にダメージを与える。 [アクティブ] 短い間無敵状態になる。",
+      "fr": "Danse sur le champ de bataille. [Passive] Cette arme inflige des dégâts de mêlée. [Active] Vous êtes invincible pendant une courte durée.",
+      "it": "Danza sul campo di battaglia. [Passivo] Infligge danni da mischia. [Attivo] Rende invincibili per un breve periodo.",
+      "de": "Ein Tanz auf dem Schlachtfeld. [Passiv] Diese Waffe verursacht Nahkampfschaden. [Aktiv] Du wirst eine kurze Zeit unbesiegbar.",
+      "es": "Bailando en el campo de batalla. [Pasivo] Esta arma inflige daño cuerpo a cuerpo. [Activo] Vuélvete invencible durante un rato.",
+      "ru": "Танец на поле боя. [Пассивный] Это оружие наносит урон в ближнем бою. [Активный] На короткое время дает неуязвимость."
     },
     "category": "weapon",
     "tags": [
@@ -589,6 +682,37 @@
     ]
   },
   {
+    "id": "1_weapon_drop_1",
+    "name": {
+      "": "摇篮曲",
+      "zh-CN": "摇篮曲",
+      "zh-TW": "搖籃曲",
+      "en-US": "LULLABY",
+      "ja": "ララバイ",
+      "fr": "BERCEUSE",
+      "it": "NINNANANNA",
+      "de": "SCHLUMMERLIED",
+      "es": "NANA",
+      "ru": "УГОМОН"
+    },
+    "desc": {
+      "": "祝你好梦。【被动】你的子弹可以拾取掉落物（除了武器）。",
+      "zh-CN": "祝你好梦。【被动】你的子弹可以拾取掉落物（除了武器）。",
+      "zh-TW": "晚安，祝你好眠。【被動】拾取你的子彈射中的道具（武器除外）。",
+      "en-US": "Good night, sleep tight. [Passive] Your bullet can pick up everything except weapons.",
+      "ja": "ぐっすりおやすみ、よい夢を。[パッシブ] 弾によって武器以外のアイテムをひろえる。",
+      "fr": "Bonne nuit, faites de beaux rêves. [Passive] Votre balle peut tout ramasser sauf des armes.",
+      "it": "Buonanotte e sogni d'oro. [Passivo] I proiettili possono raccogliere tutto tranne le armi.",
+      "de": "Schlaf, Kindlein, schlaf. [Passiv] Deine Geschosse können alles außer Waffen aufsammeln.",
+      "es": "Buenas noches, que duermas bien. [Pasivo] Tu bala puede recoger de todo salvo un arma.",
+      "ru": "Спокойной ночи, приятных снов. [Пассивный] Ваши пули могут подбирать все, кроме оружия."
+    },
+    "category": "weapon",
+    "tags": [
+      "weapon"
+    ]
+  },
+  {
     "id": "1_weapon_drop_2",
     "name": {
       "": "第八色",
@@ -651,6 +775,37 @@
     ]
   },
   {
+    "id": "1_weapon_drop_re_1",
+    "name": {
+      "": "玩具枪",
+      "zh-CN": "玩具枪",
+      "zh-TW": "玩具槍",
+      "en-US": "PLASTIC GUN",
+      "ja": "プラスチックガン",
+      "fr": "PISTOLET EN PLASTIQUE",
+      "it": "PISTOLA GIOCATTOLO",
+      "de": "PLASTIKPISTOLE",
+      "es": "PISTOLA DE PLÁSTICO",
+      "ru": "ПЛАСТИКОВОЕ РУЖЬЕ"
+    },
+    "desc": {
+      "": "祝你玩的开心！【主动】刷新所有未打开的宝箱。",
+      "zh-CN": "祝你玩的开心！【主动】刷新所有未打开的宝箱。",
+      "zh-TW": "開玩啦！【主動】刷新所有未開啟的寶箱。",
+      "en-US": "Have fun! [Active] Refresh all closed chests.",
+      "ja": "お楽しみだ！ [アクティブ] すべての宝箱を新しい物に入れ替える。",
+      "fr": "Éclatez-vous ! [Active] Réinitialise tous les coffres fermés.",
+      "it": "Divertiti! [Attivo] Rimpiazza tutti i forzieri chiusi.",
+      "de": "Viel Spaß! [Aktiv] Aktualisiere alle geschlossenen Truhen.",
+      "es": "¡Que te diviertas! [Activo] Actualiza todos los cofres cerrados.",
+      "ru": "Пора оттянуться! [Активный] Обновляет все закрытые сундуки."
+    },
+    "category": "weapon",
+    "tags": [
+      "weapon"
+    ]
+  },
+  {
     "id": "1_weapon_drop_re_2",
     "name": {
       "": "玩具枪",
@@ -706,6 +861,37 @@
       "de": "Viel Spaß! [Aktiv] Wandle alle Gegenstände in Extras um.",
       "es": "¡Que te diviertas! [Activo] Actualiza todos los objetos a potenciadores.",
       "ru": "Пора оттянуться! [Активный] Заменяет все предметы на усиления."
+    },
+    "category": "weapon",
+    "tags": [
+      "weapon"
+    ]
+  },
+  {
+    "id": "1_weapon_egg_1",
+    "name": {
+      "": "摇篮曲",
+      "zh-CN": "摇篮曲",
+      "zh-TW": "搖籃曲",
+      "en-US": "LULLABY",
+      "ja": "ララバイ",
+      "fr": "BERCEUSE",
+      "it": "NINNANANNA",
+      "de": "SCHLUMMERLIED",
+      "es": "NANA",
+      "ru": "УГОМОН"
+    },
+    "desc": {
+      "": "祝你好梦。【主动】获得一个不会孵化的银蛋。",
+      "zh-CN": "祝你好梦。【主动】获得一个不会孵化的银蛋。",
+      "zh-TW": "晚安，祝你好眠。【主動】獲得一顆銀色寵物蛋。",
+      "en-US": "Good night, sleep tight. [Active] Get a silver egg.",
+      "ja": "ぐっすりおやすみ、よい夢を。 [アクティブ] シルバーエッグを手に入れる。",
+      "fr": "Bonne nuit, faites de beaux rêves. [Active] Vous obtenez un œuf d'argent.",
+      "it": "Buonanotte e sogni d'oro. [Attivo] Fornisce un uovo d'argento.",
+      "de": "Schlaf, Kindlein, schlaf. [Aktiv] Erhalte ein silbernes Ei.",
+      "es": "Buenas noches, que duermas bien. [Activo] Consigue un huevo de plata.",
+      "ru": "Спокойной ночи, приятных снов. [Активный] Дает серебряное яйцо."
     },
     "category": "weapon",
     "tags": [
@@ -837,6 +1023,37 @@
     ]
   },
   {
+    "id": "1_weapon_explo_1",
+    "name": {
+      "": "巨兽",
+      "zh-CN": "巨兽",
+      "zh-TW": "巨獸",
+      "en-US": "GIANT BEAST",
+      "ja": "ジャイアントビースト",
+      "fr": "BÊTE GÉANTE",
+      "it": "BELVA GIGANTE",
+      "de": "RIESENBESTIE",
+      "es": "BESTIA GIGANTE",
+      "ru": "ЗВЕРЮГА"
+    },
+    "desc": {
+      "": "如果你无法驾驭这种力量，就会被它吞噬！",
+      "zh-CN": "如果你无法驾驭这种力量，就会被它吞噬！",
+      "zh-TW": "你一定會喜歡！但...請小心使用。",
+      "en-US": "You must like this! But use it... cautiously.",
+      "ja": "お気に入りの銃になること間違いなし！けれど… 注意をもって扱うこと。",
+      "fr": "Vous allez adorer ! Mais à utiliser... avec précaution.",
+      "it": "Ti piacerà! Ma... usala con cautela.",
+      "de": "Das gefällt dir mit Sicherheit! Aber gehe ... vorsichtig damit um.",
+      "es": "¡Esto te va a gustar! Pero úsala... con cuidado.",
+      "ru": "Вам точно понравится! Но используйте... с осторожностью."
+    },
+    "category": "weapon",
+    "tags": [
+      "weapon"
+    ]
+  },
+  {
     "id": "1_weapon_explo_2",
     "name": {
       "": "霜火",
@@ -961,6 +1178,37 @@
     ]
   },
   {
+    "id": "1_weapon_heart_1",
+    "name": {
+      "": "哨兵",
+      "zh-CN": "哨兵",
+      "zh-TW": "哨兵",
+      "en-US": "SENTINEL",
+      "ja": "センチネル",
+      "fr": "SENTINELLE",
+      "it": "SENTINELLA",
+      "de": "WACHE",
+      "es": "CENTINELA",
+      "ru": "ДОЗОРНЫЙ"
+    },
+    "desc": {
+      "": "牺牲了一些性能，增加了追踪模块。【主动+被动】可以储存红心并扔出。",
+      "zh-CN": "牺牲了一些性能，增加了追踪模块。【主动+被动】可以储存红心并扔出。",
+      "zh-TW": "降低武器性能以增加追蹤組件。【被動＋主動】可存放或扔掉紅心。",
+      "en-US": "Sacrificed performance to add a tracking module. [Passive+Active] Hearts can be stored and thrown out.",
+      "ja": "追跡モジュールを追加するため、パフォーマンスが犠牲になった。 [パッシブ+アクティブ] ハートをストックしたり放出したりできる。",
+      "fr": "Des performances sacrifiées au profit d'un module de traçage. [Passive + Active] Les cœurs peuvent être stockés et lancés.",
+      "it": "Sacrifica le prestazioni per installare un modulo a ricerca. [Passivo + Attivo] Consente di conservare e rilasciare cuori.",
+      "de": "Verringerte Leistung, dafür mit Zielerfassung. [Passiv+Aktiv] Herzen können gespeichert und abgeworfen werden.",
+      "es": "Se sacrifica rendimiento a cambio de un módulo de rastreo. [Pasivo+Activo] Los corazones pueden guardarse y arrojarse.",
+      "ru": "Характеристики оружия ухудшены, но добавлен модуль слежения. [Пассивный+Активный] Позволяет копить сердца и использовать их при необходимости."
+    },
+    "category": "weapon",
+    "tags": [
+      "weapon"
+    ]
+  },
+  {
     "id": "1_weapon_heart_2",
     "name": {
       "": "雨燕",
@@ -1047,6 +1295,37 @@
       "de": "Du weißt gar nichts. [Passiv] Je mehr Herzen du hast, desto mehr Geschosse kannst du abfeuern.",
       "es": "No sabes nada. [Pasivo] Cuantos más corazones tienes, más balas puedes disparar.",
       "ru": "Ничего ты не знаешь. [Пассивный] Чем больше у вас сердец, тем больше пуль вы можете выпустить."
+    },
+    "category": "weapon",
+    "tags": [
+      "weapon"
+    ]
+  },
+  {
+    "id": "1_weapon_key_1",
+    "name": {
+      "": "钥匙枪",
+      "zh-CN": "钥匙枪",
+      "zh-TW": "金鑰發射器",
+      "en-US": "KEYGUN",
+      "ja": "キー・ガン",
+      "fr": "LANCE-CLÉ",
+      "it": "CHIAVE BALISTICA",
+      "de": "SCHLÜSSELPISTOLE",
+      "es": "PISTOLA LLAVE",
+      "ru": "КЛЮЧЕВОЙ ПИСТОЛЕТ"
+    },
+    "desc": {
+      "": "蓄力发射一枚金钥匙！可以打开所有的锁！",
+      "zh-CN": "蓄力发射一枚金钥匙！可以打开所有的锁！",
+      "zh-TW": "蓄力後發射一把金鑰匙。【被動】可打開所有的鎖。",
+      "en-US": "After recharging, launches a golden key. It can open all locks.",
+      "ja": "リチャージした後、黄金のカギを発射する。 [パッシブ] すべてのカギを開けられる。",
+      "fr": "Une fois rechargé, lance une clé dorée. Peut ouvrir toutes les serrures.",
+      "it": "Quando si ricarica, lancia una chiave d'oro. Apre tutte le serrature.",
+      "de": "Feuert nach dem Wiederaufladen einen goldenen Schlüssel ab. Kann alle Schlösser öffnen.",
+      "es": "Lanza una llave dorada tras recargarse. Puede abrir todas las cerraduras.",
+      "ru": "После перезарядки выпускает золотой ключ. Может открывать все замки."
     },
     "category": "weapon",
     "tags": [
@@ -1178,6 +1457,37 @@
     ]
   },
   {
+    "id": "1_weapon_kill_1",
+    "name": {
+      "": "饿狼",
+      "zh-CN": "饿狼",
+      "zh-TW": "野狼",
+      "en-US": "WILD WOLF",
+      "ja": "ワイルドウルフ",
+      "fr": "LOUP SAUVAGE",
+      "it": "LUPO SELVAGGIO",
+      "de": "WILDER WOLF",
+      "es": "LOBO SALVAJE",
+      "ru": "ДИКИЙ ВОЛК"
+    },
+    "desc": {
+      "": "以牙还牙！【被动】消灭敌人获得伤害提升，受伤后重置。",
+      "zh-CN": "血债血偿！【被动】消灭敌人获得伤害提升，受伤后重置。",
+      "zh-TW": "給我更多血！【被動】每有敵人被殺，該武器的傷害就會隨之提升。受傷後則會重設至原始狀態。",
+      "en-US": "More blood! [Passive] Each time an enemy is killed, this weapon's damage increases. Once you get hurt, it will return to its original state.",
+      "ja": "もっと血を！ [パッシブ] 敵を倒すたび、この武器のダメージは増加する。1度でもダメージを受けると、武器は初期の状態に戻る。",
+      "fr": "Du sang ! [Passive] Chaque fois qu'un ennemi est tué, les dégâts de cette arme augmentent. Si vous êtes blessé, elle reprend son état d'origine.",
+      "it": "Sete di sangue! [Passivo] I danni inflitti dall'arma aumentano per ogni nemico eliminato. Se subisci danni, l'arma torna ai valori standard.",
+      "de": "Mehr Blut! [Passiv] Jedes Mal, wenn ein Gegner getötet wird, erhöht sich der Schaden der Waffe. Wirst du verletzt, wird der Effekt zurückgesetzt.",
+      "es": "¡Más sangre! [Pasivo] Cada vez que muere un enemigo, aumenta el daño de esta arma. Cuando te hieran a ti, regresará a su estado original.",
+      "ru": "Больше крови! [Пассивный] При каждом убийстве врага урон от оружия повышается. Получение ранения сбрасывает урон до исходного."
+    },
+    "category": "weapon",
+    "tags": [
+      "weapon"
+    ]
+  },
+  {
     "id": "1_weapon_kill_2",
     "name": {
       "": "黄金萨姆",
@@ -1264,6 +1574,37 @@
       "de": "Schrei aus der Hölle. [Passiv] Jedes Mal, wenn du einen Gegner tötest, besteht die Chance, dass du böse Geister erhältst.",
       "es": "Gritos del infierno. [Pasivo] Tienes la posibilidad de conseguir espíritus malignos cada vez que matas a un enemigo.",
       "ru": "Крик из ада. [Пассивный] Дает шанс призвать злых фей при каждом убийстве врага."
+    },
+    "category": "weapon",
+    "tags": [
+      "weapon"
+    ]
+  },
+  {
+    "id": "1_weapon_mana_1",
+    "name": {
+      "": "妖狐",
+      "zh-CN": "妖狐",
+      "zh-TW": "白狐",
+      "en-US": "WHITE FOX",
+      "ja": "ホワイトフォックス",
+      "fr": "RENARD BLANC",
+      "it": "VOLPE ALBINA",
+      "de": "WEISSER FUCHS",
+      "es": "ZORRO BLANCO",
+      "ru": "БЕЛАЯ ЛИСА"
+    },
+    "desc": {
+      "": "妩媚又致命。【主动】发射一个能量球。",
+      "zh-CN": "妩媚又致命。【主动】发射一个能量球。",
+      "zh-TW": "誘人且致命。【主動】發射能量球。",
+      "en-US": "Charming and dangerous. [Active] Fires an energy ball.",
+      "ja": "チャーミングにしてデンジャラス。 [アクティブ] エナジーボールを発射する。",
+      "fr": "Charmant et dangereux. [Active] Tire une balle d'énergie.",
+      "it": "Fascino e distruzione. [Attivo] Lancia una sfera di energia.",
+      "de": "Bezaubernd und gefährlich. [Aktiv] Feuert eine Energiekugel ab.",
+      "es": "Encantador y peligroso. [Activo] Dispara una bola de energía.",
+      "ru": "Очаровательная и опасная. [Активный] Выпускает энергетический шар."
     },
     "category": "weapon",
     "tags": [
@@ -1364,6 +1705,37 @@
     ]
   },
   {
+    "id": "1_weapon_num_1",
+    "name": {
+      "": "流星",
+      "zh-CN": "流星",
+      "zh-TW": "流星",
+      "en-US": "METEOR",
+      "ja": "メテオ",
+      "fr": "MÉTÉORE",
+      "it": "METEORITE",
+      "de": "METEOR",
+      "es": "METEORO",
+      "ru": "МЕТЕОР"
+    },
+    "desc": {
+      "": "来自天堂的泪水。",
+      "zh-CN": "来自天堂的泪水。",
+      "zh-TW": "天堂的眼淚。",
+      "en-US": "Tears from heaven.",
+      "ja": "天から降る涙。",
+      "fr": "Des larmes tombées du ciel.",
+      "it": "Lacrime dal cielo.",
+      "de": "Tränen des Himmels.",
+      "es": "Lágrimas del cielo.",
+      "ru": "Слезы небес."
+    },
+    "category": "weapon",
+    "tags": [
+      "weapon"
+    ]
+  },
+  {
     "id": "1_weapon_num_5",
     "name": {
       "": "空气枪",
@@ -1388,6 +1760,37 @@
       "de": "Es ist so leicht, als würde es gar nicht existieren. [Aktiv] Verringere deine Fallgeschwindigkeit.",
       "es": "Es tan ligera que parece que no existe. [Activo] Ralentiza tu velocidad de caída.",
       "ru": "Настолько легкий, будто его и нет вовсе. [Активный] Снижает скорость падения."
+    },
+    "category": "weapon",
+    "tags": [
+      "weapon"
+    ]
+  },
+  {
+    "id": "1_weapon_op_1",
+    "name": {
+      "": "黑暗射线",
+      "zh-CN": "黑暗射线",
+      "zh-TW": "死亡射線",
+      "en-US": "DEATH RAY",
+      "ja": "デスレーザー",
+      "fr": "RAYON FATAL",
+      "it": "RAGGIO MORTALE",
+      "de": "TODESSTRAHL",
+      "es": "RAYO DE MUERTE",
+      "ru": "ЛУЧ СМЕРТИ"
+    },
+    "desc": {
+      "": "来自深渊的凝视。【主动】瞬移一小段距离。",
+      "zh-CN": "来自深渊的凝视。【主动】瞬移一小段距离。",
+      "zh-TW": "來自深淵的凝視...【主動】向前瞬移一小段距離。",
+      "en-US": "A gaze from the Abyss… [Active] Blink a short distance forward.",
+      "ja": "アビスからの眼差し… [アクティブ] 短い距離、前方に瞬間移動できる。",
+      "fr": "Un regard des Abysses... [Active] Téléporte sur une courte distance.",
+      "it": "Uno sguardo dall'abisso... [Attivo] Consente di teletrasportarsi in avanti di qualche passo.",
+      "de": "Ein Blick aus dem Abgrund ... [Aktiv] Teleportiere dich eine kurze Distanz nach vorn.",
+      "es": "Una mirada desde el abismo... [Activo] Te teletransportas a poca distancia.",
+      "ru": "Бездна вглядывается в тебя... [Активный] Телепортирует вперед на короткую дистанцию."
     },
     "category": "weapon",
     "tags": [
@@ -1581,6 +1984,37 @@
     ]
   },
   {
+    "id": "1_weapon_room_1",
+    "name": {
+      "": "双子",
+      "zh-CN": "双子",
+      "zh-TW": "雙子座",
+      "en-US": "TWINS",
+      "ja": "ツインズ",
+      "fr": "JUMEAUX",
+      "it": "GEMELLI",
+      "de": "ZWILLINGE",
+      "es": "GEMELOS",
+      "ru": "БЛИЗНЕЦЫ"
+    },
+    "desc": {
+      "": "据说使用了量子纠缠技术。【主动】在当前房间内提高武器伤害。",
+      "zh-CN": "据说使用了量子纠缠技术。【主动】在当前房间内提高武器伤害。",
+      "zh-TW": "使用量子糾纏技術。【主動】在目前房間增加武器傷害。",
+      "en-US": "Quantum entanglement technique. [Active] Increase your weapon damage in the current room.",
+      "ja": "量子もつれ技術を採用。 [アクティブ] 現在の部屋にいる間、武器のダメージが増加する。",
+      "fr": "Technique d'intrication quantique. [Active] Augmente vos dégâts d'arme dans la salle actuelle.",
+      "it": "Tecnica di vincolo quantico. [Attivo] Incrementa i danni dell'arma nella stanza.",
+      "de": "Quanten-Verflechtungstechnik. [Aktiv] Erhöhe deinen Waffenschaden im aktuellen Raum.",
+      "es": "Técnica de entrelazamiento cuántico. [Activo] Aumenta el daño de tu arma en la sala actual.",
+      "ru": "Техника квантовой запутанности. [Активный] Увеличивает урон от оружия в текущей комнате."
+    },
+    "category": "weapon",
+    "tags": [
+      "weapon"
+    ]
+  },
+  {
     "id": "1_weapon_room_1_1",
     "name": {
       "": "雨燕",
@@ -1729,6 +2163,37 @@
       "de": "Folge dem Ruf deines Herzens. [Aktiv] Werte deine Waffe im aktuellen Raum auf.",
       "es": "Escucha la llamada de tu corazón. [Activo] Mejora tu arma en la sala actual.",
       "ru": "Прислушайся к зову своего сердца. [Активный] Улучшает ваше оружие в текущей комнате."
+    },
+    "category": "weapon",
+    "tags": [
+      "weapon"
+    ]
+  },
+  {
+    "id": "1_weapon_rpm_1",
+    "name": {
+      "": "星爆",
+      "zh-CN": "星爆",
+      "zh-TW": "星爆",
+      "en-US": "STAR BURST",
+      "ja": "スターバースト",
+      "fr": "EXPLOSION D'ÉTOILE",
+      "it": "SCOPPIO ASTRALE",
+      "de": "STERNENEXPLOSION",
+      "es": "BROTE ESTELAR",
+      "ru": "ЗВЕЗДНЫЙ ВЗРЫВ"
+    },
+    "desc": {
+      "": "来自先遣队科技的结晶。",
+      "zh-CN": "来自先遣队科技的结晶。",
+      "zh-TW": "未來科技的結晶。",
+      "en-US": "The crystallization of future technology",
+      "ja": "未来のテクノロジーの結晶。",
+      "fr": "La cristallisation de la technologie future.",
+      "it": "La tecnologia del futuro cristallizzata.",
+      "de": "Es kristallisiert sich die Technologie der Zukunft heraus.",
+      "es": "La cristalización de la tecnología futura.",
+      "ru": "Технологии будущего."
     },
     "category": "weapon",
     "tags": [
@@ -9803,6 +10268,38 @@
     ]
   },
   {
+    "id": "5_05_item_bullet_dis_spread_1",
+    "name": {
+      "": "盆栽植物",
+      "zh-CN": "盆栽植物",
+      "zh-TW": "花盆",
+      "en-US": "FLOWERPOT",
+      "ja": "植木鉢",
+      "fr": "POT DE FLEUR",
+      "it": "VASO DI FIORI",
+      "de": "BLUMENTOPF",
+      "es": "MACETA",
+      "ru": "ЦВЕТОЧНЫЙ ГОРШОК"
+    },
+    "desc": {
+      "": "你从一个盆栽中悟到了抗争的意义。子弹有概率分裂出额外子弹。",
+      "zh-CN": "你从一个盆栽中悟到了抗争的意义。子弹有概率分裂出额外子弹。",
+      "zh-TW": "射出的子彈有機會分裂成多發子彈。優美地呈現出死亡時刻。",
+      "en-US": "There's a chance your bullet will split into extra bullets. A beautiful display of death.",
+      "ja": "ときどき弾が分裂して増える。美しい死の飾り物。",
+      "fr": "Votre balle a une chance de se diviser en balles supplémentaires. Un splendide spectacle morbide.",
+      "it": "I tuoi proiettili hanno una probabilità di frammentarsi in più colpi. Quando la morte diventa spettacolo.",
+      "de": "Es besteht die Chance, dass sich dein Geschoss in mehrere Geschosse aufteilt. Ein wunderschönes Schauspiel des Todes.",
+      "es": "Cabe la posibilidad de que tu bala se divida en balas extra. Un hermoso despliegue de muerte.",
+      "ru": "Есть шанс, что ваша пуля разделится на несколько пуль. Ураган смерти!"
+    },
+    "category": "item",
+    "tags": [
+      "item",
+      "bullet"
+    ]
+  },
+  {
     "id": "5_05_item_bullet_dis_spread_2",
     "name": {
       "": "裂变装置",
@@ -12971,6 +13468,198 @@
     ]
   },
   {
+    "id": "6_guard_billiards_1",
+    "name": {
+      "": "8号球",
+      "zh-CN": "8号球",
+      "zh-TW": "8號球",
+      "en-US": "EIGHT-BALL",
+      "ja": "エイトボール",
+      "fr": "BILLE DE BILLARD",
+      "it": "PALLA OTTO",
+      "de": "SCHWARZE ACHT",
+      "es": "BOLA NÚMERO OCHO",
+      "ru": "ШАР-ВОСЬМЕРКА"
+    },
+    "desc": {
+      "": "环绕守卫，阻挡敌人子弹。",
+      "zh-CN": "环绕守卫，阻挡敌人子弹。",
+      "zh-TW": "小小撞球可擋掉敵人的子彈。",
+      "en-US": "This little ball blocks enemies' bullets.",
+      "ja": "敵の弾を防いでくれる小さなボール。",
+      "fr": "Cette petite bille bloque les balles ennemies.",
+      "it": "Piccola sfera che blocca i proiettili nemici.",
+      "de": "Diese kleine Kugel blockt gegnerische Geschosse.",
+      "es": "Esta bolita bloquea las balas enemigas.",
+      "ru": "Этот маленький шарик блокирует пули врагов."
+    },
+    "category": "pet",
+    "tags": [
+      "item",
+      "pet-guard"
+    ]
+  },
+  {
+    "id": "6_guard_dart_1",
+    "name": {
+      "": "铁风车",
+      "zh-CN": "铁风车",
+      "zh-TW": "鐵風車",
+      "en-US": "IRON WINDMILL",
+      "ja": "鉄の風車",
+      "fr": "SHURIKEN EN FER",
+      "it": "GIRANDOLA DI FERRO",
+      "de": "EISERNE WINDMÜHLE",
+      "es": "MOLINILLO DE HIERRO",
+      "ru": "ЖЕЛЕЗНАЯ МЕЛЬНИЦА"
+    },
+    "desc": {
+      "": "环绕守卫，对敌人造成触碰伤害。临终时：产生3个愤怒精灵。",
+      "zh-CN": "环绕守卫，对敌人造成触碰伤害。死亡效果：产生3个愤怒精灵。",
+      "zh-TW": "小小風車觸碰到敵人時可造成近戰傷害。死亡時：獲得3隻憤怒精靈。",
+      "en-US": "This little windmill deals melee damage when it touches an enemy. On Death: you get 3 angry sprites.",
+      "ja": "敵に触れるとダメージを与える小さな風車。死亡時：怒れる精霊が3つ手に入る。",
+      "fr": "Ce petit shuriken inflige des dégâts de mêlée quand il touche un ennemi. À la mort : vous obtenez 3 lutins maléfiques.",
+      "it": "Piccola girandola che infligge danni da mischia quando tocca un nemico. Alla morte: fornisce 3 spiriti furenti.",
+      "de": "Diese kleine Windmühle verursacht Nahkampfschaden, wenn sie einen Gegner berührt. Bei Tod: Erhalte 3 böse Geister.",
+      "es": "Este molinillo inflige daño cuerpo a cuerpo cuando toca a un enemigo. En muerte: consigues 3 espíritus malignos.",
+      "ru": "Эта маленькая мельница наносит урон в ближнем бою, когда прикасается к врагу. При смерти: вы получаете 3 злые феи."
+    },
+    "category": "pet",
+    "tags": [
+      "item",
+      "pet-guard"
+    ]
+  },
+  {
+    "id": "6_guard_lego_1",
+    "name": {
+      "": "蓝色积木",
+      "zh-CN": "蓝色积木",
+      "zh-TW": "藍色積木",
+      "en-US": "BLUE BRICK",
+      "ja": "ブルーブロック",
+      "fr": "BRIQUE BLEUE",
+      "it": "MATTONE BLU",
+      "de": "BLAUER ZIEGEL",
+      "es": "CUBO AZUL",
+      "ru": "СИНИЙ КИРПИЧИК"
+    },
+    "desc": {
+      "": "环绕守卫，阻挡敌人子弹。临终时：有概率再次产生一个蓝色积木。",
+      "zh-CN": "环绕守卫，阻挡敌人子弹。死亡效果：有概率再次产生一个蓝色积木。",
+      "zh-TW": "小小積木可擋掉敵人的子彈。死亡時：有機會再次獲得一個藍色方塊。",
+      "en-US": "This little brick blocks enemies' bullets. On Death: you have the chance to get another Blue Brick.",
+      "ja": "敵の弾を防いでくれる小さなブロック。死亡時：一定の確率で新しいブルーブロックが手に入る。",
+      "fr": "Cette petite brique bloque les balles ennemies. À la mort : vous avez une chance d'obtenir une autre brique bleue.",
+      "it": "Mattoncino che blocca i proiettili nemici. Alla morte: fornisce una probabilità di ottenere un altro mattone blu.",
+      "de": "Dieser kleine Ziegel blockt gegnerische Geschosse. Bei Tod: Es besteht die Chance, dass du noch einen Blauen Ziegel erhältst.",
+      "es": "Este cubito bloquea las balas enemigas. En muerte: tienes la posibilidad de conseguir otro cubo azul.",
+      "ru": "Этот маленький кирпичик блокирует вражеские пули. При смерти: есть шанс получить еще один кирпичик."
+    },
+    "category": "pet",
+    "tags": [
+      "item",
+      "pet-guard"
+    ]
+  },
+  {
+    "id": "6_guard_seaweed_1",
+    "name": {
+      "": "小海怪",
+      "zh-CN": "小海怪",
+      "zh-TW": "小海怪",
+      "en-US": "SEA MONSTER",
+      "ja": "シーモンスター",
+      "fr": "MONSTRE MARIN",
+      "it": "MOSTRO MARINO",
+      "de": "MEERESMONSTER",
+      "es": "MONSTRUO MARINO",
+      "ru": "МОРСКОЕ ЧУДОВИЩЕ"
+    },
+    "desc": {
+      "": "环绕守卫，阻挡敌人子弹，对敌人造成触碰伤害",
+      "zh-CN": "环绕守卫，阻挡敌人子弹，对敌人造成触碰伤害",
+      "zh-TW": "小小海怪可擋掉敵人的子彈，并對敵人造成觸碰傷害。",
+      "en-US": "This little monster damages enemies who touch it.",
+      "ja": "触れた敵すべてにダメージを与える小さなモンスター。",
+      "fr": "Ce petit monstre inflige des dégâts aux ennemis qui le touchent.",
+      "it": "Mostriciattolo che ferisce i nemici al contatto.",
+      "de": "Dieses kleine Monster fügt Gegnern, die es berühren, Schaden zu.",
+      "es": "Este monstruito hieren a los enemigos que lo tocan.",
+      "ru": "Это маленькое чудище наносит урон врагам, которые к нему прикасаются."
+    },
+    "category": "pet",
+    "tags": [
+      "item",
+      "pet-guard"
+    ]
+  },
+  {
+    "id": "6_guard_steelball_1",
+    "name": {
+      "": "震金球",
+      "zh-CN": "震金球",
+      "zh-TW": "震動球",
+      "en-US": "VIBRANT BALL",
+      "ja": "震えるボール",
+      "fr": "BOULE VIBRANTE",
+      "it": "SFERA VIBRANTE",
+      "de": "VIBRIERENDE KUGEL",
+      "es": "BOLA VIBRANTE",
+      "ru": "ЯРКИЙ ШАР"
+    },
+    "desc": {
+      "": "环绕守卫，阻挡所有子弹，被击中会产生范围伤害。临终时：产生一次范围伤害。",
+      "zh-CN": "环绕守卫，阻挡所有子弹，被击中会产生范围伤害。死亡效果：产生一次范围伤害。",
+      "zh-TW": "小小的球可擋掉各種子彈，但被擊中一定次數後會爆炸。死亡時：會爆炸。",
+      "en-US": "This little ball can block all kinds of bullets, and will explode after taking a certain number of hits. On Death: It will explode.",
+      "ja": "あらゆる種類の弾を防ぐ小さなボール。特定の回数攻撃を受けると爆発する。死亡時：爆発する。",
+      "fr": "Cette petite boule peut bloquer toute sorte de balles et explose après un certain nombre d'impacts. À la mort : elle explose.",
+      "it": "Piccola sfera che blocca tutti i tipi di proiettile ed esplode dopo aver subito un determinato numero di colpi. Alla morte: esplode.",
+      "de": "Diese kleine Kugel kann alle möglichen Geschosse blocken und explodiert nach einer gewissen Zahl an Treffern. Explodiert bei Tod.",
+      "es": "Esta bolita puede bloquear todo tipo de balas, y estalla tras recibir cierto número de impactos. En muerte: estallará.",
+      "ru": "Этот маленький шарик блокирует любые пули и взрывается после определенного числа попаданий. При смерти: шар взрывается."
+    },
+    "category": "pet",
+    "tags": [
+      "item",
+      "pet-guard"
+    ]
+  },
+  {
+    "id": "6_pet_adam_1",
+    "name": {
+      "": "亚当一代",
+      "zh-CN": "亚当一代",
+      "zh-TW": "亞當一代",
+      "en-US": "ADAM",
+      "ja": "アダム",
+      "fr": "ADAM",
+      "it": "ADAM",
+      "de": "ADAM",
+      "es": "ADAM",
+      "ru": "АДАМ"
+    },
+    "desc": {
+      "": "自动发射普通子弹攻击敌人",
+      "zh-CN": "自动发射普通子弹攻击敌人",
+      "zh-TW": "自動發射子彈攻擊敵人。",
+      "en-US": "He shoots enemies automatically.",
+      "ja": "敵に向かって自動的に弾を撃つ男の子。",
+      "fr": "Tire automatiquement sur les ennemis.",
+      "it": "Spara automaticamente ai nemici.",
+      "de": "Er schießt automatisch auf Gegner.",
+      "es": "Dispara automáticamente a los enemigos.",
+      "ru": "Автоматически стреляет во врагов."
+    },
+    "category": "pet",
+    "tags": [
+      "item",
+      "pet"
+    ]
+  },
+  {
     "id": "6_pet_adam_2",
     "name": {
       "": "亚当二代",
@@ -13035,6 +13724,38 @@
     ]
   },
   {
+    "id": "6_pet_aline_1",
+    "name": {
+      "": "外星小宝",
+      "zh-CN": "外星小宝",
+      "zh-TW": "外星寶寶",
+      "en-US": "ALIEN BABY",
+      "ja": "エイリアンベイビー",
+      "fr": "BÉBÉ ALIEN",
+      "it": "BABY ALIENO",
+      "de": "ALIENBABY",
+      "es": "BEBÉ ALIENÍGENA",
+      "ru": "ИНОПЛАНЕТЯНЧИК"
+    },
+    "desc": {
+      "": "发射追踪子弹攻击敌人。",
+      "zh-CN": "发射追踪子弹攻击敌人。",
+      "zh-TW": "自動發射熱追蹤子彈攻擊敵人。",
+      "en-US": "He fires a heat-seeking bullet at enemies automatically.",
+      "ja": "熱を追尾する弾を敵に向かって自動的に撃つ男の子。",
+      "fr": "Tire automatiquement une balle thermoguidée sur les ennemis.",
+      "it": "Spara automaticamente ai nemici un proiettile a ricerca di calore.",
+      "de": "Es feuert automatisch hitzesuchende Geschosse auf Gegner ab.",
+      "es": "Dispara automáticamente una bala autodirigida a los enemigos.",
+      "ru": "Автоматически стреляет во врагов пулями с тепловым наведением."
+    },
+    "category": "pet",
+    "tags": [
+      "item",
+      "pet"
+    ]
+  },
+  {
     "id": "6_pet_aline_2",
     "name": {
       "": "外星大宝",
@@ -13067,6 +13788,38 @@
     ]
   },
   {
+    "id": "6_pet_bear_1",
+    "name": {
+      "": "熊仔",
+      "zh-CN": "熊仔",
+      "zh-TW": "小熊",
+      "en-US": "LITTLE BEAR",
+      "ja": "リトルベア",
+      "fr": "PETIT OURSON",
+      "it": "ORSETTO",
+      "de": "KLEINER BÄR",
+      "es": "OSITO",
+      "ru": "МЕДВЕЖОНОК"
+    },
+    "desc": {
+      "": "发射弹跳球子弹攻击敌人。",
+      "zh-CN": "发射弹跳球子弹攻击敌人。",
+      "zh-TW": "自動發射彈跳子彈攻擊敵人。",
+      "en-US": "He fires a bouncy bullet at enemies automatically.",
+      "ja": "バウンドする弾を敵に向かって自動的に撃つ男の子。",
+      "fr": "Tire automatiquement une balle rebondissante sur les ennemis.",
+      "it": "Spara automaticamente ai nemici un proiettile rimbalzante.",
+      "de": "Er feuert automatisch ein abprallendes Geschoss auf Gegner ab.",
+      "es": "Dispara automáticamente una bala rebotadora a los enemigos.",
+      "ru": "Автоматически стреляет во врагов прыгающей пулей."
+    },
+    "category": "pet",
+    "tags": [
+      "item",
+      "pet"
+    ]
+  },
+  {
     "id": "6_pet_bear_2",
     "name": {
       "": "熊猫",
@@ -13091,6 +13844,38 @@
       "de": "Er feuert automatisch zwei abprallende Geschosse auf Gegner ab.",
       "es": "Dispara automáticamente dos balas rebotadoras a los enemigos.",
       "ru": "Автоматически стреляет во врагов двумя прыгающими пулями."
+    },
+    "category": "pet",
+    "tags": [
+      "item",
+      "pet"
+    ]
+  },
+  {
+    "id": "6_pet_cactus_1",
+    "name": {
+      "": "仙人掌",
+      "zh-CN": "仙人掌",
+      "zh-TW": "仙人掌寶寶一代",
+      "en-US": "CACTUS BABY",
+      "ja": "サボテンベイビー",
+      "fr": "BÉBÉ CACTUS",
+      "it": "BABY CACTUS",
+      "de": "KAKTUSBABY",
+      "es": "BEBÉ CACTUS",
+      "ru": "ДЕВОЧКА-КАКТУС"
+    },
+    "desc": {
+      "": "随机移动造成触碰伤害。",
+      "zh-CN": "随机移动造成触碰伤害。",
+      "zh-TW": "可造成觸碰傷害。",
+      "en-US": "She causes damage to anyone she touches.",
+      "ja": "触れるものすべてを傷つける女の子。",
+      "fr": "Inflige des dégâts à quiconque le touche.",
+      "it": "Infligge danni al contatto.",
+      "de": "Es fügt jedem Schaden zu, das es berührt.",
+      "es": "Inflige daño a todo el que lo toque.",
+      "ru": "Наносит урон всем, к кому прикасается."
     },
     "category": "pet",
     "tags": [
@@ -13163,6 +13948,38 @@
     ]
   },
   {
+    "id": "6_pet_firedevil_1",
+    "name": {
+      "": "火焰精灵",
+      "zh-CN": "火焰精灵",
+      "zh-TW": "火魔",
+      "en-US": "FIRE DEVIL",
+      "ja": "ファイアデビル",
+      "fr": "DÉMON EN FEU",
+      "it": "DEMONE INFUOCATO",
+      "de": "FEUERTEUFEL",
+      "es": "DIABLO DE FUEGO",
+      "ru": "ОГНЕННЫЙ ДЬЯВОЛЕНОК"
+    },
+    "desc": {
+      "": "发射火球攻击敌人",
+      "zh-CN": "发射火球攻击敌人",
+      "zh-TW": "發射火球攻擊敵人。",
+      "en-US": "He shoots a fireball at enemies.",
+      "ja": "火の球を敵に向けて撃つ男の子。",
+      "fr": "Tire une boule de feu sur les ennemis.",
+      "it": "Spara una palla di fuoco contro i nemici.",
+      "de": "Er schießt einen Feuerball auf Gegner ab.",
+      "es": "Dispara una bola de fuego a los enemigos.",
+      "ru": "Швыряет во врага огненный шар."
+    },
+    "category": "pet",
+    "tags": [
+      "item",
+      "pet"
+    ]
+  },
+  {
     "id": "6_pet_firedevil_2",
     "name": {
       "": "烈焰精灵",
@@ -13187,6 +14004,102 @@
       "de": "Er schießt zwei Feuerbälle auf Gegner ab. Bei Tod: Schieße jede Menge Feuerbälle ab.",
       "es": "Dispara dos bolas de fuego a los enemigos. En muerte: dispara una gran cantidad de bolas de fuego.",
       "ru": "Швыряет во врага два огненных шара. При смерти: выпускает огромное количество огненных шаров."
+    },
+    "category": "pet",
+    "tags": [
+      "item",
+      "pet"
+    ]
+  },
+  {
+    "id": "6_pet_flower_1",
+    "name": {
+      "": "小花",
+      "zh-CN": "小花",
+      "zh-TW": "小花",
+      "en-US": "FLOWER",
+      "ja": "フラワー",
+      "fr": "FLEUR",
+      "it": "FIORE",
+      "de": "BLUME",
+      "es": "FLOR",
+      "ru": "ЦВЕТОЧЕК"
+    },
+    "desc": {
+      "": "自动发射分裂子弹。临终时：造成一次全屏伤害。",
+      "zh-CN": "自动发射分裂子弹。死亡效果：造成一次全屏伤害。",
+      "zh-TW": "自動發射分裂子彈攻擊敵人。死亡時：對目前房間的所有敵人造成傷害。",
+      "en-US": "She fires split bullets at enemies automatically. On Death: damage all enemies in the room.",
+      "ja": "分裂する弾を敵に向かって自動的に撃つ女の子。死亡時：部屋にいる敵すべてにダメージを与える。",
+      "fr": "Tire automatique des balles qui se divisent sur les ennemis. À la mort : inflige des dégâts à tous les ennemis dans la salle.",
+      "it": "Spara automaticamente ai nemici doppi proiettili. Alla morte: infligge danni a tutti i nemici nella stanza.",
+      "de": "Sie feuert automatisch sich spaltende Geschosse auf Gegner ab. Bei Tod: Füge allen Gegnern im Raum Schaden zu.",
+      "es": "Dispara automáticamente balas divididas a los enemigos. En muerte: hiere a todos los enemigos de la sala.",
+      "ru": "Автоматически стреляет во врагов разделяющимися пулями. При смерти: наносит урон всем врагам в комнате."
+    },
+    "category": "pet",
+    "tags": [
+      "item",
+      "pet"
+    ]
+  },
+  {
+    "id": "6_pet_ghost_1",
+    "name": {
+      "": "透明娃",
+      "zh-CN": "小幽灵",
+      "zh-TW": "小鬼",
+      "en-US": "GHOST BABY",
+      "ja": "ゴーストベイビー",
+      "fr": "BÉBÉ FANTÔME",
+      "it": "BABY FANTASMA",
+      "de": "GEISTERBABY",
+      "es": "BEBÉ FANTASMA",
+      "ru": "ПРИЗРАЧНАЯ МАЛЫШКА"
+    },
+    "desc": {
+      "": "自动发射穿透子弹攻击敌人。临终时：给你提供短暂的无敌。",
+      "zh-CN": "自动发射穿透子弹攻击敌人。死亡效果：给你提供短暂的无敌。",
+      "zh-TW": "自動發射穿透子彈攻擊敵人。死亡時：可讓你暫時不受任何傷害。",
+      "en-US": "She fires penetrating bullets at enemies automatically. On Death: protect you from damage for a short time.",
+      "ja": "貫通する弾を敵に向かって自動的に撃つ女の子。死亡時：短い間あなたをダメージから守る。",
+      "fr": "Tire automatiquement des balles perforantes sur les ennemis. À la mort : vous protège pendant une courte durée.",
+      "it": "Spara automaticamente ai nemici proiettili perforanti. Alla morte: ti rende immune ai danni per un breve periodo.",
+      "de": "Es feuert automatisch durchdringende Geschosse auf Gegner ab. Bei Tod: Du wirst eine kurze Zeit lang vor Schaden bewahrt.",
+      "es": "Dispara automáticamente balas perforadoras a los enemigos. En muerte: te protege del daño durante un rato.",
+      "ru": "Автоматически стреляет во врагов пронзающими пулями. При смерти: некоторое время защищает вас от урона."
+    },
+    "category": "pet",
+    "tags": [
+      "item",
+      "pet"
+    ]
+  },
+  {
+    "id": "6_pet_joker_1",
+    "name": {
+      "": "小丑",
+      "zh-CN": "小丑",
+      "zh-TW": "小丑傑克一世",
+      "en-US": "JACK",
+      "ja": "ジャック",
+      "fr": "JACK",
+      "it": "JACK",
+      "de": "JACK",
+      "es": "JACK",
+      "ru": "ДЖЕК"
+    },
+    "desc": {
+      "": "自动往随机方向发射一个子弹",
+      "zh-CN": "自动往随机方向发射一个子弹",
+      "zh-TW": "往隨機方向發射子彈。",
+      "en-US": "He fires bullets in random directions.",
+      "ja": "ランダムな方向に弾を発射する男の子。",
+      "fr": "Tire des balles dans des directions aléatoires.",
+      "it": "Spara proiettili in direzione casuale.",
+      "de": "Er feuert Geschosse in zufällige Richtungen ab.",
+      "es": "Dispara balas en dirección aleatoria.",
+      "ru": "Стреляет в случайном направлении."
     },
     "category": "pet",
     "tags": [
@@ -13291,6 +14204,38 @@
     ]
   },
   {
+    "id": "6_pet_mummy_1",
+    "name": {
+      "": "绷带娃",
+      "zh-CN": "木乃伊",
+      "zh-TW": "小木乃伊一世",
+      "en-US": "TINY MUMMY",
+      "ja": "ミニマミー",
+      "fr": "MINI MOMIE",
+      "it": "MUMMIA NANA",
+      "de": "MINI-MUMIE",
+      "es": "MOMIA PEQUEÑA",
+      "ru": "МИНИ-МУМИЯ"
+    },
+    "desc": {
+      "": "阻敌人子弹，受到攻击时有概率发射子弹。",
+      "zh-CN": "阻敌人子弹，受到攻击时有概率发射两个子弹。",
+      "zh-TW": "可抵擋敵人的子彈，受到攻擊時可能會射出兩發子彈。",
+      "en-US": "He can block enemies' bullets, and may fire two bullets when attacked.",
+      "ja": "敵の弾を防いでくれる男の子。攻撃されると弾を撃ち返すことがある。",
+      "fr": "Peut bloquer les balles ennemies et tirer deux balles si elle est attaquée.",
+      "it": "Blocca i colpi nemici e può sparare due proiettili se attaccata.",
+      "de": "Er blockt gegnerische Geschosse und kann zwei Geschosse abfeuern, wenn er angegriffen wird.",
+      "es": "Puede bloquear las balas enemigas y tal vez dispare dos balas si la atacan.",
+      "ru": "Может блокировать вражеские пули и стрелять двумя пулями, когда ее атакуют."
+    },
+    "category": "pet",
+    "tags": [
+      "item",
+      "pet"
+    ]
+  },
+  {
     "id": "6_pet_mummy_2",
     "name": {
       "": "绷带娃二世",
@@ -13355,6 +14300,102 @@
     ]
   },
   {
+    "id": "6_pet_pick_coin_random_1",
+    "name": {
+      "": "桔宝",
+      "zh-CN": "桔宝",
+      "zh-TW": "阿灰",
+      "en-US": "GRABBER",
+      "ja": "ヨクバリくん",
+      "fr": "GRIPPE-SOU",
+      "it": "ARRAFFATUTTO",
+      "de": "GRABSCHER",
+      "es": "APROVECHADO",
+      "ru": "БУРЖУЙ"
+    },
+    "desc": {
+      "": "没人比他更懂财富！会主动抢夺金币，有概率产生随机掉落物。临终时：掉落大量金币。",
+      "zh-CN": "没人比他更懂财富！会主动抢夺金币，有概率产生随机掉落物。死亡效果：掉落大量金币。",
+      "zh-TW": "會收集金幣，且有機會給你隨機可拾取物。死亡時：掉出隨機數量的金幣。",
+      "en-US": "He collects coins and has a chance to give you random pickups. On Death: drop random coins.",
+      "ja": "コインを集め、一定の確率でランダムな消費アイテムをくれる男の子。死亡時：ランダムなコインをドロップする。",
+      "fr": "Récupère des pièces et a une chance de vous donner des bonus à ramasser aléatoires. À la mort : laisse tomber des pièces aléatoires.",
+      "it": "Raccoglie monete, con una probabilità di rilasciare bonus casuali. Alla morte: rilascia monete casuali.",
+      "de": "Er sammelt Münzen und es besteht die Chance, dass er dir zufällige Extras bringt. Bei Tod: Lasse zufällige Münzen fallen.",
+      "es": "Recoge monedas y tiene la posibilidad de darte potenciadores aleatorios. En muerte: suelta monedas aleatorias.",
+      "ru": "Собирает монеты и может давать вам случайные усиления. При смерти: выпадают случайные монеты."
+    },
+    "category": "pet",
+    "tags": [
+      "item",
+      "pet"
+    ]
+  },
+  {
+    "id": "6_pet_pick_heart_1",
+    "name": {
+      "": "曼哈顿",
+      "zh-CN": "曼哈顿",
+      "zh-TW": "藍身博士",
+      "en-US": "BLUE DOCTOR",
+      "ja": "ブルードクター",
+      "fr": "DOCTEUR BLEU",
+      "it": "DOTTORE BLU",
+      "de": "BLAUER ARZT",
+      "es": "DOCTOR AZUL",
+      "ru": "СИНИЙ ДОКТОР"
+    },
+    "desc": {
+      "": "他会收集红心，有概率掉落护盾。临终时：掉落随机护盾。",
+      "zh-CN": "他会收集红心，有概率掉落护盾。死亡效果：掉落随机护盾。",
+      "zh-TW": "會收集紅心，且有機會給你護盾。死亡時：掉出隨機數量的護盾。",
+      "en-US": "He collects hearts and has a chance to give you shields. On Death: drop random shields.",
+      "ja": "ハートを集め、一定の確率でシールドを追加する男の子。死亡時：ランダムでシールドをドロップする。",
+      "fr": "Récupère des cœurs et a une chance de vous donner des boucliers. À la mort : laisse des boucliers aléatoires.",
+      "it": "Raccoglie monete, con una probabilità di rilasciare scudi. Alla morte: rilascia scudi casuali.",
+      "de": "Er sammelt Herzen und es besteht die Chance, dass er dir Schilde gibt. Bei Tod: Lasse zufällige Schilde fallen.",
+      "es": "Recoge corazones y tiene la posibilidad de darte escudos. En muerte: suelta escudos aleatorios.",
+      "ru": "Собирает сердца и может давать вам щиты. При смерти: выпадают случайные щиты."
+    },
+    "category": "pet",
+    "tags": [
+      "item",
+      "pet"
+    ]
+  },
+  {
+    "id": "6_pet_snowboy_1",
+    "name": {
+      "": "雪娃",
+      "zh-CN": "雪娃",
+      "zh-TW": "雪弟",
+      "en-US": "SNOW BOY",
+      "ja": "スノーボーイ",
+      "fr": "BONHOMME DE NEIGE",
+      "it": "OMINO DI NEVE",
+      "de": "SCHNEEJUNGE",
+      "es": "MUÑECO DE NIEVE NIÑO",
+      "ru": "СНЕЖНЫЙ МАЛЬЧИК"
+    },
+    "desc": {
+      "": "发射冰球攻击敌人。",
+      "zh-CN": "发射冰球攻击敌人。",
+      "zh-TW": "投擲一顆雪球凍結敵人。",
+      "en-US": "He can throw a snowball which freezes enemies.",
+      "ja": "敵を凍らせる雪玉を投げることができる男の子。",
+      "fr": "Peut lancer une boule de neige qui gèle les ennemis.",
+      "it": "Lancia una palla di neve che congela i nemici.",
+      "de": "Er kann einen Schneeball werfen, der Gegner einfriert.",
+      "es": "Puede arrojar una bola de nieve que congela a los enemigos.",
+      "ru": "Бросает снежок, который замораживает врагов."
+    },
+    "category": "pet",
+    "tags": [
+      "item",
+      "pet"
+    ]
+  },
+  {
     "id": "6_pet_snowboy_2",
     "name": {
       "": "雪哥",
@@ -13379,6 +14420,38 @@
       "de": "Er kann zwei Schneebälle werfen, die Gegner einfrieren. Bei Tod: Werfe jede Menge Schneebälle.",
       "es": "Puede arrojar dos bolas de nieve que congelan a los enemigos. En muerte: dispara una gran cantidad de bolas de nieve.",
       "ru": "Бросает два снежка, замораживающие врагов. При смерти: бросает огромное количество снежков."
+    },
+    "category": "pet",
+    "tags": [
+      "item",
+      "pet"
+    ]
+  },
+  {
+    "id": "6_pet_wukong_1",
+    "name": {
+      "": "石头",
+      "zh-CN": "石头",
+      "zh-TW": "阿石",
+      "en-US": "ROCK",
+      "ja": "岩",
+      "fr": "ROCHER",
+      "it": "ROCCIA",
+      "de": "STEIN",
+      "es": "ROCA",
+      "ru": "КАМЕНЬ"
+    },
+    "desc": {
+      "": "一块奇怪的石头，可以阻挡敌人子弹。",
+      "zh-CN": "一块奇怪的石头，可以阻挡敌人子弹。",
+      "zh-TW": "這塊奇怪石頭可抵擋敵人的子彈。",
+      "en-US": "This strange rock can block enemies' bullets.",
+      "ja": "敵の弾を防いでくれる奇妙な岩。",
+      "fr": "Cet étrange rocher peut bloquer les balles ennemies.",
+      "it": "Roccia misteriosa in grado di bloccare i proiettili nemici.",
+      "de": "Dieser seltsame Stein kann gegnerische Geschosse blocken.",
+      "es": "Esta extraña roca puede bloquear las balas enemigas.",
+      "ru": "Этот странный камень блокирует пули врагов."
     },
     "category": "pet",
     "tags": [
@@ -13443,6 +14516,38 @@
       "de": "Der Affenkönig ist zurück! Er kann Gegner mit seinem legendären Stab angreifen.",
       "es": "¡El rey mono ha vuelto! Puede atacar a los enemigos con su legendario cayado.",
       "ru": "Царь обезьян вернулся! Он может атаковать врагов своим легендарным посохом."
+    },
+    "category": "pet",
+    "tags": [
+      "item",
+      "pet"
+    ]
+  },
+  {
+    "id": "6_pet_zombie_1",
+    "name": {
+      "": "绿皮妹妹",
+      "zh-CN": "僵尸妹妹",
+      "zh-TW": "殭屍妹",
+      "en-US": "ZOMBIE SISTER",
+      "ja": "ゾンビシスター",
+      "fr": "SŒUR ZOMBIE",
+      "it": "SORELLA ZOMBIE",
+      "de": "ZOMBIESCHWESTER",
+      "es": "HERMANA ZOMBI",
+      "ru": "ЗОМБИ-СЕСТРЕНКА"
+    },
+    "desc": {
+      "": "发射毒液球攻击敌人。受伤会分裂为两个僵尸妹妹。",
+      "zh-CN": "发射毒液球攻击敌人。受伤会分裂为两个僵尸妹妹。",
+      "zh-TW": "對敵人發射毒性子彈。受傷時會分裂成兩個殭屍妹。",
+      "en-US": "She shoots poison bullets at enemies. She splits into two zombie sisters after getting hurt.",
+      "ja": "敵に向かって毒の弾を発射する女の子。ダメージを受けると2人のゾンビシスターに分裂する。",
+      "fr": "Tire des balles empoisonnées sur les ennemis. Quand elle est blessée, elle se sépare en deux sœurs zombies.",
+      "it": "Spara proiettili velenosi ai nemici. Se colpita, si divide in due sorelle zombie.",
+      "de": "Sie feuert mit giftigen Geschossen auf Gegner. Wenn sie verletzt wird, spaltet sie sich in zwei Zombieschwestern auf.",
+      "es": "Dispara balas de veneno a los enemigos. Cuando la hieren, se divide en dos hermanas zombis.",
+      "ru": "Стреляет во врагов ядовитыми пулями. Разделяется на двух зомби-сестренок, когда ей наносят урон."
     },
     "category": "pet",
     "tags": [
