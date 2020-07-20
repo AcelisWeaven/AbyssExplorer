@@ -31,6 +31,14 @@
 
             <div class="filters" v-if="useAdvancedSearch">
                 <div class="filter">
+                    <label for="layout">Layout</label>
+                    <div class="select">
+                        <select id="layout" v-model="layout">
+                            <option v-for="l in layoutsAvailable" :value="l.class" :key="l.class">{{ l.name }}</option>
+                        </select>
+                    </div>
+                </div>
+                <div class="filter">
                     <label for="filter">Filter by</label>
                     <div class="select">
                         <select id="filter" v-model="filter">
@@ -46,10 +54,11 @@
                     </div>
                 </div>
                 <div class="filter">
-                    <label for="layout">Layout</label>
+                    <label for="sort">Sort by</label>
                     <div class="select">
-                        <select id="layout" v-model="layout">
-                            <option v-for="l in layoutsAvailable" :value="l.class" :key="l.class">{{ l.name }}</option>
+                        <select id="sort" v-model="sort">
+                            <option v-for="l in sortsAvailable" :value="l.property" :key="l.property">{{ l.name }}
+                            </option>
                         </select>
                     </div>
                 </div>
@@ -338,6 +347,8 @@
                 margin-right: 30px;
 
                 label {
+                    display: inline-block;
+                    padding: 5px;
                     margin-right: 10px;
                 }
             }
@@ -564,6 +575,21 @@
                         name: 'List',
                     },
                 ],
+                sort: 'id',
+                sortsAvailable: [
+                    {
+                        property: 'id',
+                        name: 'ID',
+                    },
+                    {
+                        property: 'name',
+                        name: 'A-Z',
+                    },
+                    {
+                        property: 'hue',
+                        name: 'Color',
+                    },
+                ],
                 publicPath: process.env.BASE_URL,
                 search: '',
                 selectedItem: null,
@@ -700,6 +726,9 @@
             layout() {
                 localStorage.setItem('layout', this.layout);
             },
+            sort() {
+                localStorage.setItem('sort', this.sort);
+            },
             useAdvancedSearch() {
                 localStorage.setItem('useAdvancedSearch', this.useAdvancedSearch);
 
@@ -716,14 +745,33 @@
             if (rememberedLayout != null && this.layoutsAvailable.map(l => l.class).includes(rememberedLayout))
                 this.layout = rememberedLayout;
 
+            const rememberedSort = localStorage.getItem('sort');
+            if (rememberedSort != null && this.sortsAvailable.map(l => l.property).includes(rememberedSort))
+                this.sort = rememberedSort;
+
             this.useAdvancedSearch = localStorage.getItem('useAdvancedSearch') === 'true';
         },
         computed: {
             searchItems() {
                 const search = normalize(this.search);
-                return this.items.filter(i => {
-                    return i.search[this.lang].includes(search) && (this.filter === "" || i.tags.indexOf(this.filter) !== -1);
-                })
+                return this.items
+                    .filter(i => {
+                        return i.search[this.lang].includes(search) && (this.filter === "" || i.tags.indexOf(this.filter) !== -1);
+                    })
+                    .sort((a, b) => {
+                        if (this.sort === 'name') {
+                            return a.search[this.lang].localeCompare(b.search[this.lang])
+                        }
+
+                        let aValue = a[this.sort];
+                        let bValue = b[this.sort];
+
+                        if (aValue > bValue)
+                            return 1;
+                        if (aValue < bValue)
+                            return -1;
+                        return 0;
+                    })
             },
             langIcon() {
                 return this.languages.filter(l => l.code === this.lang)[0].icon;
