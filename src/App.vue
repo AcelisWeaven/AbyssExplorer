@@ -152,11 +152,14 @@
         position: sticky;
         top: 0;
         z-index: 1;
+        padding: 10px 0;
 
-        // some items overflow below the .search when it's stickied, making this section larger hides the issue
-        margin-right: -20px;
-        margin-left: -20px;
-        padding: 20px;
+        @media only screen and (min-width: 900px) {
+            // some items overflow below the .search when it's stickied, making this section larger hides the issue
+            margin-right: -20px;
+            margin-left: -20px;
+            padding: 10px 20px;
+        }
     }
 
     .button, select {
