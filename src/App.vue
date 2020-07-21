@@ -156,7 +156,7 @@
         // some items overflow below the .search when it's stickied, making this section larger hides the issue
         margin-right: -20px;
         margin-left: -20px;
-        padding: 20px 20px 10px 20px;
+        padding: 20px;
     }
 
     .button, select {
