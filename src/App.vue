@@ -118,7 +118,7 @@
     html {
         color: white;
         font-family: $font-family;
-        text-shadow: 0 0 5px $pink;
+        overflow-x: hidden;
     }
 
     .body {
@@ -126,6 +126,14 @@
     }
 
     //noinspection CssReplaceWithShorthandSafely
+    @mixin bgNeon {
+        background-color: $pink;
+        background: linear-gradient(80deg, transparent 20%, rgba(210, 0, 238, 0.3) 50%, transparent 80%),
+        linear-gradient(120deg, $black 0%, $blue 30%, transparent 80%),
+        linear-gradient(250deg, $black 0%, $blue 20%, $pink 60%);
+        background-position: top right;
+    }
+
     .background {
         position: fixed;
         top: 0;
@@ -133,13 +141,22 @@
         bottom: -60px;
         left: 0;
         z-index: -1;
-
-        background-color: $pink;
-        background: linear-gradient(80deg, transparent 20%, rgba(210, 0, 238, 0.3) 50%, transparent 80%),
-        linear-gradient(120deg, $black 0%, $blue 30%, transparent 80%),
-        linear-gradient(250deg, $black 0%, $blue 20%, $pink 60%);
         background-size: 100%;
-        background-position: bottom center;
+
+        @include bgNeon;
+    }
+
+    .search {
+        @include bgNeon;
+        background-attachment: fixed;
+        position: sticky;
+        top: 0;
+        z-index: 1;
+
+        // some items overflow below the .search when it's stickied, making this section larger hides the issue
+        margin-right: -20px;
+        margin-left: -20px;
+        padding: 10px 20px;
     }
 
     .button, select {
@@ -397,8 +414,8 @@
             align-items: center;
             flex-direction: column;
             width: 180px;
-            background-color: rgba($pink, .2);
-            box-shadow: 0 0 10px 5px rgba($pink-light, .075);
+            background-color: rgba($pink, .1);
+            margin-bottom: 10px;
 
             .item-img {
                 width: 50px;
