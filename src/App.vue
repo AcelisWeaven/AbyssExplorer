@@ -303,7 +303,7 @@
         right: 0;
         min-width: 240px;
         padding-top: 10px;
-        z-index: 1;
+        z-index: 10;
 
         .option {
             padding: 5px 10px;
