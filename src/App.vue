@@ -646,6 +646,66 @@
         }
     }
 
+    .layout-list {
+        .bullets {
+            display: inline;
+            margin-top: 0;
+            margin-left: 1rem;
+        }
+
+        .variants .text {
+            margin: 10px 0;
+        }
+
+        .item {
+            display: flex;
+            margin-top: 1rem;
+            margin-bottom: 1rem;
+            padding: 1rem 1.5rem;
+            align-items: center;
+            background-color: rgba($pink, .1);
+
+            .item-img {
+                width: 50px;
+                margin-right: 20px;
+                @media only screen and (max-width: 700px) {
+                    margin-right: 2rem;
+                    margin-left: -1rem;
+                }
+            }
+
+            .item-content {
+                flex: 1;
+                display: flex;
+                flex-wrap: wrap;
+                align-items: center;
+
+                @media only screen and (max-width: 700px) {
+                    justify-content: center;
+
+                    .item-name {
+                        margin-bottom: 10px;
+                    }
+
+                    .item-name, .item-desc {
+                        flex: 0 0 100%;
+                    }
+                }
+
+                .item-name {
+                    text-align: center;
+                    padding-right: .5rem;
+                    width: max(15%, 170px);
+                    font-weight: 600;
+                }
+
+                .item-desc {
+                    flex: 1;
+                }
+            }
+        }
+    }
+
     .has-text-centered {
         text-align: center;
     }
@@ -718,6 +778,10 @@
                     {
                         class: 'cards',
                         name: 'Cards',
+                    },
+                    {
+                        class: 'list',
+                        name: 'List',
                     },
                 ],
                 sort: 'id',
