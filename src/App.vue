@@ -1,5 +1,5 @@
 <template>
-    <div class="body">
+    <div class="body" ref="body">
         <div class="background"></div>
         <div class="update-available red-line" v-if="swUpdateExists">
             An update is available
@@ -78,7 +78,32 @@
                 </div>
                 <div class="item-content">
                     <div class="item-name">{{ item.name[lang] }}</div>
-                    <div class="item-desc">{{ item.desc[lang] }}</div>
+                    <div class="item-desc">
+                        <span>{{ item.desc[lang] }}</span>
+                        <div class="bullets" v-if="item.category === 'weapon'">
+                            <div class="bullet" v-for="(bullet, j) in item.bulletTypes" :key="j">{{ bullet }}</div>
+                            <div class="bullet-speed" v-if="item.rpm !== 300">{{ rpmToText(item.rpm) }}</div>
+                        </div>
+                        <div class="variants"
+                             v-if="item.category === 'weapon' && item.variants.length > 0 && item.variants[0].secSkill !== null"
+                        >
+                            <p class="text text-strike" v-if="item.variants.length > 1">VARIANTS</p>
+                            <div v-for="(variant, j) in item.variants" :key="j">
+                                <div class="variant"
+                                     :class="{'no-effect': variant.desc[lang] === 'No effect'}"
+                                >
+                                    <p>{{ variant.desc[lang] }}</p>
+                                    <div class="costs">
+                                        <span v-for="(cost, k) in variant.secSkillCosts" :key="k" class="cost">
+                                            <span>{{ cost.count }}</span>
+                                            <img :src="`${publicPath}cost/${cost.type}.png`" :alt="cost.type">
+                                        </span>
+                                    </div>
+                                </div>
+                                <div class="text" v-if="j !== item.variants.length - 1">OR</div>
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </div>
             <div class="no-results" v-if="searchItems.length === 0">No results :(</div>
@@ -123,12 +148,111 @@
 
     .body {
         margin: 0;
+        overflow-y: hidden;
+    }
+
+    @mixin tag {
+        display: inline-flex;
+        align-items: center;
+        flex-wrap: nowrap;
+        padding: 3px 6px;
+        margin: 3px;
+        border-radius: 5px;
+    }
+
+    .variants {
+        .variant {
+            display: flex;
+            flex-wrap: wrap;
+            padding: 10px;
+            margin: 10px -10px;
+            background-color: rgba(black, .2);
+            border-radius: 3px;
+            align-items: center;
+            gap: .5rem;
+
+            &.no-effect {
+                opacity: .7;
+                font-style: italic;
+            }
+
+            p {
+                flex-grow: 1;
+                font-size: .9rem;
+                margin: 0;
+                color: rgba(white, .8)
+            }
+        }
+
+        .text {
+            margin: 20px 0;
+            text-align: center;
+            font-size: 11px;
+            line-height: 10px;
+            letter-spacing: .15rem;
+            opacity: .7;
+
+            &.text-strike {
+                position: relative;
+
+                &::before, &::after {
+                    content: '';
+                    display: block;
+                    height: 1px;
+                    position: absolute;
+                    background-color: white;
+                    top: 6px;
+                }
+
+                &::before {
+                    left: 0;
+                    right: calc(100% - 30px);
+                }
+
+                &::after {
+                    left: calc(100% - 30px);
+                    right: 0;
+                }
+            }
+        }
+
+        .costs {
+            display: inline-flex;
+
+            .cost {
+                @include tag;
+                background-color: rgba($pink, .3);
+
+                img {
+                    width: 24px;
+                    height: 24px;
+                    image-rendering: crisp-edges;
+                }
+            }
+        }
+    }
+
+    .bullets {
+        display: flex;
+        justify-content: space-evenly;
+        margin-top: 10px;
+        font-size: .7rem;
+
+        .bullet {
+            @include tag;
+            background-color: rgba($cyan, .2);
+        }
+
+        .bullet-speed {
+            @include tag;
+            background-color: rgba($red, .5);
+        }
     }
 
     //noinspection CssReplaceWithShorthandSafely
     @mixin bgNeon {
         background-color: $pink;
-        background: linear-gradient(80deg, transparent 20%, rgba(210, 0, 238, 0.3) 50%, transparent 80%),
+        background: linear-gradient(80deg, transparent 20%, rgba($pink, 0.1) 50%, transparent 80%),
         linear-gradient(120deg, $black 0%, $blue 30%, transparent 80%),
         linear-gradient(250deg, $black 0%, $blue 20%, $pink 60%);
         background-position: top right;
@@ -375,36 +499,6 @@
         }
     }
 
-    .layout-list {
-        .item {
-            display: flex;
-            margin-top: 1rem;
-            margin-bottom: 1rem;
-            align-items: center;
-
-            .item-img {
-                width: 50px;
-                margin-right: 20px;
-            }
-
-            .item-content {
-                flex: 1;
-                display: flex;
-                flex-wrap: wrap;
-                align-items: center;
-
-                .item-name {
-                    width: max(15%, 280px);
-                    font-weight: 600;
-                }
-
-                .item-desc {
-                    flex: 1;
-                }
-            }
-        }
-    }
-
     .layout-cards {
         display: flex;
         flex-wrap: wrap;
@@ -419,6 +513,10 @@
             width: 180px;
             background-color: rgba($pink, .1);
             margin-bottom: 10px;
+
+            @media only screen and (min-width: 900px) {
+                width: 260px;
+            }
 
             .item-img {
                 width: 50px;
@@ -439,7 +537,6 @@
 
                 .item-desc {
                     flex: 1;
-                    margin-bottom: 20px;
                 }
             }
         }
@@ -475,18 +572,51 @@
 
 
             &.is-active {
-                background-color: rgba($pink, .2);
+                // creating a modal
+                position: fixed;
+                top: 0;
+                right: 0;
+                bottom: 0;
+                left: 0;
+                z-index: 100;
+                overflow-y: auto;
+                @include bgNeon;
 
                 .item-img {
-                    margin-top: 20px;
+                    margin-top: 10vh;
                     margin-bottom: 20px;
 
                     img {
                         transform: scale(3);
                     }
 
-                    &:hover img {
-                        opacity: .9;
+                    &:hover::after {
+                        opacity: .8;
+                    }
+
+                    &::after {
+                        position: fixed;
+                        top: 20px;
+                        right: 20px;
+                        content: '×';
+                        font-size: 60px;
+                        padding: 10px;
+                        width: 60px;
+                        height: 60px;
+                        background-color: $red;
+                        display: flex;
+                        justify-content: center;
+                        line-height: 50px;
+                        box-shadow: 0 0 20px $red, 0 0 3px $red;
+                        text-shadow: 0 0 6px white;
+                        border-radius: 2px;
+
+                        @media only screen and (max-width: 900px) {
+                            // put it at the bottom on mobile (and smaller)
+                            bottom: 0;
+                            top: initial;
+                            transform: scale(.5);
+                        }
                     }
                 }
 
@@ -494,7 +624,12 @@
                     display: flex;
                     flex-direction: column;
                     align-items: center;
-                    max-width: 180px;
+                    max-width: calc(100vw - 100px);
+
+                    @media only screen and (max-width: 900px) {
+                        // bigger bottom padding on mobile, so the close button doesn't overlap with descriptions
+                        padding-bottom: 60px;
+                    }
 
                     .item-name {
                         text-align: center;
@@ -541,16 +676,6 @@
             padding: 0 150px;
         }
     }
-
-    @media only screen and (max-width: 700px) {
-        .layout-list {
-            .item {
-                .item-name, .item-desc {
-                    flex: 0 0 100%;
-                }
-            }
-        }
-    }
 </style>
 
 <script>
@@ -568,7 +693,11 @@
     for (let item of processedItems) {
         item.search = {};
         for (let lang of languages.default) {
-            item.search[lang.code] = normalize(item.name[lang.code] + " " + item.desc[lang.code]);
+            let desc = item.desc[lang.code];
+            if (item.category === 'weapon') {
+                desc += ' ' + item.variants.map(v => v.desc[lang.code]).join(' ');
+            }
+            item.search[lang.code] = normalize(item.name[lang.code] + " " + desc);
         }
     }
 
@@ -590,10 +719,6 @@
                         class: 'cards',
                         name: 'Cards',
                     },
-                    {
-                        class: 'list',
-                        name: 'List',
-                    },
                 ],
                 sort: 'id',
                 sortsAvailable: [
@@ -606,7 +731,7 @@
                         name: 'A-Z',
                     },
                     {
-                        property: 'hue',
+                        property: 'colorOrder',
                         name: 'Color',
                     },
                 ],
@@ -616,7 +741,7 @@
                 swIsRefreshing: false,
                 swRegistration: null,
                 swUpdateExists: false,
-                tagSingle: ["weapon", "powerup"],
+                tagSingle: ["weapon"],
                 tagGroups: [
                     {
                         name: "Items",
@@ -636,18 +761,12 @@
                             "jump",
                             "pet-guard",
                             "pet",
-                            "hero-skill",
                         ],
                     },
                 ],
                 tags: {
                     "weapon": {
                         name: "Weapon",
-
-                    },
-                    "powerup": {
-                        name: "Power up",
-
                     },
                     "item": {
                         name: "All items",
@@ -657,57 +776,42 @@
                     },
                     "gun-stat": {
                         name: "Gun stats",
-
                     },
                     "special": {
                         name: "Special",
-
                     },
                     "resource": {
                         name: "Resource",
-
                     },
                     "hurt": {
                         name: "Hurt",
-
                     },
                     "attack": {
                         name: "Attack",
-
                     },
                     "bullet": {
                         name: "Bullet",
-
                     },
                     "melee": {
                         name: "Melee",
-
                     },
                     "bomb": {
                         name: "Bomb",
-
                     },
                     "egg": {
                         name: "Egg",
-
                     },
                     "pet-effect": {
                         name: "Pet effect",
                     },
                     "jump": {
                         name: "Jump",
-
                     },
                     "pet-guard": {
                         name: "Guardian",
-
                     },
                     "pet": {
                         name: "Pet",
-
-                    },
-                    "hero-skill": {
-                        name: "Hero skill",
                     },
                 },
                 useAdvancedSearch: false,
@@ -715,7 +819,32 @@
         },
         methods: {
             selectItem(id) {
-                this.selectedItem = this.selectedItem === id ? null : id;
+                // only possible in compact mode
+                if (this.layout !== 'compact') return;
+
+                const newSelectedItem = this.selectedItem === id ? null : id;
+
+                // avoids body scroll when modal is open
+                if (newSelectedItem !== null) {
+                    const scrollY = window.scrollY;
+                    this.$refs.body.style.position = 'fixed';
+                    this.$refs.body.style.top = `-${scrollY}px`;
+                } else {
+                    const scrollY = this.$refs.body.style.top;
+                    this.$refs.body.style.position = '';
+                    this.$refs.body.style.top = '';
+                    window.scrollTo(0, parseInt(scrollY || '0') * -1);
+                }
+
+                this.selectedItem = newSelectedItem;
+            },
+            rpmToText(rpm) {
+                if (rpm < 200)
+                    return 'very slow'
+                else if (rpm < 300)
+                    return 'slow'
+                else
+                    return 'fast'
             },
             switchLanguage(lang) {
                 this.lang = lang;
