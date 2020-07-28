@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/cost/mana.png"
   },
   {
-    "revision": "b6e0316ce4afc2c18001",
+    "revision": "3e62ebfce84a79a1888a",
     "url": "/AbyssExplorer/css/app.cf445176.css"
   },
   {
@@ -88,7 +88,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/icon/96.png"
   },
   {
-    "revision": "c055300478b889cda39c53cf2cb2e87a",
+    "revision": "9b64a06494d3ff75ce9909eb39f42dd1",
     "url": "/AbyssExplorer/index.html"
   },
   {
@@ -380,11 +380,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/1_weapon_explo_3.webp"
   },
   {
-    "revision": "cc3714b59be7c84a1b70f428e624a462",
+    "revision": "b5f18a1d74771fcc7a890510d48432e6",
     "url": "/AbyssExplorer/item/1_weapon_explo_4.png"
   },
   {
-    "revision": "e570dfd996850527e154b9ff7d87b20a",
+    "revision": "da70d233d0e1e14e4872b19a2b71072b",
     "url": "/AbyssExplorer/item/1_weapon_explo_4.webp"
   },
   {
@@ -516,11 +516,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/1_weapon_mana_2.webp"
   },
   {
-    "revision": "b5f18a1d74771fcc7a890510d48432e6",
+    "revision": "cc3714b59be7c84a1b70f428e624a462",
     "url": "/AbyssExplorer/item/1_weapon_mana_4.png"
   },
   {
-    "revision": "da70d233d0e1e14e4872b19a2b71072b",
+    "revision": "e570dfd996850527e154b9ff7d87b20a",
     "url": "/AbyssExplorer/item/1_weapon_mana_4.webp"
   },
   {
@@ -3836,8 +3836,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/item/7_skill_zack.webp"
   },
   {
-    "revision": "b6e0316ce4afc2c18001",
-    "url": "/AbyssExplorer/js/app.18c2a0f3.js"
+    "revision": "3e62ebfce84a79a1888a",
+    "url": "/AbyssExplorer/js/app.f3d1d77a.js"
   },
   {
     "revision": "887f6d3d33320c159916",
