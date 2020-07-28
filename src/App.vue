@@ -148,7 +148,6 @@
 
     .body {
         margin: 0;
-        overflow-y: hidden;
     }
 
     @mixin tag {
