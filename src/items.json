@@ -1883,7 +1883,7 @@
             "type": "mana"
           },
           {
-            "count": 1,
+            "count": 0.5,
             "type": "heart"
           }
         ]
@@ -2073,7 +2073,7 @@
         "secSkill": "2_power_heart2coin",
         "secSkillCosts": [
           {
-            "count": 1,
+            "count": 0.5,
             "type": "heart"
           }
         ]
@@ -2153,7 +2153,7 @@
         "secSkill": "2_power_heart2coin",
         "secSkillCosts": [
           {
-            "count": 1,
+            "count": 0.5,
             "type": "heart"
           }
         ]
