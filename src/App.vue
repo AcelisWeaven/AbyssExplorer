@@ -584,37 +584,41 @@
                 .item-img {
                     margin-top: 10vh;
                     margin-bottom: 20px;
+                    pointer-events: none;
 
                     img {
                         transform: scale(3);
                     }
 
                     &:hover::after {
-                        opacity: .8;
+                        background-color: $red;
                     }
 
                     &::after {
+                        $height: 40px;
+                        pointer-events: initial;
                         position: fixed;
                         top: 20px;
                         right: 20px;
                         content: '×';
-                        font-size: 60px;
+                        font-size: $height;
                         padding: 10px;
-                        width: 60px;
-                        height: 60px;
-                        background-color: $red;
+                        width: $height;
+                        height: $height;
                         display: flex;
                         justify-content: center;
-                        line-height: 50px;
-                        box-shadow: 0 0 20px $red, 0 0 3px $red;
-                        text-shadow: 0 0 6px white;
+                        line-height: $height - 10px;
+                        background-color: rgba($red, .8);
+                        box-shadow: 0 0 3px white, 0 0 3px white inset, 0 0 20px $red,  0 0 20px $red inset;
+                        text-shadow: 0 0 6px white, 0 0 10px $red;
                         border-radius: 2px;
+                        border: 1px solid white;
 
                         @media only screen and (max-width: 900px) {
                             // put it at the bottom on mobile (and smaller)
-                            bottom: 0;
+                            right: 10px;
+                            bottom: 10px;
                             top: initial;
-                            transform: scale(.5);
                         }
                     }
                 }
