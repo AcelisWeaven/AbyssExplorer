@@ -16,7 +16,6 @@
       "zh-CN": "上边刻着一行小字：星期三。",
       "zh-TW": "表面刻有一行細小文字：星期三。"
     },
-    "id": "1_weapon_0_wade",
     "name": {
       "de": "SCHATTEN",
       "en-US": "SHADOW",
@@ -30,6 +29,14 @@
       "zh-TW": "闇影"
     },
     "rpm": 300,
+    "slug": "shadow",
+    "sprite": {
+      "height": 20,
+      "sheet": "30aff9f5",
+      "width": 30,
+      "x": 126,
+      "y": 127
+    },
     "tags": [
       "weapon"
     ],
@@ -53,7 +60,6 @@
       "zh-CN": "一根再普通不过的钢管。",
       "zh-TW": "堅硬扎實的鋼製管子。"
     },
-    "id": "1_weapon_0_david",
     "name": {
       "de": "STAHLROHR",
       "en-US": "STEEL PIPE",
@@ -67,6 +73,14 @@
       "zh-TW": "鋼管"
     },
     "rpm": 300,
+    "slug": "steel-pipe",
+    "sprite": {
+      "height": 19,
+      "sheet": "30aff9f5",
+      "width": 29,
+      "x": 186,
+      "y": 154
+    },
     "tags": [
       "weapon"
     ],
@@ -90,7 +104,6 @@
       "zh-CN": "给予近距离的致命一击。",
       "zh-TW": "從近距離給予致命的一擊。"
     },
-    "id": "1_weapon_0_james1",
     "name": {
       "de": "ROTER SKORPION",
       "en-US": "RED SCORPION",
@@ -104,6 +117,14 @@
       "zh-TW": "紅蠍"
     },
     "rpm": 300,
+    "slug": "red-scorpion",
+    "sprite": {
+      "height": 21,
+      "sheet": "30aff9f5",
+      "width": 31,
+      "x": 64,
+      "y": 110
+    },
     "tags": [
       "weapon"
     ],
@@ -127,7 +148,6 @@
       "zh-CN": "精准的远距离打击。",
       "zh-TW": "精準遠距攻擊。"
     },
-    "id": "1_weapon_0_james2",
     "name": {
       "de": "SCHWARZER ADLER",
       "en-US": "BLACK EAGLE",
@@ -141,6 +161,14 @@
       "zh-TW": "黑鷹"
     },
     "rpm": 300,
+    "slug": "black-eagle",
+    "sprite": {
+      "height": 19,
+      "sheet": "30aff9f5",
+      "width": 32,
+      "x": 0,
+      "y": 0
+    },
     "tags": [
       "weapon"
     ],
@@ -164,7 +192,6 @@
       "zh-CN": "你最朴实真挚的伙伴。 ",
       "zh-TW": "你這輩子最真摯可靠的夥伴。"
     },
-    "id": "1_weapon_0_lucas",
     "name": {
       "de": "GRIZZLY",
       "en-US": "GRIZZLY",
@@ -178,6 +205,14 @@
       "zh-TW": "灰熊"
     },
     "rpm": 300,
+    "slug": "grizzly",
+    "sprite": {
+      "height": 20,
+      "sheet": "30aff9f5",
+      "width": 32,
+      "x": 32,
+      "y": 0
+    },
     "tags": [
       "weapon"
     ],
@@ -201,7 +236,6 @@
       "zh-CN": "外观普通，却暗藏玄机。",
       "zh-TW": "外觀普通，卻暗藏玄機。"
     },
-    "id": "1_weapon_0_matt",
     "name": {
       "de": "MELODIE",
       "en-US": "MELODY",
@@ -215,6 +249,14 @@
       "zh-TW": "雨中曲"
     },
     "rpm": 300,
+    "slug": "melody",
+    "sprite": {
+      "height": 18,
+      "sheet": "30aff9f5",
+      "width": 32,
+      "x": 0,
+      "y": 19
+    },
     "tags": [
       "weapon"
     ],
@@ -238,7 +280,6 @@
       "zh-CN": "来自莎莉娜的礼物。",
       "zh-TW": "來自莎莉娜的禮物。"
     },
-    "id": "1_weapon_0_ming",
     "name": {
       "de": "NASHORN",
       "en-US": "RHINO",
@@ -252,6 +293,14 @@
       "zh-TW": "犀牛"
     },
     "rpm": 300,
+    "slug": "rhino",
+    "sprite": {
+      "height": 20,
+      "sheet": "30aff9f5",
+      "width": 30,
+      "x": 222,
+      "y": 130
+    },
     "tags": [
       "weapon"
     ],
@@ -275,7 +324,6 @@
       "zh-CN": "有着精美花纹的古董。",
       "zh-TW": "表面刻有精美象形文字的雅緻古董。"
     },
-    "id": "1_weapon_0_zack",
     "name": {
       "de": "KANARIENVOGEL",
       "en-US": "CANARY",
@@ -289,6 +337,14 @@
       "zh-TW": "金絲雀"
     },
     "rpm": 300,
+    "slug": "canary",
+    "sprite": {
+      "height": 19,
+      "sheet": "30aff9f5",
+      "width": 30,
+      "x": 190,
+      "y": 135
+    },
     "tags": [
       "weapon"
     ],
@@ -312,7 +368,6 @@
       "zh-CN": "过去种种终将遗失在时光里，就像滴落在雨中的泪水。",
       "zh-TW": "一切將隨著時間消逝..."
     },
-    "id": "1_weapon_0_ray",
     "name": {
       "de": "ORION",
       "en-US": "ORION",
@@ -326,6 +381,14 @@
       "zh-TW": "獵戶座"
     },
     "rpm": 300,
+    "slug": "orion",
+    "sprite": {
+      "height": 19,
+      "sheet": "30aff9f5",
+      "width": 31,
+      "x": 224,
+      "y": 111
+    },
     "tags": [
       "weapon"
     ],
@@ -349,7 +412,6 @@
       "zh-CN": "等待着冲出云霄的时刻。",
       "zh-TW": "等待衝出雲霄的時刻。"
     },
-    "id": "1_weapon_0_anna",
     "name": {
       "de": "MÖWE",
       "en-US": "SEAGULL",
@@ -363,6 +425,14 @@
       "zh-TW": "海鷗"
     },
     "rpm": 300,
+    "slug": "seagull",
+    "sprite": {
+      "height": 19,
+      "sheet": "30aff9f5",
+      "width": 31,
+      "x": 160,
+      "y": 103
+    },
     "tags": [
       "weapon"
     ],
@@ -386,7 +456,6 @@
       "zh-CN": "在躁动中燃烧的灵魂。",
       "zh-TW": "燃燒躁動的靈魂。"
     },
-    "id": "1_weapon_0_kanon",
     "name": {
       "de": "PINKE FLAMME",
       "en-US": "PINK FLAME",
@@ -400,6 +469,14 @@
       "zh-TW": "粉紅火焰"
     },
     "rpm": 300,
+    "slug": "pink-flame",
+    "sprite": {
+      "height": 20,
+      "sheet": "30aff9f5",
+      "width": 29,
+      "x": 215,
+      "y": 169
+    },
     "tags": [
       "weapon"
     ],
@@ -425,7 +502,6 @@
       "zh-CN": "准备迎接正义的制裁吧！",
       "zh-TW": "正義將獲得伸張，倒數3...2..."
     },
-    "id": "1_weapon_bomb_1",
     "name": {
       "de": "URTEIL",
       "en-US": "JUDGMENT",
@@ -439,6 +515,14 @@
       "zh-TW": "審判"
     },
     "rpm": 300,
+    "slug": "judgment",
+    "sprite": {
+      "height": 21,
+      "sheet": "30aff9f5",
+      "width": 32,
+      "x": 32,
+      "y": 20
+    },
     "tags": [
       "weapon"
     ],
@@ -505,7 +589,6 @@
       "zh-CN": "善意的谎言。",
       "zh-TW": "善意謊言。"
     },
-    "id": "1_weapon_coin_1",
     "name": {
       "de": "GOLDENE WELLE",
       "en-US": "GOLDEN RIPPLE",
@@ -519,6 +602,14 @@
       "zh-TW": "金色漣漪"
     },
     "rpm": 300,
+    "slug": "golden-ripple",
+    "sprite": {
+      "height": 23,
+      "sheet": "30aff9f5",
+      "width": 32,
+      "x": 0,
+      "y": 41
+    },
     "tags": [
       "weapon"
     ],
@@ -563,7 +654,6 @@
       "zh-CN": "到处都是鱼骨头！",
       "zh-TW": "到處都是魚骨頭。"
     },
-    "id": "1_weapon_coin_1_1",
     "name": {
       "de": "JIMMY",
       "en-US": "JIMMY",
@@ -577,6 +667,14 @@
       "zh-TW": "吉米"
     },
     "rpm": 900,
+    "slug": "jimmy",
+    "sprite": {
+      "height": 25,
+      "sheet": "30aff9f5",
+      "width": 32,
+      "x": 64,
+      "y": 0
+    },
     "tags": [
       "weapon"
     ],
@@ -622,7 +720,6 @@
       "zh-CN": "有概率发射激光。",
       "zh-TW": "有機會發射出雷射光束。"
     },
-    "id": "1_weapon_coin_2",
     "name": {
       "de": "NEBULA",
       "en-US": "NEBULA",
@@ -636,6 +733,14 @@
       "zh-TW": "星雲"
     },
     "rpm": 300,
+    "slug": "nebula",
+    "sprite": {
+      "height": 22,
+      "sheet": "30aff9f5",
+      "width": 32,
+      "x": 96,
+      "y": 0
+    },
     "tags": [
       "weapon"
     ],
@@ -680,7 +785,6 @@
       "zh-CN": "让世界充满色彩！",
       "zh-TW": "為世界增添色彩！"
     },
-    "id": "1_weapon_coin_2_1",
     "name": {
       "de": "REGENBOGEN",
       "en-US": "RAINBOW",
@@ -694,6 +798,14 @@
       "zh-TW": "彩虹"
     },
     "rpm": 300,
+    "slug": "rainbow",
+    "sprite": {
+      "height": 21,
+      "sheet": "30aff9f5",
+      "width": 32,
+      "x": 96,
+      "y": 22
+    },
     "tags": [
       "weapon"
     ],
@@ -755,7 +867,6 @@
       "zh-CN": "一切都取决于你，或者是运气。",
       "zh-TW": "一切取決於你...或運氣。"
     },
-    "id": "1_weapon_coin_3",
     "name": {
       "de": "SCHICKSAL",
       "en-US": "DESTINY",
@@ -769,6 +880,14 @@
       "zh-TW": "命運"
     },
     "rpm": 300,
+    "slug": "destiny",
+    "sprite": {
+      "height": 21,
+      "sheet": "30aff9f5",
+      "width": 32,
+      "x": 32,
+      "y": 43
+    },
     "tags": [
       "weapon"
     ],
@@ -814,7 +933,6 @@
       "zh-CN": "战场中的狂舞者。",
       "zh-TW": "在戰場上亂舞。"
     },
-    "id": "1_weapon_defense_1",
     "name": {
       "de": "WINDKLINGE",
       "en-US": "WIND BLADE",
@@ -828,6 +946,14 @@
       "zh-TW": "風之刃"
     },
     "rpm": 300,
+    "slug": "wind-blade",
+    "sprite": {
+      "height": 23,
+      "sheet": "30aff9f5",
+      "width": 32,
+      "x": 64,
+      "y": 25
+    },
     "tags": [
       "weapon"
     ],
@@ -873,7 +999,6 @@
       "zh-CN": "释放你的潜能！",
       "zh-TW": "釋放你的潛力！"
     },
-    "id": "1_weapon_defense_2",
     "name": {
       "de": "SEELENBRINGER",
       "en-US": "SOUL BRINGER",
@@ -887,6 +1012,14 @@
       "zh-TW": "靈魂使者"
     },
     "rpm": 300,
+    "slug": "soul-bringer",
+    "sprite": {
+      "height": 24,
+      "sheet": "30aff9f5",
+      "width": 32,
+      "x": 96,
+      "y": 43
+    },
     "tags": [
       "weapon"
     ],
@@ -932,7 +1065,6 @@
       "zh-CN": "燥起来吧！",
       "zh-TW": "驚天動地！"
     },
-    "id": "1_weapon_defense_4",
     "name": {
       "de": "DONNER",
       "en-US": "THUNDER",
@@ -946,6 +1078,14 @@
       "zh-TW": "轟天雷"
     },
     "rpm": 300,
+    "slug": "thunder",
+    "sprite": {
+      "height": 20,
+      "sheet": "30aff9f5",
+      "width": 32,
+      "x": 64,
+      "y": 48
+    },
     "tags": [
       "weapon"
     ],
@@ -1013,7 +1153,6 @@
       "zh-CN": "来自深渊的凝视。",
       "zh-TW": "來自深淵的凝視..."
     },
-    "id": "1_weapon_defense_5",
     "name": {
       "de": "TODESSTRAHL",
       "en-US": "DEATH RAY",
@@ -1027,6 +1166,14 @@
       "zh-TW": "死亡射線"
     },
     "rpm": 300,
+    "slug": "death-ray",
+    "sprite": {
+      "height": 21,
+      "sheet": "30aff9f5",
+      "width": 32,
+      "x": 96,
+      "y": 67
+    },
     "tags": [
       "weapon"
     ],
@@ -1093,7 +1240,6 @@
       "zh-CN": "无忧无虑的时光。",
       "zh-TW": "盡情享受吧！"
     },
-    "id": "1_weapon_dmg_1_1",
     "name": {
       "de": "PASSAGIER",
       "en-US": "PASSENGER",
@@ -1107,6 +1253,14 @@
       "zh-TW": "旅客"
     },
     "rpm": 300,
+    "slug": "passenger",
+    "sprite": {
+      "height": 23,
+      "sheet": "30aff9f5",
+      "width": 32,
+      "x": 0,
+      "y": 88
+    },
     "tags": [
       "weapon"
     ],
@@ -1152,7 +1306,6 @@
       "zh-CN": "祝你好梦。",
       "zh-TW": "晚安，祝你好眠。"
     },
-    "id": "1_weapon_drop_1",
     "name": {
       "de": "SCHLUMMERLIED",
       "en-US": "LULLABY",
@@ -1166,6 +1319,14 @@
       "zh-TW": "搖籃曲"
     },
     "rpm": 300,
+    "slug": "lullaby",
+    "sprite": {
+      "height": 24,
+      "sheet": "30aff9f5",
+      "width": 32,
+      "x": 0,
+      "y": 64
+    },
     "tags": [
       "weapon"
     ],
@@ -1230,7 +1391,6 @@
       "zh-CN": "巫师的秘密武器！",
       "zh-TW": "巫師的祕密武器。"
     },
-    "id": "1_weapon_drop_2",
     "name": {
       "de": "DIE 8. FARBE",
       "en-US": "THE 8TH COLOR",
@@ -1244,6 +1404,14 @@
       "zh-TW": "第八色"
     },
     "rpm": 300,
+    "slug": "the-8th-color",
+    "sprite": {
+      "height": 21,
+      "sheet": "30aff9f5",
+      "width": 31,
+      "x": 32,
+      "y": 128
+    },
     "tags": [
       "weapon"
     ],
@@ -1306,7 +1474,6 @@
       "zh-CN": "梦想还是要有的。",
       "zh-TW": "魚也有一個夢想..."
     },
-    "id": "1_weapon_drop_3",
     "name": {
       "de": "FISCH AM ABZUG",
       "en-US": "TRIGGERFISH",
@@ -1320,6 +1487,14 @@
       "zh-TW": "魚槍"
     },
     "rpm": 300,
+    "slug": "triggerfish",
+    "sprite": {
+      "height": 24,
+      "sheet": "30aff9f5",
+      "width": 32,
+      "x": 32,
+      "y": 64
+    },
     "tags": [
       "weapon"
     ],
@@ -1389,7 +1564,6 @@
       "zh-CN": "祝你玩的开心！！",
       "zh-TW": "開玩啦！"
     },
-    "id": "1_weapon_drop_re_1",
     "name": {
       "de": "PLASTIKPISTOLE",
       "en-US": "PLASTIC GUN",
@@ -1403,6 +1577,14 @@
       "zh-TW": "玩具槍"
     },
     "rpm": 300,
+    "slug": "plastic-gun",
+    "sprite": {
+      "height": 22,
+      "sheet": "30aff9f5",
+      "width": 30,
+      "x": 156,
+      "y": 142
+    },
     "tags": [
       "weapon"
     ],
@@ -1430,27 +1612,6 @@
       },
       {
         "desc": {
-          "de": "[Aktiver Gegenstand] Ersetze alle Gegenstände im aktuellen Raum durch zufällige Extras. Kostet 2 Kristalle.",
-          "en-US": "[Active Item] Replace all items in the current room with random pickups. Cost 2 crystals.",
-          "es": "[Objeto activo] Reemplaza todos los objetos de la sala actual con potenciadores aleatorios. Cuesta 2 cristales.",
-          "fr": "[Objet actif] Remplace tous les objets dans la salle actuelle par des bonus à ramasser aléatoires. Coûte 2 cristaux.",
-          "it": "[Oggetto attivo] Sostituisce tutti gli oggetti nella stanza con bonus casuali. \n Costo: 2 cristalli.",
-          "ja": "[アクティブアイテム] 現在の部屋にあるすべてのアイテムをランダムな消費アイテムに置き換える。クリスタルを2消費。",
-          "ru": "[Активный предмет] Заменяет все предметы в текущей комнате на случайные усиления. Расходует 2 кристалла.",
-          "zh": "【主动技能】把当前房间内的所有道具置换成数个掉落物。消耗2水晶。",
-          "zh-CN": "【主动技能】把当前房间内的所有道具置换成数个掉落物。消耗2水晶。",
-          "zh-TW": "【主動道具】將目前房間內的所有道具更換成隨機的可拾取物。消耗2個水晶。"
-        },
-        "secSkill": "2_power_refesh_itemtodrop",
-        "secSkillCosts": [
-          {
-            "count": 2,
-            "type": "mana"
-          }
-        ]
-      },
-      {
-        "desc": {
           "de": "[Aktiver Gegenstand] Aktualisiere alle geschlossenen Truhen im aktuellen Raum. Kostet 2 Kristalle.",
           "en-US": "[Active Item] Refresh all the closed chests in the current room. Cost 2 crystals.",
           "es": "[Objeto activo] Actualiza todos los cofres cerrados de la sala actual. Cuesta 2 cristales.",
@@ -1463,6 +1624,27 @@
           "zh-TW": "【主動道具】刷新目前房間內所有未開啟的寶箱。消耗2個水晶。"
         },
         "secSkill": "2_power_refesh_chest",
+        "secSkillCosts": [
+          {
+            "count": 2,
+            "type": "mana"
+          }
+        ]
+      },
+      {
+        "desc": {
+          "de": "[Aktiver Gegenstand] Ersetze alle Gegenstände im aktuellen Raum durch zufällige Extras. Kostet 2 Kristalle.",
+          "en-US": "[Active Item] Replace all items in the current room with random pickups. Cost 2 crystals.",
+          "es": "[Objeto activo] Reemplaza todos los objetos de la sala actual con potenciadores aleatorios. Cuesta 2 cristales.",
+          "fr": "[Objet actif] Remplace tous les objets dans la salle actuelle par des bonus à ramasser aléatoires. Coûte 2 cristaux.",
+          "it": "[Oggetto attivo] Sostituisce tutti gli oggetti nella stanza con bonus casuali. \n Costo: 2 cristalli.",
+          "ja": "[アクティブアイテム] 現在の部屋にあるすべてのアイテムをランダムな消費アイテムに置き換える。クリスタルを2消費。",
+          "ru": "[Активный предмет] Заменяет все предметы в текущей комнате на случайные усиления. Расходует 2 кристалла.",
+          "zh": "【主动技能】把当前房间内的所有道具置换成数个掉落物。消耗2水晶。",
+          "zh-CN": "【主动技能】把当前房间内的所有道具置换成数个掉落物。消耗2水晶。",
+          "zh-TW": "【主動道具】將目前房間內的所有道具更換成隨機的可拾取物。消耗2個水晶。"
+        },
+        "secSkill": "2_power_refesh_itemtodrop",
         "secSkillCosts": [
           {
             "count": 2,
@@ -1491,7 +1673,6 @@
       "zh-CN": "直面你的恐惧！",
       "zh-TW": "面對恐懼！"
     },
-    "id": "1_weapon_egg_1_1",
     "name": {
       "de": "HUNGER",
       "en-US": "FAMINE",
@@ -1505,6 +1686,14 @@
       "zh-TW": "飢荒"
     },
     "rpm": 300,
+    "slug": "famine",
+    "sprite": {
+      "height": 21,
+      "sheet": "30aff9f5",
+      "width": 32,
+      "x": 64,
+      "y": 68
+    },
     "tags": [
       "weapon"
     ],
@@ -1592,7 +1781,6 @@
       "zh-CN": "往日的理想。",
       "zh-TW": "往日的理想。"
     },
-    "id": "1_weapon_egg_2_1",
     "name": {
       "de": "LÄRM",
       "en-US": "NOISE",
@@ -1606,6 +1794,14 @@
       "zh-TW": "噪音"
     },
     "rpm": 300,
+    "slug": "noise",
+    "sprite": {
+      "height": 22,
+      "sheet": "30aff9f5",
+      "width": 32,
+      "x": 32,
+      "y": 88
+    },
     "tags": [
       "weapon"
     ],
@@ -1677,7 +1873,6 @@
       "zh-CN": "如果你无法驾驭这种力量，就会被它吞噬！",
       "zh-TW": "你一定會喜歡！但...請小心使用。"
     },
-    "id": "1_weapon_explo_1",
     "name": {
       "de": "RIESENBESTIE",
       "en-US": "GIANT BEAST",
@@ -1691,6 +1886,14 @@
       "zh-TW": "巨獸"
     },
     "rpm": 300,
+    "slug": "giant-beast",
+    "sprite": {
+      "height": 24,
+      "sheet": "30aff9f5",
+      "width": 32,
+      "x": 96,
+      "y": 88
+    },
     "tags": [
       "weapon"
     ],
@@ -1732,7 +1935,6 @@
       "zh-CN": "颤抖吧！蓄力投掷出冰炸弹。",
       "zh-TW": "恐怖到令人顫抖！蓄力後丟出冰霜炸彈。"
     },
-    "id": "1_weapon_explo_2",
     "name": {
       "de": "FROSTFEUER",
       "en-US": "FROSTFIRE",
@@ -1746,6 +1948,14 @@
       "zh-TW": "霜火"
     },
     "rpm": 300,
+    "slug": "frostfire",
+    "sprite": {
+      "height": 21,
+      "sheet": "30aff9f5",
+      "width": 32,
+      "x": 64,
+      "y": 89
+    },
     "tags": [
       "weapon"
     ],
@@ -1786,7 +1996,6 @@
       "zh-CN": "我在注视着你！",
       "zh-TW": "你逃不出我的視線！"
     },
-    "id": "1_weapon_explo_3",
     "name": {
       "de": "FALKENAUGE",
       "en-US": "HAWKEYE",
@@ -1800,6 +2009,14 @@
       "zh-TW": "鷹眼"
     },
     "rpm": 300,
+    "slug": "hawkeye",
+    "sprite": {
+      "height": 22,
+      "sheet": "30aff9f5",
+      "width": 32,
+      "x": 128,
+      "y": 0
+    },
     "tags": [
       "weapon"
     ],
@@ -1845,7 +2062,6 @@
       "zh-CN": "黑暗中的低语…",
       "zh-TW": "黑暗中的細語..."
     },
-    "id": "1_weapon_explo_4",
     "name": {
       "de": "SCHWARZER RABE",
       "en-US": "BLACK RAVEN",
@@ -1859,6 +2075,14 @@
       "zh-TW": "渡鴉"
     },
     "rpm": 300,
+    "slug": "black-raven",
+    "sprite": {
+      "height": 19,
+      "sheet": "30aff9f5",
+      "width": 32,
+      "x": 160,
+      "y": 0
+    },
     "tags": [
       "weapon"
     ],
@@ -1909,7 +2133,6 @@
       "zh-CN": "威力巨大的终极兵器！毁灭一切吧！",
       "zh-TW": "威力強大的終極武器...摧毀一切吧！"
     },
-    "id": "1_weapon_explo_5",
     "name": {
       "de": "ROTER DRACHE",
       "en-US": "RED DRAGON",
@@ -1923,6 +2146,14 @@
       "zh-TW": "赤龍"
     },
     "rpm": 300,
+    "slug": "red-dragon",
+    "sprite": {
+      "height": 24,
+      "sheet": "30aff9f5",
+      "width": 32,
+      "x": 192,
+      "y": 0
+    },
     "tags": [
       "weapon"
     ],
@@ -1964,7 +2195,6 @@
       "zh-CN": "增加了追踪模块，但是牺牲了一些性能。",
       "zh-TW": "降低武器性能以增加追蹤組件。"
     },
-    "id": "1_weapon_heart_1",
     "name": {
       "de": "WACHE",
       "en-US": "SENTINEL",
@@ -1978,6 +2208,14 @@
       "zh-TW": "哨兵"
     },
     "rpm": 300,
+    "slug": "sentinel",
+    "sprite": {
+      "height": 21,
+      "sheet": "30aff9f5",
+      "width": 32,
+      "x": 160,
+      "y": 19
+    },
     "tags": [
       "weapon"
     ],
@@ -2039,7 +2277,6 @@
       "zh-CN": "随缘箭法。",
       "zh-TW": "閉上雙眼，用心感受。"
     },
-    "id": "1_weapon_heart_2",
     "name": {
       "de": "SCHWALBE",
       "en-US": "SWALLOW",
@@ -2053,6 +2290,14 @@
       "zh-TW": "燕子"
     },
     "rpm": 300,
+    "slug": "swallow",
+    "sprite": {
+      "height": 22,
+      "sheet": "30aff9f5",
+      "width": 32,
+      "x": 224,
+      "y": 0
+    },
     "tags": [
       "weapon"
     ],
@@ -2119,7 +2364,6 @@
       "zh-CN": "为了荣耀！为了亚特兰帝斯！",
       "zh-TW": "捍衛亞特蘭提斯的榮耀！"
     },
-    "id": "1_weapon_heart_2_1",
     "name": {
       "de": "STRUDEL",
       "en-US": "VORTEX",
@@ -2133,6 +2377,14 @@
       "zh-TW": "漩渦"
     },
     "rpm": 300,
+    "slug": "vortex",
+    "sprite": {
+      "height": 22,
+      "sheet": "30aff9f5",
+      "width": 32,
+      "x": 128,
+      "y": 22
+    },
     "tags": [
       "weapon"
     ],
@@ -2177,7 +2429,6 @@
       "zh-CN": "你什么都不懂。",
       "zh-TW": "你一無所知。"
     },
-    "id": "1_weapon_heart_3",
     "name": {
       "de": "FEUERKUSS",
       "en-US": "FIREKISS",
@@ -2191,6 +2442,14 @@
       "zh-TW": "火吻"
     },
     "rpm": 300,
+    "slug": "firekiss",
+    "sprite": {
+      "height": 22,
+      "sheet": "30aff9f5",
+      "width": 32,
+      "x": 224,
+      "y": 22
+    },
     "tags": [
       "weapon"
     ],
@@ -2232,7 +2491,6 @@
       "zh-CN": "蓄力发射一枚金钥匙！可以打开所有的锁！",
       "zh-TW": "蓄力後發射一把金鑰匙。"
     },
-    "id": "1_weapon_key_1",
     "name": {
       "de": "SCHLÜSSELPISTOLE",
       "en-US": "KEYGUN",
@@ -2246,6 +2504,14 @@
       "zh-TW": "金鑰發射器"
     },
     "rpm": 200,
+    "slug": "keygun",
+    "sprite": {
+      "height": 18,
+      "sheet": "30aff9f5",
+      "width": 32,
+      "x": 32,
+      "y": 110
+    },
     "tags": [
       "weapon"
     ],
@@ -2287,7 +2553,6 @@
       "zh-CN": "无法描述的神秘武器。",
       "zh-TW": "不可言喻的神祕武器。"
     },
-    "id": "1_weapon_key_3",
     "name": {
       "de": "SILBERNER MOND",
       "en-US": "SILVER MOON",
@@ -2301,6 +2566,14 @@
       "zh-TW": "銀月"
     },
     "rpm": 300,
+    "slug": "silver-moon",
+    "sprite": {
+      "height": 19,
+      "sheet": "30aff9f5",
+      "width": 30,
+      "x": 220,
+      "y": 150
+    },
     "tags": [
       "weapon"
     ],
@@ -2363,7 +2636,6 @@
       "zh-CN": "释放你的潜能。",
       "zh-TW": "釋放你的潛力。"
     },
-    "id": "1_weapon_key_3_1",
     "name": {
       "de": "LICHTTÄNZER",
       "en-US": "LIGHT DANCER",
@@ -2377,6 +2649,14 @@
       "zh-TW": "光之舞者"
     },
     "rpm": 300,
+    "slug": "light-dancer",
+    "sprite": {
+      "height": 23,
+      "sheet": "30aff9f5",
+      "width": 32,
+      "x": 192,
+      "y": 24
+    },
     "tags": [
       "weapon"
     ],
@@ -2439,7 +2719,6 @@
       "zh-CN": "来自天堂的泪水。",
       "zh-TW": "天堂的眼淚。"
     },
-    "id": "1_weapon_key_4",
     "name": {
       "de": "METEOR",
       "en-US": "METEOR",
@@ -2453,6 +2732,14 @@
       "zh-TW": "流星"
     },
     "rpm": 800,
+    "slug": "meteor",
+    "sprite": {
+      "height": 25,
+      "sheet": "30aff9f5",
+      "width": 32,
+      "x": 224,
+      "y": 44
+    },
     "tags": [
       "weapon"
     ],
@@ -2510,7 +2797,6 @@
       "zh-CN": "血债血偿！",
       "zh-TW": "給我更多血！"
     },
-    "id": "1_weapon_kill_1",
     "name": {
       "de": "WILDER WOLF",
       "en-US": "WILD WOLF",
@@ -2524,6 +2810,14 @@
       "zh-TW": "野狼"
     },
     "rpm": 300,
+    "slug": "wild-wolf",
+    "sprite": {
+      "height": 20,
+      "sheet": "30aff9f5",
+      "width": 32,
+      "x": 160,
+      "y": 40
+    },
     "tags": [
       "weapon"
     ],
@@ -2564,7 +2858,6 @@
       "zh-CN": "火力比准头重要！",
       "zh-TW": "火力比準度重要。"
     },
-    "id": "1_weapon_kill_2",
     "name": {
       "de": "GOLDENER SAM",
       "en-US": "GOLDEN SAM",
@@ -2578,6 +2871,14 @@
       "zh-TW": "金色山姆"
     },
     "rpm": 300,
+    "slug": "golden-sam",
+    "sprite": {
+      "height": 22,
+      "sheet": "30aff9f5",
+      "width": 32,
+      "x": 128,
+      "y": 44
+    },
     "tags": [
       "weapon"
     ],
@@ -2623,7 +2924,6 @@
       "zh-CN": "祝你好梦！",
       "zh-TW": "晚安，祝你好眠。"
     },
-    "id": "1_weapon_kill_4",
     "name": {
       "de": "BESCHÜTZER",
       "en-US": "GUARDIAN",
@@ -2637,6 +2937,14 @@
       "zh-TW": "守護者"
     },
     "rpm": 300,
+    "slug": "guardian",
+    "sprite": {
+      "height": 24,
+      "sheet": "30aff9f5",
+      "width": 32,
+      "x": 192,
+      "y": 47
+    },
     "tags": [
       "weapon"
     ],
@@ -2678,7 +2986,6 @@
       "zh-CN": "来自地狱的尖叫。",
       "zh-TW": "來自地獄的哀號。"
     },
-    "id": "1_weapon_kill_5",
     "name": {
       "de": "VERNICHTER",
       "en-US": "DESTROYER",
@@ -2692,6 +2999,14 @@
       "zh-TW": "毀滅者"
     },
     "rpm": 300,
+    "slug": "destroyer",
+    "sprite": {
+      "height": 21,
+      "sheet": "30aff9f5",
+      "width": 32,
+      "x": 224,
+      "y": 69
+    },
     "tags": [
       "weapon"
     ],
@@ -2733,7 +3048,6 @@
       "zh-CN": "妩媚又致命。",
       "zh-TW": "誘人且致命。"
     },
-    "id": "1_weapon_mana_1",
     "name": {
       "de": "WEISSER FUCHS",
       "en-US": "WHITE FOX",
@@ -2747,6 +3061,14 @@
       "zh-TW": "白狐"
     },
     "rpm": 300,
+    "slug": "white-fox",
+    "sprite": {
+      "height": 22,
+      "sheet": "30aff9f5",
+      "width": 32,
+      "x": 160,
+      "y": 60
+    },
     "tags": [
       "weapon"
     ],
@@ -2792,7 +3114,6 @@
       "zh-CN": "传递永恒的浪漫。",
       "zh-TW": "傳遞永恆的浪漫。"
     },
-    "id": "1_weapon_mana_4",
     "name": {
       "de": "BOTE",
       "en-US": "MESSENGER",
@@ -2806,6 +3127,14 @@
       "zh-TW": "信使"
     },
     "rpm": 200,
+    "slug": "messenger",
+    "sprite": {
+      "height": 20,
+      "sheet": "30aff9f5",
+      "width": 32,
+      "x": 128,
+      "y": 66
+    },
     "tags": [
       "weapon"
     ],
@@ -2871,7 +3200,6 @@
       "zh-CN": "如此的轻盈，仿佛并不存在。",
       "zh-TW": "輕到彷彿不存在。"
     },
-    "id": "1_weapon_num_5",
     "name": {
       "de": "LUFTGEWEHR",
       "en-US": "AIRGUN",
@@ -2885,6 +3213,14 @@
       "zh-TW": "空氣槍"
     },
     "rpm": 900,
+    "slug": "airgun",
+    "sprite": {
+      "height": 22,
+      "sheet": "30aff9f5",
+      "width": 32,
+      "x": 192,
+      "y": 71
+    },
     "tags": [
       "weapon"
     ],
@@ -2925,7 +3261,6 @@
       "zh-CN": "一切都慢下来了。",
       "zh-TW": "一切都...慢下來了..."
     },
-    "id": "1_weapon_op_3",
     "name": {
       "de": "PHANTOM",
       "en-US": "PHANTOM",
@@ -2939,6 +3274,14 @@
       "zh-TW": "幻影"
     },
     "rpm": 100,
+    "slug": "phantom",
+    "sprite": {
+      "height": 21,
+      "sheet": "30aff9f5",
+      "width": 31,
+      "x": 128,
+      "y": 106
+    },
     "tags": [
       "weapon"
     ],
@@ -2980,7 +3323,6 @@
       "zh-CN": "耐心也是一种武器。",
       "zh-TW": "耐心也是一種武器。"
     },
-    "id": "1_weapon_op_5",
     "name": {
       "de": "SCHMIEDE",
       "en-US": "FORGE",
@@ -2994,6 +3336,14 @@
       "zh-TW": "熔爐"
     },
     "rpm": 300,
+    "slug": "forge",
+    "sprite": {
+      "height": 19,
+      "sheet": "30aff9f5",
+      "width": 31,
+      "x": 0,
+      "y": 137
+    },
     "tags": [
       "weapon"
     ],
@@ -3035,7 +3385,6 @@
       "zh-CN": "最重要的是开心。",
       "zh-TW": "快樂是人生最重要的事。"
     },
-    "id": "1_weapon_op_7",
     "name": {
       "de": "LIED DER FREUDE",
       "en-US": "SONG OF JOY",
@@ -3049,6 +3398,14 @@
       "zh-TW": "歡樂頌"
     },
     "rpm": 300,
+    "slug": "song-of-joy",
+    "sprite": {
+      "height": 23,
+      "sheet": "30aff9f5",
+      "width": 31,
+      "x": 191,
+      "y": 112
+    },
     "tags": [
       "weapon"
     ],
@@ -3136,7 +3493,6 @@
       "zh-CN": "据说使用了量子纠缠技术。",
       "zh-TW": "使用量子糾纏技術。"
     },
-    "id": "1_weapon_room_1",
     "name": {
       "de": "ZWILLINGE",
       "en-US": "TWINS",
@@ -3150,6 +3506,14 @@
       "zh-TW": "雙子座"
     },
     "rpm": 300,
+    "slug": "twins",
+    "sprite": {
+      "height": 20,
+      "sheet": "30aff9f5",
+      "width": 31,
+      "x": 159,
+      "y": 122
+    },
     "tags": [
       "weapon"
     ],
@@ -3195,7 +3559,6 @@
       "zh-CN": "听从内心的呼唤。",
       "zh-TW": "聽從內心的渴望。"
     },
-    "id": "1_weapon_room_3",
     "name": {
       "de": "REBELL",
       "en-US": "REBEL",
@@ -3209,6 +3572,14 @@
       "zh-TW": "反叛者"
     },
     "rpm": 300,
+    "slug": "rebel",
+    "sprite": {
+      "height": 21,
+      "sheet": "30aff9f5",
+      "width": 32,
+      "x": 224,
+      "y": 90
+    },
     "tags": [
       "weapon"
     ],
@@ -3255,7 +3626,6 @@
       "zh-CN": "来自先遣队科技的结晶。",
       "zh-TW": "未來科技的結晶。"
     },
-    "id": "1_weapon_rpm_1",
     "name": {
       "de": "STERNENEXPLOSION",
       "en-US": "STAR BURST",
@@ -3269,6 +3639,14 @@
       "zh-TW": "星爆"
     },
     "rpm": 200,
+    "slug": "star-burst",
+    "sprite": {
+      "height": 21,
+      "sheet": "30aff9f5",
+      "width": 32,
+      "x": 160,
+      "y": 82
+    },
     "tags": [
       "weapon"
     ],
@@ -3310,7 +3688,6 @@
       "zh-CN": "屏住呼吸。",
       "zh-TW": "屏住呼吸。"
     },
-    "id": "1_weapon_rpm_2",
     "name": {
       "de": "SCHWARZE WITWE",
       "en-US": "BLACK WIDOW",
@@ -3324,6 +3701,14 @@
       "zh-TW": "黑寡婦"
     },
     "rpm": 300,
+    "slug": "black-widow",
+    "sprite": {
+      "height": 20,
+      "sheet": "30aff9f5",
+      "width": 32,
+      "x": 128,
+      "y": 86
+    },
     "tags": [
       "weapon"
     ],
@@ -3365,7 +3750,6 @@
       "zh-CN": "耐心一点，年轻人......你还无法完全掌握它的力量。",
       "zh-TW": "耐心點，年輕人...發射前先蓄力，這一發值得你慢慢來。"
     },
-    "id": "1_weapon_rpm_3",
     "name": {
       "de": "DER BLASTER",
       "en-US": "THE BLASTER",
@@ -3379,6 +3763,14 @@
       "zh-TW": "霹靂炮"
     },
     "rpm": 300,
+    "slug": "the-blaster",
+    "sprite": {
+      "height": 19,
+      "sheet": "30aff9f5",
+      "width": 31,
+      "x": 95,
+      "y": 112
+    },
     "tags": [
       "weapon"
     ],
@@ -3421,7 +3813,6 @@
       "zh-CN": "来一曲美妙的民谣吧。",
       "zh-TW": "又一個手下敗將。"
     },
-    "id": "1_weapon_terr_3",
     "name": {
       "de": "SOMMER",
       "en-US": "SUMMER",
@@ -3435,6 +3826,14 @@
       "zh-TW": "夏日"
     },
     "rpm": 300,
+    "slug": "summer",
+    "sprite": {
+      "height": 19,
+      "sheet": "30aff9f5",
+      "width": 32,
+      "x": 192,
+      "y": 93
+    },
     "tags": [
       "weapon"
     ],
@@ -3479,7 +3878,6 @@
       "zh-CN": "到处都是鱼骨头。",
       "zh-TW": "到處都是魚骨頭。"
     },
-    "id": "1_weapon_terr_5_1",
     "name": {
       "de": "TERRY",
       "en-US": "TERRY",
@@ -3493,6 +3891,14 @@
       "zh-TW": "泰瑞"
     },
     "rpm": 900,
+    "slug": "terry",
+    "sprite": {
+      "height": 26,
+      "sheet": "30aff9f5",
+      "width": 32,
+      "x": 0,
+      "y": 111
+    },
     "tags": [
       "weapon"
     ],
@@ -3535,7 +3941,6 @@
       "zh-CN": "迎接第三次冲击！你获得了全方面的提升！觉醒吧！",
       "zh-TW": "你晉級了！全面提升各項狀態。"
     },
-    "id": "3_item_all_01",
     "name": {
       "de": "VERBOTENE MASKE",
       "en-US": "FORBIDDEN MASK",
@@ -3547,6 +3952,14 @@
       "zh": "禁忌面具",
       "zh-CN": "禁忌面具",
       "zh-TW": "禁忌面具"
+    },
+    "slug": "forbidden-mask",
+    "sprite": {
+      "height": 22,
+      "sheet": "30aff9f5",
+      "width": 21,
+      "x": 340,
+      "y": 145
     },
     "tags": [
       "item",
@@ -3568,7 +3981,6 @@
       "zh-CN": "减少红心容器，增加伤害，增加护盾。生命中唯一不变的就是变化。",
       "zh-TW": "減少血槽並新增護盾，同時也提高你的武器傷害。"
     },
-    "id": "3_item_blue_01",
     "name": {
       "de": "CYBORG",
       "en-US": "CYBORG",
@@ -3580,6 +3992,14 @@
       "zh": "生化改造",
       "zh-CN": "生化改造",
       "zh-TW": "生化人"
+    },
+    "slug": "cyborg",
+    "sprite": {
+      "height": 25,
+      "sheet": "30aff9f5",
+      "width": 23,
+      "x": 252,
+      "y": 130
     },
     "tags": [
       "item",
@@ -3601,7 +4021,6 @@
       "zh-CN": "提高武器伤害和移动速度。我是谁，我在哪，我要干啥？",
       "zh-TW": "增加武器傷害和移動速度。別數羊了，你會一直夢到獨角獸..."
     },
-    "id": "3_item_blue_02",
     "name": {
       "de": "NERVENSYSTEM 6.0",
       "en-US": "NERVE SYSTEM 6.0",
@@ -3613,6 +4032,14 @@
       "zh": "强化脑神经",
       "zh-CN": "强化脑神经",
       "zh-TW": "神經系統6.0"
+    },
+    "slug": "nerve-system-6.0",
+    "sprite": {
+      "height": 20,
+      "sheet": "30aff9f5",
+      "width": 24,
+      "x": 0,
+      "y": 236
     },
     "tags": [
       "item",
@@ -3634,7 +4061,6 @@
       "zh-CN": "爱的力量！增加护盾，并提高武器伤害。",
       "zh-TW": "愛的力量！新增護盾並提高武器傷害。"
     },
-    "id": "3_item_blue_03",
     "name": {
       "de": "HERZ DES MEERES",
       "en-US": "HEART OF THE OCEAN",
@@ -3646,6 +4072,14 @@
       "zh": "海洋之心",
       "zh-CN": "海洋之心",
       "zh-TW": "海洋之心"
+    },
+    "slug": "heart-of-the-ocean",
+    "sprite": {
+      "height": 23,
+      "sheet": "30aff9f5",
+      "width": 23,
+      "x": 320,
+      "y": 167
     },
     "tags": [
       "item",
@@ -3667,7 +4101,6 @@
       "zh-CN": "增加护盾，提高你的武器射速。你不懂，也不理解。",
       "zh-TW": "附帶其他功能的時尚護目罩。新增護盾並提高武器射速。"
     },
-    "id": "3_item_blue_04",
     "name": {
       "de": "ZUKUNFTSTECHNOLOGIE",
       "en-US": "FUTURE TECH",
@@ -3679,6 +4112,14 @@
       "zh": "未来科技",
       "zh-CN": "未来科技",
       "zh-TW": "未來科技"
+    },
+    "slug": "future-tech",
+    "sprite": {
+      "height": 26,
+      "sheet": "30aff9f5",
+      "width": 27,
+      "x": 144,
+      "y": 192
     },
     "tags": [
       "item",
@@ -3700,7 +4141,6 @@
       "zh-CN": "你突然变帅了。增加护盾，当你受到攻击时有一定几率免疫伤害。",
       "zh-TW": "你變強又變帥了。新增護盾。受到攻擊時，有可能不會對你造成傷害。"
     },
-    "id": "3_item_blue_05",
     "name": {
       "de": "ROBUSTER SCHILD",
       "en-US": "STURDY SHIELD",
@@ -3712,6 +4152,14 @@
       "zh": "队长盾",
       "zh-CN": "队长盾",
       "zh-TW": "頑強護盾"
+    },
+    "slug": "sturdy-shield",
+    "sprite": {
+      "height": 24,
+      "sheet": "30aff9f5",
+      "width": 24,
+      "x": 275,
+      "y": 123
     },
     "tags": [
       "item",
@@ -3733,7 +4181,6 @@
       "zh-CN": "来自金属星球的圣物，每次激活传送石都有概率掉落能量护盾。",
       "zh-TW": "每次啟用傳送石時，即有機會獲得一面護盾。"
     },
-    "id": "3_item_blue_06",
     "name": {
       "de": "ENERGIEWÜRFEL",
       "en-US": "ENERGY CUBE",
@@ -3745,6 +4192,14 @@
       "zh": "能量方块",
       "zh-CN": "能量方块",
       "zh-TW": "能量方塊"
+    },
+    "slug": "energy-cube",
+    "sprite": {
+      "height": 25,
+      "sheet": "30aff9f5",
+      "width": 23,
+      "x": 250,
+      "y": 195
     },
     "tags": [
       "item",
@@ -3766,7 +4221,6 @@
       "zh-CN": "斯巴达战士的意志在你心中燃烧！每次清理完房间都有一定概率掉落护盾。",
       "zh-TW": "為人類而戰吧！每次戰鬥完，就可能獲得額外的護盾。"
     },
-    "id": "3_item_blue_07",
     "name": {
       "de": "LETZTE HOFFNUNG",
       "en-US": "LAST HOPE",
@@ -3778,6 +4232,14 @@
       "zh": "最后的希望",
       "zh-CN": "最后的希望",
       "zh-TW": "最後的希望"
+    },
+    "slug": "last-hope",
+    "sprite": {
+      "height": 28,
+      "sheet": "30aff9f5",
+      "width": 25,
+      "x": 121,
+      "y": 147
     },
     "tags": [
       "item",
@@ -3799,7 +4261,6 @@
       "zh-CN": "增加能量护盾，提高你的武器伤害。你尝过阅读说明手册，但总是卡在第一行。",
       "zh-TW": "增加槍的傷害並新增護盾。這不可思議的能量來源令人十分納悶，也許是由能量弦線組成的？"
     },
-    "id": "3_item_blue_08",
     "name": {
       "de": "QUANTENKERN",
       "en-US": "QUANTUM CORE",
@@ -3811,6 +4272,14 @@
       "zh": "量子核心",
       "zh-CN": "量子核心",
       "zh-TW": "量子核心"
+    },
+    "slug": "quantum-core",
+    "sprite": {
+      "height": 25,
+      "sheet": "30aff9f5",
+      "width": 24,
+      "x": 250,
+      "y": 220
     },
     "tags": [
       "item",
@@ -3832,7 +4301,6 @@
       "zh-CN": "增加心之容器和水晶容器。虔诚的心可以驱走一切黑暗。",
       "zh-TW": "增加一個血槽和一個水晶槽。有防曬、遮雨之效，讓你可以專心冥想。"
     },
-    "id": "3_item_mana_01",
     "name": {
       "de": "MÖNCHSHUT",
       "en-US": "MONK HAT",
@@ -3844,6 +4312,14 @@
       "zh": "僧帽",
       "zh-CN": "僧帽",
       "zh-TW": "僧侶斗笠"
+    },
+    "slug": "monk-hat",
+    "sprite": {
+      "height": 24,
+      "sheet": "30aff9f5",
+      "width": 26,
+      "x": 120,
+      "y": 224
     },
     "tags": [
       "item",
@@ -3865,7 +4341,6 @@
       "zh-CN": "增加水晶容器，消灭敌人有概率掉落水晶。一卷讲述着千年历史的破布。",
       "zh-TW": "增加一個水晶槽。殺死敵人後就能獲得水晶。"
     },
-    "id": "3_item_mana_02",
     "name": {
       "de": "VERMUMMUNG",
       "en-US": "SHROUD",
@@ -3877,6 +4352,14 @@
       "zh": "绷带头套",
       "zh-CN": "木乃伊头套",
       "zh-TW": "木乃伊繃帶"
+    },
+    "slug": "shroud",
+    "sprite": {
+      "height": 25,
+      "sheet": "30aff9f5",
+      "width": 23,
+      "x": 269,
+      "y": 155
     },
     "tags": [
       "item",
@@ -3898,7 +4381,6 @@
       "zh-CN": "98%...99%...增加水晶容器，增加武器伤害。",
       "zh-TW": "98%...99%...增加一個水晶槽，同時增加槍的傷害。"
     },
-    "id": "3_item_mana_03",
     "name": {
       "de": "VERBOGENER LÖFFEL",
       "en-US": "BENT SPOON",
@@ -3910,6 +4392,14 @@
       "zh": "弯勺子",
       "zh-CN": "弯勺子",
       "zh-TW": "彎湯匙"
+    },
+    "slug": "bent-spoon",
+    "sprite": {
+      "height": 27,
+      "sheet": "30aff9f5",
+      "width": 19,
+      "x": 29,
+      "y": 178
     },
     "tags": [
       "item",
@@ -3931,7 +4421,6 @@
       "zh-CN": "上边沾满了风吹来的沙子。极大的增加水晶容器。",
       "zh-TW": "頭巾上的美麗寶石等同於好幾個水晶槽。"
     },
-    "id": "3_item_mana_04",
     "name": {
       "de": "PERSISCHER TURBAN",
       "en-US": "PERSIAN TURBAN",
@@ -3943,6 +4432,14 @@
       "zh": "波斯头巾",
       "zh-CN": "波斯头巾",
       "zh-TW": "波斯頭巾"
+    },
+    "slug": "persian-turban",
+    "sprite": {
+      "height": 28,
+      "sheet": "30aff9f5",
+      "width": 24,
+      "x": 92,
+      "y": 150
     },
     "tags": [
       "item",
@@ -3964,7 +4461,6 @@
       "zh-CN": "似乎有点唬人。增加水晶容器，每次消耗5个水晶即可恢复红心。",
       "zh-TW": "增加一個水晶槽。每次消耗5個水晶即可恢復紅心。"
     },
-    "id": "3_item_mana_05",
     "name": {
       "de": "RITUALMASKE",
       "en-US": "RITUAL MASK",
@@ -3976,6 +4472,14 @@
       "zh": "仪式面具",
       "zh-CN": "仪式面具",
       "zh-TW": "儀式面具"
+    },
+    "slug": "ritual-mask",
+    "sprite": {
+      "height": 28,
+      "sheet": "30aff9f5",
+      "width": 25,
+      "x": 146,
+      "y": 164
     },
     "tags": [
       "item",
@@ -3997,7 +4501,6 @@
       "zh-CN": "一个让人心生恐惧的面具。增加水晶容器和护盾。",
       "zh-TW": "一張極其奢華的水晶面具。可用來當作水晶槽，亦可新增一面護盾，因為這枚面具誰也惹不起。"
     },
-    "id": "3_item_mana_06",
     "name": {
       "de": "UNBEKANNTE MASKE",
       "en-US": "UNKNOWN MASK",
@@ -4009,6 +4512,14 @@
       "zh": "魔能头盔",
       "zh-CN": "魔能头盔",
       "zh-TW": "魔性面具"
+    },
+    "slug": "unknown-mask",
+    "sprite": {
+      "height": 24,
+      "sheet": "30aff9f5",
+      "width": 22,
+      "x": 279,
+      "y": 98
     },
     "tags": [
       "item",
@@ -4030,7 +4541,6 @@
       "zh-CN": "时间只是一种错觉。提高你的移动速度和子弹飞行速度。",
       "zh-TW": "時間只是一種錯覺。只要能理解這點，你的移動速度就會跟著增加。"
     },
-    "id": "3_item_move_01",
     "name": {
       "de": "SCHMELZENDER KALENDER",
       "en-US": "MELTING CALENDAR",
@@ -4042,6 +4552,14 @@
       "zh": "融化的日历",
       "zh-CN": "融化的日历",
       "zh-TW": "融化的日曆"
+    },
+    "slug": "melting-calendar",
+    "sprite": {
+      "height": 27,
+      "sheet": "30aff9f5",
+      "width": 22,
+      "x": 48,
+      "y": 191
     },
     "tags": [
       "item",
@@ -4063,7 +4581,6 @@
       "zh-CN": "你并未了解这个水果有多么的与众不同。提高你的移动速度和武器伤害。",
       "zh-TW": "這顆柳橙能讓你變得超強。增加移動速度和武器傷害。"
     },
-    "id": "3_item_move_02",
     "name": {
       "de": "MUTIERTE ORANGE",
       "en-US": "MUTATED ORANGE",
@@ -4075,6 +4592,14 @@
       "zh": "变异桔子",
       "zh-CN": "变异桔子",
       "zh-TW": "變種柳橙"
+    },
+    "slug": "mutated-orange",
+    "sprite": {
+      "height": 25,
+      "sheet": "30aff9f5",
+      "width": 24,
+      "x": 273,
+      "y": 180
     },
     "tags": [
       "item",
@@ -4096,7 +4621,6 @@
       "zh-CN": "提高你的移动速度，每次使用钥匙掉落金币。",
       "zh-TW": "增加移動速度。使用鑰匙時，會掉出更多金幣。"
     },
-    "id": "3_item_move_03",
     "name": {
       "de": "KÖNIGLICHES GEWEIH",
       "en-US": "ROYAL ANTLERS",
@@ -4108,6 +4632,14 @@
       "zh": "皇家鹿角",
       "zh-CN": "皇家鹿角",
       "zh-TW": "皇家鹿角"
+    },
+    "slug": "royal-antlers",
+    "sprite": {
+      "height": 22,
+      "sheet": "30aff9f5",
+      "width": 28,
+      "x": 116,
+      "y": 175
     },
     "tags": [
       "item",
@@ -4129,7 +4661,6 @@
       "zh-CN": "只要一小口，就可以撑一整天！回复红心，并提高你的移动速度。",
       "zh-TW": "只要咬上一口，就能精力充沛一整天。增加移動速度並恢復一顆紅心。"
     },
-    "id": "3_item_move_04",
     "name": {
       "de": "ELFENBROT",
       "en-US": "ELF BREAD",
@@ -4141,6 +4672,14 @@
       "zh": "精灵饼干",
       "zh-CN": "精灵饼干",
       "zh-TW": "精靈餅乾"
+    },
+    "slug": "elf-bread",
+    "sprite": {
+      "height": 24,
+      "sheet": "30aff9f5",
+      "width": 21,
+      "x": 281,
+      "y": 74
     },
     "tags": [
       "item",
@@ -4162,7 +4701,6 @@
       "zh-CN": "摩擦摩擦，是魔鬼的步伐。提高你的移动速度。",
       "zh-TW": "穿上這雙潮鞋即可增加你的移動速度。衝衝衝！"
     },
-    "id": "3_item_move_05",
     "name": {
       "de": "LAUFSCHUHE",
       "en-US": "RUNNING SHOES",
@@ -4174,6 +4712,14 @@
       "zh": "滑板鞋",
       "zh-CN": "滑板鞋",
       "zh-TW": "跑鞋"
+    },
+    "slug": "running-shoes",
+    "sprite": {
+      "height": 17,
+      "sheet": "30aff9f5",
+      "width": 29,
+      "x": 63,
+      "y": 131
     },
     "tags": [
       "item",
@@ -4195,7 +4741,6 @@
       "zh-CN": "就是这么拽！提高你的移动速度，增加近战伤害和武器伤害。",
       "zh-TW": "增加移動速度、武器傷害和近戰傷害。"
     },
-    "id": "3_item_move_06",
     "name": {
       "de": "MOTORRADHELM",
       "en-US": "MOTORCYCLE HELMET",
@@ -4207,6 +4752,14 @@
       "zh": "机车头盔",
       "zh-CN": "机车头盔",
       "zh-TW": "全罩式安全帽"
+    },
+    "slug": "motorcycle-helmet",
+    "sprite": {
+      "height": 27,
+      "sheet": "30aff9f5",
+      "width": 24,
+      "x": 0,
+      "y": 182
     },
     "tags": [
       "item",
@@ -4228,7 +4781,6 @@
       "zh-CN": "健康食物！包含多种维生素！增加一个红心容器。",
       "zh-TW": "富含各種維生素的健康食材！新增一個血槽。"
     },
-    "id": "3_item_red_01",
     "name": {
       "de": "BROKKOLI",
       "en-US": "BROCCOLI",
@@ -4240,6 +4792,14 @@
       "zh": "西兰花",
       "zh-CN": "西兰花",
       "zh-TW": "花椰菜"
+    },
+    "slug": "broccoli",
+    "sprite": {
+      "height": 24,
+      "sheet": "30aff9f5",
+      "width": 28,
+      "x": 48,
+      "y": 167
     },
     "tags": [
       "item",
@@ -4261,7 +4821,6 @@
       "zh-CN": "虽然看起来有点奇怪，但是好喝到流泪！增加一个红心容器。",
       "zh-TW": "喝到讓你眼淚直流...當然是因為太美味了！新增一個血槽。"
     },
-    "id": "3_item_red_02",
     "name": {
       "de": "PFEFFERSUPPE",
       "en-US": "PEPPER SOUP",
@@ -4273,6 +4832,14 @@
       "zh": "胡辣汤",
       "zh-CN": "胡辣汤",
       "zh-TW": "胡椒湯"
+    },
+    "slug": "pepper-soup",
+    "sprite": {
+      "height": 24,
+      "sheet": "30aff9f5",
+      "width": 26,
+      "x": 146,
+      "y": 218
     },
     "tags": [
       "item",
@@ -4294,7 +4861,6 @@
       "zh-CN": "最新的太空饮品！全新口味！增加一个红心容器，同时增加少量的武器伤害。",
       "zh-TW": "這種原子化可樂可說是太空時代的代表飲品！新增一個血槽，同時增加少量武器傷害。"
     },
-    "id": "3_item_red_03",
     "name": {
       "de": "WELTRAUMLIMO",
       "en-US": "SPACE SODA",
@@ -4306,6 +4872,14 @@
       "zh": "太空苏打",
       "zh-CN": "太空苏打",
       "zh-TW": "太空汽水"
+    },
+    "slug": "space-soda",
+    "sprite": {
+      "height": 28,
+      "sheet": "30aff9f5",
+      "width": 21,
+      "x": 76,
+      "y": 178
     },
     "tags": [
       "item",
@@ -4327,7 +4901,6 @@
       "zh-CN": "你觉得变强了…但是有点笨拙。增加一个红心容器。同时增加你的武器伤害，但是降低你的射击速度。",
       "zh-TW": "用智力換蠻力！新增一個血槽，同時增加武器傷害，但會降低武器射速。"
     },
-    "id": "3_item_red_04",
     "name": {
       "de": "RIESIGE HÄHNCHENKEULE",
       "en-US": "GIANT BARBECUE",
@@ -4339,6 +4912,14 @@
       "zh": "巨人烤肉",
       "zh-CN": "巨人烤肉",
       "zh-TW": "巨人燒烤"
+    },
+    "slug": "giant-barbecue",
+    "sprite": {
+      "height": 25,
+      "sheet": "30aff9f5",
+      "width": 25,
+      "x": 274,
+      "y": 205
     },
     "tags": [
       "item",
@@ -4360,7 +4941,6 @@
       "zh-CN": "这就是夏天的味道！再来一根？增加一个红心容器。",
       "zh-TW": "這就是夏天的味道！新增一個血槽。"
     },
-    "id": "3_item_red_05",
     "name": {
       "de": "FRUCHTEIS",
       "en-US": "FRUIT POPSICLE",
@@ -4372,6 +4952,14 @@
       "zh": "水果棒冰",
       "zh-CN": "水果棒冰",
       "zh-TW": "水果冰棒"
+    },
+    "slug": "fruit-popsicle",
+    "sprite": {
+      "height": 26,
+      "sheet": "30aff9f5",
+      "width": 18,
+      "x": 97,
+      "y": 178
     },
     "tags": [
       "item",
@@ -4393,7 +4981,6 @@
       "zh-CN": "想要品尝这世代流传的美味，需要提前一年预定。增加一个红心容器",
       "zh-TW": "抱歉，我不懂壽司。新增一個血槽。"
     },
-    "id": "3_item_red_06",
     "name": {
       "de": "SASHIMI-SUSHI",
       "en-US": "SASHIMI SUSHI",
@@ -4405,6 +4992,14 @@
       "zh": "秘制寿司",
       "zh-CN": "秘制寿司",
       "zh-TW": "刺身壽司"
+    },
+    "slug": "sashimi-sushi",
+    "sprite": {
+      "height": 18,
+      "sheet": "30aff9f5",
+      "width": 27,
+      "x": 0,
+      "y": 218
     },
     "tags": [
       "item",
@@ -4426,7 +5021,6 @@
       "zh-CN": "里边有点魔法的味道。小心上头！增加一个红心容器和水晶容器。",
       "zh-TW": "別把啤酒誤認為奶昔了。新增一個血槽和一個水晶槽。"
     },
-    "id": "3_item_red_07",
     "name": {
       "de": "SAHNEBIER",
       "en-US": "CREAMBEER",
@@ -4438,6 +5032,14 @@
       "zh": "奶油饮料",
       "zh-CN": "奶油啤酒",
       "zh-TW": "奶油啤酒"
+    },
+    "slug": "creambeer",
+    "sprite": {
+      "height": 26,
+      "sheet": "30aff9f5",
+      "width": 20,
+      "x": 199,
+      "y": 189
     },
     "tags": [
       "item",
@@ -4459,7 +5061,6 @@
       "zh-CN": "自由！美味！力量！增加护盾和红心容器。",
       "zh-TW": "勇氣的美妙滋味！新增護盾和一個血槽。"
     },
-    "id": "3_item_red_08",
     "name": {
       "de": "TAPFERKEITSKEKSE",
       "en-US": "BRAVE COOKIES",
@@ -4471,6 +5072,14 @@
       "zh": "勇敢的饼干",
       "zh-CN": "勇敢的饼干",
       "zh-TW": "勇敢餅乾"
+    },
+    "slug": "brave-cookies",
+    "sprite": {
+      "height": 24,
+      "sheet": "30aff9f5",
+      "width": 24,
+      "x": 292,
+      "y": 147
     },
     "tags": [
       "item",
@@ -4492,7 +5101,6 @@
       "zh-CN": "因为铲屎有功，你获得了一些小礼物。同时增加一个红心容器。",
       "zh-TW": "你會得到貓的報恩，同時新增一個血槽。"
     },
-    "id": "3_item_red_09",
     "name": {
       "de": "DOSENFUTTER FÜR KATZEN",
       "en-US": "CANNED CAT FOOD",
@@ -4504,6 +5112,14 @@
       "zh": "猫罐头",
       "zh-CN": "猫罐头",
       "zh-TW": "貓罐頭"
+    },
+    "slug": "canned-cat-food",
+    "sprite": {
+      "height": 25,
+      "sheet": "30aff9f5",
+      "width": 24,
+      "x": 274,
+      "y": 230
     },
     "tags": [
       "item",
@@ -4525,7 +5141,6 @@
       "zh-CN": "最顶级的牛肉！兵库县的骄傲！增加一个红心容器。",
       "zh-TW": "最頂級的牛排！新增一個血槽。"
     },
-    "id": "3_item_red_10",
     "name": {
       "de": "TOBE-FLEISCH",
       "en-US": "TOBE BEEF",
@@ -4537,6 +5152,14 @@
       "zh": "神户牛排",
       "zh-CN": "神户牛排",
       "zh-TW": "和牛牛排"
+    },
+    "slug": "tobe-beef",
+    "sprite": {
+      "height": 26,
+      "sheet": "30aff9f5",
+      "width": 26,
+      "x": 172,
+      "y": 193
     },
     "tags": [
       "item",
@@ -4558,7 +5181,6 @@
       "zh-CN": "瓶中回响着幽幽的呢喃。增加一个红心容器并回复部分红心。",
       "zh-TW": "瓶中迴盪著幽幽的呢喃...新增一個血槽並恢復部分紅心。"
     },
-    "id": "3_item_red_11",
     "name": {
       "de": "SEELENFLASCHE",
       "en-US": "SOUL FLASK",
@@ -4570,6 +5192,14 @@
       "zh": "魂素瓶",
       "zh-CN": "魂素瓶",
       "zh-TW": "聚魂瓶"
+    },
+    "slug": "soul-flask",
+    "sprite": {
+      "height": 26,
+      "sheet": "30aff9f5",
+      "width": 26,
+      "x": 219,
+      "y": 189
     },
     "tags": [
       "item",
@@ -4591,7 +5221,6 @@
       "zh-CN": "一种只有矮人才知道的根茎类食物。增加一个红心容器。",
       "zh-TW": "只有矮人才知道的根莖類食物。新增一個血槽。"
     },
-    "id": "3_item_red_12",
     "name": {
       "de": "ERDBROT",
       "en-US": "EARTH BREAD",
@@ -4603,6 +5232,14 @@
       "zh": "土面包",
       "zh-CN": "土面包",
       "zh-TW": "土麵包"
+    },
+    "slug": "earth-bread",
+    "sprite": {
+      "height": 27,
+      "sheet": "30aff9f5",
+      "width": 23,
+      "x": 27,
+      "y": 218
     },
     "tags": [
       "item",
@@ -4624,7 +5261,6 @@
       "zh-CN": "红红山楂圆又圆，你一串来我一串。增加一个红心容器。",
       "zh-TW": "穿成串的裹糖山楂。新增一個血槽。"
     },
-    "id": "3_item_red_13",
     "name": {
       "de": "TANGHULU",
       "en-US": "TANGHULU",
@@ -4636,6 +5272,14 @@
       "zh": "冰糖葫芦",
       "zh-CN": "冰糖葫芦",
       "zh-TW": "糖葫蘆"
+    },
+    "slug": "tanghulu",
+    "sprite": {
+      "height": 27,
+      "sheet": "30aff9f5",
+      "width": 20,
+      "x": 50,
+      "y": 218
     },
     "tags": [
       "item",
@@ -4657,7 +5301,6 @@
       "zh-CN": "黑色的镜片也挡不住你犀利的眼神。提高你的武器伤害。",
       "zh-TW": "少了光線的阻礙，就更好瞄準...增加武器傷害。"
     },
-    "id": "4_item_damage_01",
     "name": {
       "de": "BODYGUARD-BRILLE",
       "en-US": "BODYGUARD GLASSES",
@@ -4669,6 +5312,14 @@
       "zh": "大佬墨镜",
       "zh-CN": "大佬墨镜",
       "zh-TW": "保鑣墨鏡"
+    },
+    "slug": "bodyguard-glasses",
+    "sprite": {
+      "height": 19,
+      "sheet": "30aff9f5",
+      "width": 29,
+      "x": 92,
+      "y": 131
     },
     "tags": [
       "item",
@@ -4690,7 +5341,6 @@
       "zh-CN": "这个东西似乎有自己的想法。降低武器射速，但是大幅提高你的武器伤害。",
       "zh-TW": "它具有原始力量和野性本能，但難以駕馭。降低武器射速，但大幅增加武器傷害。"
     },
-    "id": "4_item_damage_02",
     "name": {
       "de": "BESTIENAMULETT",
       "en-US": "BEAST AMULET",
@@ -4702,6 +5352,14 @@
       "zh": "野兽护符",
       "zh-CN": "野兽护符",
       "zh-TW": "獸符"
+    },
+    "slug": "beast-amulet",
+    "sprite": {
+      "height": 24,
+      "sheet": "30aff9f5",
+      "width": 27,
+      "x": 70,
+      "y": 218
     },
     "tags": [
       "item",
@@ -4723,7 +5381,6 @@
       "zh-CN": "有个声音开始你脑中徘徊。提高你的武器伤害和近战伤害。",
       "zh-TW": "增加你的武器傷害和近戰傷害。突然嗜人肉也是很正常的事。"
     },
-    "id": "4_item_damage_03",
     "name": {
       "de": "TEUFELSHÖRNER",
       "en-US": "DEVIL HORN",
@@ -4735,6 +5392,14 @@
       "zh": "恐惧之角",
       "zh-CN": "恐惧之角",
       "zh-TW": "惡魔角"
+    },
+    "slug": "devil-horn",
+    "sprite": {
+      "height": 22,
+      "sheet": "30aff9f5",
+      "width": 25,
+      "x": 298,
+      "y": 230
     },
     "tags": [
       "item",
@@ -4756,7 +5421,6 @@
       "zh-CN": "财富也是一种超能力。提高你的武器伤害和子弹飞行速度。",
       "zh-TW": "增加武器傷害，並提高子彈飛行速度。由卓越史塔克有限公司製造。（如遇斷肢情形，本公司恕不承擔任何責任）"
     },
-    "id": "4_item_damage_04",
     "name": {
       "de": "STARK-MODUL",
       "en-US": "STARK MODULE",
@@ -4768,6 +5432,14 @@
       "zh": "史塔克模块",
       "zh-CN": "史塔克模块",
       "zh-TW": "史塔克組件"
+    },
+    "slug": "stark-module",
+    "sprite": {
+      "height": 19,
+      "sheet": "30aff9f5",
+      "width": 29,
+      "x": 63,
+      "y": 148
     },
     "tags": [
       "item",
@@ -4789,7 +5461,6 @@
       "zh-CN": "纪律高于一切！提高你的武器伤害和移动速度。",
       "zh-TW": "紀律為上。增加你的移動速度和武器傷害。"
     },
-    "id": "4_item_damage_05",
     "name": {
       "de": "EHRENMEDAILLE",
       "en-US": "MEDAL OF HONOR",
@@ -4801,6 +5472,14 @@
       "zh": "荣誉勋章",
       "zh-CN": "荣誉勋章",
       "zh-TW": "榮譽勳章"
+    },
+    "slug": "medal-of-honor",
+    "sprite": {
+      "height": 27,
+      "sheet": "30aff9f5",
+      "width": 23,
+      "x": 97,
+      "y": 218
     },
     "tags": [
       "item",
@@ -4822,7 +5501,6 @@
       "zh-CN": "你心中的空洞似乎和这枚硬币产生了某种共鸣。提高你的武器伤害和攻击速度。",
       "zh-TW": "這個世界有一個缺口...你的靈魂也是。提高你的武器傷害和射速。"
     },
-    "id": "4_item_damage_06",
     "name": {
       "de": "LEERENMÜNZE",
       "en-US": "VOID COIN",
@@ -4834,6 +5512,14 @@
       "zh": "虚空硬币",
       "zh-CN": "虚空硬币",
       "zh-TW": "虛無之幣"
+    },
+    "slug": "void-coin",
+    "sprite": {
+      "height": 24,
+      "sheet": "30aff9f5",
+      "width": 24,
+      "x": 299,
+      "y": 122
     },
     "tags": [
       "item",
@@ -4855,7 +5541,6 @@
       "zh-CN": "疼痛是最好的老师。提高你的武器伤害和射击速度。",
       "zh-TW": "超越疼痛，將疼痛化為力量。提高你的武器傷害和射速。"
     },
-    "id": "4_item_damage_07",
     "name": {
       "de": "SCHMERZSENKUNG",
       "en-US": "PAIN DROP",
@@ -4867,6 +5552,14 @@
       "zh": "止痛药",
       "zh-CN": "止痛药",
       "zh-TW": "止痛藥"
+    },
+    "slug": "pain-drop",
+    "sprite": {
+      "height": 24,
+      "sheet": "30aff9f5",
+      "width": 19,
+      "x": 301,
+      "y": 98
     },
     "tags": [
       "item",
@@ -4888,7 +5581,6 @@
       "zh-CN": "对某些人来说...这个就是生活的意义。大幅提高你的武器伤害。",
       "zh-TW": "喝一口看看，充分浸潤嘴巴後，再來一口。大幅增加你的武器傷害。"
     },
-    "id": "4_item_damage_08",
     "name": {
       "de": "FLACHMANN",
       "en-US": "HIP FLASK",
@@ -4900,6 +5592,14 @@
       "zh": "扁水壶",
       "zh-CN": "扁酒壶",
       "zh-TW": "隨身酒壺"
+    },
+    "slug": "hip-flask",
+    "sprite": {
+      "height": 23,
+      "sheet": "30aff9f5",
+      "width": 20,
+      "x": 322,
+      "y": 190
     },
     "tags": [
       "item",
@@ -4921,7 +5621,6 @@
       "zh-CN": "火力不够，数量来凑。每次射击可以多发射一个子弹，并增加你的武器伤害。",
       "zh-TW": "把他們全宰了。多加武器單發子彈數量並提高你的武器傷害。"
     },
-    "id": "4_item_multibullet_01",
     "name": {
       "de": "GARAND-MAGAZIN",
       "en-US": "GARAND CLIP",
@@ -4933,6 +5632,14 @@
       "zh": "加兰德弹夹",
       "zh-CN": "加兰德弹夹",
       "zh-TW": "加蘭德彈夾"
+    },
+    "slug": "garand-clip",
+    "sprite": {
+      "height": 27,
+      "sheet": "30aff9f5",
+      "width": 23,
+      "x": 120,
+      "y": 197
     },
     "tags": [
       "item",
@@ -4954,7 +5661,6 @@
       "zh-CN": "对不起，我是警察。每次射击可以多发射一个子弹，并提高子弹飞行速度。",
       "zh-TW": "你有權保持緘默...但要等你安息之後。多加武器單發子彈數量並提高子彈飛行速度。"
     },
-    "id": "4_item_multibullet_02",
     "name": {
       "de": "POLIZEIMARKE",
       "en-US": "POLICE BADGE",
@@ -4966,6 +5672,14 @@
       "zh": "闪亮警徽",
       "zh-CN": "闪亮警徽",
       "zh-TW": "警徽"
+    },
+    "slug": "police-badge",
+    "sprite": {
+      "height": 25,
+      "sheet": "30aff9f5",
+      "width": 23,
+      "x": 256,
+      "y": 0
     },
     "tags": [
       "item",
@@ -4987,7 +5701,6 @@
       "zh-CN": "抢占先机才能取得胜利。每次射击可以多发射一个子弹，并增加你的移动速度。",
       "zh-TW": "獲勝祕訣在於策略、時機...和撐到最後。多加武器單發子彈數量並提高你的移動速度。"
     },
-    "id": "4_item_multibullet_03",
     "name": {
       "de": "GO!-SPIELBRETT",
       "en-US": "GO BOARD",
@@ -4999,6 +5712,14 @@
       "zh": "大师棋盘",
       "zh-CN": "大师棋盘",
       "zh-TW": "圍棋大師"
+    },
+    "slug": "go-board",
+    "sprite": {
+      "height": 23,
+      "sheet": "30aff9f5",
+      "width": 23,
+      "x": 323,
+      "y": 213
     },
     "tags": [
       "item",
@@ -5020,7 +5741,6 @@
       "zh-CN": "孩子们的最爱。每次射击可以多发射一个子弹，并增加你的武器射程。",
       "zh-TW": "往後拉緊...慢慢吐氣...放開！啪！多加武器單發子彈數量並提高你的武器射程。"
     },
-    "id": "4_item_multibullet_04",
     "name": {
       "de": "SCHLEUDER",
       "en-US": "SLINGSHOT",
@@ -5032,6 +5752,14 @@
       "zh": "强力弹弓",
       "zh-CN": "强力弹弓",
       "zh-TW": "彈弓"
+    },
+    "slug": "slingshot",
+    "sprite": {
+      "height": 24,
+      "sheet": "30aff9f5",
+      "width": 24,
+      "x": 302,
+      "y": 74
     },
     "tags": [
       "item",
@@ -5053,7 +5781,6 @@
       "zh-CN": "你从电影中学习到了如何战斗。每次射击可以多发射一个子弹，并增加武器伤害。",
       "zh-TW": "看電影習武。多加武器單發子彈數量並提高你的武器射程。"
     },
-    "id": "4_item_multibullet_05",
     "name": {
       "de": "FILMZEITSCHRIFT",
       "en-US": "FILM MAGAZINE",
@@ -5065,6 +5792,14 @@
       "zh": "电影杂志",
       "zh-CN": "电影杂志",
       "zh-TW": "電影雜誌"
+    },
+    "slug": "film-magazine",
+    "sprite": {
+      "height": 26,
+      "sheet": "30aff9f5",
+      "width": 26,
+      "x": 172,
+      "y": 219
     },
     "tags": [
       "item",
@@ -5086,7 +5821,6 @@
       "zh-CN": "令人毛骨悚然，却又让人想要发笑。每次射击可以多发射一个子弹。增加一个护盾。",
       "zh-TW": "誰來阻止我啊！多加武器單發子彈數量和一面護盾。"
     },
-    "id": "4_item_multibullet_06",
     "name": {
       "de": "SELTSAME MASKE",
       "en-US": "STRANGE MASK",
@@ -5098,6 +5832,14 @@
       "zh": "怪异面具",
       "zh-CN": "怪异面具",
       "zh-TW": "奇異面具"
+    },
+    "slug": "strange-mask",
+    "sprite": {
+      "height": 25,
+      "sheet": "30aff9f5",
+      "width": 23,
+      "x": 256,
+      "y": 25
     },
     "tags": [
       "item",
@@ -5119,7 +5861,6 @@
       "zh-CN": "仅供大师锦标赛专用。提高你的武器射程和速度。",
       "zh-TW": "讓羽毛尾翼帶你飛向勝利。提高武器射程和射速。"
     },
-    "id": "4_item_range_01",
     "name": {
       "de": "PINKER DARTPFEIL",
       "en-US": "PINK DART",
@@ -5131,6 +5872,14 @@
       "zh": "粉色飞镖",
       "zh-CN": "粉色飞镖",
       "zh-TW": "粉紅飛鏢"
+    },
+    "slug": "pink-dart",
+    "sprite": {
+      "height": 23,
+      "sheet": "30aff9f5",
+      "width": 23,
+      "x": 342,
+      "y": 190
     },
     "tags": [
       "item",
@@ -5152,7 +5901,6 @@
       "zh-CN": "童年的快乐。提高你的武器射程和伤害。",
       "zh-TW": "讓它乘風翱翔...提高武器射程和傷害。"
     },
-    "id": "4_item_range_02",
     "name": {
       "de": "PAPIERFLIEGER",
       "en-US": "PAPER PLANE",
@@ -5164,6 +5912,14 @@
       "zh": "纸飞机",
       "zh-CN": "纸飞机",
       "zh-TW": "紙飛機"
+    },
+    "slug": "paper-plane",
+    "sprite": {
+      "height": 20,
+      "sheet": "30aff9f5",
+      "width": 28,
+      "x": 171,
+      "y": 173
     },
     "tags": [
       "item",
@@ -5185,7 +5941,6 @@
       "zh-CN": "你懂得如何在战斗中速战速决。提高你的武器射程，增加角色移动速度。",
       "zh-TW": "把他們殺個措手不及！提高武器射程和你的移動速度。"
     },
-    "id": "4_item_range_03",
     "name": {
       "de": "OPERATION: SCHATTEN",
       "en-US": "SHADOW OPERATION",
@@ -5197,6 +5952,14 @@
       "zh": "影子行动",
       "zh-CN": "影子行动",
       "zh-TW": "暗影行動"
+    },
+    "slug": "shadow-operation",
+    "sprite": {
+      "height": 25,
+      "sheet": "30aff9f5",
+      "width": 22,
+      "x": 256,
+      "y": 50
     },
     "tags": [
       "item",
@@ -5218,7 +5981,6 @@
       "zh-CN": "虽然已经烂大街了，但是有用！提高你的武器射程和角色跳跃高度。",
       "zh-TW": "提高你的武器射程和跳躍高度。"
     },
-    "id": "4_item_range_04",
     "name": {
       "de": "ZIELFERNROHR",
       "en-US": "TELESCOPIC SIGHT",
@@ -5230,6 +5992,14 @@
       "zh": "瞄准镜",
       "zh-CN": "瞄准镜",
       "zh-TW": "瞄準鏡"
+    },
+    "slug": "telescopic-sight",
+    "sprite": {
+      "height": 23,
+      "sheet": "30aff9f5",
+      "width": 24,
+      "x": 320,
+      "y": 98
     },
     "tags": [
       "item",
@@ -5251,7 +6021,6 @@
       "zh-CN": "看起来似乎有点眼熟...大幅提高你的射击速度。",
       "zh-TW": "這絕對是你見過最瘋狂的東西。大幅提高武器射速。"
     },
-    "id": "4_item_rate_01",
     "name": {
       "de": "VERRÜCKTE MASKE",
       "en-US": "MAD MASK",
@@ -5263,6 +6032,14 @@
       "zh": "疯狂面具",
       "zh-CN": "疯狂面具",
       "zh-TW": "瘋狂面具"
+    },
+    "slug": "mad-mask",
+    "sprite": {
+      "height": 25,
+      "sheet": "30aff9f5",
+      "width": 26,
+      "x": 198,
+      "y": 215
     },
     "tags": [
       "item",
@@ -5284,7 +6061,6 @@
       "zh-CN": "有效提升你的专注力和脾气。提高你的射击速度，增加移动速度。",
       "zh-TW": "加油好嗎？提高你的武器射速和移動速度。"
     },
-    "id": "4_item_rate_02",
     "name": {
       "de": "E-SPORT-HEADSET",
       "en-US": "E-SPORTS HEADSET",
@@ -5296,6 +6072,14 @@
       "zh": "电竞耳机",
       "zh-CN": "电竞耳机",
       "zh-TW": "電競耳機"
+    },
+    "slug": "e-sports-headset",
+    "sprite": {
+      "height": 24,
+      "sheet": "30aff9f5",
+      "width": 23,
+      "x": 297,
+      "y": 171
     },
     "tags": [
       "item",
@@ -5317,7 +6101,6 @@
       "zh-CN": "你从这个玩具中感悟到了风的名字。提高你的射击速度和武器伤害。",
       "zh-TW": "扣扳機的同時慢慢吐氣，為子彈添加更多力道。提高武器射速和武器傷害。"
     },
-    "id": "4_item_rate_03",
     "name": {
       "de": "PAPIERWINDRÄDCHEN",
       "en-US": "PAPER WINDMILLS",
@@ -5329,6 +6112,14 @@
       "zh": "大风车",
       "zh-CN": "大风车",
       "zh-TW": "紙風車"
+    },
+    "slug": "paper-windmills",
+    "sprite": {
+      "height": 26,
+      "sheet": "30aff9f5",
+      "width": 26,
+      "x": 224,
+      "y": 215
     },
     "tags": [
       "item",
@@ -5350,7 +6141,6 @@
       "zh-CN": "每次使用它的时候你都幻想着身处厦门的海边。提高你武器的射击速度和射程。",
       "zh-TW": "把子彈吹得更快、更遠。提高你的武器射程和射速。"
     },
-    "id": "4_item_rate_04",
     "name": {
       "de": "FÖN",
       "en-US": "HAIR DRYER",
@@ -5362,6 +6152,14 @@
       "zh": "吹风机",
       "zh-CN": "吹风机",
       "zh-TW": "吹風機"
+    },
+    "slug": "hair-dryer",
+    "sprite": {
+      "height": 23,
+      "sheet": "30aff9f5",
+      "width": 25,
+      "x": 256,
+      "y": 75
     },
     "tags": [
       "item",
@@ -5383,7 +6181,6 @@
       "zh-CN": "看起来就很疼！提高你的射击速度，并增加武器伤害。",
       "zh-TW": "感覺就很痛...提高武器射速和武器傷害。"
     },
-    "id": "4_item_rate_05",
     "name": {
       "de": "BOHRENDER SPRENGKOPF",
       "en-US": "DRILLING WARHEAD",
@@ -5395,6 +6192,14 @@
       "zh": "旋转弹头",
       "zh-CN": "旋转弹头",
       "zh-TW": "螺旋彈頭"
+    },
+    "slug": "drilling-warhead",
+    "sprite": {
+      "height": 29,
+      "sheet": "30aff9f5",
+      "width": 17,
+      "x": 31,
+      "y": 149
     },
     "tags": [
       "item",
@@ -5416,7 +6221,6 @@
       "zh-CN": "如果你还没打算睡，那我建议你再来一杯。提高你的射击速度。",
       "zh-TW": "咖啡因開始發揮效果了嗎？現在是開火時刻！提高武器射速。"
     },
-    "id": "4_item_rate_06",
     "name": {
       "de": "ESPRESSO",
       "en-US": "ESPRESSO",
@@ -5428,6 +6232,14 @@
       "zh": "浓缩咖啡",
       "zh-CN": "浓缩咖啡",
       "zh-TW": "濃縮咖啡"
+    },
+    "slug": "espresso",
+    "sprite": {
+      "height": 23,
+      "sheet": "30aff9f5",
+      "width": 21,
+      "x": 346,
+      "y": 213
     },
     "tags": [
       "item",
@@ -5449,7 +6261,6 @@
       "zh-CN": "增加护盾，升级你的武器。似乎和外星人有关。",
       "zh-TW": "遵從它的引導...增加護盾，並升級你的武器。"
     },
-    "id": "4_item_upgrade_01",
     "name": {
       "de": "BLAUES PROTOKOLL",
       "en-US": "BLUE PROTOCOL",
@@ -5461,6 +6272,14 @@
       "zh": "蓝色协议",
       "zh-CN": "蓝色协议",
       "zh-TW": "藍色協定"
+    },
+    "slug": "blue-protocol",
+    "sprite": {
+      "height": 24,
+      "sheet": "30aff9f5",
+      "width": 25,
+      "x": 278,
+      "y": 50
     },
     "tags": [
       "item",
@@ -5482,7 +6301,6 @@
       "zh-CN": "很容易安装和使用...升级你的武器，并增加射击速度。",
       "zh-TW": "應該很好安裝才對...升級你的武器，並提高武器射速。"
     },
-    "id": "4_item_upgrade_02",
     "name": {
       "de": "WADE-TECHNOLOGIE",
       "en-US": "WADE TECH",
@@ -5494,6 +6312,14 @@
       "zh": "韦恩科技",
       "zh-CN": "韦恩科技",
       "zh-TW": "韋德科技"
+    },
+    "slug": "wade-tech",
+    "sprite": {
+      "height": 21,
+      "sheet": "30aff9f5",
+      "width": 24,
+      "x": 316,
+      "y": 146
     },
     "tags": [
       "item",
@@ -5515,7 +6341,6 @@
       "zh-CN": "从此以后，你就是七大王国的头牌网红。升级你的武器，并增加子弹飞行速度。",
       "zh-TW": "連國王也認可。升級你的武器，並提高子彈飛行速度。"
     },
-    "id": "4_item_upgrade_03",
     "name": {
       "de": "LIKE VOM KÖNIG",
       "en-US": "LIKE OF THE KING",
@@ -5527,6 +6352,14 @@
       "zh": "点赞之手",
       "zh-CN": "点赞之手",
       "zh-TW": "國王大拇指"
+    },
+    "slug": "like-of-the-king",
+    "sprite": {
+      "height": 26,
+      "sheet": "30aff9f5",
+      "width": 24,
+      "x": 245,
+      "y": 169
     },
     "tags": [
       "item",
@@ -5548,7 +6381,6 @@
       "zh-CN": "力量也意味着责任。升级你的武器，略微增加你的跳跃高度和移动速度。",
       "zh-TW": "你正值巔峰狀態。升級武器，增加跳躍高度，並提高少量移動速度。"
     },
-    "id": "4_item_upgrade_04",
     "name": {
       "de": "SUPER-LOGO",
       "en-US": "SUPER LOGO",
@@ -5560,6 +6392,14 @@
       "zh": "超级标志",
       "zh-CN": "超级标志",
       "zh-TW": "超級標誌"
+    },
+    "slug": "super-logo",
+    "sprite": {
+      "height": 24,
+      "sheet": "30aff9f5",
+      "width": 24,
+      "x": 323,
+      "y": 121
     },
     "tags": [
       "item",
@@ -5581,7 +6421,6 @@
       "zh-CN": "似乎有着一段令人难忘的故事。升级你的武器，并增加你的移动速度。",
       "zh-TW": "你努力了這麼久。升級武器，並提高你的移動速度。"
     },
-    "id": "4_item_upgrade_05",
     "name": {
       "de": "SEALS-AUFNÄHER",
       "en-US": "SEALS PATCH",
@@ -5593,6 +6432,14 @@
       "zh": "海豹徽章",
       "zh-CN": "海豹徽章",
       "zh-TW": "海豹徽章"
+    },
+    "slug": "seals-patch",
+    "sprite": {
+      "height": 26,
+      "sheet": "30aff9f5",
+      "width": 29,
+      "x": 0,
+      "y": 156
     },
     "tags": [
       "item",
@@ -5614,7 +6461,6 @@
       "zh-CN": "当，当，当。升级你的武器，并增加武器伤害。",
       "zh-TW": "鏗鏗鏘鏘。升級武器，並提高武器傷害。"
     },
-    "id": "4_item_upgrade_06",
     "name": {
       "de": "SCHMIEDEHAMMER",
       "en-US": "SMITHING HAMMER",
@@ -5626,6 +6472,14 @@
       "zh": "锻造锤",
       "zh-CN": "锻造锤",
       "zh-TW": "鍛鐵鎚"
+    },
+    "slug": "smithing-hammer",
+    "sprite": {
+      "height": 25,
+      "sheet": "30aff9f5",
+      "width": 23,
+      "x": 256,
+      "y": 98
     },
     "tags": [
       "item",
@@ -5647,7 +6501,6 @@
       "zh-CN": "第一文明的遗物。升级你的武器，并略微增加角色移动速度。",
       "zh-TW": "第一文明的遺物。升級武器，並提高少量移動速度。"
     },
-    "id": "4_item_upgrade_07",
     "name": {
       "de": "GOLDENER APFEL",
       "en-US": "GOLDEN APPLE",
@@ -5659,6 +6512,14 @@
       "zh": "金苹果",
       "zh-CN": "金苹果",
       "zh-TW": "金蘋果"
+    },
+    "slug": "golden-apple",
+    "sprite": {
+      "height": 24,
+      "sheet": "30aff9f5",
+      "width": 23,
+      "x": 299,
+      "y": 195
     },
     "tags": [
       "item",
@@ -5680,7 +6541,6 @@
       "zh-CN": "它闪烁着令人敬畏的光芒。升级你的武器，并同时增加近战和武器伤害。",
       "zh-TW": "具有絕對能量！升級武器，並同時提高近戰和武器傷害。"
     },
-    "id": "4_item_upgrade_08",
     "name": {
       "de": "DIAMANT DER MACHT",
       "en-US": "POWER DIAMOND",
@@ -5692,6 +6552,14 @@
       "zh": "力量宝石",
       "zh-CN": "力量宝石",
       "zh-TW": "能量寶鑽"
+    },
+    "slug": "power-diamond",
+    "sprite": {
+      "height": 25,
+      "sheet": "b0bc91af",
+      "width": 22,
+      "x": 104,
+      "y": 173
     },
     "tags": [
       "item",
@@ -5713,7 +6581,6 @@
       "zh-CN": "会在角色周围间歇性的生成一个闪电光环，对敌人造成接触闪电伤害。",
       "zh-TW": "你的周圍將產生一道閃電光環，並對附近敵人造成傷害。"
     },
-    "id": "5_01_item_aura_elec",
     "name": {
       "de": "TESLA-SPULE",
       "en-US": "TESLA COIL",
@@ -5725,6 +6592,14 @@
       "zh": "特斯拉电圈",
       "zh-CN": "特斯拉电圈",
       "zh-TW": "特斯拉線圈"
+    },
+    "slug": "tesla-coil",
+    "sprite": {
+      "height": 25,
+      "sheet": "b0bc91af",
+      "width": 21,
+      "x": 78,
+      "y": 177
     },
     "tags": [
       "item",
@@ -5746,7 +6621,6 @@
       "zh-CN": "等价交换！获得飞行能力，减少一个红心容器。",
       "zh-TW": "一點小小犧牲不算什麼...用一個血槽換得飛行能力。"
     },
-    "id": "5_01_item_fly_devil",
     "name": {
       "de": "DÄMONENFLÜGEL",
       "en-US": "DEMON WINGS",
@@ -5758,6 +6632,14 @@
       "zh": "黑暗之翼",
       "zh-CN": "黑暗之翼",
       "zh-TW": "惡魔之翼"
+    },
+    "slug": "demon-wings",
+    "sprite": {
+      "height": 28,
+      "sheet": "b0bc91af",
+      "width": 29,
+      "x": 54,
+      "y": 28
     },
     "tags": [
       "item",
@@ -5779,7 +6661,6 @@
       "zh-CN": "你似乎有点明白这个世界是怎么回事了。获得飞行能力，移动速度增加。",
       "zh-TW": "你的靈魂膨脹，感覺自己的雙腳也開始離地...提高你的移動速度。"
     },
-    "id": "5_01_item_fly_god",
     "name": {
       "de": "GÖTTLICHKEIT",
       "en-US": "DIVINITY",
@@ -5791,6 +6672,14 @@
       "zh": "神性",
       "zh-CN": "神性",
       "zh-TW": "神威"
+    },
+    "slug": "divinity",
+    "sprite": {
+      "height": 25,
+      "sheet": "b0bc91af",
+      "width": 26,
+      "x": 0,
+      "y": 126
     },
     "tags": [
       "item",
@@ -5812,7 +6701,6 @@
       "zh-CN": "来自古希腊的祝福！获得飞行能力！这感觉太妙了！",
       "zh-TW": "你感覺變得強壯，背上還添了翼。展翅高飛吧！"
     },
-    "id": "5_01_item_fly_pega",
     "name": {
       "de": "PEGASUS",
       "en-US": "PEGASUS",
@@ -5824,6 +6712,14 @@
       "zh": "天马的祝福",
       "zh-CN": "天马的祝福",
       "zh-TW": "飛馬"
+    },
+    "slug": "pegasus",
+    "sprite": {
+      "height": 27,
+      "sheet": "b0bc91af",
+      "width": 29,
+      "x": 62,
+      "y": 0
     },
     "tags": [
       "item",
@@ -5845,7 +6741,6 @@
       "zh-CN": "一顶可以让你变小的帽子。对，是绿色的。",
       "zh-TW": "戴綠帽降低了你的高度...因為它會讓你縮小。從全新的角度看世界吧！"
     },
-    "id": "5_01_item_hero_sizeDOWN",
     "name": {
       "de": "GRÜNE KAPPE",
       "en-US": "GREEN CAP",
@@ -5857,6 +6752,14 @@
       "zh": "缩小帽",
       "zh-CN": "缩小帽",
       "zh-TW": "綠帽"
+    },
+    "slug": "green-cap",
+    "sprite": {
+      "height": 20,
+      "sheet": "b0bc91af",
+      "width": 24,
+      "x": 252,
+      "y": 0
     },
     "tags": [
       "item",
@@ -5878,7 +6781,6 @@
       "zh-CN": "生日快乐！你长大了！并且受伤时有概率回复红心。",
       "zh-TW": "寫著「生日快樂」字樣的蛋糕。你不僅長大了，受傷時還有機會恢復紅心。"
     },
-    "id": "5_01_item_hero_sizeUP",
     "name": {
       "de": "GEBURTSTAGSKUCHEN",
       "en-US": "BIRTHDAY CAKE",
@@ -5890,6 +6792,14 @@
       "zh": "生日蛋糕",
       "zh-CN": "生日蛋糕",
       "zh-TW": "生日蛋糕"
+    },
+    "slug": "birthday-cake",
+    "sprite": {
+      "height": 24,
+      "sheet": "b0bc91af",
+      "width": 26,
+      "x": 26,
+      "y": 126
     },
     "tags": [
       "item",
@@ -5911,7 +6821,6 @@
       "zh-CN": "跳跃可以对敌人造成伤害。是时候去浪一下了。",
       "zh-TW": "跳躍時可以對敵人造成傷害。開始狂歡吧！"
     },
-    "id": "5_01_item_jump_attack",
     "name": {
       "de": "ROTER HUT",
       "en-US": "RED HAT",
@@ -5923,6 +6832,14 @@
       "zh": "水管工帽",
       "zh-CN": "水管工帽",
       "zh-TW": "水管工紅帽"
+    },
+    "slug": "red-hat",
+    "sprite": {
+      "height": 20,
+      "sheet": "b0bc91af",
+      "width": 25,
+      "x": 24,
+      "y": 174
     },
     "tags": [
       "item",
@@ -5944,7 +6861,6 @@
       "zh-CN": "每次跳跃，都将在脚下生成一个延时地雷。是不是很带感？",
       "zh-TW": "你每次跳躍時，都會在原地放置一枚地雷。是不是帥到爆啊？"
     },
-    "id": "5_01_item_jump_bomb",
     "name": {
       "de": "GEFÄHRLICHE MINE",
       "en-US": "DANGEROUS MINE",
@@ -5956,6 +6872,14 @@
       "zh": "弹性地雷",
       "zh-CN": "弹性地雷",
       "zh-TW": "危險地雷"
+    },
+    "slug": "dangerous-mine",
+    "sprite": {
+      "height": 23,
+      "sheet": "b0bc91af",
+      "width": 24,
+      "x": 254,
+      "y": 20
     },
     "tags": [
       "item",
@@ -5977,7 +6901,6 @@
       "zh-CN": "在空中状态可以向下发射子弹。让他们在仰视你的过程中临终吧！",
       "zh-TW": "在空中時可以向下發射子彈。"
     },
-    "id": "5_01_item_jump_shootdown",
     "name": {
       "de": "FATALER TANZ",
       "en-US": "FATAL DANCE",
@@ -5989,6 +6912,14 @@
       "zh": "御姐之舞",
       "zh-CN": "御姐之舞",
       "zh-TW": "致命之舞"
+    },
+    "slug": "fatal-dance",
+    "sprite": {
+      "height": 24,
+      "sheet": "b0bc91af",
+      "width": 24,
+      "x": 234,
+      "y": 207
     },
     "tags": [
       "item",
@@ -6010,7 +6941,6 @@
       "zh-CN": "光芒似乎很温暖。从下层开始，每层多一个道具房间。",
       "zh-TW": "好溫暖的光芒。從下個關卡開始，每個新關卡多一個寶物房。"
     },
-    "id": "5_01_item_map_extra_golden",
     "name": {
       "de": "GOLDENE FACKEL",
       "en-US": "GOLDEN TORCH",
@@ -6022,6 +6952,14 @@
       "zh": "金色火炬",
       "zh-CN": "金色火炬",
       "zh-TW": "金色火炬"
+    },
+    "slug": "golden-torch",
+    "sprite": {
+      "height": 26,
+      "sheet": "b0bc91af",
+      "width": 24,
+      "x": 180,
+      "y": 106
     },
     "tags": [
       "item",
@@ -6043,7 +6981,6 @@
       "zh-CN": "它可以看到所有的一切。包括你内心的渴望和恐惧。",
       "zh-TW": "什麼都逃不出它的視線！連你內心的渴望和恐懼都看得一清二楚。"
     },
-    "id": "5_01_item_map_eye",
     "name": {
       "de": "AUGE OHNE LID",
       "en-US": "LIDLESS EYE",
@@ -6055,6 +6992,14 @@
       "zh": "魔君之眼",
       "zh-CN": "魔君之眼",
       "zh-TW": "魔眼"
+    },
+    "slug": "lidless-eye",
+    "sprite": {
+      "height": 24,
+      "sheet": "b0bc91af",
+      "width": 28,
+      "x": 81,
+      "y": 80
     },
     "tags": [
       "item",
@@ -6076,7 +7021,6 @@
       "zh-CN": "显示出每一层的地图结构，很多人拿它来干坏事。",
       "zh-TW": "揭示真相。顯示出地圖上的所有房間。"
     },
-    "id": "5_01_item_map_full",
     "name": {
       "de": "SILBERNER KOMPASS",
       "en-US": "SILVER COMPASS",
@@ -6088,6 +7032,14 @@
       "zh": "白银罗盘",
       "zh-CN": "白银罗盘",
       "zh-TW": "銀色羅盤"
+    },
+    "slug": "silver-compass",
+    "sprite": {
+      "height": 23,
+      "sheet": "b0bc91af",
+      "width": 23,
+      "x": 279,
+      "y": 89
     },
     "tags": [
       "item",
@@ -6109,7 +7061,6 @@
       "zh-CN": "在地图上显示所有隐藏房间图标。背后有个模糊的署名：杰克船长。",
       "zh-TW": "在地圖上標出所有隱藏房間。藏寶圖背面隱約可見一個署名：傑克...船長？"
     },
-    "id": "5_01_item_map_icon_hidden",
     "name": {
       "de": "SCHATZKARTE",
       "en-US": "TREASURE MAP",
@@ -6121,6 +7072,14 @@
       "zh": "藏宝图",
       "zh-CN": "藏宝图",
       "zh-TW": "藏寶圖"
+    },
+    "slug": "treasure-map",
+    "sprite": {
+      "height": 24,
+      "sheet": "b0bc91af",
+      "width": 24,
+      "x": 246,
+      "y": 182
     },
     "tags": [
       "item",
@@ -6142,7 +7101,6 @@
       "zh-CN": "嘀嘀嘀，目标已经锁定。在地图上显示所有特殊房间图标。",
       "zh-TW": "嗶嗶嗶。在地圖上標出所有祕密。"
     },
-    "id": "5_01_item_map_icon_sp",
     "name": {
       "de": "MINIRADAR",
       "en-US": "MINI RADAR",
@@ -6154,6 +7112,14 @@
       "zh": "寻宝雷达",
       "zh-CN": "寻宝雷达",
       "zh-TW": "迷你雷達"
+    },
+    "slug": "mini-radar",
+    "sprite": {
+      "height": 23,
+      "sheet": "b0bc91af",
+      "width": 24,
+      "x": 234,
+      "y": 231
     },
     "tags": [
       "item",
@@ -6175,7 +7141,6 @@
       "zh-CN": "一把非常实用的小工具，可以自动打开附近的隐藏房间。",
       "zh-TW": "很好用的工具。顯示附近所有隱藏房間。"
     },
-    "id": "5_01_item_map_reveal",
     "name": {
       "de": "KLEINE SPITZHACKE",
       "en-US": "LITTLE PICKAXE",
@@ -6187,6 +7152,14 @@
       "zh": "小锄头",
       "zh-CN": "小锄头",
       "zh-TW": "小十字鎬"
+    },
+    "slug": "little-pickaxe",
+    "sprite": {
+      "height": 26,
+      "sheet": "b0bc91af",
+      "width": 25,
+      "x": 204,
+      "y": 106
     },
     "tags": [
       "item",
@@ -6208,7 +7181,6 @@
       "zh-CN": "这是一件传奇的战利品。当你被击败后可以原地复活！（只可使用一次）",
       "zh-TW": "這是一個傳奇戰利品。死亡後可復活。（限使用一次）"
     },
-    "id": "5_01_item_revive_aegis",
     "name": {
       "de": "UNSTERBLICHES HERZ",
       "en-US": "IMMORTAL HEART",
@@ -6220,6 +7192,14 @@
       "zh": "不朽之心",
       "zh-CN": "不朽之心",
       "zh-TW": "不朽之心"
+    },
+    "slug": "immortal-heart",
+    "sprite": {
+      "height": 24,
+      "sheet": "b0bc91af",
+      "width": 26,
+      "x": 229,
+      "y": 106
     },
     "tags": [
       "item",
@@ -6241,7 +7221,6 @@
       "zh-CN": "依靠它的力量，你将再次站起来。但是你感觉有些不同…（只可使用一次）",
       "zh-TW": "死亡後可以復活，但感覺會...不太一樣。（限使用一次）"
     },
-    "id": "5_01_item_revive_coin",
     "name": {
       "de": "SONNENMÜNZE",
       "en-US": "SUN COIN",
@@ -6253,6 +7232,14 @@
       "zh": "太阳金币",
       "zh-CN": "太阳金币",
       "zh-TW": "太陽金幣"
+    },
+    "slug": "sun-coin",
+    "sprite": {
+      "height": 24,
+      "sheet": "b0bc91af",
+      "width": 25,
+      "x": 147,
+      "y": 150
     },
     "tags": [
       "item",
@@ -6274,7 +7261,6 @@
       "zh-CN": "依靠它的力量，你将再次站起来。但是你感觉有些不同…（只能使用一次）",
       "zh-TW": "死亡後可以復活，但會...感覺疲憊。（限使用一次）"
     },
-    "id": "5_01_item_revive_fire",
     "name": {
       "de": "HERZ DES FEUERS",
       "en-US": "HEART OF FIRE",
@@ -6286,6 +7272,14 @@
       "zh": "圣焰之心",
       "zh-CN": "圣焰之心",
       "zh-TW": "火焰之心"
+    },
+    "slug": "heart-of-fire",
+    "sprite": {
+      "height": 27,
+      "sheet": "b0bc91af",
+      "width": 20,
+      "x": 153,
+      "y": 76
     },
     "tags": [
       "item",
@@ -6307,7 +7301,6 @@
       "zh-CN": "你处于一种难以描述的状态…当你被击败后有一定概率复活。",
       "zh-TW": "你究竟是死是活？要等你死後醒來才知道...但你也可能不會醒來。"
     },
-    "id": "5_01_item_revive_gamble",
     "name": {
       "de": "SCHRÖDINGERS WETTE",
       "en-US": "SCHRÖDINGER'S BET",
@@ -6319,6 +7312,14 @@
       "zh": "薛定谔的筹码",
       "zh-CN": "薛定谔的筹码",
       "zh-TW": "薛丁格的賭注"
+    },
+    "slug": "schrodinger's-bet",
+    "sprite": {
+      "height": 25,
+      "sheet": "b0bc91af",
+      "width": 25,
+      "x": 49,
+      "y": 190
     },
     "tags": [
       "item",
@@ -6340,7 +7341,6 @@
       "zh-CN": "不必拾取道具也可以预览到道具的详细信息。",
       "zh-TW": "不必拾取道具即可預覽道具的詳細內容。"
     },
-    "id": "5_01_item_wiki",
     "name": {
       "de": "INNERES AUGE",
       "en-US": "INNER EYE",
@@ -6352,6 +7352,14 @@
       "zh": "天眼",
       "zh-CN": "天眼",
       "zh-TW": "天眼"
+    },
+    "slug": "inner-eye",
+    "sprite": {
+      "height": 28,
+      "sheet": "b0bc91af",
+      "width": 22,
+      "x": 0,
+      "y": 58
     },
     "tags": [
       "item",
@@ -6373,7 +7381,6 @@
       "zh-CN": "金币3秒之后不捡会爆炸。时间就是金钱，对吗。",
       "zh-TW": "若3秒內未撿起這枚金幣就會爆炸。時間就是金錢不是嗎？"
     },
-    "id": "5_02_item_coin_bomb",
     "name": {
       "de": "MÜNZBOMBE",
       "en-US": "COIN BOMB",
@@ -6385,6 +7392,14 @@
       "zh": "金币炸弹",
       "zh-CN": "金币炸弹",
       "zh-TW": "金幣炸彈"
+    },
+    "slug": "coin-bomb",
+    "sprite": {
+      "height": 24,
+      "sheet": "b0bc91af",
+      "width": 24,
+      "x": 247,
+      "y": 156
     },
     "tags": [
       "item",
@@ -6406,7 +7421,6 @@
       "zh-CN": "你拥有的金币越多，你的武器伤害就越高。",
       "zh-TW": "你擁有的金幣越多，你的武器傷害就越高。"
     },
-    "id": "5_02_item_coin_damage",
     "name": {
       "de": "SÖLDNERANFÜHRER",
       "en-US": "MERCENARY LORD",
@@ -6418,6 +7432,14 @@
       "zh": "佣兵之王",
       "zh-CN": "佣兵之王",
       "zh-TW": "傭兵之王"
+    },
+    "slug": "mercenary-lord",
+    "sprite": {
+      "height": 25,
+      "sheet": "b0bc91af",
+      "width": 29,
+      "x": 91,
+      "y": 0
     },
     "tags": [
       "item",
@@ -6439,7 +7461,6 @@
       "zh-CN": "使用金币后有概率获得一个守护精灵。谁不想捧起它亲一口呢。",
       "zh-TW": "使用金幣時有機會獲得一隻守護精靈。你不想捧起來親一下嗎？"
     },
-    "id": "5_02_item_coin_gs",
     "name": {
       "de": "GOLDENE STATUETTE",
       "en-US": "GOLDEN STATUETTE",
@@ -6451,6 +7472,14 @@
       "zh": "小金人",
       "zh-CN": "小金人",
       "zh-TW": "小金人"
+    },
+    "slug": "golden-statuette",
+    "sprite": {
+      "height": 26,
+      "sheet": "b0bc91af",
+      "width": 25,
+      "x": 229,
+      "y": 130
     },
     "tags": [
       "item",
@@ -6472,7 +7501,6 @@
       "zh-CN": "付费玩家！拥有的金币越多，你能发射的子弹数量就越多。",
       "zh-TW": "想贏就付費吧！擁有的金幣越多，你能發射的子彈數量就越多。"
     },
-    "id": "5_02_item_coin_gun",
     "name": {
       "de": "KAMPFPASS",
       "en-US": "BATTLE PASS",
@@ -6484,6 +7512,14 @@
       "zh": "金卡",
       "zh-CN": "金卡",
       "zh-TW": "戰鬥通行證"
+    },
+    "slug": "battle-pass",
+    "sprite": {
+      "height": 19,
+      "sheet": "b0bc91af",
+      "width": 24,
+      "x": 276,
+      "y": 0
     },
     "tags": [
       "item",
@@ -6505,7 +7541,6 @@
       "zh-CN": "有钱之后，鸟叫都比之前悦耳了。你拥有的金币越多，武器射速越快。",
       "zh-TW": "擁有的金幣越多，射擊的速度越快。"
     },
-    "id": "5_02_item_coin_rpm",
     "name": {
       "de": "GOLDENER VOGEL",
       "en-US": "GOLDEN BIRD",
@@ -6517,6 +7552,14 @@
       "zh": "黄金鸟",
       "zh-CN": "黄金鸟",
       "zh-TW": "金鳥"
+    },
+    "slug": "golden-bird",
+    "sprite": {
+      "height": 25,
+      "sheet": "b0bc91af",
+      "width": 25,
+      "x": 172,
+      "y": 156
     },
     "tags": [
       "item",
@@ -6538,7 +7581,6 @@
       "zh-CN": "如果没有炸弹，你可以消耗蛋来替代。",
       "zh-TW": "如果沒有炸彈，你可以用寵物蛋來代替。"
     },
-    "id": "5_02_item_egg_instead_bomb",
     "name": {
       "de": "HAIKÖDER",
       "en-US": "SHARK BAIT",
@@ -6550,6 +7592,14 @@
       "zh": "鲨鱼诱饵",
       "zh-CN": "鲨鱼诱饵",
       "zh-TW": "鯊魚誘餌"
+    },
+    "slug": "shark-bait",
+    "sprite": {
+      "height": 27,
+      "sheet": "b0bc91af",
+      "width": 26,
+      "x": 162,
+      "y": 25
     },
     "tags": [
       "item",
@@ -6571,7 +7621,6 @@
       "zh-CN": "如果没有钥匙，你可以消耗蛋来替代。",
       "zh-TW": "如果沒有鑰匙，你可以用一顆寵物蛋來代替。"
     },
-    "id": "5_02_item_egg_instead_key",
     "name": {
       "de": "LEERE DOSE",
       "en-US": "EMPTY CAN",
@@ -6583,6 +7632,14 @@
       "zh": "空罐头",
       "zh-CN": "空罐头",
       "zh-TW": "空罐頭"
+    },
+    "slug": "empty-can",
+    "sprite": {
+      "height": 24,
+      "sheet": "b0bc91af",
+      "width": 25,
+      "x": 197,
+      "y": 176
     },
     "tags": [
       "item",
@@ -6604,7 +7661,6 @@
       "zh-CN": "愿圣光与你同在。红心恢复量翻倍！",
       "zh-TW": "願愛與你同在。恢復的紅心數量加倍。"
     },
-    "id": "5_02_item_heart_doublecure",
     "name": {
       "de": "GNADENKAPUZE",
       "en-US": "MERCY HOOD",
@@ -6616,6 +7672,14 @@
       "zh": "宽恕兜帽",
       "zh-CN": "宽恕兜帽",
       "zh-TW": "慈悲連衣帽"
+    },
+    "slug": "mercy-hood",
+    "sprite": {
+      "height": 27,
+      "sheet": "b0bc91af",
+      "width": 25,
+      "x": 188,
+      "y": 0
     },
     "tags": [
       "item",
@@ -6637,7 +7701,6 @@
       "zh-CN": "怒火燎原！满红心时伤害提高。",
       "zh-TW": "紅心全滿時，武器傷害更高。"
     },
-    "id": "5_02_item_heart_full_damageUP",
     "name": {
       "de": "KRONE DES KÖNIGS",
       "en-US": "KING'S CROWN",
@@ -6649,6 +7712,14 @@
       "zh": "王者之冠",
       "zh-CN": "王者之冠",
       "zh-TW": "王者之冠"
+    },
+    "slug": "king's-crown",
+    "sprite": {
+      "height": 17,
+      "sheet": "b0bc91af",
+      "width": 27,
+      "x": 22,
+      "y": 109
     },
     "tags": [
       "item",
@@ -6670,7 +7741,6 @@
       "zh-CN": "这个小豆子可不得了。恢复你的所有红心，武器射程提高。",
       "zh-TW": "這顆不可思議的豆子可恢復你所有的紅心，並提高你的武器射程。"
     },
-    "id": "5_02_item_heart_full_recover",
     "name": {
       "de": "ZAUBERBOHNE",
       "en-US": "MAGICAL BEAN",
@@ -6682,6 +7752,14 @@
       "zh": "仙豆",
       "zh-CN": "仙豆",
       "zh-TW": "魔豆"
+    },
+    "slug": "magical-bean",
+    "sprite": {
+      "height": 26,
+      "sheet": "b0bc91af",
+      "width": 21,
+      "x": 234,
+      "y": 80
     },
     "tags": [
       "item",
@@ -6703,7 +7781,6 @@
       "zh-CN": "空的红心容器越多，你的武器伤害越高。斯巴达！！！",
       "zh-TW": "紅心越少，武器傷害就越高。這就是斯巴達！"
     },
-    "id": "5_02_item_heart_less_damageUP",
     "name": {
       "de": "SPARTANISCHE VORFAHREN",
       "en-US": "SPARTAN LINEAGE",
@@ -6715,6 +7792,14 @@
       "zh": "斯巴达血统",
       "zh-CN": "斯巴达血统",
       "zh-TW": "斯巴達血統"
+    },
+    "slug": "spartan-lineage",
+    "sprite": {
+      "height": 30,
+      "sheet": "b0bc91af",
+      "width": 24,
+      "x": 0,
+      "y": 28
     },
     "tags": [
       "item",
@@ -6736,7 +7821,6 @@
       "zh-CN": "愤怒驱使着你。空的红心容器越多，你能发射的子弹越多。",
       "zh-TW": "憤怒驅使著你。紅心越少，你能發射的子彈數量就越多。"
     },
-    "id": "5_02_item_heart_less_gunlevelUP",
     "name": {
       "de": "BERSERKERBLUT",
       "en-US": "BERSERKER BLOOD",
@@ -6748,6 +7832,14 @@
       "zh": "狂战士之怒",
       "zh-CN": "狂战士之怒",
       "zh-TW": "狂戰士之血"
+    },
+    "slug": "berserker-blood",
+    "sprite": {
+      "height": 23,
+      "sheet": "b0bc91af",
+      "width": 26,
+      "x": 123,
+      "y": 125
     },
     "tags": [
       "item",
@@ -6769,7 +7861,6 @@
       "zh-CN": "所有红心掉落转化为护盾掉落。创造者稍稍修改了一点宇宙的规则。",
       "zh-TW": "掉出的紅心會變成護盾。反應爐創造者稍微修改了宇宙運行規則。"
     },
-    "id": "5_02_item_heart_to_shield",
     "name": {
       "de": "HOWARD-REAKTOR",
       "en-US": "HOWARD REACTOR",
@@ -6781,6 +7872,14 @@
       "zh": "方舟反应炉",
       "zh-CN": "方舟反应炉",
       "zh-TW": "方舟反應爐"
+    },
+    "slug": "howard-reactor",
+    "sprite": {
+      "height": 24,
+      "sheet": "b0bc91af",
+      "width": 22,
+      "x": 254,
+      "y": 130
     },
     "tags": [
       "item",
@@ -6802,7 +7901,6 @@
       "zh-CN": "每拾取一把钥匙，武器伤害会提高。每使用一把钥匙，武器伤害会降低。",
       "zh-TW": "每拾取一把鑰匙，武器傷害就會提高。每使用一把鑰匙，武器傷害就會降低。"
     },
-    "id": "5_02_item_key_dmg_up",
     "name": {
       "de": "AGENTENUHR",
       "en-US": "AGENT WATCH",
@@ -6814,6 +7912,14 @@
       "zh": "特工手表",
       "zh-CN": "特工手表",
       "zh-TW": "特務手錶"
+    },
+    "slug": "agent-watch",
+    "sprite": {
+      "height": 25,
+      "sheet": "b0bc91af",
+      "width": 22,
+      "x": 0,
+      "y": 177
     },
     "tags": [
       "item",
@@ -6835,7 +7941,6 @@
       "zh-CN": "如果没有炸弹，你可以消耗钥匙来替代。这种小装置在某些时刻非常好用。",
       "zh-TW": "如果沒有炸彈，你可以用鑰匙來代替。"
     },
-    "id": "5_02_item_key_instead_bomb",
     "name": {
       "de": "KUGELSCHREIBER NR. 7",
       "en-US": "PEN NO.7",
@@ -6847,6 +7952,14 @@
       "zh": "邦德钢笔",
       "zh-CN": "邦德钢笔",
       "zh-TW": "七號鋼筆"
+    },
+    "slug": "pen-no.7",
+    "sprite": {
+      "height": 29,
+      "sheet": "b0bc91af",
+      "width": 15,
+      "x": 83,
+      "y": 27
     },
     "tags": [
       "item",
@@ -6868,7 +7981,6 @@
       "zh-CN": "你拥有的钥匙越多，你的武器射速越高。",
       "zh-TW": "擁有的鑰匙越多，武器射擊的速度就越高。"
     },
-    "id": "5_02_item_key_rpm_up",
     "name": {
       "de": "STAHLZAHNRAD",
       "en-US": "STEEL GEAR",
@@ -6880,6 +7992,14 @@
       "zh": "钢铁齿轮",
       "zh-CN": "钢铁齿轮",
       "zh-TW": "鋼製齒輪"
+    },
+    "slug": "steel-gear",
+    "sprite": {
+      "height": 24,
+      "sheet": "b0bc91af",
+      "width": 24,
+      "x": 258,
+      "y": 206
     },
     "tags": [
       "item",
@@ -6901,7 +8021,6 @@
       "zh-CN": "使用钥匙后，有概率掉落即爆炸弹或普通炸弹。",
       "zh-TW": "每次使用鑰匙時，即有機會多掉出一顆炸彈或即爆地雷。"
     },
-    "id": "5_02_item_key_use_bomb",
     "name": {
       "de": "ROSTIGER SCHLÜSSEL",
       "en-US": "RUSTY KEY",
@@ -6913,6 +8032,14 @@
       "zh": "铁锈钥匙",
       "zh-CN": "铁锈钥匙",
       "zh-TW": "生鏽鑰匙"
+    },
+    "slug": "rusty-key",
+    "sprite": {
+      "height": 24,
+      "sheet": "b0bc91af",
+      "width": 24,
+      "x": 258,
+      "y": 230
     },
     "tags": [
       "item",
@@ -6934,7 +8061,6 @@
       "zh-CN": "使用钥匙后，有概率掉落蛋。",
       "zh-TW": "每次使用鑰匙時，即有機會掉出額外的寵物蛋。"
     },
-    "id": "5_02_item_key_use_egg",
     "name": {
       "de": "BÄRENANHÄNGER",
       "en-US": "BEAR PENDANT",
@@ -6946,6 +8072,14 @@
       "zh": "小熊吊坠",
       "zh-CN": "小熊吊坠",
       "zh-TW": "小熊吊飾"
+    },
+    "slug": "bear-pendant",
+    "sprite": {
+      "height": 28,
+      "sheet": "b0bc91af",
+      "width": 22,
+      "x": 22,
+      "y": 78
     },
     "tags": [
       "item",
@@ -6967,7 +8101,6 @@
       "zh-CN": "使用钥匙后，有概率获得愤怒精灵。",
       "zh-TW": "每次使用鑰匙時，即有機會獲得一隻憤怒精靈。"
     },
-    "id": "5_02_item_key_use_fs",
     "name": {
       "de": "BÖSER ARMREIF",
       "en-US": "EVIL BRACELET",
@@ -6979,6 +8112,14 @@
       "zh": "愤怒手环",
       "zh-CN": "愤怒手环",
       "zh-TW": "邪惡手環"
+    },
+    "slug": "evil-bracelet",
+    "sprite": {
+      "height": 25,
+      "sheet": "b0bc91af",
+      "width": 26,
+      "x": 149,
+      "y": 125
     },
     "tags": [
       "item",
@@ -7000,7 +8141,6 @@
       "zh-CN": "使用钥匙后，有概率掉落红心。",
       "zh-TW": "每次使用鑰匙時，即有機會掉出額外的紅心。"
     },
-    "id": "5_02_item_key_use_heart",
     "name": {
       "de": "HERZHALSKETTE",
       "en-US": "HEART NECKLACE",
@@ -7012,6 +8152,14 @@
       "zh": "爱心项链",
       "zh-CN": "爱心项链",
       "zh-TW": "心型項鍊"
+    },
+    "slug": "heart-necklace",
+    "sprite": {
+      "height": 27,
+      "sheet": "b0bc91af",
+      "width": 22,
+      "x": 213,
+      "y": 0
     },
     "tags": [
       "item",
@@ -7033,7 +8181,6 @@
       "zh-CN": "使用钥匙后，有概率获得保护罩，抵挡一次伤害。",
       "zh-TW": "每次使用鑰匙時，即有機會獲得防護罩。"
     },
-    "id": "5_02_item_key_use_shell",
     "name": {
       "de": "SCHMUCKKISTE",
       "en-US": "JEWELRY BOX",
@@ -7045,6 +8192,14 @@
       "zh": "华丽首饰盒",
       "zh-CN": "华丽首饰盒",
       "zh-TW": "珠寶盒"
+    },
+    "slug": "jewelry-box",
+    "sprite": {
+      "height": 24,
+      "sheet": "b0bc91af",
+      "width": 26,
+      "x": 175,
+      "y": 132
     },
     "tags": [
       "item",
@@ -7066,7 +8221,6 @@
       "zh-CN": "使用钥匙后，有概率掉落护盾。",
       "zh-TW": "每次使用鑰匙時，即有機會掉出額外的護盾。"
     },
-    "id": "5_02_item_key_use_shield",
     "name": {
       "de": "BLACK BOX",
       "en-US": "BLACK BOX",
@@ -7078,6 +8232,14 @@
       "zh": "黑匣子",
       "zh-CN": "黑匣子",
       "zh-TW": "黑盒子"
+    },
+    "slug": "black-box",
+    "sprite": {
+      "height": 18,
+      "sheet": "b0bc91af",
+      "width": 26,
+      "x": 201,
+      "y": 132
     },
     "tags": [
       "item",
@@ -7099,7 +8261,6 @@
       "zh-CN": "你似乎有一个天大的计划。满水晶的时候武器伤害增加。",
       "zh-TW": "水晶槽全滿時，武器傷害會增加。你有個天大的計畫。"
     },
-    "id": "5_02_item_mana_full_damageUP",
     "name": {
       "de": "ZAUBERSTRUDEL",
       "en-US": "MAGIC VORTEX",
@@ -7111,6 +8272,14 @@
       "zh": "魔法漩涡",
       "zh-CN": "魔法漩涡",
       "zh-TW": "魔法漩渦"
+    },
+    "slug": "magic-vortex",
+    "sprite": {
+      "height": 26,
+      "sheet": "b0bc91af",
+      "width": 22,
+      "x": 201,
+      "y": 150
     },
     "tags": [
       "item",
@@ -7132,7 +8301,6 @@
       "zh-CN": "它似乎能感应到魔法。空的水晶容器越多，你的武器伤害越高。",
       "zh-TW": "附近有魔法作用時，這枚貓面護身符會微微震動。你擁有的水晶越少，武器傷害就越高。"
     },
-    "id": "5_02_item_mana_less_damageUP",
     "name": {
       "de": "KATZENMEDAILLON",
       "en-US": "CAT MEDALLION",
@@ -7144,6 +8312,14 @@
       "zh": "白猫徽章",
       "zh-CN": "白猫徽章",
       "zh-TW": "貓面勛章"
+    },
+    "slug": "cat-medallion",
+    "sprite": {
+      "height": 26,
+      "sheet": "b0bc91af",
+      "width": 29,
+      "x": 98,
+      "y": 25
     },
     "tags": [
       "item",
@@ -7165,7 +8341,6 @@
       "zh-CN": "每次捡起硬币时有几率获得炸弹。",
       "zh-TW": "每次拾取金幣時，即有機會獲得額外的炸彈。"
     },
-    "id": "5_02_item_pick_coin_dropBomb",
     "name": {
       "de": "SMARAGDARMREIF",
       "en-US": "EMERALD BRACELET",
@@ -7177,6 +8352,14 @@
       "zh": "翡翠手环",
       "zh-CN": "翡翠手环",
       "zh-TW": "翡翠手環"
+    },
+    "slug": "emerald-bracelet",
+    "sprite": {
+      "height": 25,
+      "sheet": "b0bc91af",
+      "width": 23,
+      "x": 22,
+      "y": 194
     },
     "tags": [
       "item",
@@ -7198,7 +8381,6 @@
       "zh-CN": "每次捡起硬币时有几率获得红心。",
       "zh-TW": "每次拾取金幣時，即有機會獲得額外的紅心。"
     },
-    "id": "5_02_item_pick_coin_dropHeart",
     "name": {
       "de": "RUBIN-OHRRINGE",
       "en-US": "RUBY EARRINGS",
@@ -7210,6 +8392,14 @@
       "zh": "红宝石耳坠",
       "zh-CN": "红宝石耳坠",
       "zh-TW": "紅寶石耳環"
+    },
+    "slug": "ruby-earrings",
+    "sprite": {
+      "height": 26,
+      "sheet": "b0bc91af",
+      "width": 24,
+      "x": 223,
+      "y": 156
     },
     "tags": [
       "item",
@@ -7231,7 +8421,6 @@
       "zh-CN": "每次捡起硬币时有几率获得钥匙。",
       "zh-TW": "每次拾取金幣時，即有機會獲得額外的鑰匙。"
     },
-    "id": "5_02_item_pick_coin_dropKey",
     "name": {
       "de": "SILBERBROSCHE",
       "en-US": "SILVER BROOCH",
@@ -7243,6 +8432,14 @@
       "zh": "银色胸针",
       "zh-CN": "银色胸针",
       "zh-TW": "銀色胸針"
+    },
+    "slug": "silver-brooch",
+    "sprite": {
+      "height": 28,
+      "sheet": "b0bc91af",
+      "width": 22,
+      "x": 0,
+      "y": 86
     },
     "tags": [
       "item",
@@ -7264,7 +8461,6 @@
       "zh-CN": "每次捡起硬币时有几率获得水晶。",
       "zh-TW": "每次拾取金幣時，即有機會獲得額外的水晶。"
     },
-    "id": "5_02_item_pick_coin_dropMana",
     "name": {
       "de": "AMETHYST-HALSKETTE",
       "en-US": "AMETHYST NECKLACE",
@@ -7276,6 +8472,14 @@
       "zh": "紫水晶项链",
       "zh-CN": "紫水晶项链",
       "zh-TW": "紫水晶項鍊"
+    },
+    "slug": "amethyst-necklace",
+    "sprite": {
+      "height": 28,
+      "sheet": "b0bc91af",
+      "width": 24,
+      "x": 44,
+      "y": 81
     },
     "tags": [
       "item",
@@ -7297,7 +8501,6 @@
       "zh-CN": "每次捡起硬币时有几率获得护盾。",
       "zh-TW": "每次拾取金幣時，即有機會獲得額外的護盾。"
     },
-    "id": "5_02_item_pick_coin_dropShield",
     "name": {
       "de": "SAPHIR-RING",
       "en-US": "SAPPHIRE RING",
@@ -7309,6 +8512,14 @@
       "zh": "蓝宝石戒指",
       "zh-CN": "蓝宝石戒指",
       "zh-TW": "藍寶石戒指"
+    },
+    "slug": "sapphire-ring",
+    "sprite": {
+      "height": 25,
+      "sheet": "b0bc91af",
+      "width": 24,
+      "x": 222,
+      "y": 182
     },
     "tags": [
       "item",
@@ -7330,7 +8541,6 @@
       "zh-CN": "拾取物品后，在当前房间内攻击力提升。",
       "zh-TW": "在目前房間內，每當拾取物品時，武器傷害就會提高。"
     },
-    "id": "5_02_item_pick_damageUP",
     "name": {
       "de": "BETTLERAUSWEIS",
       "en-US": "BEGGAR'S CARD",
@@ -7342,6 +8552,14 @@
       "zh": "丐帮会员证",
       "zh-CN": "丐帮会员证",
       "zh-TW": "乞丐卡"
+    },
+    "slug": "beggar's-card",
+    "sprite": {
+      "height": 21,
+      "sheet": "b0bc91af",
+      "width": 21,
+      "x": 302,
+      "y": 83
     },
     "tags": [
       "item",
@@ -7363,7 +8581,6 @@
       "zh-CN": "拾取物品后，在当前房间内移动速度和跳跃高度提升。",
       "zh-TW": "在目前房間內，每當拾取物品時，你的移動速度和跳躍高度會提高。"
     },
-    "id": "5_02_item_pick_speedUP",
     "name": {
       "de": "GAUNERABZEICHEN",
       "en-US": "ROGUE'S BADGE",
@@ -7375,6 +8592,14 @@
       "zh": "兄弟会徽章",
       "zh-CN": "兄弟会徽章",
       "zh-TW": "俠盜徽章"
+    },
+    "slug": "rogue's-badge",
+    "sprite": {
+      "height": 24,
+      "sheet": "b0bc91af",
+      "width": 23,
+      "x": 270,
+      "y": 180
     },
     "tags": [
       "item",
@@ -7396,7 +8621,6 @@
       "zh-CN": "你获得了一批炸弹。你的嘴角露出了不易察觉的微笑。",
       "zh-TW": "獲得一批炸彈。"
     },
-    "id": "5_02_item_res_bomb",
     "name": {
       "de": "EXPLOSIVE RECHNUNG",
       "en-US": "DANGEROUS RECEIPT",
@@ -7408,6 +8632,14 @@
       "zh": "军火收据",
       "zh-CN": "军火收据",
       "zh-TW": "危險收據"
+    },
+    "slug": "dangerous-receipt",
+    "sprite": {
+      "height": 22,
+      "sheet": "b0bc91af",
+      "width": 21,
+      "x": 299,
+      "y": 112
     },
     "tags": [
       "item",
@@ -7429,7 +8661,6 @@
       "zh-CN": "所有的木宝箱都会变成诅咒宝箱",
       "zh-TW": "所有木寶箱會變成詛咒寶箱。"
     },
-    "id": "5_02_item_res_chest_to_curse",
     "name": {
       "de": "VERFLUCHTE MÜNZE",
       "en-US": "CURSED COIN",
@@ -7441,6 +8672,14 @@
       "zh": "诅咒金币",
       "zh-CN": "诅咒金币",
       "zh-TW": "詛咒之幣"
+    },
+    "slug": "cursed-coin",
+    "sprite": {
+      "height": 23,
+      "sheet": "b0bc91af",
+      "width": 23,
+      "x": 300,
+      "y": 60
     },
     "tags": [
       "item",
@@ -7462,7 +8701,6 @@
       "zh-CN": "获得250金币！你正好需要它！",
       "zh-TW": "獲得250枚金幣。這正是你需要的。"
     },
-    "id": "5_02_item_res_coin250",
     "name": {
       "de": "UNVERHOFFTER REICHTUM",
       "en-US": "ACCIDENTAL WEALTH",
@@ -7474,6 +8712,14 @@
       "zh": "意外之财",
       "zh-CN": "意外之财",
       "zh-TW": "橫財"
+    },
+    "slug": "accidental-wealth",
+    "sprite": {
+      "height": 21,
+      "sheet": "b0bc91af",
+      "width": 26,
+      "x": 52,
+      "y": 127
     },
     "tags": [
       "item",
@@ -7495,7 +8741,6 @@
       "zh-CN": "777金币！你感到如此的幸运......和孤独。",
       "zh-TW": "獲得777枚金幣！令人感到如此幸運...又孤單。"
     },
-    "id": "5_02_item_res_coin999",
     "name": {
       "de": "LOTTOSCHEIN",
       "en-US": "LOTTERY TICKET",
@@ -7507,6 +8752,14 @@
       "zh": "彩票",
       "zh-CN": "彩票",
       "zh-TW": "彩券"
+    },
+    "slug": "lottery-ticket",
+    "sprite": {
+      "height": 25,
+      "sheet": "b0bc91af",
+      "width": 26,
+      "x": 78,
+      "y": 127
     },
     "tags": [
       "item",
@@ -7528,7 +8781,6 @@
       "zh-CN": "如果没有钥匙，你可以花费金币替代。",
       "zh-TW": "如果沒有鑰匙，可以用金幣取代。"
     },
-    "id": "5_02_item_res_coin_instead_key",
     "name": {
       "de": "SCHLÜSSELDIENST",
       "en-US": "LOCKSMITH",
@@ -7540,6 +8792,14 @@
       "zh": "开锁热线",
       "zh-CN": "开锁热线",
       "zh-TW": "鎖匠"
+    },
+    "slug": "locksmith",
+    "sprite": {
+      "height": 22,
+      "sheet": "b0bc91af",
+      "width": 25,
+      "x": 0,
+      "y": 219
     },
     "tags": [
       "item",
@@ -7561,7 +8821,6 @@
       "zh-CN": "拾取炸弹时多获得一个。这有助于你的事业。",
       "zh-TW": "每次拾取炸彈時，即多獲得一顆。"
     },
-    "id": "5_02_item_res_double_bomb",
     "name": {
       "de": "SCHIESSPULVER-INTRIGE",
       "en-US": "GUNPOWDER PLOT",
@@ -7573,6 +8832,14 @@
       "zh": "火药阴谋",
       "zh-CN": "火药阴谋",
       "zh-TW": "火藥陰謀"
+    },
+    "slug": "gunpowder-plot",
+    "sprite": {
+      "height": 25,
+      "sheet": "b0bc91af",
+      "width": 23,
+      "x": 25,
+      "y": 219
     },
     "tags": [
       "item",
@@ -7594,7 +8861,6 @@
       "zh-CN": "喵~拾取金币时将会获得额外收益。",
       "zh-TW": "喵...拾取金幣時獲得額外紅利。"
     },
-    "id": "5_02_item_res_extra_coin",
     "name": {
       "de": "MANEKI-NEKO",
       "en-US": "MANEKI-NEKO",
@@ -7606,6 +8872,14 @@
       "zh": "招财猫",
       "zh-CN": "招财猫",
       "zh-TW": "招財貓"
+    },
+    "slug": "maneki-neko",
+    "sprite": {
+      "height": 27,
+      "sheet": "b0bc91af",
+      "width": 25,
+      "x": 188,
+      "y": 27
     },
     "tags": [
       "item",
@@ -7627,7 +8901,6 @@
       "zh-CN": "拾取钥匙时多获得一个。你根本看不出任何破绽。",
       "zh-TW": "每次拾取鑰匙時，即多獲得一把。"
     },
-    "id": "5_02_item_res_extra_key",
     "name": {
       "de": "ZAUBERHUT",
       "en-US": "MAGICIAN HAT",
@@ -7639,6 +8912,14 @@
       "zh": "魔术师帽",
       "zh-CN": "魔术师帽",
       "zh-TW": "魔術師帽"
+    },
+    "slug": "magician-hat",
+    "sprite": {
+      "height": 19,
+      "sheet": "b0bc91af",
+      "width": 27,
+      "x": 96,
+      "y": 108
     },
     "tags": [
       "item",
@@ -7660,7 +8941,6 @@
       "zh-CN": "如果没有钥匙，你可以花费红心替代。",
       "zh-TW": "如果沒有鑰匙，可以用半顆紅心取代。"
     },
-    "id": "5_02_item_res_heart_instead_key",
     "name": {
       "de": "HERZSCHLÜSSEL",
       "en-US": "HEART KEY",
@@ -7672,6 +8952,14 @@
       "zh": "红色钥匙",
       "zh-CN": "血色钥匙",
       "zh-TW": "心型鑰匙"
+    },
+    "slug": "heart-key",
+    "sprite": {
+      "height": 25,
+      "sheet": "b0bc91af",
+      "width": 19,
+      "x": 48,
+      "y": 215
     },
     "tags": [
       "item",
@@ -7693,7 +8981,6 @@
       "zh-CN": "让我试试看...哈！搞定！钥匙不再是问题了。",
       "zh-TW": "交給我！鑰匙不再是問題。"
     },
-    "id": "5_02_item_res_key99",
     "name": {
       "de": "HACKING TOOL",
       "en-US": "HACKING TOOL",
@@ -7705,6 +8992,14 @@
       "zh": "黑客工具",
       "zh-CN": "黑客工具",
       "zh-TW": "駭客工具"
+    },
+    "slug": "hacking-tool",
+    "sprite": {
+      "height": 28,
+      "sheet": "b0bc91af",
+      "width": 18,
+      "x": 109,
+      "y": 80
     },
     "tags": [
       "item",
@@ -7726,7 +9021,6 @@
       "zh-CN": "剁手党的狂欢！商店里所有物品半价！",
       "zh-TW": "血拚時間到！商店的商品全面半價！"
     },
-    "id": "5_02_item_res_shop_halfprice",
     "name": {
       "de": "SCHWARZER FREITAG",
       "en-US": "BLACK FRIDAY",
@@ -7738,6 +9032,14 @@
       "zh": "双十三",
       "zh-CN": "双十三",
       "zh-TW": "黑色星期五"
+    },
+    "slug": "black-friday",
+    "sprite": {
+      "height": 22,
+      "sheet": "b0bc91af",
+      "width": 24,
+      "x": 271,
+      "y": 154
     },
     "tags": [
       "item",
@@ -7759,7 +9061,6 @@
       "zh-CN": "不要浪费！都涂到牙齿上了！所有商店物品将会自动补货。",
       "zh-TW": "別沾到牙齒上了。商店的商品將自動補貨。"
     },
-    "id": "5_02_item_res_shop_refesh",
     "name": {
       "de": "LIPPENSTIFT",
       "en-US": "LIPSTICK",
@@ -7771,6 +9072,14 @@
       "zh": "口红",
       "zh-CN": "口红",
       "zh-TW": "唇膏"
+    },
+    "slug": "lipstick",
+    "sprite": {
+      "height": 27,
+      "sheet": "b0bc91af",
+      "width": 17,
+      "x": 235,
+      "y": 0
     },
     "tags": [
       "item",
@@ -7792,7 +9101,6 @@
       "zh-CN": "瞧，这就是未来。你拥有的护盾越多，你的武器伤害越高。",
       "zh-TW": "這就是未來，而你是一個大夢想家。擁有越多護盾，武器傷害就越高。"
     },
-    "id": "5_02_item_shield_damageUP",
     "name": {
       "de": 2077,
       "en-US": 2077,
@@ -7804,6 +9112,14 @@
       "zh": 2077,
       "zh-CN": 2077,
       "zh-TW": 2077
+    },
+    "slug": "2077",
+    "sprite": {
+      "height": 21,
+      "sheet": "b0bc91af",
+      "width": 26,
+      "x": 52,
+      "y": 148
     },
     "tags": [
       "item",
@@ -7825,7 +9141,6 @@
       "zh-CN": "受伤后优先消耗红心，而不是护盾。你正在逐渐接受这个事实。",
       "zh-TW": "即使擁有護盾，受傷時也會先損失紅心。你開始慢慢接受這個事實了。"
     },
-    "id": "5_02_item_shield_frist",
     "name": {
       "de": "EISERNES HERZ",
       "en-US": "IRON HEART",
@@ -7837,6 +9152,14 @@
       "zh": "钢铁心脏",
       "zh-CN": "钢铁心脏",
       "zh-TW": "鐵石心腸"
+    },
+    "slug": "iron-heart",
+    "sprite": {
+      "height": 24,
+      "sheet": "b0bc91af",
+      "width": 21,
+      "x": 255,
+      "y": 80
     },
     "tags": [
       "item",
@@ -7858,7 +9181,6 @@
       "zh-CN": "你拥有的护盾越多，你能发射子弹越多。",
       "zh-TW": "擁有越多護盾，武器射出的子彈數量就越多。"
     },
-    "id": "5_02_item_shield_levelup",
     "name": {
       "de": "KAMPFHELM",
       "en-US": "COMBAT HELMET",
@@ -7870,6 +9192,14 @@
       "zh": "陆战头盔",
       "zh-CN": "陆战头盔",
       "zh-TW": "戰術頭盔"
+    },
+    "slug": "combat-helmet",
+    "sprite": {
+      "height": 24,
+      "sheet": "b0bc91af",
+      "width": 26,
+      "x": 26,
+      "y": 150
     },
     "tags": [
       "item",
@@ -7891,7 +9221,6 @@
       "zh-CN": "你拥有的护盾越多，你的近战伤害越高。",
       "zh-TW": "擁有越多護盾，你的近戰傷害就越高。"
     },
-    "id": "5_02_item_shield_melee_dmgup",
     "name": {
       "de": "FORTSCHRITTLICHES MESSER",
       "en-US": "ADVANCED KNIFE",
@@ -7903,6 +9232,14 @@
       "zh": "震动粒子刀",
       "zh-CN": "震动粒子刀",
       "zh-TW": "高級刀"
+    },
+    "slug": "advanced-knife",
+    "sprite": {
+      "height": 21,
+      "sheet": "b0bc91af",
+      "width": 31,
+      "x": 0,
+      "y": 0
     },
     "tags": [
       "item",
@@ -7924,7 +9261,6 @@
       "zh-CN": "你拥有的护盾越多，你的武器射速越快。",
       "zh-TW": "擁有越多護盾，射擊的速度越快。"
     },
-    "id": "5_02_item_shield_rpmup",
     "name": {
       "de": "DONNERMOTOR",
       "en-US": "THUNDER ENGINE",
@@ -7936,6 +9272,14 @@
       "zh": "雷电引擎",
       "zh-CN": "雷电引擎",
       "zh-TW": "雷電引擎"
+    },
+    "slug": "thunder-engine",
+    "sprite": {
+      "height": 19,
+      "sheet": "b0bc91af",
+      "width": 24,
+      "x": 255,
+      "y": 104
     },
     "tags": [
       "item",
@@ -7957,7 +9301,6 @@
       "zh-CN": "当消耗护盾时，有几率获得一个守护精灵。",
       "zh-TW": "消耗護盾時，有機會獲得一隻守護精靈。"
     },
-    "id": "5_02_item_shield_zero_defend",
     "name": {
       "de": "VIRTUELLER ASSISTENT",
       "en-US": "VIRTUAL ASSISTANT",
@@ -7969,6 +9312,14 @@
       "zh": "智能助手",
       "zh-CN": "智能助手",
       "zh-TW": "虛擬助理"
+    },
+    "slug": "virtual-assistant",
+    "sprite": {
+      "height": 24,
+      "sheet": "b0bc91af",
+      "width": 23,
+      "x": 276,
+      "y": 123
     },
     "tags": [
       "item",
@@ -7990,7 +9341,6 @@
       "zh-CN": "仿生人也会做梦吗？当你有护盾时，可以增加一次额外跳跃次数",
       "zh-TW": "仿生人也會做夢嗎？擁有護盾時，可以多跳一次。"
     },
-    "id": "5_02_item_shield_zero_jump",
     "name": {
       "de": "ELEKTRISCHES SCHAF",
       "en-US": "ELECTRIC SHEEP",
@@ -8002,6 +9352,14 @@
       "zh": "电子羊",
       "zh-CN": "电子羊",
       "zh-TW": "電子羊"
+    },
+    "slug": "electric-sheep",
+    "sprite": {
+      "height": 24,
+      "sheet": "b0bc91af",
+      "width": 25,
+      "x": 67,
+      "y": 215
     },
     "tags": [
       "item",
@@ -8023,7 +9381,6 @@
       "zh-CN": "你获得的护盾都会自动转化成金币。",
       "zh-TW": "你獲得的護盾全會變成金幣。"
     },
-    "id": "5_02_item_shield_to_coins",
     "name": {
       "de": "ENERGIEWANDLER",
       "en-US": "ENERGY CONVERTER",
@@ -8035,6 +9392,14 @@
       "zh": "能量转化器",
       "zh-CN": "能量转化器",
       "zh-TW": "能量轉換器"
+    },
+    "slug": "energy-converter",
+    "sprite": {
+      "height": 19,
+      "sheet": "b0bc91af",
+      "width": 21,
+      "x": 302,
+      "y": 41
     },
     "tags": [
       "item",
@@ -8056,7 +9421,6 @@
       "zh-CN": "后背有一定的概率抵挡伤害。这是什么？？",
       "zh-TW": "有機會擋掉從背後受到的傷害。"
     },
-    "id": "5_03_item_defend_back",
     "name": {
       "de": "SCHILDKRÖTENHUT",
       "en-US": "TURTLE HAT",
@@ -8068,6 +9432,14 @@
       "zh": "乌龟帽",
       "zh-CN": "乌龟帽",
       "zh-TW": "烏龜帽"
+    },
+    "slug": "turtle-hat",
+    "sprite": {
+      "height": 17,
+      "sheet": "b0bc91af",
+      "width": 24,
+      "x": 67,
+      "y": 239
     },
     "tags": [
       "item",
@@ -8089,7 +9461,6 @@
       "zh-CN": "你有一定概率抵挡所有远程伤害。人见人爱花见花开的好东西。",
       "zh-TW": "有機會擋掉射向你的子彈。"
     },
-    "id": "5_03_item_defend_bullet",
     "name": {
       "de": "BRATPFANNE",
       "en-US": "FRYING PAN",
@@ -8101,6 +9472,14 @@
       "zh": "平底锅",
       "zh-CN": "平底锅",
       "zh-TW": "平底鍋"
+    },
+    "slug": "frying-pan",
+    "sprite": {
+      "height": 26,
+      "sheet": "b0bc91af",
+      "width": 27,
+      "x": 213,
+      "y": 27
     },
     "tags": [
       "item",
@@ -8122,7 +9501,6 @@
       "zh-CN": "你有一定概率抵挡近战伤害。最重要的是守护住自己的心。",
       "zh-TW": "有機會擋掉近戰傷害。"
     },
-    "id": "5_03_item_defend_melee",
     "name": {
       "de": "KENDO-MASKE",
       "en-US": "KENDO MASK",
@@ -8134,6 +9512,14 @@
       "zh": "剑道护面",
       "zh-CN": "剑道护面",
       "zh-TW": "劍道面具"
+    },
+    "slug": "kendo-mask",
+    "sprite": {
+      "height": 23,
+      "sheet": "b0bc91af",
+      "width": 23,
+      "x": 302,
+      "y": 18
     },
     "tags": [
       "item",
@@ -8155,7 +9541,6 @@
       "zh-CN": "每个房间获得一个短暂的防护壳，抵挡一次伤害。",
       "zh-TW": "在每個房間獲得一個短暫的防護罩。"
     },
-    "id": "5_03_item_defend_once_room",
     "name": {
       "de": "ZWIEBELHELM",
       "en-US": "ONION HELMET",
@@ -8167,6 +9552,14 @@
       "zh": "洋葱头盔",
       "zh-CN": "洋葱头盔",
       "zh-TW": "洋蔥頭盔"
+    },
+    "slug": "onion-helmet",
+    "sprite": {
+      "height": 27,
+      "sheet": "b0bc91af",
+      "width": 25,
+      "x": 213,
+      "y": 53
     },
     "tags": [
       "item",
@@ -8188,7 +9581,6 @@
       "zh-CN": "你不再受到地形伤害。安全第一，搬砖第二。",
       "zh-TW": "對環境傷害免疫。"
     },
-    "id": "5_03_item_defend_trap",
     "name": {
       "de": "SCHUTZHELM",
       "en-US": "HARD HAT",
@@ -8200,6 +9592,14 @@
       "zh": "安全帽",
       "zh-CN": "安全帽",
       "zh-TW": "工程帽"
+    },
+    "slug": "hard-hat",
+    "sprite": {
+      "height": 22,
+      "sheet": "b0bc91af",
+      "width": 24,
+      "x": 256,
+      "y": 43
     },
     "tags": [
       "item",
@@ -8221,7 +9621,6 @@
       "zh-CN": "受伤后，在当前房间中武器等级提升。",
       "zh-TW": "如果在目前房間受傷，就會升級槍。"
     },
-    "id": "5_03_item_hurt_attack_gunlevel_up",
     "name": {
       "de": "TANZMASKE",
       "en-US": "DANCE MASK",
@@ -8233,6 +9632,14 @@
       "zh": "舞会面具",
       "zh-CN": "舞会面具",
       "zh-TW": "舞會面具"
+    },
+    "slug": "dance-mask",
+    "sprite": {
+      "height": 17,
+      "sheet": "b0bc91af",
+      "width": 27,
+      "x": 123,
+      "y": 108
     },
     "tags": [
       "item",
@@ -8254,7 +9661,6 @@
       "zh-CN": "受伤后，在当前房间中射速上升。",
       "zh-TW": "如果在目前房間受傷，就會提高武器射速。"
     },
-    "id": "5_03_item_hurt_attack_speed_up",
     "name": {
       "de": "ROTE GESCHICHTE",
       "en-US": "SCARLET TALE",
@@ -8266,6 +9672,14 @@
       "zh": "怪异童话",
       "zh-CN": "怪异童话",
       "zh-TW": "血色童話"
+    },
+    "slug": "scarlet-tale",
+    "sprite": {
+      "height": 23,
+      "sheet": "b0bc91af",
+      "width": 28,
+      "x": 68,
+      "y": 104
     },
     "tags": [
       "item",
@@ -8287,7 +9701,6 @@
       "zh-CN": "周五到了！受伤后暂时提高武器伤害！",
       "zh-TW": "星期五到了！受傷時提高武器傷害。"
     },
-    "id": "5_03_item_hurt_damageUP",
     "name": {
       "de": "MITTERNACHTSMASKE",
       "en-US": "MIDNIGHT MASK",
@@ -8299,6 +9712,14 @@
       "zh": "午夜面具",
       "zh-CN": "午夜面具",
       "zh-TW": "午夜面具"
+    },
+    "slug": "midnight-mask",
+    "sprite": {
+      "height": 26,
+      "sheet": "b0bc91af",
+      "width": 24,
+      "x": 0,
+      "y": 151
     },
     "tags": [
       "item",
@@ -8320,7 +9741,6 @@
       "zh-CN": "动我一下试试？每次受到伤害掉落6枚即爆炸弹。",
       "zh-TW": "誰敢動你一根寒毛，就讓他們後悔一輩子。受傷時掉出6顆即爆炸彈。"
     },
-    "id": "5_03_item_hurt_drop_bomb",
     "name": {
       "de": "METALLUNTERHOSE",
       "en-US": "METAL PANTIES",
@@ -8332,6 +9752,14 @@
       "zh": "防弹内裤",
       "zh-CN": "防弹内裤",
       "zh-TW": "金屬內褲"
+    },
+    "slug": "metal-panties",
+    "sprite": {
+      "height": 17,
+      "sheet": "b0bc91af",
+      "width": 24,
+      "x": 278,
+      "y": 19
     },
     "tags": [
       "item",
@@ -8353,7 +9781,6 @@
       "zh-CN": "受伤时掉落随机金币。别别别，打人别打脸，哎呀！",
       "zh-TW": "哎呀！希望你喜歡喝湯。受傷時掉出金幣。"
     },
-    "id": "5_03_item_hurt_drop_coin",
     "name": {
       "de": "GOLDZÄHNE",
       "en-US": "GOLDEN TEETH",
@@ -8365,6 +9792,14 @@
       "zh": "金牙",
       "zh-CN": "金牙",
       "zh-TW": "金牙"
+    },
+    "slug": "golden-teeth",
+    "sprite": {
+      "height": 21,
+      "sheet": "b0bc91af",
+      "width": 23,
+      "x": 282,
+      "y": 204
     },
     "tags": [
       "item",
@@ -8386,7 +9821,6 @@
       "zh-CN": "受伤时有概率掉落水晶。它总是喜欢说一些损你的话。",
       "zh-TW": "受傷時有機會掉出額外的水晶。"
     },
-    "id": "5_03_item_hurt_drop_crystal",
     "name": {
       "de": "NERVTÖTENDER HUT",
       "en-US": "ANNOYING HAT",
@@ -8398,6 +9832,14 @@
       "zh": "烦人的帽子",
       "zh-CN": "烦人的帽子",
       "zh-TW": "煩人帽子"
+    },
+    "slug": "annoying-hat",
+    "sprite": {
+      "height": 28,
+      "sheet": "b0bc91af",
+      "width": 31,
+      "x": 31,
+      "y": 0
     },
     "tags": [
       "item",
@@ -8419,7 +9861,6 @@
       "zh-CN": "受伤时概率掉落各种好东西。说不定还有铜锣烧！",
       "zh-TW": "受傷時有機會獲得隨機好物。"
     },
-    "id": "5_03_item_hurt_drop_random_pickup",
     "name": {
       "de": "DIMENSIONSTASCHEN",
       "en-US": "DIMENSIONAL BAGS",
@@ -8431,6 +9872,14 @@
       "zh": "次元袋",
       "zh-CN": "次元袋",
       "zh-TW": "百寶袋"
+    },
+    "slug": "dimensional-bags",
+    "sprite": {
+      "height": 24,
+      "sheet": "b0bc91af",
+      "width": 24,
+      "x": 276,
+      "y": 65
     },
     "tags": [
       "item",
@@ -8452,7 +9901,6 @@
       "zh-CN": "受伤时有概率掉落护盾。但是你似乎失去了一些记忆。",
       "zh-TW": "受傷時有機會掉出額外的護盾。"
     },
-    "id": "5_03_item_hurt_drop_shield",
     "name": {
       "de": "ROBOTERRÜSTUNG",
       "en-US": "ROBOT ARMOR",
@@ -8464,6 +9912,14 @@
       "zh": "机械战盔",
       "zh-CN": "机械战盔",
       "zh-TW": "機器人頭盔"
+    },
+    "slug": "robot-armor",
+    "sprite": {
+      "height": 25,
+      "sheet": "b0bc91af",
+      "width": 25,
+      "x": 126,
+      "y": 174
     },
     "tags": [
       "item",
@@ -8485,7 +9941,6 @@
       "zh-CN": "受伤后会在身上生成一个闪电环，对敌人造成触碰伤害。",
       "zh-TW": "如果在目前房間受傷，你的周圍就會產生一道閃電光環，並對附近敵人造成傷害。"
     },
-    "id": "5_03_item_hurt_elec_ring",
     "name": {
       "de": "STROMHELM",
       "en-US": "POWER HELMET",
@@ -8497,6 +9952,14 @@
       "zh": "电力头盔",
       "zh-CN": "电力头盔",
       "zh-TW": "電力頭盔"
+    },
+    "slug": "power-helmet",
+    "sprite": {
+      "height": 25,
+      "sheet": "b0bc91af",
+      "width": 23,
+      "x": 99,
+      "y": 198
     },
     "tags": [
       "item",
@@ -8518,7 +9981,6 @@
       "zh-CN": "受到爆炸伤害时，有一定概率掉落钥匙。",
       "zh-TW": "受到爆炸傷害時，有機會掉出額外的鑰匙。"
     },
-    "id": "5_03_item_hurt_explo_key",
     "name": {
       "de": "SCHWEISSERMASKE",
       "en-US": "WELDING MASK",
@@ -8530,6 +9992,14 @@
       "zh": "电焊面罩",
       "zh-CN": "电焊面罩",
       "zh-TW": "焊接面罩"
+    },
+    "slug": "welding-mask",
+    "sprite": {
+      "height": 24,
+      "sheet": "b0bc91af",
+      "width": 22,
+      "x": 280,
+      "y": 36
     },
     "tags": [
       "item",
@@ -8551,7 +10021,6 @@
       "zh-CN": "当你受伤时会发生爆炸。你的脾气和这个南瓜一样。",
       "zh-TW": "你受傷時就會自爆。大難不死，必能學到教訓。"
     },
-    "id": "5_03_item_hurt_explosion",
     "name": {
       "de": "KÜRBISKOPF",
       "en-US": "PUMPKINHEAD",
@@ -8563,6 +10032,14 @@
       "zh": "南瓜头",
       "zh-CN": "南瓜头",
       "zh-TW": "南瓜頭"
+    },
+    "slug": "pumpkinhead",
+    "sprite": {
+      "height": 25,
+      "sheet": "b0bc91af",
+      "width": 26,
+      "x": 104,
+      "y": 148
     },
     "tags": [
       "item",
@@ -8584,7 +10061,6 @@
       "zh-CN": "受伤有概率会得到一个愤怒精灵。你似乎察觉到有些东西在你体内涌动。",
       "zh-TW": "受傷時有機會獲得一隻邪惡精靈。"
     },
-    "id": "5_03_item_hurt_fs",
     "name": {
       "de": "ALBTRAUMMASKE",
       "en-US": "NIGHTMARE MASK",
@@ -8596,6 +10072,14 @@
       "zh": "梦魇面具",
       "zh-CN": "梦魇面具",
       "zh-TW": "夢魘面具"
+    },
+    "slug": "nightmare-mask",
+    "sprite": {
+      "height": 29,
+      "sheet": "b0bc91af",
+      "width": 28,
+      "x": 24,
+      "y": 49
     },
     "tags": [
       "item",
@@ -8617,7 +10101,6 @@
       "zh-CN": "受伤后有概率回复水晶。",
       "zh-TW": "受傷時有機會獲得水晶。"
     },
-    "id": "5_03_item_hurt_gain_mana",
     "name": {
       "de": "ZAUBERSTAB",
       "en-US": "MAGIC WAND",
@@ -8629,6 +10112,14 @@
       "zh": "魔杖",
       "zh-CN": "魔杖",
       "zh-TW": "魔杖"
+    },
+    "slug": "magic-wand",
+    "sprite": {
+      "height": 24,
+      "sheet": "b0bc91af",
+      "width": 25,
+      "x": 92,
+      "y": 223
     },
     "tags": [
       "item",
@@ -8650,7 +10141,6 @@
       "zh-CN": "受伤后有概率获得护盾。有些问题无法回避。",
       "zh-TW": "受傷時有機會獲得護盾。有些問題無可迴避。"
     },
-    "id": "5_03_item_hurt_gain_shield",
     "name": {
       "de": "GEISTERPANZER",
       "en-US": "GHOST SHELL",
@@ -8662,6 +10152,14 @@
       "zh": "攻壳机动盔",
       "zh-CN": "攻壳机动盔",
       "zh-TW": "攻殼機動盔"
+    },
+    "slug": "ghost-shell",
+    "sprite": {
+      "height": 27,
+      "sheet": "b0bc91af",
+      "width": 24,
+      "x": 173,
+      "y": 54
     },
     "tags": [
       "item",
@@ -8683,7 +10181,6 @@
       "zh-CN": "在一个房间内受到6次伤害就会得到一个随机道具。",
       "zh-TW": "在同一房間受傷6次就會獲得一個隨機道具。"
     },
-    "id": "5_03_item_hurt_get_item",
     "name": {
       "de": "SCHLUCKAUF",
       "en-US": "HICCUPS",
@@ -8695,6 +10192,14 @@
       "zh": "嗝儿",
       "zh-CN": "嗝儿",
       "zh-TW": "嗝兒"
+    },
+    "slug": "hiccups",
+    "sprite": {
+      "height": 25,
+      "sheet": "b0bc91af",
+      "width": 14,
+      "x": 240,
+      "y": 27
     },
     "tags": [
       "item",
@@ -8716,7 +10221,6 @@
       "zh-CN": "受伤有概率会得到一个守护精灵",
       "zh-TW": "受傷時有機會獲得一隻守護精靈。"
     },
-    "id": "5_03_item_hurt_gs",
     "name": {
       "de": "KONGMING-LATERNE",
       "en-US": "KONGMING LANTERN",
@@ -8728,6 +10232,14 @@
       "zh": "孔明灯",
       "zh-CN": "孔明灯",
       "zh-TW": "孔明燈"
+    },
+    "slug": "kongming-lantern",
+    "sprite": {
+      "height": 25,
+      "sheet": "b0bc91af",
+      "width": 22,
+      "x": 117,
+      "y": 223
     },
     "tags": [
       "item",
@@ -8749,7 +10261,6 @@
       "zh-CN": "受伤后如果只剩下半颗红心，则对所有敌人造成伤害。",
       "zh-TW": "剩半顆紅心時立刻對所有敵人造成傷害。"
     },
-    "id": "5_03_item_hurt_last_attack",
     "name": {
       "de": "DUNKLE SEITE",
       "en-US": "DARK SIDE",
@@ -8761,6 +10272,14 @@
       "zh": "黑暗面",
       "zh-CN": "黑暗面",
       "zh-TW": "黑暗面"
+    },
+    "slug": "dark-side",
+    "sprite": {
+      "height": 28,
+      "sheet": "b0bc91af",
+      "width": 24,
+      "x": 124,
+      "y": 51
     },
     "tags": [
       "item",
@@ -8782,7 +10301,6 @@
       "zh-CN": "受伤后如果只剩下半颗红心，则可以飞行。",
       "zh-TW": "剩半顆紅心時獲得飛行能力。"
     },
-    "id": "5_03_item_hurt_last_fly",
     "name": {
       "de": "BAMBUSPROPELLER",
       "en-US": "BAMBOO DRAGONFLY",
@@ -8794,6 +10312,14 @@
       "zh": "竹蜻蜓",
       "zh-CN": "竹蜻蜓",
       "zh-TW": "竹蜻蜓"
+    },
+    "slug": "bamboo-dragonfly",
+    "sprite": {
+      "height": 22,
+      "sheet": "b0bc91af",
+      "width": 25,
+      "x": 122,
+      "y": 200
     },
     "tags": [
       "item",
@@ -8815,7 +10341,6 @@
       "zh-CN": "准备迎战！受伤后如果只剩下半颗红心，则掉落护盾。",
       "zh-TW": "剩半顆紅心時立刻掉出一面護盾。"
     },
-    "id": "5_03_item_hurt_last_stand",
     "name": {
       "de": "V.O.-FELD",
       "en-US": "V.O. FIELD",
@@ -8827,6 +10352,14 @@
       "zh": "绝对领域",
       "zh-CN": "绝对领域",
       "zh-TW": "V.O.領域"
+    },
+    "slug": "v.o.-field",
+    "sprite": {
+      "height": 29,
+      "sheet": "b0bc91af",
+      "width": 26,
+      "x": 98,
+      "y": 51
     },
     "tags": [
       "item",
@@ -8848,7 +10381,6 @@
       "zh-CN": "不要恐慌！你受伤后最多只会掉半颗红心！",
       "zh-TW": "別慌！受傷時只會損失半顆紅心。"
     },
-    "id": "5_03_item_hurt_only_half",
     "name": {
       "de": "DAS HANDTUCH",
       "en-US": "THE TOWEL",
@@ -8860,6 +10392,14 @@
       "zh": "毛巾",
       "zh-CN": "毛巾",
       "zh-TW": "毛巾"
+    },
+    "slug": "the-towel",
+    "sprite": {
+      "height": 25,
+      "sheet": "b0bc91af",
+      "width": 25,
+      "x": 139,
+      "y": 222
     },
     "tags": [
       "item",
@@ -8881,7 +10421,6 @@
       "zh-CN": "受伤时可能受到双倍伤害，可能无伤。",
       "zh-TW": "每次受傷時，即有機會受到雙倍傷害...也可能毫髮無傷。"
     },
-    "id": "5_03_item_hurt_zero_or_double",
     "name": {
       "de": "VERTRAG MIT DEM TEUFEL",
       "en-US": "DEVIL'S TRADE",
@@ -8893,6 +10432,14 @@
       "zh": "魔鬼交易",
       "zh-CN": "魔鬼交易",
       "zh-TW": "魔鬼交易"
+    },
+    "slug": "devil's-trade",
+    "sprite": {
+      "height": 25,
+      "sheet": "b0bc91af",
+      "width": 25,
+      "x": 164,
+      "y": 181
     },
     "tags": [
       "item",
@@ -8914,7 +10461,6 @@
       "zh-CN": "听一首深海之中的歌谣？免疫爆炸伤害。",
       "zh-TW": "對爆炸傷害免疫。"
     },
-    "id": "5_03_item_immu_explo_0",
     "name": {
       "de": "BIG DADDY",
       "en-US": "BIG DADDY",
@@ -8926,6 +10472,14 @@
       "zh": "老大哥",
       "zh-CN": "老大哥",
       "zh-TW": "大老爹"
+    },
+    "slug": "big-daddy",
+    "sprite": {
+      "height": 25,
+      "sheet": "b0bc91af",
+      "width": 26,
+      "x": 78,
+      "y": 152
     },
     "tags": [
       "item",
@@ -8947,7 +10501,6 @@
       "zh-CN": "受到爆炸伤害的时候有概率免疫伤害并回复红心。",
       "zh-TW": "受到爆炸傷害時，有機會恢復紅心。"
     },
-    "id": "5_03_item_immu_explo_get_heart",
     "name": {
       "de": "FANATIKERMASKE",
       "en-US": "FANATIC MASK",
@@ -8959,6 +10512,14 @@
       "zh": "狂热面具",
       "zh-CN": "狂热面具",
       "zh-TW": "狂熱面具"
+    },
+    "slug": "fanatic-mask",
+    "sprite": {
+      "height": 25,
+      "sheet": "b0bc91af",
+      "width": 24,
+      "x": 189,
+      "y": 200
     },
     "tags": [
       "item",
@@ -8980,7 +10541,6 @@
       "zh-CN": "对触碰到的敌人造成近战伤害。",
       "zh-TW": "對觸碰到的敵人造成近戰傷害。"
     },
-    "id": "5_03_item_touch_melee",
     "name": {
       "de": "DORNENKRONE",
       "en-US": "CROWN OF THORNS",
@@ -8992,6 +10552,14 @@
       "zh": "荆棘头冠",
       "zh-CN": "荆棘头冠",
       "zh-TW": "荊棘冠"
+    },
+    "slug": "crown-of-thorns",
+    "sprite": {
+      "height": 22,
+      "sheet": "b0bc91af",
+      "width": 28,
+      "x": 120,
+      "y": 0
     },
     "tags": [
       "item",
@@ -9013,7 +10581,6 @@
       "zh-CN": "万事皆虚，万物皆允。对敌人后背造成的武器伤害提高。",
       "zh-TW": "無物為真，諸行皆可。從敵人背後攻擊時，會造成更高的武器傷害。"
     },
-    "id": "5_04_item_attack_back_damageUP",
     "name": {
       "de": "SCHATTENKLINGE",
       "en-US": "SHADOW BLADE",
@@ -9025,6 +10592,14 @@
       "zh": "影子袖剑",
       "zh-CN": "影子袖剑",
       "zh-TW": "暗影劍"
+    },
+    "slug": "shadow-blade",
+    "sprite": {
+      "height": 21,
+      "sheet": "b0bc91af",
+      "width": 21,
+      "x": 305,
+      "y": 199
     },
     "tags": [
       "item",
@@ -9046,7 +10621,6 @@
       "zh-CN": "连续射中敌人武器伤害会增加。",
       "zh-TW": "別鬆懈了！連續擊中的敵人越多，武器傷害就越高。"
     },
-    "id": "5_04_item_attack_continue_damageUP",
     "name": {
       "de": "SPIELER ZWEI IST DABEI",
       "en-US": "PLAYER ZERO READY",
@@ -9058,6 +10632,14 @@
       "zh": "零号玩家",
       "zh-CN": "零号玩家",
       "zh-TW": "二號玩家就緒"
+    },
+    "slug": "player-zero-ready",
+    "sprite": {
+      "height": 21,
+      "sheet": "b0bc91af",
+      "width": 26,
+      "x": 52,
+      "y": 169
     },
     "tags": [
       "item",
@@ -9079,7 +10661,6 @@
       "zh-CN": "如果用炸弹消灭敌人，有一定概率会生成一个愤怒精灵。",
       "zh-TW": "每次使用炸彈殺死敵人時，即有機會獲得1隻憤怒精靈。"
     },
-    "id": "5_04_item_kill_bomb_bee",
     "name": {
       "de": "DÄMONENBUCH",
       "en-US": "DEMON BOOK",
@@ -9091,6 +10672,14 @@
       "zh": "荒诞之书",
       "zh-CN": "荒诞之书",
       "zh-TW": "惡魔之書"
+    },
+    "slug": "demon-book",
+    "sprite": {
+      "height": 23,
+      "sheet": "b0bc91af",
+      "width": 22,
+      "x": 293,
+      "y": 176
     },
     "tags": [
       "item",
@@ -9112,7 +10701,6 @@
       "zh-CN": "我不做人了！使用炸弹消灭敌人时，你有一定概率恢复红心。",
       "zh-TW": "每次使用炸彈殺死敵人時，即有機會恢復紅心。"
     },
-    "id": "5_04_item_kill_bomb_heart",
     "name": {
       "de": "URALTE MASKE",
       "en-US": "ANCIENT MASK",
@@ -9124,6 +10712,14 @@
       "zh": "远古面具",
       "zh-CN": "远古面具",
       "zh-TW": "古老面具"
+    },
+    "slug": "ancient-mask",
+    "sprite": {
+      "height": 25,
+      "sheet": "b0bc91af",
+      "width": 22,
+      "x": 164,
+      "y": 206
     },
     "tags": [
       "item",
@@ -9145,7 +10741,6 @@
       "zh-CN": "使用炸弹消灭敌人时，有一定概率掉落护盾。",
       "zh-TW": "每次殺死敵人後，即有機會掉出額外的護盾。"
     },
-    "id": "5_04_item_kill_bomb_shield",
     "name": {
       "de": "ANORGANISCHE MOD",
       "en-US": "INORGANIC MOD",
@@ -9157,6 +10752,14 @@
       "zh": "军团模组",
       "zh-CN": "军团模组",
       "zh-TW": "無機物變異體"
+    },
+    "slug": "inorganic-mod",
+    "sprite": {
+      "height": 26,
+      "sheet": "b0bc91af",
+      "width": 28,
+      "x": 127,
+      "y": 22
     },
     "tags": [
       "item",
@@ -9178,7 +10781,6 @@
       "zh-CN": "每消灭一个敌人，你在房间内武器伤害就会增加。",
       "zh-TW": "在目前房間內每殺死一名敵人，武器傷害就會增加。"
     },
-    "id": "5_04_item_kill_damgeUP",
     "name": {
       "de": "GRAUENSKAPUZE",
       "en-US": "GRIM HOOD",
@@ -9190,6 +10792,14 @@
       "zh": "末日兜帽",
       "zh-CN": "末日兜帽",
       "zh-TW": "死神斗篷帽"
+    },
+    "slug": "grim-hood",
+    "sprite": {
+      "height": 28,
+      "sheet": "b0bc91af",
+      "width": 26,
+      "x": 127,
+      "y": 79
     },
     "tags": [
       "item",
@@ -9211,7 +10821,6 @@
       "zh-CN": "消灭敌人获得双倍金币。",
       "zh-TW": "殺死敵人後獲得雙倍金幣。"
     },
-    "id": "5_04_item_kill_double_coin",
     "name": {
       "de": "KOPFGELDLISTE",
       "en-US": "MOST WANTED LIST",
@@ -9223,6 +10832,14 @@
       "zh": "赏金令",
       "zh-CN": "赏金令",
       "zh-TW": "懸賞令"
+    },
+    "slug": "most-wanted-list",
+    "sprite": {
+      "height": 23,
+      "sheet": "b0bc91af",
+      "width": 23,
+      "x": 295,
+      "y": 147
     },
     "tags": [
       "item",
@@ -9244,7 +10861,6 @@
       "zh-CN": "消灭一定数量的敌人将会掉落炸弹。",
       "zh-TW": "殺死一定數量的敵人後，會掉出額外的炸彈。"
     },
-    "id": "5_04_item_kill_get_bomb_count",
     "name": {
       "de": "BUMM-BUMM-HANDSCHUHE",
       "en-US": "BOOM GLOVES",
@@ -9256,6 +10872,14 @@
       "zh": "砰砰手套",
       "zh-CN": "砰砰手套",
       "zh-TW": "砰砰手套"
+    },
+    "slug": "boom-gloves",
+    "sprite": {
+      "height": 25,
+      "sheet": "b0bc91af",
+      "width": 20,
+      "x": 164,
+      "y": 231
     },
     "tags": [
       "item",
@@ -9277,7 +10901,6 @@
       "zh-CN": "消灭一定数量的敌人将会掉落蛋。",
       "zh-TW": "殺死一定數量的敵人後，會掉出額外的寵物蛋。"
     },
-    "id": "5_04_item_kill_get_eggs_count",
     "name": {
       "de": "REGENWALD-SOUVENIR",
       "en-US": "RAINFOREST SOUVENIR",
@@ -9289,6 +10912,14 @@
       "zh": "雨林纪念品",
       "zh-CN": "雨林纪念品",
       "zh-TW": "雨林紀念品"
+    },
+    "slug": "rainforest-souvenir",
+    "sprite": {
+      "height": 24,
+      "sheet": "b0bc91af",
+      "width": 25,
+      "x": 184,
+      "y": 231
     },
     "tags": [
       "item",
@@ -9310,7 +10941,6 @@
       "zh-CN": "消灭一定数量的敌人将会掉落钥匙。",
       "zh-TW": "殺死一定數量的敵人後，會掉出額外的鑰匙。"
     },
-    "id": "5_04_item_kill_get_key_count",
     "name": {
       "de": "SCHRAUBENZIEHER",
       "en-US": "SCREWDRIVER",
@@ -9322,6 +10952,14 @@
       "zh": "螺丝刀",
       "zh-CN": "螺丝刀",
       "zh-TW": "螺絲起子"
+    },
+    "slug": "screwdriver",
+    "sprite": {
+      "height": 28,
+      "sheet": "b0bc91af",
+      "width": 14,
+      "x": 148,
+      "y": 48
     },
     "tags": [
       "item",
@@ -9343,7 +10981,6 @@
       "zh-CN": "消灭一定数量的敌人将会掉落护盾。",
       "zh-TW": "殺死一定數量的敵人後，會掉出額外的護盾。"
     },
-    "id": "5_04_item_kill_get_shield_count",
     "name": {
       "de": "CHIP DES PROPHETEN",
       "en-US": "PROPHET CHIP",
@@ -9355,6 +10992,14 @@
       "zh": "先知芯片",
       "zh-CN": "先知芯片",
       "zh-TW": "先知晶片"
+    },
+    "slug": "prophet-chip",
+    "sprite": {
+      "height": 22,
+      "sheet": "b0bc91af",
+      "width": 27,
+      "x": 153,
+      "y": 103
     },
     "tags": [
       "item",
@@ -9376,7 +11021,6 @@
       "zh-CN": "艺术就是爆炸！消灭敌人后，你有一定概率会自爆。",
       "zh-TW": "藝術就是爆炸！殺死敵人後，你有可能自爆。"
     },
-    "id": "5_04_item_kill_player_explo",
     "name": {
       "de": "LEHMVOGELPUPPE",
       "en-US": "CLAY DOLL",
@@ -9388,6 +11032,14 @@
       "zh": "黏土玩偶",
       "zh-CN": "黏土玩偶",
       "zh-TW": "黏土玩偶"
+    },
+    "slug": "clay-doll",
+    "sprite": {
+      "height": 25,
+      "sheet": "b0bc91af",
+      "width": 28,
+      "x": 155,
+      "y": 0
     },
     "tags": [
       "item",
@@ -9409,7 +11061,6 @@
       "zh-CN": "消灭敌人后，你有概率获得一个短时间内抵挡伤害的保护罩。",
       "zh-TW": "每次使用炸彈殺死敵人時，即有機會獲得一個防護罩。"
     },
-    "id": "5_04_item_kill_player_shell",
     "name": {
       "de": "HEILIGE TRÄNEN",
       "en-US": "SACRED TEARS",
@@ -9421,6 +11072,14 @@
       "zh": "神圣眼泪",
       "zh-CN": "神圣眼泪",
       "zh-TW": "神聖眼淚"
+    },
+    "slug": "sacred-tears",
+    "sprite": {
+      "height": 27,
+      "sheet": "b0bc91af",
+      "width": 18,
+      "x": 238,
+      "y": 53
     },
     "tags": [
       "item",
@@ -9442,7 +11101,6 @@
       "zh-CN": "消灭敌人有概率恢复红心。",
       "zh-TW": "每次殺死敵人後，即有機會恢復半顆紅心。"
     },
-    "id": "5_04_item_kill_recover_heart_chance",
     "name": {
       "de": "PESTMASKE",
       "en-US": "PLAGUE MASK",
@@ -9454,6 +11112,14 @@
       "zh": "回响面具",
       "zh-CN": "瘟疫面具",
       "zh-TW": "瘟疫面具"
+    },
+    "slug": "plague-mask",
+    "sprite": {
+      "height": 25,
+      "sheet": "b0bc91af",
+      "width": 29,
+      "x": 52,
+      "y": 56
     },
     "tags": [
       "item",
@@ -9475,7 +11141,6 @@
       "zh-CN": "消灭一定数量怪物会掉落红心。",
       "zh-TW": "殺死一定數量的敵人後，會掉出額外的紅心。"
     },
-    "id": "5_04_item_kill_recover_heart_count",
     "name": {
       "de": "TODESJÜNGER",
       "en-US": "DEATH BELIEVER",
@@ -9487,6 +11152,14 @@
       "zh": "狂热信徒",
       "zh-CN": "死亡信徒",
       "zh-TW": "死亡信徒"
+    },
+    "slug": "death-believer",
+    "sprite": {
+      "height": 25,
+      "sheet": "b0bc91af",
+      "width": 27,
+      "x": 180,
+      "y": 81
     },
     "tags": [
       "item",
@@ -9508,7 +11181,6 @@
       "zh-CN": "消灭一定数量怪物会获得水晶。",
       "zh-TW": "殺死一定數量的敵人後，你會獲得水晶。"
     },
-    "id": "5_04_item_kill_recover_mana_count",
     "name": {
       "de": "DÄMONENSCHLÄCHTER",
       "en-US": "SLAYER OF DEMONS",
@@ -9520,6 +11192,14 @@
       "zh": "深渊猎手",
       "zh-CN": "恶魔猎手",
       "zh-TW": "惡魔殺手"
+    },
+    "slug": "slayer-of-demons",
+    "sprite": {
+      "height": 21,
+      "sheet": "b0bc91af",
+      "width": 30,
+      "x": 24,
+      "y": 28
     },
     "tags": [
       "item",
@@ -9541,7 +11221,6 @@
       "zh-CN": "每消灭一个敌人，你在房间内武器攻击速度就会增加。",
       "zh-TW": "在目前房間內每殺死一名敵人，你的目光就會變得更銳利，並提高武器攻擊速度。"
     },
-    "id": "5_04_item_kill_rpmUP",
     "name": {
       "de": "ZIELAUGE",
       "en-US": "READY AIM EYE",
@@ -9553,6 +11232,14 @@
       "zh": "精准义眼",
       "zh-CN": "精准义眼",
       "zh-TW": "銳利鷹眼"
+    },
+    "slug": "ready-aim-eye",
+    "sprite": {
+      "height": 23,
+      "sheet": "b0bc91af",
+      "width": 23,
+      "x": 282,
+      "y": 225
     },
     "tags": [
       "item",
@@ -9574,7 +11261,6 @@
       "zh-CN": "敌人被消灭后有一定的概率会爆炸。",
       "zh-TW": "每次殺死敵人後，對方即有機會爆炸。"
     },
-    "id": "5_04_item_kill_to_explo",
     "name": {
       "de": "B-VIRUS",
       "en-US": "B-VIRUS",
@@ -9586,6 +11272,14 @@
       "zh": "黑色病毒",
       "zh-CN": "黑色病毒",
       "zh-TW": "B型病毒"
+    },
+    "slug": "b-virus",
+    "sprite": {
+      "height": 25,
+      "sheet": "b0bc91af",
+      "width": 16,
+      "x": 197,
+      "y": 54
     },
     "tags": [
       "item",
@@ -9607,7 +11301,6 @@
       "zh-CN": "每消灭一个敌人，你在房间内每次发射的子弹数量就会增加。",
       "zh-TW": "在目前房間內每殺死一名敵人，武器的子彈數量就會增加。"
     },
-    "id": "5_04_item_kill_weaponUP",
     "name": {
       "de": "KUGELKRONE",
       "en-US": "BULLET CROWN",
@@ -9619,6 +11312,14 @@
       "zh": "子弹王冠",
       "zh-CN": "子弹王冠",
       "zh-TW": "子彈頭冠"
+    },
+    "slug": "bullet-crown",
+    "sprite": {
+      "height": 18,
+      "sheet": "b0bc91af",
+      "width": 24,
+      "x": 300,
+      "y": 0
     },
     "tags": [
       "item",
@@ -9640,7 +11341,6 @@
       "zh-CN": "当你在空中时，武器伤害增加。",
       "zh-TW": "你在空中時，武器傷害增加。"
     },
-    "id": "5_04_item_weapon_air_damUP",
     "name": {
       "de": "LUFTWAFFENMEDAILLE",
       "en-US": "AIR FORCE MEDAL",
@@ -9652,6 +11352,14 @@
       "zh": "皇家空军勋章",
       "zh-CN": "皇家空军勋章",
       "zh-TW": "空軍勛章"
+    },
+    "slug": "air-force-medal",
+    "sprite": {
+      "height": 26,
+      "sheet": "b0bc91af",
+      "width": 17,
+      "x": 130,
+      "y": 148
     },
     "tags": [
       "item",
@@ -9673,7 +11381,6 @@
       "zh-CN": "每十发子弹产生一次特殊的穿透弹。",
       "zh-TW": "每射擊十發子彈就會有一發特殊子彈，可對敵人造成更大傷害。"
     },
-    "id": "5_05_item_bullet_bighit_1of10",
     "name": {
       "de": "NACHTSICHT",
       "en-US": "NIGHT VISION",
@@ -9685,6 +11392,14 @@
       "zh": "夜视仪",
       "zh-CN": "夜视仪",
       "zh-TW": "夜視鏡"
+    },
+    "slug": "night-vision",
+    "sprite": {
+      "height": 25,
+      "sheet": "b0bc91af",
+      "width": 25,
+      "x": 209,
+      "y": 225
     },
     "tags": [
       "item",
@@ -9706,7 +11421,6 @@
       "zh-CN": "你似乎学会了如何掌握自己的力量。你的射击有几率发射一个大子弹。",
       "zh-TW": "有機會射出一顆大子彈。"
     },
-    "id": "5_05_item_bullet_bighit_chance",
     "name": {
       "de": "SEELE DES SAMURAI",
       "en-US": "SAMURAI'S SOUL",
@@ -9718,6 +11432,14 @@
       "zh": "武士之魂",
       "zh-CN": "武士之魂",
       "zh-TW": "武士魂"
+    },
+    "slug": "samurai's-soul",
+    "sprite": {
+      "height": 26,
+      "sheet": "b0bc91af",
+      "width": 27,
+      "x": 207,
+      "y": 80
     },
     "tags": [
       "item",
@@ -9739,7 +11461,6 @@
       "zh-CN": "看到你了！你的子弹有概率自动跟踪敌人。",
       "zh-TW": "你在哪裡？看到你了！你的子彈有機會追蹤敵人。"
     },
-    "id": "5_05_item_bullet_chase",
     "name": {
       "de": "SOLDATENMASKE",
       "en-US": "SOLDIER MASK",
@@ -9751,6 +11472,14 @@
       "zh": "士兵面具",
       "zh-CN": "士兵面具",
       "zh-TW": "士兵面具"
+    },
+    "slug": "soldier-mask",
+    "sprite": {
+      "height": 25,
+      "sheet": "27569626",
+      "width": 24,
+      "x": 120,
+      "y": 138
     },
     "tags": [
       "item",
@@ -9772,7 +11501,6 @@
       "zh-CN": "啪啪啪！所有的子弹会产生爆炸效果。请开始你的表演！",
       "zh-TW": "子彈只要擊中任何地方或飛行一定距離後就會爆炸。好戲上場。"
     },
-    "id": "5_05_item_bullet_dis_explo",
     "name": {
       "de": "POPCORN",
       "en-US": "POPCORN",
@@ -9784,6 +11512,14 @@
       "zh": "爆米花",
       "zh-CN": "爆米花",
       "zh-TW": "爆米花"
+    },
+    "slug": "popcorn",
+    "sprite": {
+      "height": 26,
+      "sheet": "27569626",
+      "width": 26,
+      "x": 221,
+      "y": 54
     },
     "tags": [
       "item",
@@ -9805,7 +11541,6 @@
       "zh-CN": "子弹消失时有概率放烟花。人类从未从历史中汲取到任何经验和教训。",
       "zh-TW": "射出的子彈有機會化為美麗煙火。"
     },
-    "id": "5_05_item_bullet_dis_fireworks",
     "name": {
       "de": "FEDERKRONE",
       "en-US": "IRON CROWN",
@@ -9817,6 +11552,14 @@
       "zh": "铁王冠",
       "zh-CN": "铁王冠",
       "zh-TW": "鐵冠"
+    },
+    "slug": "iron-crown",
+    "sprite": {
+      "height": 26,
+      "sheet": "27569626",
+      "width": 28,
+      "x": 93,
+      "y": 29
     },
     "tags": [
       "item",
@@ -9838,7 +11581,6 @@
       "zh-CN": "子弹会在墙上生成一个可以站立的平台。",
       "zh-TW": "射出的子彈會在牆上形成一個平台。"
     },
-    "id": "5_05_item_bullet_dis_platform",
     "name": {
       "de": "GESTEINSAMEN",
       "en-US": "SEED OF STONE",
@@ -9850,6 +11592,14 @@
       "zh": "石头种子",
       "zh-CN": "石头种子",
       "zh-TW": "石頭種子"
+    },
+    "slug": "seed-of-stone",
+    "sprite": {
+      "height": 25,
+      "sheet": "27569626",
+      "width": 25,
+      "x": 144,
+      "y": 154
     },
     "tags": [
       "item",
@@ -9871,7 +11621,6 @@
       "zh-CN": "你从一个盆栽中悟到了抗争的意义。子弹有概率分裂出额外子弹。",
       "zh-TW": "射出的子彈有機會分裂成多發子彈。優美地呈現出死亡時刻。"
     },
-    "id": "5_05_item_bullet_dis_spread_1",
     "name": {
       "de": "BLUMENTOPF",
       "en-US": "FLOWERPOT",
@@ -9883,6 +11632,14 @@
       "zh": "盆栽植物",
       "zh-CN": "盆栽植物",
       "zh-TW": "花盆"
+    },
+    "slug": "flowerpot",
+    "sprite": {
+      "height": 26,
+      "sheet": "27569626",
+      "width": 26,
+      "x": 221,
+      "y": 80
     },
     "tags": [
       "item",
@@ -9904,7 +11661,6 @@
       "zh-CN": "请离开危险区域。子弹有概率分裂出额外子弹。",
       "zh-TW": "射出的子彈有可能分裂成多發子彈。請遠離危險區域。"
     },
-    "id": "5_05_item_bullet_dis_spread_2",
     "name": {
       "de": "SPALTAPPARAT",
       "en-US": "FISSION DEVICE",
@@ -9916,6 +11672,14 @@
       "zh": "裂变装置",
       "zh-CN": "裂变装置",
       "zh-TW": "裂變裝置"
+    },
+    "slug": "fission-device",
+    "sprite": {
+      "height": 17,
+      "sheet": "27569626",
+      "width": 24,
+      "x": 0,
+      "y": 171
     },
     "tags": [
       "item",
@@ -9937,7 +11701,6 @@
       "zh-CN": "子弹有概率分裂出额外子弹。我知道这是你的最爱。",
       "zh-TW": "射出的子彈有可能分裂成多發子彈。看起來很可口，但千萬別亂舔。"
     },
-    "id": "5_05_item_bullet_dis_spread_3",
     "name": {
       "de": "KIRSCHGESCHMACK",
       "en-US": "CHERRY TASTE",
@@ -9949,6 +11712,14 @@
       "zh": "樱桃口味",
       "zh-CN": "樱桃口味",
       "zh-TW": "櫻桃口味"
+    },
+    "slug": "cherry-taste",
+    "sprite": {
+      "height": 23,
+      "sheet": "27569626",
+      "width": 21,
+      "x": 243,
+      "y": 166
     },
     "tags": [
       "item",
@@ -9970,7 +11741,6 @@
       "zh-CN": "科学的胜利！你的子弹碰到墙壁会随机反弹。",
       "zh-TW": "科學的勝利！子彈碰到牆壁時會隨機反彈。"
     },
-    "id": "5_05_item_bullet_reflect",
     "name": {
       "de": "ELASTISCHES GEL",
       "en-US": "ELASTIC GEL",
@@ -9982,6 +11752,14 @@
       "zh": "排斥凝胶",
       "zh-CN": "排斥凝胶",
       "zh-TW": "彈性凝膠"
+    },
+    "slug": "elastic-gel",
+    "sprite": {
+      "height": 20,
+      "sheet": "27569626",
+      "width": 25,
+      "x": 91,
+      "y": 154
     },
     "tags": [
       "item",
@@ -10003,7 +11781,6 @@
       "zh-CN": "你的子弹多了一层护盾，有概率抵消敌人的子弹。",
       "zh-TW": "部分子彈多了一層護盾，能擋掉敵人的子彈。"
     },
-    "id": "5_05_item_bullet_shield",
     "name": {
       "de": "ATLANTISBLASE",
       "en-US": "ATLANTIS BUBBLE",
@@ -10015,6 +11792,14 @@
       "zh": "深海泡泡",
       "zh-CN": "深海泡泡",
       "zh-TW": "亞特蘭提斯泡泡"
+    },
+    "slug": "atlantis-bubble",
+    "sprite": {
+      "height": 21,
+      "sheet": "27569626",
+      "width": 21,
+      "x": 300,
+      "y": 224
     },
     "tags": [
       "item",
@@ -10036,7 +11821,6 @@
       "zh-CN": "你的武器充满了电流！你的所有子弹都带有电属性。",
       "zh-TW": "你的槍充滿了電流！你發射的所有子彈會對敵人造成電擊傷害。"
     },
-    "id": "5_05_item_bullet_tag_electric",
     "name": {
       "de": "WARNSCHILD",
       "en-US": "DANGER SIGN",
@@ -10048,6 +11832,14 @@
       "zh": "危险标志",
       "zh-CN": "危险标志",
       "zh-TW": "危險標誌"
+    },
+    "slug": "danger-sign",
+    "sprite": {
+      "height": 21,
+      "sheet": "27569626",
+      "width": 21,
+      "x": 315,
+      "y": 202
     },
     "tags": [
       "item",
@@ -10069,7 +11861,6 @@
       "zh-CN": "让你的武器燃烧起来吧！你的所有子弹都带有火属性。",
       "zh-TW": "讓槍燃燒起來吧！你發射的所有子彈會對敵人造成火焰傷害。"
     },
-    "id": "5_05_item_bullet_tag_fire",
     "name": {
       "de": "SCHARFE CHILI",
       "en-US": "HOT CHILI",
@@ -10081,6 +11872,14 @@
       "zh": "红辣椒",
       "zh-CN": "红辣椒",
       "zh-TW": "小辣椒"
+    },
+    "slug": "hot-chili",
+    "sprite": {
+      "height": 24,
+      "sheet": "27569626",
+      "width": 23,
+      "x": 47,
+      "y": 161
     },
     "tags": [
       "item",
@@ -10102,7 +11901,6 @@
       "zh-CN": "太热了？给你的武器降降温吧！你的所有子弹都带有冰属性。",
       "zh-TW": "幫槍降溫吧！你發射的所有子彈會對敵人造成急凍傷害。"
     },
-    "id": "5_05_item_bullet_tag_ice",
     "name": {
       "de": "KÜHLSYSTEM",
       "en-US": "COOLING SYSTEM",
@@ -10114,6 +11912,14 @@
       "zh": "水冷系统",
       "zh-CN": "水冷系统",
       "zh-TW": "散熱系統"
+    },
+    "slug": "cooling-system",
+    "sprite": {
+      "height": 23,
+      "sheet": "27569626",
+      "width": 20,
+      "x": 257,
+      "y": 215
     },
     "tags": [
       "item",
@@ -10135,7 +11941,6 @@
       "zh-CN": "你就像毒药一样可怕！你的所有子弹都带有毒属性。",
       "zh-TW": "你的毒素會在他們的血液中亂竄。你發射的所有子彈會對敵人造成毒性傷害。"
     },
-    "id": "5_05_item_bullet_tag_poison",
     "name": {
       "de": "FAULER APFEL",
       "en-US": "BAD APPLE",
@@ -10147,6 +11952,14 @@
       "zh": "坏苹果",
       "zh-CN": "坏苹果",
       "zh-TW": "壞蘋果"
+    },
+    "slug": "bad-apple",
+    "sprite": {
+      "height": 25,
+      "sheet": "27569626",
+      "width": 21,
+      "x": 197,
+      "y": 157
     },
     "tags": [
       "item",
@@ -10168,7 +11981,6 @@
       "zh-CN": "子弹可以穿透敌人。让他们见识下你的厉害！",
       "zh-TW": "你的子彈可以穿透敵人。"
     },
-    "id": "5_05_item_bullet_through_monster",
     "name": {
       "de": "RÖNTGEN",
       "en-US": "X-RAY",
@@ -10180,6 +11992,14 @@
       "zh": "X光片",
       "zh-CN": "X光片",
       "zh-TW": "X光"
+    },
+    "slug": "x-ray",
+    "sprite": {
+      "height": 22,
+      "sheet": "27569626",
+      "width": 21,
+      "x": 70,
+      "y": 166
     },
     "tags": [
       "item",
@@ -10201,7 +12021,6 @@
       "zh-CN": "没有什么可以阻挡你了！！子弹可以穿透墙壁。",
       "zh-TW": "現在什麼也阻止不了你！你的子彈可以穿透牆壁。"
     },
-    "id": "5_05_item_bullet_through_wall",
     "name": {
       "de": "GAMMASTRAHLUNG",
       "en-US": "GAMMA RAY",
@@ -10213,6 +12032,14 @@
       "zh": "伽玛射线",
       "zh-CN": "伽玛射线",
       "zh-TW": "伽馬射線"
+    },
+    "slug": "gamma-ray",
+    "sprite": {
+      "height": 26,
+      "sheet": "27569626",
+      "width": 26,
+      "x": 44,
+      "y": 109
     },
     "tags": [
       "item",
@@ -10234,7 +12061,6 @@
       "zh-CN": "你的武器有时候会发射一个弹跳子弹。",
       "zh-TW": "你有機會射出彈跳子彈。"
     },
-    "id": "5_05_item_sub_bouncy",
     "name": {
       "de": "PING PONG",
       "en-US": "PING PONG",
@@ -10246,6 +12072,14 @@
       "zh": "红双喜",
       "zh-CN": "红双喜",
       "zh-TW": "乒乓球"
+    },
+    "slug": "ping-pong",
+    "sprite": {
+      "height": 26,
+      "sheet": "27569626",
+      "width": 24,
+      "x": 70,
+      "y": 114
     },
     "tags": [
       "item",
@@ -10267,7 +12101,6 @@
       "zh-CN": "有概率额外发射跟踪子弹。这不是作弊吗？",
       "zh-TW": "你有機會射出熱追蹤子彈。"
     },
-    "id": "5_05_item_sub_chase",
     "name": {
       "de": "ALIEN-TECHNOLOGIE",
       "en-US": "ALIEN TECH",
@@ -10279,6 +12112,14 @@
       "zh": "外星科技",
       "zh-CN": "外星科技",
       "zh-TW": "外星科技"
+    },
+    "slug": "alien-tech",
+    "sprite": {
+      "height": 22,
+      "sheet": "27569626",
+      "width": 26,
+      "x": 0,
+      "y": 128
     },
     "tags": [
       "item",
@@ -10300,7 +12141,6 @@
       "zh-CN": "有概率额外发射一束激光。但是能不能打到人就是另一个问题了...",
       "zh-TW": "你有機會射出雷射光束。但能否擊中目標就難說了..."
     },
-    "id": "5_05_item_sub_laser_fast",
     "name": {
       "de": "IMPERIALE MACHT",
       "en-US": "IMPERIAL FORCE",
@@ -10312,6 +12152,14 @@
       "zh": "帝国力量",
       "zh-CN": "帝国力量",
       "zh-TW": "帝國原力"
+    },
+    "slug": "imperial-force",
+    "sprite": {
+      "height": 26,
+      "sheet": "27569626",
+      "width": 25,
+      "x": 26,
+      "y": 135
     },
     "tags": [
       "item",
@@ -10333,7 +12181,6 @@
       "zh-CN": "有概率会扔出咬人的小老鼠。害不害怕？",
       "zh-TW": "你有機會射出假老鼠。誰都會嚇死吧！"
     },
-    "id": "5_05_item_sub_mouse",
     "name": {
       "de": "NARRENHUT",
       "en-US": "CLOWN HAT",
@@ -10345,6 +12192,14 @@
       "zh": "小丑帽子",
       "zh-CN": "小丑帽子",
       "zh-TW": "小丑帽"
+    },
+    "slug": "clown-hat",
+    "sprite": {
+      "height": 21,
+      "sheet": "27569626",
+      "width": 26,
+      "x": 0,
+      "y": 150
     },
     "tags": [
       "item",
@@ -10366,7 +12221,6 @@
       "zh-CN": "有概率额外发射反射子弹。你经常问它一些愚蠢的问题。",
       "zh-TW": "你有機會射出反彈子彈。"
     },
-    "id": "5_05_item_sub_reflect",
     "name": {
       "de": "HANDSPIEGEL",
       "en-US": "HAND MIRROR",
@@ -10378,6 +12232,14 @@
       "zh": "小镜子",
       "zh-CN": "小镜子",
       "zh-TW": "隨身鏡"
+    },
+    "slug": "hand-mirror",
+    "sprite": {
+      "height": 26,
+      "sheet": "27569626",
+      "width": 21,
+      "x": 200,
+      "y": 105
     },
     "tags": [
       "item",
@@ -10399,7 +12261,6 @@
       "zh-CN": "有概率性额外发射追踪火箭。似乎…有点…不太稳定。",
       "zh-TW": "你有機會射出熱追蹤火箭。"
     },
-    "id": "5_05_item_sub_rocket",
     "name": {
       "de": "RAKETENMOD",
       "en-US": "ROCKET MOD",
@@ -10411,6 +12272,14 @@
       "zh": "火箭模块",
       "zh-CN": "火箭模块",
       "zh-TW": "火箭發射器"
+    },
+    "slug": "rocket-mod",
+    "sprite": {
+      "height": 26,
+      "sheet": "27569626",
+      "width": 22,
+      "x": 123,
+      "y": 112
     },
     "tags": [
       "item",
@@ -10432,7 +12301,6 @@
       "zh-CN": "你从蜂蜜中尝到了愤怒的味道。有概率额外发射多发子弹。",
       "zh-TW": "你有機會一次射出多發子彈。"
     },
-    "id": "5_05_item_sub_shotgun",
     "name": {
       "de": "BIENENSTOCK",
       "en-US": "BEEHIVE",
@@ -10444,6 +12312,14 @@
       "zh": "蜂巢",
       "zh-CN": "蜂巢",
       "zh-TW": "蜂巢"
+    },
+    "slug": "beehive",
+    "sprite": {
+      "height": 27,
+      "sheet": "27569626",
+      "width": 24,
+      "x": 148,
+      "y": 0
     },
     "tags": [
       "item",
@@ -10465,7 +12341,6 @@
       "zh-CN": "有概率额外发射电属性子弹。品质保证，经久耐用。",
       "zh-TW": "你有機會射出電擊子彈。"
     },
-    "id": "5_05_item_sub_tag_electric",
     "name": {
       "de": "LITHIUM-AKKU",
       "en-US": "LITHIUM BATTERY",
@@ -10477,6 +12352,14 @@
       "zh": "锂电池",
       "zh-CN": "锂电池",
       "zh-TW": "鋰電池"
+    },
+    "slug": "lithium-battery",
+    "sprite": {
+      "height": 27,
+      "sheet": "27569626",
+      "width": 18,
+      "x": 145,
+      "y": 84
     },
     "tags": [
       "item",
@@ -10498,7 +12381,6 @@
       "zh-CN": "你的眼中闪烁着泪花。有概率额外发射火属性子弹。",
       "zh-TW": "你有機會射出火焰子彈。"
     },
-    "id": "5_05_item_sub_tag_fire",
     "name": {
       "de": "SZECHUAN-SOSSE",
       "en-US": "SZECHUAN SAUCE",
@@ -10510,6 +12392,14 @@
       "zh": "四川辣酱",
       "zh-CN": "四川辣酱",
       "zh-TW": "四川辣醬"
+    },
+    "slug": "szechuan-sauce",
+    "sprite": {
+      "height": 27,
+      "sheet": "27569626",
+      "width": 18,
+      "x": 163,
+      "y": 84
     },
     "tags": [
       "item",
@@ -10531,7 +12421,6 @@
       "zh-CN": "这是你最喜欢的圣诞节礼物。有概率额外发射冰属性子弹。",
       "zh-TW": "你有機會射出急凍子彈。"
     },
-    "id": "5_05_item_sub_tag_ice",
     "name": {
       "de": "SCHNEEKUGEL",
       "en-US": "SNOW GLOBE",
@@ -10543,6 +12432,14 @@
       "zh": "雪晶球",
       "zh-CN": "雪晶球",
       "zh-TW": "雪花球"
+    },
+    "slug": "snow-globe",
+    "sprite": {
+      "height": 25,
+      "sheet": "27569626",
+      "width": 20,
+      "x": 116,
+      "y": 163
     },
     "tags": [
       "item",
@@ -10564,7 +12461,6 @@
       "zh-CN": "这下你可以大口呼吸了。有概率额外发射毒属性子弹。",
       "zh-TW": "你有機會射出毒性子彈。"
     },
-    "id": "5_05_item_sub_tag_poison",
     "name": {
       "de": "GASMASKE",
       "en-US": "GAS MASK",
@@ -10576,6 +12472,14 @@
       "zh": "防毒面具",
       "zh-CN": "防毒面具",
       "zh-TW": "防毒面具"
+    },
+    "slug": "gas-mask",
+    "sprite": {
+      "height": 19,
+      "sheet": "27569626",
+      "width": 25,
+      "x": 169,
+      "y": 178
     },
     "tags": [
       "item",
@@ -10597,7 +12501,6 @@
       "zh-CN": "众多口味任你选择。有概率额外发射随机元素子弹。",
       "zh-TW": "你有機會射出隨機元素的子彈。"
     },
-    "id": "5_05_item_sub_tag_random",
     "name": {
       "de": "GELEEBOHNEN",
       "en-US": "JELLY BEANS",
@@ -10609,6 +12512,14 @@
       "zh": "多彩糖豆",
       "zh-CN": "多彩糖豆",
       "zh-TW": "雷根糖"
+    },
+    "slug": "jelly-beans",
+    "sprite": {
+      "height": 23,
+      "sheet": "27569626",
+      "width": 26,
+      "x": 172,
+      "y": 111
     },
     "tags": [
       "item",
@@ -10630,7 +12541,6 @@
       "zh-CN": "有概率额外发射穿透子。有些故事还是不听为好。",
       "zh-TW": "你有機會射出穿透子彈。"
     },
-    "id": "5_05_item_sub_through",
     "name": {
       "de": "GEISTERNAGEL",
       "en-US": "GHOST NAIL",
@@ -10642,6 +12552,14 @@
       "zh": "透明钉子",
       "zh-CN": "透明钉子",
       "zh-TW": "鬼釘"
+    },
+    "slug": "ghost-nail",
+    "sprite": {
+      "height": 25,
+      "sheet": "27569626",
+      "width": 25,
+      "x": 136,
+      "y": 179
     },
     "tags": [
       "item",
@@ -10663,7 +12581,6 @@
       "zh-CN": "在空中的近战攻击伤害翻倍。谁能帮忙把电费给交了？",
       "zh-TW": "在空中時近戰傷害加倍。"
     },
-    "id": "5_06_item_melee_air_dmgUP",
     "name": {
       "de": "DURCHWAHL ZUM TEUFEL",
       "en-US": "DEVIL HOTLINE",
@@ -10675,6 +12592,14 @@
       "zh": "恶魔热线",
       "zh-CN": "恶魔热线",
       "zh-TW": "惡魔熱線"
+    },
+    "slug": "devil-hotline",
+    "sprite": {
+      "height": 23,
+      "sheet": "27569626",
+      "width": 27,
+      "x": 164,
+      "y": 56
     },
     "tags": [
       "item",
@@ -10696,7 +12621,6 @@
       "zh-CN": "使用近战攻击破坏箱子，可以获得1金币。",
       "zh-TW": "每次以近戰招式破壞木箱時，可獲得1枚金幣。"
     },
-    "id": "5_06_item_melee_box_coin",
     "name": {
       "de": "GOLDENE FAUST",
       "en-US": "GOLDEN FIST",
@@ -10708,6 +12632,14 @@
       "zh": "金拳头",
       "zh-CN": "金拳头",
       "zh-TW": "金拳頭"
+    },
+    "slug": "golden-fist",
+    "sprite": {
+      "height": 26,
+      "sheet": "27569626",
+      "width": 26,
+      "x": 145,
+      "y": 128
     },
     "tags": [
       "item",
@@ -10729,7 +12661,6 @@
       "zh-CN": "“黄金在上，寒铁在下。”金币越多，近战伤害越高。",
       "zh-TW": "擁有的金幣越多，近戰傷害越高。"
     },
-    "id": "5_06_item_melee_coin_dmgUP",
     "name": {
       "de": "GOLDENE SCHÄDEL",
       "en-US": "GOLDEN SKULLS",
@@ -10741,6 +12672,14 @@
       "zh": "黄金团",
       "zh-CN": "黄金团",
       "zh-TW": "黃金骷髏頭"
+    },
+    "slug": "golden-skulls",
+    "sprite": {
+      "height": 29,
+      "sheet": "27569626",
+      "width": 25,
+      "x": 20,
+      "y": 0
     },
     "tags": [
       "item",
@@ -10762,7 +12701,6 @@
       "zh-CN": "在当前房间内，近战武器使用的次数越多，你的近战伤害就越高。",
       "zh-TW": "在目前房間內，使用近戰攻擊的次數越多，近戰傷害就越高。"
     },
-    "id": "5_06_item_melee_count_dmgUP",
     "name": {
       "de": "WETZSTEIN",
       "en-US": "WHETSTONE",
@@ -10774,6 +12712,14 @@
       "zh": "磨刀石",
       "zh-CN": "磨刀石",
       "zh-TW": "磨刀石"
+    },
+    "slug": "whetstone",
+    "sprite": {
+      "height": 25,
+      "sheet": "27569626",
+      "width": 17,
+      "x": 27,
+      "y": 110
     },
     "tags": [
       "item",
@@ -10795,7 +12741,6 @@
       "zh-CN": "如果用近战攻击到敌人，那么敌人死后会爆炸。我要过平静安逸的生活……",
       "zh-TW": "使用近戰攻擊殺死敵人後，敵人會爆炸。"
     },
-    "id": "5_06_item_melee_death_explo",
     "name": {
       "de": "KÖNIGIN DER JAGD",
       "en-US": "HUNTER QUEEN",
@@ -10807,6 +12752,14 @@
       "zh": "猎手皇后",
       "zh-CN": "猎手皇后",
       "zh-TW": "獵人女王"
+    },
+    "slug": "hunter-queen",
+    "sprite": {
+      "height": 24,
+      "sheet": "27569626",
+      "width": 24,
+      "x": 72,
+      "y": 222
     },
     "tags": [
       "item",
@@ -10828,7 +12781,6 @@
       "zh-CN": "传说中的圣剑！增加你的近战伤害。",
       "zh-TW": "這是你最愛的武器！增加近戰傷害。"
     },
-    "id": "5_06_item_melee_dmgUP",
     "name": {
       "de": "DAS BRECHEISEN",
       "en-US": "THE CROWBAR",
@@ -10840,6 +12792,14 @@
       "zh": "撬棍",
       "zh-CN": "撬棍",
       "zh-TW": "鐵撬"
+    },
+    "slug": "the-crowbar",
+    "sprite": {
+      "height": 24,
+      "sheet": "27569626",
+      "width": 24,
+      "x": 47,
+      "y": 188
     },
     "tags": [
       "item",
@@ -10861,7 +12821,6 @@
       "zh-CN": "近战消灭敌人，有一定概率掉落即爆炸弹 。",
       "zh-TW": "每次以近戰招式殺死敵人後，有機會掉出即爆炸彈。"
     },
-    "id": "5_06_item_melee_drop_instantbomb",
     "name": {
       "de": "KRIEGSHAMMER",
       "en-US": "WAR HAMMER",
@@ -10873,6 +12832,14 @@
       "zh": "矮人战锤",
       "zh-CN": "矮人战锤",
       "zh-TW": "戰鎚"
+    },
+    "slug": "war-hammer",
+    "sprite": {
+      "height": 25,
+      "sheet": "27569626",
+      "width": 25,
+      "x": 218,
+      "y": 166
     },
     "tags": [
       "item",
@@ -10894,7 +12861,6 @@
       "zh-CN": "你拥有的蛋越多，近战伤害越高。",
       "zh-TW": "擁有的寵物蛋越多，近戰傷害越高。"
     },
-    "id": "5_06_item_melee_egg_dmgUP",
     "name": {
       "de": "STINKWÜTENDES HUHN",
       "en-US": "FURIOUS CHICKEN",
@@ -10906,6 +12872,14 @@
       "zh": "愤怒鸡头",
       "zh-CN": "愤怒鸡头",
       "zh-TW": "憤怒雞"
+    },
+    "slug": "furious-chicken",
+    "sprite": {
+      "height": 29,
+      "sheet": "27569626",
+      "width": 24,
+      "x": 0,
+      "y": 30
     },
     "tags": [
       "item",
@@ -10927,7 +12901,6 @@
       "zh-CN": "蛋越多，近战武器发出的剑气距离越远。",
       "zh-TW": "擁有的寵物蛋越多，近戰攻擊範圍越大。"
     },
-    "id": "5_06_item_melee_egg_rangeUP",
     "name": {
       "de": "MINI-BASEBALLSCHLÄGER",
       "en-US": "TOY HOME RUN BAT",
@@ -10939,6 +12912,14 @@
       "zh": "玩具棒球棍",
       "zh-CN": "玩具棒球棍",
       "zh-TW": "玩具球棒"
+    },
+    "slug": "toy-home-run-bat",
+    "sprite": {
+      "height": 28,
+      "sheet": "27569626",
+      "width": 14,
+      "x": 110,
+      "y": 0
     },
     "tags": [
       "item",
@@ -10960,7 +12941,6 @@
       "zh-CN": "你的近战攻击附带电属性。蕴含着雷电与风暴的力量。",
       "zh-TW": "你的近戰攻擊會造成電擊傷害。"
     },
-    "id": "5_06_item_melee_elec",
     "name": {
       "de": "MJÖLNIR",
       "en-US": "MJOLNIR",
@@ -10972,6 +12952,14 @@
       "zh": "雷神之锤",
       "zh-CN": "雷神之锤",
       "zh-TW": "雷神之鎚"
+    },
+    "slug": "mjolnir",
+    "sprite": {
+      "height": 25,
+      "sheet": "27569626",
+      "width": 22,
+      "x": 194,
+      "y": 182
     },
     "tags": [
       "item",
@@ -10993,7 +12981,6 @@
       "zh-CN": "你的近战攻击附带火属性。你在火焰中看到了……",
       "zh-TW": "你的近戰攻擊會造成火焰傷害。"
     },
-    "id": "5_06_item_melee_fire",
     "name": {
       "de": "ERIKS KERZE",
       "en-US": "ERIC'S CANDLE",
@@ -11005,6 +12992,14 @@
       "zh": "贝里的蜡烛",
       "zh-CN": "贝里的蜡烛",
       "zh-TW": "艾瑞克之燭"
+    },
+    "slug": "eric's-candle",
+    "sprite": {
+      "height": 28,
+      "sheet": "27569626",
+      "width": 18,
+      "x": 24,
+      "y": 54
     },
     "tags": [
       "item",
@@ -11026,7 +13021,6 @@
       "zh-CN": "近战消灭一定数量敌人，回复半个红心。",
       "zh-TW": "使用近戰招式殺死一定數量的敵人後，就會恢復半顆紅心。"
     },
-    "id": "5_06_item_melee_gain_heart",
     "name": {
       "de": "HUNGRIGES AMULETT",
       "en-US": "HUNGRY AMULET",
@@ -11038,6 +13032,14 @@
       "zh": "饥饿护符",
       "zh-CN": "饥饿护符",
       "zh-TW": "飢餓護身符"
+    },
+    "slug": "hungry-amulet",
+    "sprite": {
+      "height": 25,
+      "sheet": "27569626",
+      "width": 29,
+      "x": 24,
+      "y": 29
     },
     "tags": [
       "item",
@@ -11059,7 +13061,6 @@
       "zh-CN": "近战消灭敌人后，一定概率掉落炸弹。",
       "zh-TW": "每次以近戰招式殺死敵人後，即有機會獲得一個炸彈。"
     },
-    "id": "5_06_item_melee_get_bomb",
     "name": {
       "de": "ELEKTRISCHER BOHRER",
       "en-US": "ELECTRIC DRILL",
@@ -11071,6 +13072,14 @@
       "zh": "巨型电钻",
       "zh-CN": "巨型电钻",
       "zh-TW": "電鑽"
+    },
+    "slug": "electric-drill",
+    "sprite": {
+      "height": 21,
+      "sheet": "27569626",
+      "width": 24,
+      "x": 96,
+      "y": 222
     },
     "tags": [
       "item",
@@ -11092,7 +13101,6 @@
       "zh-CN": "近战消灭敌人后，敌人有概率掉落蛋。",
       "zh-TW": "每次使用近戰招式殺死敵人後，即有機會獲得一顆寵物蛋。"
     },
-    "id": "5_06_item_melee_get_egg",
     "name": {
       "de": "MESSER UND GABEL",
       "en-US": "KNIFE AND FORK",
@@ -11104,6 +13112,14 @@
       "zh": "闪亮刀叉",
       "zh-CN": "闪亮刀叉",
       "zh-TW": "刀與叉"
+    },
+    "slug": "knife-and-fork",
+    "sprite": {
+      "height": 26,
+      "sheet": "27569626",
+      "width": 19,
+      "x": 51,
+      "y": 135
     },
     "tags": [
       "item",
@@ -11125,7 +13141,6 @@
       "zh-CN": "近战消灭敌人后，一定概率掉落钥匙。",
       "zh-TW": "每次使用近戰招式殺死敵人後，即有機會獲得一把鑰匙。"
     },
-    "id": "5_06_item_melee_get_key",
     "name": {
       "de": "ALIEN-SCHRAUBENSCHLÜSSEL",
       "en-US": "SPACE SPANNER",
@@ -11137,6 +13152,14 @@
       "zh": "星际扳手",
       "zh-CN": "星际扳手",
       "zh-TW": "太空扳手"
+    },
+    "slug": "space-spanner",
+    "sprite": {
+      "height": 24,
+      "sheet": "27569626",
+      "width": 24,
+      "x": 71,
+      "y": 188
     },
     "tags": [
       "item",
@@ -11158,7 +13181,6 @@
       "zh-CN": "近战消灭敌人后，一定概率掉落水晶。",
       "zh-TW": "每次使用近戰招式殺死敵人後，即有機會獲得額外的水晶。"
     },
-    "id": "5_06_item_melee_get_mana",
     "name": {
       "de": "ZAUBERERSCHWERT",
       "en-US": "WIZARD SWORD",
@@ -11170,6 +13192,14 @@
       "zh": "白袍之剑",
       "zh-CN": "白袍之剑",
       "zh-TW": "巫師劍"
+    },
+    "slug": "wizard-sword",
+    "sprite": {
+      "height": 23,
+      "sheet": "27569626",
+      "width": 22,
+      "x": 260,
+      "y": 189
     },
     "tags": [
       "item",
@@ -11191,7 +13221,6 @@
       "zh-CN": "近战消灭敌人后，有一定概率掉落额外金币。",
       "zh-TW": "每次使用近戰招式殺死敵人後，即有機會獲得額外的金幣。"
     },
-    "id": "5_06_item_melee_get_moreCoin",
     "name": {
       "de": "GOLDENE GLOCKE",
       "en-US": "GOLDEN BELL",
@@ -11203,6 +13232,14 @@
       "zh": "黄金铃铛",
       "zh-CN": "黄金铃铛",
       "zh-TW": "金鈴鐺"
+    },
+    "slug": "golden-bell",
+    "sprite": {
+      "height": 24,
+      "sheet": "27569626",
+      "width": 22,
+      "x": 120,
+      "y": 222
     },
     "tags": [
       "item",
@@ -11224,7 +13261,6 @@
       "zh-CN": "近战消灭敌人后，有一定概率掉落护盾。",
       "zh-TW": "使用近戰招式殺死敵人後，可獲得護盾。"
     },
-    "id": "5_06_item_melee_get_shield",
     "name": {
       "de": "KINETISCHE KLINGE",
       "en-US": "KINETIC BLADE",
@@ -11236,6 +13272,14 @@
       "zh": "能量剑",
       "zh-CN": "能量剑",
       "zh-TW": "動能劍"
+    },
+    "slug": "kinetic-blade",
+    "sprite": {
+      "height": 26,
+      "sheet": "27569626",
+      "width": 26,
+      "x": 94,
+      "y": 128
     },
     "tags": [
       "item",
@@ -11257,7 +13301,6 @@
       "zh-CN": "在当前房间内，每次受伤后近战伤害增加。",
       "zh-TW": "在目前房間內，每次受傷後近戰傷害就會增加。"
     },
-    "id": "5_06_item_melee_hurt_dmgUP",
     "name": {
       "de": "GLADIATORENHELM",
       "en-US": "GLADIATOR HELMET",
@@ -11269,6 +13312,14 @@
       "zh": "角斗士头盔",
       "zh-CN": "角斗士头盔",
       "zh-TW": "古羅馬戰士頭盔"
+    },
+    "slug": "gladiator-helmet",
+    "sprite": {
+      "height": 24,
+      "sheet": "27569626",
+      "width": 28,
+      "x": 93,
+      "y": 55
     },
     "tags": [
       "item",
@@ -11290,7 +13341,6 @@
       "zh-CN": "跳跃次数越多，近战伤害越高。",
       "zh-TW": "跳躍次數越多，近戰傷害越高。"
     },
-    "id": "5_06_item_melee_jump_dmgUP",
     "name": {
       "de": "STIRNBAND",
       "en-US": "HEADBAND",
@@ -11302,6 +13352,14 @@
       "zh": "忍者护额",
       "zh-CN": "忍者护额",
       "zh-TW": "頭帶"
+    },
+    "slug": "headband",
+    "sprite": {
+      "height": 18,
+      "sheet": "27569626",
+      "width": 27,
+      "x": 0,
+      "y": 110
     },
     "tags": [
       "item",
@@ -11323,7 +13381,6 @@
       "zh-CN": "这世上有很多你无法阻止之事。近战攻击距离增加。",
       "zh-TW": "有時人就是難逃一死。提高近戰攻擊範圍。"
     },
-    "id": "5_06_item_melee_meleeRadius",
     "name": {
       "de": "SPEER DES SCHICKSALS",
       "en-US": "SPEAR OF DESTINY",
@@ -11335,6 +13392,14 @@
       "zh": "命运之枪",
       "zh-CN": "命运之枪",
       "zh-TW": "命運之矛"
+    },
+    "slug": "spear-of-destiny",
+    "sprite": {
+      "height": 24,
+      "sheet": "27569626",
+      "width": 24,
+      "x": 95,
+      "y": 188
     },
     "tags": [
       "item",
@@ -11356,7 +13421,6 @@
       "zh-CN": "每天100个俯卧撑，100个仰卧起坐，10公里长跑！近战攻击伤害逆天！",
       "zh-TW": "每天做100次伏地挺身、100次仰臥起坐，跑步10公里...你的近戰傷害就超越常人啦！"
     },
-    "id": "5_06_item_melee_onepunch",
     "name": {
       "de": "GEWÖHNLICHE HANDSCHUHE",
       "en-US": "ORDINARY GLOVES",
@@ -11368,6 +13432,14 @@
       "zh": "普通拳套",
       "zh-CN": "普通拳套",
       "zh-TW": "平凡手套"
+    },
+    "slug": "ordinary-gloves",
+    "sprite": {
+      "height": 28,
+      "sheet": "27569626",
+      "width": 23,
+      "x": 0,
+      "y": 59
     },
     "tags": [
       "item",
@@ -11389,7 +13461,6 @@
       "zh-CN": "每次开始射击都会自动触发一次近战。",
       "zh-TW": "每次開始射擊時，即自動觸發近戰攻擊。"
     },
-    "id": "5_06_item_melee_triger",
     "name": {
       "de": "KETTENSÄGEN-BAJONETT",
       "en-US": "CHAINSAW BAYONET",
@@ -11401,6 +13472,14 @@
       "zh": "电锯刺刀",
       "zh-CN": "电锯刺刀",
       "zh-TW": "鏈鋸槍"
+    },
+    "slug": "chainsaw-bayonet",
+    "sprite": {
+      "height": 22,
+      "sheet": "27569626",
+      "width": 22,
+      "x": 247,
+      "y": 114
     },
     "tags": [
       "item",
@@ -11422,7 +13501,6 @@
       "zh-CN": "炸弹爆炸后，向外发射10颗弹跳子弹。",
       "zh-TW": "炸彈爆炸後，向外發射10顆彈跳子彈。"
     },
-    "id": "5_07_item_bomb_bullet_bouncy",
     "name": {
       "de": "EISENFROSCH",
       "en-US": "IRON FROG",
@@ -11434,6 +13512,14 @@
       "zh": "铁皮青蛙",
       "zh-CN": "铁皮青蛙",
       "zh-TW": "發條青蛙"
+    },
+    "slug": "iron-frog",
+    "sprite": {
+      "height": 22,
+      "sheet": "27569626",
+      "width": 27,
+      "x": 96,
+      "y": 106
     },
     "tags": [
       "item",
@@ -11455,7 +13541,6 @@
       "zh-CN": "炸弹爆炸后，向外发射10颗追踪子弹。",
       "zh-TW": "炸彈爆炸後，向外發射10顆熱追蹤子彈。"
     },
-    "id": "5_07_item_bomb_bullet_chase",
     "name": {
       "de": "ALIEN-SPIELZEUG",
       "en-US": "ALIEN TOY",
@@ -11467,6 +13552,14 @@
       "zh": "外星玩具",
       "zh-CN": "外星玩具",
       "zh-TW": "外星玩具"
+    },
+    "slug": "alien-toy",
+    "sprite": {
+      "height": 23,
+      "sheet": "27569626",
+      "width": 28,
+      "x": 0,
+      "y": 87
     },
     "tags": [
       "item",
@@ -11488,7 +13581,6 @@
       "zh-CN": "炸弹爆炸后，向外发射10颗子弹。",
       "zh-TW": "炸彈爆炸後，向外發射10顆子彈。"
     },
-    "id": "5_07_item_bomb_bullet_player",
     "name": {
       "de": "PARTYKNALLER",
       "en-US": "PARTY POPPER",
@@ -11500,6 +13592,14 @@
       "zh": "彩带礼炮",
       "zh-CN": "彩带礼炮",
       "zh-TW": "拉炮"
+    },
+    "slug": "party-popper",
+    "sprite": {
+      "height": 25,
+      "sheet": "27569626",
+      "width": 25,
+      "x": 161,
+      "y": 197
     },
     "tags": [
       "item",
@@ -11521,7 +13621,6 @@
       "zh-CN": "炸弹爆炸后，向外发射10颗穿透子弹。",
       "zh-TW": "炸彈爆炸後，向外發射10顆穿透子彈。"
     },
-    "id": "5_07_item_bomb_bullet_through",
     "name": {
       "de": "GEISTERFLASCHE",
       "en-US": "GHOST BOTTLE",
@@ -11533,6 +13632,14 @@
       "zh": "幽白瓶子",
       "zh-CN": "幽白瓶子",
       "zh-TW": "幽靈瓶"
+    },
+    "slug": "ghost-bottle",
+    "sprite": {
+      "height": 28,
+      "sheet": "27569626",
+      "width": 16,
+      "x": 28,
+      "y": 82
     },
     "tags": [
       "item",
@@ -11554,7 +13661,6 @@
       "zh-CN": "你的炸弹可以消除一定范围内的子弹。",
       "zh-TW": "你的炸彈可消除一定範圍內的子彈。"
     },
-    "id": "5_07_item_bomb_clear",
     "name": {
       "de": "LÄCHELNDE BOMBE",
       "en-US": "SMILEY BOMB",
@@ -11566,6 +13672,14 @@
       "zh": "微笑弹",
       "zh-CN": "微笑弹",
       "zh-TW": "微笑炸彈"
+    },
+    "slug": "smiley-bomb",
+    "sprite": {
+      "height": 23,
+      "sheet": "27569626",
+      "width": 18,
+      "x": 277,
+      "y": 212
     },
     "tags": [
       "item",
@@ -11587,7 +13701,6 @@
       "zh-CN": "过年啦！！炸弹爆炸后概率掉落掉落物。",
       "zh-TW": "這顆炸彈爆炸後有機會掉出可拾取物。"
     },
-    "id": "5_07_item_bomb_drop",
     "name": {
       "de": "KNALLKÖRPER",
       "en-US": "FIRECRACKERS",
@@ -11599,6 +13712,14 @@
       "zh": "鞭炮",
       "zh-CN": "鞭炮",
       "zh-TW": "鞭炮"
+    },
+    "slug": "firecrackers",
+    "sprite": {
+      "height": 22,
+      "sheet": "27569626",
+      "width": 20,
+      "x": 247,
+      "y": 136
     },
     "tags": [
       "item",
@@ -11620,7 +13741,6 @@
       "zh-CN": "爆炸效果变为X型爆炸。",
       "zh-TW": "你的炸彈會呈X型爆炸。"
     },
-    "id": "5_07_item_bomb_expand_cross",
     "name": {
       "de": "SPRENGKAPSEL 5000",
       "en-US": "BLASTING CAP 5000",
@@ -11632,6 +13752,14 @@
       "zh": "爆破装置5000",
       "zh-CN": "爆破装置5000",
       "zh-TW": "雷管5000"
+    },
+    "slug": "blasting-cap-5000",
+    "sprite": {
+      "height": 22,
+      "sheet": "27569626",
+      "width": 22,
+      "x": 264,
+      "y": 158
     },
     "tags": [
       "item",
@@ -11653,7 +13781,6 @@
       "zh-CN": "爆炸效果变为十字型爆炸。",
       "zh-TW": "你的炸彈會呈十字型爆炸。"
     },
-    "id": "5_07_item_bomb_expand_plus",
     "name": {
       "de": "SPRENGKAPSEL 101",
       "en-US": "BLASTING CAP 101",
@@ -11665,6 +13792,14 @@
       "zh": "十字爆破装置",
       "zh-CN": "十字爆破装置",
       "zh-TW": "雷管101"
+    },
+    "slug": "blasting-cap-101",
+    "sprite": {
+      "height": 22,
+      "sheet": "27569626",
+      "width": 22,
+      "x": 267,
+      "y": 136
     },
     "tags": [
       "item",
@@ -11686,7 +13821,6 @@
       "zh-CN": "炸弹爆炸后会留下火焰。",
       "zh-TW": "爆炸後會留下火焰。"
     },
-    "id": "5_07_item_bomb_flame",
     "name": {
       "de": "CHEMISCHER BRAND",
       "en-US": "CHEMICAL BURN",
@@ -11698,6 +13832,14 @@
       "zh": "化学燃料",
       "zh-CN": "化学燃料",
       "zh-TW": "化學燃料"
+    },
+    "slug": "chemical-burn",
+    "sprite": {
+      "height": 24,
+      "sheet": "27569626",
+      "width": 21,
+      "x": 142,
+      "y": 222
     },
     "tags": [
       "item",
@@ -11719,7 +13861,6 @@
       "zh-CN": "你使用炸弹的方式变为在地面放置一枚延时地雷。",
       "zh-TW": "不投炸彈，使用方式改為在地上放置地雷。"
     },
-    "id": "5_07_item_bomb_mine",
     "name": {
       "de": "ROTE FLAGGE",
       "en-US": "RED FLAG",
@@ -11731,6 +13872,14 @@
       "zh": "小红旗",
       "zh-CN": "小红旗",
       "zh-TW": "小紅旗"
+    },
+    "slug": "red-flag",
+    "sprite": {
+      "height": 23,
+      "sheet": "27569626",
+      "width": 20,
+      "x": 240,
+      "y": 0
     },
     "tags": [
       "item",
@@ -11752,7 +13901,6 @@
       "zh-CN": "炸弹的爆炸范围变大，爆炸伤害上升。",
       "zh-TW": "炸彈的爆炸範圍更大，火光更亮，威力更強。"
     },
-    "id": "5_07_item_bomb_rangeUP",
     "name": {
       "de": "RUCKSACK DES PIONIERS",
       "en-US": "SAPPER BACKPACK",
@@ -11764,6 +13912,14 @@
       "zh": "工程兵背包",
       "zh-CN": "工程兵背包",
       "zh-TW": "工兵背包"
+    },
+    "slug": "sapper-backpack",
+    "sprite": {
+      "height": 23,
+      "sheet": "27569626",
+      "width": 24,
+      "x": 163,
+      "y": 222
     },
     "tags": [
       "item",
@@ -11785,7 +13941,6 @@
       "zh-CN": "炸弹爆炸后会分裂出更多炸弹。",
       "zh-TW": "炸彈爆炸後會分裂出多顆炸彈。"
     },
-    "id": "5_07_item_bomb_spwan",
     "name": {
       "de": "NANOTECHNOLOGIE",
       "en-US": "NANOTECHNOLOGY",
@@ -11797,6 +13952,14 @@
       "zh": "纳米炸弹",
       "zh-CN": "纳米炸弹",
       "zh-TW": "奈米科技"
+    },
+    "slug": "nanotechnology",
+    "sprite": {
+      "height": 23,
+      "sheet": "27569626",
+      "width": 23,
+      "x": 240,
+      "y": 23
     },
     "tags": [
       "item",
@@ -11818,7 +13981,6 @@
       "zh-CN": "钥匙并不是唯一的选择！使用爆炸性道具有概率会打开需要钥匙的锁。",
       "zh-TW": "鑰匙並非唯一方法！使用爆炸類型道具有機會解鎖寶箱或門。"
     },
-    "id": "5_07_item_bomb_unlock",
     "name": {
       "de": "PLAN B",
       "en-US": "PLAN B",
@@ -11830,6 +13992,14 @@
       "zh": "备用方案",
       "zh-CN": "备用方案",
       "zh-TW": "B計畫"
+    },
+    "slug": "plan-b",
+    "sprite": {
+      "height": 22,
+      "sheet": "27569626",
+      "width": 22,
+      "x": 282,
+      "y": 180
     },
     "tags": [
       "item",
@@ -11851,7 +14021,6 @@
       "zh-CN": "激活所有的传送石后，可以获得一些蛋。",
       "zh-TW": "啟用所有傳送石後獲得寵物蛋。"
     },
-    "id": "5_08_item_egg_allstone",
     "name": {
       "de": "SCHAMANENMASKE",
       "en-US": "SHAMAN MASK",
@@ -11863,6 +14032,14 @@
       "zh": "萨满头饰",
       "zh-CN": "萨满头饰",
       "zh-TW": "薩滿面具"
+    },
+    "slug": "shaman-mask",
+    "sprite": {
+      "height": 27,
+      "sheet": "27569626",
+      "width": 28,
+      "x": 44,
+      "y": 58
     },
     "tags": [
       "item",
@@ -11884,7 +14061,6 @@
       "zh-CN": "蛋如果碰到石头、石头门、石头箱子就会爆炸，蛋也会消失。",
       "zh-TW": "寵物蛋一旦碰到石頭門或石製寶箱等石頭類物體，就會一併爆炸並消失。"
     },
-    "id": "5_08_item_egg_break",
     "name": {
       "de": "STREICHHOLZSCHACHTEL",
       "en-US": "MATCHBOX",
@@ -11896,6 +14072,14 @@
       "zh": "火柴盒",
       "zh-CN": "火柴盒",
       "zh-TW": "火柴盒"
+    },
+    "slug": "matchbox",
+    "sprite": {
+      "height": 24,
+      "sheet": "27569626",
+      "width": 28,
+      "x": 44,
+      "y": 85
     },
     "tags": [
       "item",
@@ -11917,7 +14101,6 @@
       "zh-CN": "蛋在孵化的时候，你可以手动使用【取消键】来取消孵化进程。",
       "zh-TW": "寵物蛋孵化時，你可以按下【取消鍵】手動取消孵化。"
     },
-    "id": "5_08_item_egg_cancel",
     "name": {
       "de": "EWIGSTEIN",
       "en-US": "ETERNAL STONE",
@@ -11929,6 +14112,14 @@
       "zh": "永恒之石",
       "zh-CN": "永恒之石",
       "zh-TW": "永恆之石"
+    },
+    "slug": "eternal-stone",
+    "sprite": {
+      "height": 24,
+      "sheet": "27569626",
+      "width": 20,
+      "x": 216,
+      "y": 191
     },
     "tags": [
       "item",
@@ -11950,7 +14141,6 @@
       "zh-CN": "拥有的蛋越多，子弹的伤害越高。",
       "zh-TW": "擁有的寵物蛋越多，子彈的傷害越高。"
     },
-    "id": "5_08_item_egg_damageUP",
     "name": {
       "de": "VANILLEEIS",
       "en-US": "VANILLA ICE CREAM",
@@ -11962,6 +14152,14 @@
       "zh": "香草冰淇淋",
       "zh-CN": "香草冰淇淋",
       "zh-TW": "香草冰淇淋"
+    },
+    "slug": "vanilla-ice-cream",
+    "sprite": {
+      "height": 26,
+      "sheet": "27569626",
+      "width": 21,
+      "x": 70,
+      "y": 140
     },
     "tags": [
       "item",
@@ -11983,7 +14181,6 @@
       "zh-CN": "所有的蛋都可以阻挡敌人的子弹。",
       "zh-TW": "寵物蛋可以抵擋敵人的子彈。"
     },
-    "id": "5_08_item_egg_defend",
     "name": {
       "de": "EICHEL",
       "en-US": "ACORN",
@@ -11995,6 +14192,14 @@
       "zh": "橡树果",
       "zh-CN": "橡树果",
       "zh-TW": "橡實"
+    },
+    "slug": "acorn",
+    "sprite": {
+      "height": 22,
+      "sheet": "27569626",
+      "width": 22,
+      "x": 286,
+      "y": 158
     },
     "tags": [
       "item",
@@ -12016,7 +14221,6 @@
       "zh-CN": "你当前蛋的数量增加一倍。",
       "zh-TW": "一次來兩個，爽啦！擁有的寵物蛋數量增為雙倍。"
     },
-    "id": "5_08_item_egg_double",
     "name": {
       "de": "DOPPELTES EIGELB",
       "en-US": "DOUBLE YOLKS",
@@ -12028,6 +14232,14 @@
       "zh": "双黄蛋",
       "zh-CN": "双黄蛋",
       "zh-TW": "雙黃蛋"
+    },
+    "slug": "double-yolks",
+    "sprite": {
+      "height": 24,
+      "sheet": "27569626",
+      "width": 26,
+      "x": 221,
+      "y": 106
     },
     "tags": [
       "item",
@@ -12049,7 +14261,6 @@
       "zh-CN": "如果孵化出空蛋，则掉落一个炸弹。",
       "zh-TW": "如果孵出空心蛋，就會多掉出一顆炸彈。"
     },
-    "id": "5_08_item_egg_empty_bomb",
     "name": {
       "de": "STEHAUFSPIELZEUG",
       "en-US": "ROLY-POLY TOY",
@@ -12061,6 +14272,14 @@
       "zh": "不倒翁",
       "zh-CN": "不倒翁",
       "zh-TW": "不倒翁"
+    },
+    "slug": "roly-poly-toy",
+    "sprite": {
+      "height": 29,
+      "sheet": "27569626",
+      "width": 23,
+      "x": 45,
+      "y": 0
     },
     "tags": [
       "item",
@@ -12082,7 +14301,6 @@
       "zh-CN": "当使用炸弹时，你所有的蛋会产生一次爆炸。",
       "zh-TW": "使用炸彈時，你的寵物蛋會全數爆炸。"
     },
-    "id": "5_08_item_egg_empty_explo",
     "name": {
       "de": "SCHWARZER RUM",
       "en-US": "BLACK RUM",
@@ -12094,6 +14312,14 @@
       "zh": "黑色朗姆",
       "zh-CN": "黑色朗姆酒",
       "zh-TW": "黑蘭姆酒"
+    },
+    "slug": "black-rum",
+    "sprite": {
+      "height": 28,
+      "sheet": "27569626",
+      "width": 16,
+      "x": 72,
+      "y": 58
     },
     "tags": [
       "item",
@@ -12115,7 +14341,6 @@
       "zh-CN": "如果孵化出空蛋，则掉落半个红心。",
       "zh-TW": "如果孵出空心蛋，就會掉出額外的紅心。"
     },
-    "id": "5_08_item_egg_empty_heart",
     "name": {
       "de": "HÄHNCHENBURGER",
       "en-US": "CHICKEN BURGER",
@@ -12127,6 +14352,14 @@
       "zh": "鸡肉汉堡",
       "zh-CN": "鸡肉汉堡",
       "zh-TW": "香雞堡"
+    },
+    "slug": "chicken-burger",
+    "sprite": {
+      "height": 23,
+      "sheet": "27569626",
+      "width": 23,
+      "x": 260,
+      "y": 0
     },
     "tags": [
       "item",
@@ -12148,7 +14381,6 @@
       "zh-CN": "如果孵化出空蛋，则掉落一个钥匙。",
       "zh-TW": "如果孵出空心蛋，就會多掉出一把鑰匙。"
     },
-    "id": "5_08_item_egg_empty_key",
     "name": {
       "de": "MONOKEL",
       "en-US": "MONOCLE",
@@ -12160,6 +14392,14 @@
       "zh": "单片眼镜",
       "zh-CN": "单片眼镜",
       "zh-TW": "單片眼鏡"
+    },
+    "slug": "monocle",
+    "sprite": {
+      "height": 22,
+      "sheet": "27569626",
+      "width": 23,
+      "x": 247,
+      "y": 46
     },
     "tags": [
       "item",
@@ -12181,7 +14421,6 @@
       "zh-CN": "如果孵化出空蛋，则掉落一个水晶。",
       "zh-TW": "如果孵出空心蛋，就會多掉出一個水晶。"
     },
-    "id": "5_08_item_egg_empty_mana",
     "name": {
       "de": "TRAUBENSÜSSIGKEIT",
       "en-US": "GRAPE CANDY",
@@ -12193,6 +14432,14 @@
       "zh": "葡萄软糖",
       "zh-CN": "葡萄软糖",
       "zh-TW": "葡萄軟糖"
+    },
+    "slug": "grape-candy",
+    "sprite": {
+      "height": 28,
+      "sheet": "27569626",
+      "width": 24,
+      "x": 72,
+      "y": 86
     },
     "tags": [
       "item",
@@ -12214,7 +14461,6 @@
       "zh-CN": "如果孵化出空蛋，则掉落半个护盾。",
       "zh-TW": "如果孵出空心蛋，就會掉出額外的護盾。"
     },
-    "id": "5_08_item_egg_empty_shield",
     "name": {
       "de": "BLAUBEERKUCHEN",
       "en-US": "BLUEBERRY CAKE",
@@ -12226,6 +14472,14 @@
       "zh": "蓝莓蛋糕",
       "zh-CN": "蓝莓蛋糕",
       "zh-TW": "藍莓蛋糕"
+    },
+    "slug": "blueberry-cake",
+    "sprite": {
+      "height": 21,
+      "sheet": "27569626",
+      "width": 26,
+      "x": 221,
+      "y": 130
     },
     "tags": [
       "item",
@@ -12247,7 +14501,6 @@
       "zh-CN": "拥有的蛋越多，你能发射的子弹越多。",
       "zh-TW": "擁有的寵物蛋越多，射出的子彈越多。"
     },
-    "id": "5_08_item_egg_gunUP",
     "name": {
       "de": "DONUT",
       "en-US": "DOUGHNUT",
@@ -12259,6 +14512,14 @@
       "zh": "甜甜圈",
       "zh-CN": "甜甜圈",
       "zh-TW": "甜甜圈"
+    },
+    "slug": "doughnut",
+    "sprite": {
+      "height": 22,
+      "sheet": "27569626",
+      "width": 24,
+      "x": 187,
+      "y": 207
     },
     "tags": [
       "item",
@@ -12280,7 +14541,6 @@
       "zh-CN": "每拥有一个蛋，增加一次额外的跳跃机会。",
       "zh-TW": "擁有的寵物蛋越多，可以跳躍的次數越多。"
     },
-    "id": "5_08_item_egg_jumpMore",
     "name": {
       "de": "ZITRONENGELEE",
       "en-US": "LEMON JELLY",
@@ -12292,6 +14552,14 @@
       "zh": "柠檬果冻",
       "zh-CN": "柠檬果冻",
       "zh-TW": "檸檬果凍"
+    },
+    "slug": "lemon-jelly",
+    "sprite": {
+      "height": 22,
+      "sheet": "27569626",
+      "width": 23,
+      "x": 263,
+      "y": 23
     },
     "tags": [
       "item",
@@ -12313,7 +14581,6 @@
       "zh-CN": "如果受到致命攻击，那么将牺牲一个蛋。你忠贞的好伙伴。",
       "zh-TW": "受到致命攻擊時，將用一顆寵物蛋換取半顆紅心。"
     },
-    "id": "5_08_item_egg_nodeath",
     "name": {
       "de": "LEBKUCHENMANN",
       "en-US": "GINGERBREAD MAN",
@@ -12325,6 +14592,14 @@
       "zh": "姜饼人",
       "zh-CN": "姜饼人",
       "zh-TW": "薑餅人"
+    },
+    "slug": "gingerbread-man",
+    "sprite": {
+      "height": 27,
+      "sheet": "27569626",
+      "width": 19,
+      "x": 166,
+      "y": 27
     },
     "tags": [
       "item",
@@ -12346,7 +14621,6 @@
       "zh-CN": "拥有的蛋越多，子弹射程越远。自律给你力量！",
       "zh-TW": "擁有的寵物蛋越多，武器射程越遠。"
     },
-    "id": "5_08_item_egg_rangeUP",
     "name": {
       "de": "PROTEINPULVER",
       "en-US": "PROTEIN POWDER",
@@ -12358,6 +14632,14 @@
       "zh": "蛋白粉",
       "zh-CN": "蛋白粉",
       "zh-TW": "乳清蛋白粉"
+    },
+    "slug": "protein-powder",
+    "sprite": {
+      "height": 25,
+      "sheet": "27569626",
+      "width": 22,
+      "x": 0,
+      "y": 222
     },
     "tags": [
       "item",
@@ -12379,7 +14661,6 @@
       "zh-CN": "拥有的蛋越多，武器射击速度越快。这个糖似乎在自己旋转。",
       "zh-TW": "擁有的寵物蛋越多，射擊的速度越快。"
     },
-    "id": "5_08_item_egg_RPMUP",
     "name": {
       "de": "SATURNLUTSCHER",
       "en-US": "SATURN LOLLIPOP",
@@ -12391,6 +14672,14 @@
       "zh": "土星棒棒糖",
       "zh-CN": "土星棒棒糖",
       "zh-TW": "土星棒棒糖"
+    },
+    "slug": "saturn-lollipop",
+    "sprite": {
+      "height": 27,
+      "sheet": "27569626",
+      "width": 28,
+      "x": 96,
+      "y": 79
     },
     "tags": [
       "item",
@@ -12412,7 +14701,6 @@
       "zh-CN": "蛋不再孵化出宠物，而会孵化出随机掉落物。",
       "zh-TW": "寵物蛋將孵出隨機可拾取物，不再孵出寵物。"
     },
-    "id": "5_08_item_egg_sp_random",
     "name": {
       "de": "SNACKBOX",
       "en-US": "SNACK BOX",
@@ -12424,6 +14712,14 @@
       "zh": "零食盒",
       "zh-CN": "零食盒",
       "zh-TW": "零食盒"
+    },
+    "slug": "snack-box",
+    "sprite": {
+      "height": 24,
+      "sheet": "27569626",
+      "width": 24,
+      "x": 187,
+      "y": 229
     },
     "tags": [
       "item",
@@ -12445,7 +14741,6 @@
       "zh-CN": "蛋会对怪物造成触碰伤害。看起来有点…恶心。",
       "zh-TW": "寵物蛋會對敵人造成觸碰傷害。"
     },
-    "id": "5_08_item_egg_spike",
     "name": {
       "de": "SENFKACKE",
       "en-US": "MUSTARD POOP",
@@ -12457,6 +14752,14 @@
       "zh": "芥末奶油",
       "zh-CN": "芥末大便",
       "zh-TW": "芥末便便"
+    },
+    "slug": "mustard-poop",
+    "sprite": {
+      "height": 20,
+      "sheet": "27569626",
+      "width": 23,
+      "x": 277,
+      "y": 235
     },
     "tags": [
       "item",
@@ -12478,7 +14781,6 @@
       "zh-CN": "开心坏了！所有宠物的攻击伤害提升。",
       "zh-TW": "好耶！提高所有寵物的攻擊傷害。"
     },
-    "id": "5_09_item_pet_allUP",
     "name": {
       "de": "GUMMIBÄR",
       "en-US": "GUM BEAR",
@@ -12490,6 +14792,14 @@
       "zh": "小熊软糖",
       "zh-CN": "小熊软糖",
       "zh-TW": "小熊軟糖"
+    },
+    "slug": "gum-bear",
+    "sprite": {
+      "height": 26,
+      "sheet": "27569626",
+      "width": 20,
+      "x": 198,
+      "y": 131
     },
     "tags": [
       "item",
@@ -12511,7 +14821,6 @@
       "zh-CN": "拥有的宠物越多，子弹的伤害越高。",
       "zh-TW": "擁有的寵物越多，槍造成的傷害越高。"
     },
-    "id": "5_09_item_pet_damageUP",
     "name": {
       "de": "LÖWENKOPFBEDECKUNG",
       "en-US": "LION HEADGEAR",
@@ -12523,6 +14832,14 @@
       "zh": "狮子头套",
       "zh-CN": "狮子头套",
       "zh-TW": "獅子頭套"
+    },
+    "slug": "lion-headgear",
+    "sprite": {
+      "height": 28,
+      "sheet": "27569626",
+      "width": 26,
+      "x": 121,
+      "y": 28
     },
     "tags": [
       "item",
@@ -12544,7 +14861,6 @@
       "zh-CN": "当你满红心状态时，不会孵出空蛋。",
       "zh-TW": "生命值全滿時絕對不會孵出空心蛋。"
     },
-    "id": "5_09_item_pet_fullegg",
     "name": {
       "de": "MARSHMALLOW",
       "en-US": "MARSHMALLOW",
@@ -12556,6 +14872,14 @@
       "zh": "棉花糖",
       "zh-CN": "棉花糖",
       "zh-TW": "棉花糖"
+    },
+    "slug": "marshmallow",
+    "sprite": {
+      "height": 28,
+      "sheet": "27569626",
+      "width": 24,
+      "x": 124,
+      "y": 0
     },
     "tags": [
       "item",
@@ -12577,7 +14901,6 @@
       "zh-CN": "拥有的宠物越多，武器发射的子弹越多。",
       "zh-TW": "擁有的寵物越多，射出的子彈越多。"
     },
-    "id": "5_09_item_pet_gunUP",
     "name": {
       "de": "ERDBEERBONBON",
       "en-US": "STRAWBERRY CANDY",
@@ -12589,6 +14912,14 @@
       "zh": "草莓糖",
       "zh-CN": "草莓糖",
       "zh-TW": "草莓糖果"
+    },
+    "slug": "strawberry-candy",
+    "sprite": {
+      "height": 28,
+      "sheet": "27569626",
+      "width": 18,
+      "x": 124,
+      "y": 56
     },
     "tags": [
       "item",
@@ -12610,7 +14941,6 @@
       "zh-CN": "每增加一个宠物，增加一次跳跃次数。",
       "zh-TW": "擁有的寵物越多，可以跳躍的次數越多。"
     },
-    "id": "5_09_item_pet_jumpMore",
     "name": {
       "de": "FURCHTBARER KAUGUMMI",
       "en-US": "WORST BLOWING GUM",
@@ -12622,6 +14952,14 @@
       "zh": "超级泡泡糖",
       "zh-CN": "超级泡泡糖",
       "zh-TW": "超級泡泡糖"
+    },
+    "slug": "worst-blowing-gum",
+    "sprite": {
+      "height": 24,
+      "sheet": "27569626",
+      "width": 25,
+      "x": 0,
+      "y": 188
     },
     "tags": [
       "item",
@@ -12643,7 +14981,6 @@
       "zh-CN": "拥有的宠物越多，武器的射程越远。",
       "zh-TW": "擁有的寵物越多，武器射程越遠。"
     },
-    "id": "5_09_item_pet_rangeUP",
     "name": {
       "de": "POPCORN",
       "en-US": "CANDY CORN",
@@ -12655,6 +14992,14 @@
       "zh": "玉米糖",
       "zh-CN": "玉米糖",
       "zh-TW": "玉米糖"
+    },
+    "slug": "candy-corn",
+    "sprite": {
+      "height": 22,
+      "sheet": "27569626",
+      "width": 20,
+      "x": 295,
+      "y": 202
     },
     "tags": [
       "item",
@@ -12676,7 +15021,6 @@
       "zh-CN": "拥有的宠物越多，武器的射击速度越快。",
       "zh-TW": "擁有的寵物越多，射擊的速度越快。"
     },
-    "id": "5_09_item_pet_RPMUP",
     "name": {
       "de": "ZUCKERSTANGE",
       "en-US": "CANDY CANE",
@@ -12688,6 +15032,14 @@
       "zh": "拐杖糖",
       "zh-CN": "拐杖糖",
       "zh-TW": "拐杖糖"
+    },
+    "slug": "candy-cane",
+    "sprite": {
+      "height": 26,
+      "sheet": "27569626",
+      "width": 17,
+      "x": 204,
+      "y": 0
     },
     "tags": [
       "item",
@@ -12709,7 +15061,6 @@
       "zh-CN": "每次宠物升级，都将掉落一个炸弹。",
       "zh-TW": "每當寵物進化時，掉出一顆炸彈。"
     },
-    "id": "5_09_item_pet_upgrade_bomb",
     "name": {
       "de": "SCHOKOLADENKEKSE",
       "en-US": "CHOCOLATE COOKIES",
@@ -12721,6 +15072,14 @@
       "zh": "巧克力饼干",
       "zh-CN": "巧克力饼干",
       "zh-TW": "巧克力餅乾"
+    },
+    "slug": "chocolate-cookies",
+    "sprite": {
+      "height": 24,
+      "sheet": "27569626",
+      "width": 24,
+      "x": 211,
+      "y": 215
     },
     "tags": [
       "item",
@@ -12742,7 +15101,6 @@
       "zh-CN": "每次宠物升级，都将掉落金币。",
       "zh-TW": "每當寵物進化時，掉出金幣。"
     },
-    "id": "5_09_item_pet_upgrade_coin",
     "name": {
       "de": "SCHOKOLADENMÜNZE",
       "en-US": "CHOCOLATE COIN",
@@ -12754,6 +15112,14 @@
       "zh": "金币巧克力",
       "zh-CN": "金币巧克力",
       "zh-TW": "金幣巧克力"
+    },
+    "slug": "chocolate-coin",
+    "sprite": {
+      "height": 24,
+      "sheet": "27569626",
+      "width": 27,
+      "x": 172,
+      "y": 0
     },
     "tags": [
       "item",
@@ -12775,7 +15141,6 @@
       "zh-CN": "每次宠物升级，你都将获得两个水晶。",
       "zh-TW": "每當寵物進化時，掉出2個水晶。"
     },
-    "id": "5_09_item_pet_upgrade_gazinMana",
     "name": {
       "de": "KRISTALL-LUTSCHBONBON",
       "en-US": "CRYSTAL HARD CANDY",
@@ -12787,6 +15152,14 @@
       "zh": "水晶糖",
       "zh-CN": "水晶糖",
       "zh-TW": "水果糖"
+    },
+    "slug": "crystal-hard-candy",
+    "sprite": {
+      "height": 23,
+      "sheet": "27569626",
+      "width": 23,
+      "x": 283,
+      "y": 0
     },
     "tags": [
       "item",
@@ -12808,7 +15181,6 @@
       "zh-CN": "每次宠物升级，都将获得一份小礼物。",
       "zh-TW": "每當寵物進化時，你會獲得一份禮物。"
     },
-    "id": "5_09_item_pet_upgrade_gift",
     "name": {
       "de": "REGENBOGENSÜSSIGKEIT",
       "en-US": "RAINBOW CANDY",
@@ -12820,6 +15192,14 @@
       "zh": "彩虹糖",
       "zh-CN": "彩虹糖",
       "zh-TW": "彩虹糖"
+    },
+    "slug": "rainbow-candy",
+    "sprite": {
+      "height": 18,
+      "sheet": "27569626",
+      "width": 26,
+      "x": 171,
+      "y": 134
     },
     "tags": [
       "item",
@@ -12841,7 +15221,6 @@
       "zh-CN": "每次宠物升级，都将掉落半个红心。",
       "zh-TW": "每當寵物進化時，掉出半顆紅心。"
     },
-    "id": "5_09_item_pet_upgrade_heart",
     "name": {
       "de": "KANDIERTER APFEL",
       "en-US": "TOFFEE APPLE",
@@ -12853,6 +15232,14 @@
       "zh": "苹果糖",
       "zh-CN": "苹果糖",
       "zh-TW": "蘋果糖"
+    },
+    "slug": "toffee-apple",
+    "sprite": {
+      "height": 28,
+      "sheet": "27569626",
+      "width": 21,
+      "x": 124,
+      "y": 84
     },
     "tags": [
       "item",
@@ -12874,7 +15261,6 @@
       "zh-CN": "每次宠物升级，都将会掉落一个钥匙。",
       "zh-TW": "每當寵物進化時，掉出一把鑰匙。"
     },
-    "id": "5_09_item_pet_upgrade_key",
     "name": {
       "de": "NOUGAT",
       "en-US": "NOUGAT",
@@ -12886,6 +15272,14 @@
       "zh": "牛轧糖",
       "zh-CN": "牛轧糖",
       "zh-TW": "牛軋糖"
+    },
+    "slug": "nougat",
+    "sprite": {
+      "height": 22,
+      "sheet": "27569626",
+      "width": 25,
+      "x": 22,
+      "y": 222
     },
     "tags": [
       "item",
@@ -12907,7 +15301,6 @@
       "zh-CN": "每次宠物升级，你都将掉落半个护盾。",
       "zh-TW": "每當寵物進化時，掉出半面護盾。"
     },
-    "id": "5_09_item_pet_upgrade_shield",
     "name": {
       "de": "MINZBONBON",
       "en-US": "HARD MINTS",
@@ -12919,6 +15312,14 @@
       "zh": "薄荷糖",
       "zh-CN": "薄荷糖",
       "zh-TW": "薄荷糖"
+    },
+    "slug": "hard-mints",
+    "sprite": {
+      "height": 25,
+      "sheet": "27569626",
+      "width": 25,
+      "x": 47,
+      "y": 222
     },
     "tags": [
       "item",
@@ -12940,7 +15341,6 @@
       "zh-CN": "你的好邻居就是我！提高你的跳跃高度和移动速度。",
       "zh-TW": "這就是你的天職。提高跳躍高度和移動速度。"
     },
-    "id": "5_10_item_jumphigh_01",
     "name": {
       "de": "HELDENMASKE",
       "en-US": "HERO MASK",
@@ -12952,6 +15352,14 @@
       "zh": "英雄面具",
       "zh-CN": "英雄面具",
       "zh-TW": "英雄面具"
+    },
+    "slug": "hero-mask",
+    "sprite": {
+      "height": 25,
+      "sheet": "27569626",
+      "width": 22,
+      "x": 25,
+      "y": 188
     },
     "tags": [
       "item",
@@ -12973,7 +15381,6 @@
       "zh-CN": "人类的一小步...提高你的跳跃高度。",
       "zh-TW": "飛向宇宙...提高跳躍高度。"
     },
-    "id": "5_10_item_jumphigh_02",
     "name": {
       "de": "ASTRONAUTENHELM",
       "en-US": "SPACE HELMET",
@@ -12985,6 +15392,14 @@
       "zh": "太空头盔",
       "zh-CN": "太空头盔",
       "zh-TW": "太空人面罩"
+    },
+    "slug": "space-helmet",
+    "sprite": {
+      "height": 26,
+      "sheet": "27569626",
+      "width": 26,
+      "x": 171,
+      "y": 152
     },
     "tags": [
       "item",
@@ -13006,7 +15421,6 @@
       "zh-CN": "要不是这么可爱，你才不戴呢。增加一次额外的跳跃次数。",
       "zh-TW": "功能實用又超級可愛，戴一下也無所謂！增加一次連續空中跳次數。"
     },
-    "id": "5_10_item_jumptwice_01",
     "name": {
       "de": "HASENOHREN",
       "en-US": "RABBIT EARS",
@@ -13018,6 +15432,14 @@
       "zh": "可爱兔耳",
       "zh-CN": "可爱兔耳",
       "zh-TW": "兔子耳朵"
+    },
+    "slug": "rabbit-ears",
+    "sprite": {
+      "height": 24,
+      "sheet": "27569626",
+      "width": 22,
+      "x": 235,
+      "y": 215
     },
     "tags": [
       "item",
@@ -13039,7 +15461,6 @@
       "zh-CN": "夜幕中的刺客！增加一次额外的跳跃次数，并增加你的近战伤害。",
       "zh-TW": "來無影去無蹤。增加一次連續空中跳次數，並提高近戰傷害。"
     },
-    "id": "5_10_item_jumptwice_02",
     "name": {
       "de": "NINJAMASKE",
       "en-US": "NINJA COSTUME",
@@ -13051,6 +15472,14 @@
       "zh": "忍者服饰",
       "zh-CN": "忍者服饰",
       "zh-TW": "忍者裝"
+    },
+    "slug": "ninja-costume",
+    "sprite": {
+      "height": 24,
+      "sheet": "27569626",
+      "width": 24,
+      "x": 236,
+      "y": 191
     },
     "tags": [
       "item",
@@ -13072,7 +15501,6 @@
       "zh-CN": "增加一次额外的跳跃次数。在风中摇曳...",
       "zh-TW": "隨風飄揚，你也可以！增加一次連續空中跳次數。"
     },
-    "id": "5_10_item_jumptwice_03",
     "name": {
       "de": "KARPFENWIMPEL",
       "en-US": "CARP STREAMER",
@@ -13084,6 +15512,14 @@
       "zh": "鲤鱼旗",
       "zh-CN": "鲤鱼旗",
       "zh-TW": "鯉魚旗"
+    },
+    "slug": "carp-streamer",
+    "sprite": {
+      "height": 15,
+      "sheet": "27569626",
+      "width": 26,
+      "x": 218,
+      "y": 151
     },
     "tags": [
       "item",
@@ -13105,7 +15541,6 @@
       "zh-CN": "你似乎到过无人之地。增加一次额外的跳跃次数。",
       "zh-TW": "流浪到天涯海角。增加一次連續空中跳次數。"
     },
-    "id": "5_10_item_jumptwice_04",
     "name": {
       "de": "KAPUZE DES REISENDEN",
       "en-US": "TRAVELER HOOD",
@@ -13117,6 +15552,14 @@
       "zh": "旅人兜帽",
       "zh-CN": "旅人兜帽",
       "zh-TW": "旅人斗篷帽"
+    },
+    "slug": "traveler-hood",
+    "sprite": {
+      "height": 25,
+      "sheet": "27569626",
+      "width": 21,
+      "x": 26,
+      "y": 161
     },
     "tags": [
       "item",
@@ -13138,7 +15581,6 @@
       "zh-CN": "这是谁的帽子？增加一次额外的跳跃次数。",
       "zh-TW": "小小翅膀可愛極了。增加一次連續空中跳次數。"
     },
-    "id": "5_10_item_jumptwice_05",
     "name": {
       "de": "FLÜGELHUT",
       "en-US": "WINGED HAT",
@@ -13150,6 +15592,14 @@
       "zh": "小飞帽",
       "zh-CN": "小飞帽",
       "zh-TW": "飛天帽"
+    },
+    "slug": "winged-hat",
+    "sprite": {
+      "height": 17,
+      "sheet": "27569626",
+      "width": 27,
+      "x": 145,
+      "y": 111
     },
     "tags": [
       "item",
@@ -13171,7 +15621,6 @@
       "zh-CN": "环绕守卫，阻挡敌人子弹。",
       "zh-TW": "小小撞球可擋掉敵人的子彈。"
     },
-    "id": "6_guard_billiards_1",
     "name": {
       "de": "SCHWARZE ACHT",
       "en-US": "EIGHT-BALL",
@@ -13183,6 +15632,14 @@
       "zh": "8号球",
       "zh-CN": "8号球",
       "zh-TW": "8號球"
+    },
+    "slug": "eight-ball",
+    "sprite": {
+      "height": 20,
+      "sheet": "27569626",
+      "width": 20,
+      "x": 321,
+      "y": 223
     },
     "tags": [
       "item",
@@ -13204,7 +15661,6 @@
       "zh-CN": "环绕守卫，对敌人造成触碰伤害。死亡效果：产生3个愤怒精灵。",
       "zh-TW": "小小風車觸碰到敵人時可造成近戰傷害。死亡時：獲得3隻憤怒精靈。"
     },
-    "id": "6_guard_dart_1",
     "name": {
       "de": "EISERNE WINDMÜHLE",
       "en-US": "IRON WINDMILL",
@@ -13216,6 +15672,14 @@
       "zh": "铁风车",
       "zh-CN": "铁风车",
       "zh-TW": "鐵風車"
+    },
+    "slug": "iron-windmill",
+    "sprite": {
+      "height": 23,
+      "sheet": "27569626",
+      "width": 23,
+      "x": 247,
+      "y": 68
     },
     "tags": [
       "item",
@@ -13237,7 +15701,6 @@
       "zh-CN": "环绕守卫，阻挡敌人子弹。死亡效果：有概率再次产生一个蓝色积木。",
       "zh-TW": "小小積木可擋掉敵人的子彈。死亡時：有機會再次獲得一個藍色方塊。"
     },
-    "id": "6_guard_lego_1",
     "name": {
       "de": "BLAUER ZIEGEL",
       "en-US": "BLUE BRICK",
@@ -13249,6 +15712,14 @@
       "zh": "蓝色积木",
       "zh-CN": "蓝色积木",
       "zh-TW": "藍色積木"
+    },
+    "slug": "blue-brick",
+    "sprite": {
+      "height": 22,
+      "sheet": "27569626",
+      "width": 22,
+      "x": 304,
+      "y": 180
     },
     "tags": [
       "item",
@@ -13270,7 +15741,6 @@
       "zh-CN": "环绕守卫，阻挡敌人子弹，对敌人造成触碰伤害",
       "zh-TW": "小小海怪可擋掉敵人的子彈，并對敵人造成觸碰傷害。"
     },
-    "id": "6_guard_seaweed_1",
     "name": {
       "de": "MEERESMONSTER",
       "en-US": "SEA MONSTER",
@@ -13282,6 +15752,14 @@
       "zh": "小海怪",
       "zh-CN": "小海怪",
       "zh-TW": "小海怪"
+    },
+    "slug": "sea-monster",
+    "sprite": {
+      "height": 23,
+      "sheet": "27569626",
+      "width": 22,
+      "x": 247,
+      "y": 91
     },
     "tags": [
       "item",
@@ -13303,7 +15781,6 @@
       "zh-CN": "环绕守卫，阻挡所有子弹，被击中会产生范围伤害。死亡效果：产生一次范围伤害。",
       "zh-TW": "小小的球可擋掉各種子彈，但被擊中一定次數後會爆炸。死亡時：會爆炸。"
     },
-    "id": "6_guard_steelball_1",
     "name": {
       "de": "VIBRIERENDE KUGEL",
       "en-US": "VIBRANT BALL",
@@ -13315,6 +15792,14 @@
       "zh": "震金球",
       "zh-CN": "震金球",
       "zh-TW": "震動球"
+    },
+    "slug": "vibrant-ball",
+    "sprite": {
+      "height": 20,
+      "sheet": "27569626",
+      "width": 20,
+      "x": 269,
+      "y": 91
     },
     "tags": [
       "item",
@@ -13336,7 +15821,6 @@
       "zh-CN": "自动发射普通子弹攻击敌人",
       "zh-TW": "自動發射子彈攻擊敵人。"
     },
-    "id": "6_pet_adam_1",
     "name": {
       "de": "ADAM",
       "en-US": "ADAM",
@@ -13348,6 +15832,14 @@
       "zh": "亚当一代",
       "zh-CN": "亚当一代",
       "zh-TW": "亞當一代"
+    },
+    "slug": "adam",
+    "sprite": {
+      "height": 27,
+      "sheet": "27569626",
+      "width": 19,
+      "x": 185,
+      "y": 24
     },
     "tags": [
       "item",
@@ -13369,7 +15861,6 @@
       "zh-CN": "发射追踪子弹攻击敌人。",
       "zh-TW": "自動發射熱追蹤子彈攻擊敵人。"
     },
-    "id": "6_pet_aline_1",
     "name": {
       "de": "ALIENBABY",
       "en-US": "ALIEN BABY",
@@ -13381,6 +15872,14 @@
       "zh": "外星小宝",
       "zh-CN": "外星小宝",
       "zh-TW": "外星寶寶"
+    },
+    "slug": "alien-baby",
+    "sprite": {
+      "height": 27,
+      "sheet": "27569626",
+      "width": 19,
+      "x": 181,
+      "y": 79
     },
     "tags": [
       "item",
@@ -13402,7 +15901,6 @@
       "zh-CN": "发射弹跳球子弹攻击敌人。",
       "zh-TW": "自動發射彈跳子彈攻擊敵人。"
     },
-    "id": "6_pet_bear_1",
     "name": {
       "de": "KLEINER BÄR",
       "en-US": "LITTLE BEAR",
@@ -13414,6 +15912,14 @@
       "zh": "熊仔",
       "zh-CN": "熊仔",
       "zh-TW": "小熊"
+    },
+    "slug": "little-bear",
+    "sprite": {
+      "height": 29,
+      "sheet": "27569626",
+      "width": 21,
+      "x": 53,
+      "y": 29
     },
     "tags": [
       "item",
@@ -13435,7 +15941,6 @@
       "zh-CN": "随机移动造成触碰伤害。",
       "zh-TW": "可造成觸碰傷害。"
     },
-    "id": "6_pet_cactus_1",
     "name": {
       "de": "KAKTUSBABY",
       "en-US": "CACTUS BABY",
@@ -13447,6 +15952,14 @@
       "zh": "仙人掌",
       "zh-CN": "仙人掌",
       "zh-TW": "仙人掌寶寶一代"
+    },
+    "slug": "cactus-baby",
+    "sprite": {
+      "height": 29,
+      "sheet": "27569626",
+      "width": 23,
+      "x": 68,
+      "y": 0
     },
     "tags": [
       "item",
@@ -13468,7 +15981,6 @@
       "zh-CN": "发射火球攻击敌人",
       "zh-TW": "發射火球攻擊敵人。"
     },
-    "id": "6_pet_firedevil_1",
     "name": {
       "de": "FEUERTEUFEL",
       "en-US": "FIRE DEVIL",
@@ -13480,6 +15992,14 @@
       "zh": "火焰精灵",
       "zh-CN": "火焰精灵",
       "zh-TW": "火魔"
+    },
+    "slug": "fire-devil",
+    "sprite": {
+      "height": 29,
+      "sheet": "27569626",
+      "width": 19,
+      "x": 74,
+      "y": 29
     },
     "tags": [
       "item",
@@ -13501,7 +16021,6 @@
       "zh-CN": "自动发射分裂子弹。死亡效果：造成一次全屏伤害。",
       "zh-TW": "自動發射分裂子彈攻擊敵人。死亡時：對目前房間的所有敵人造成傷害。"
     },
-    "id": "6_pet_flower_1",
     "name": {
       "de": "BLUME",
       "en-US": "FLOWER",
@@ -13513,6 +16032,14 @@
       "zh": "小花",
       "zh-CN": "小花",
       "zh-TW": "小花"
+    },
+    "slug": "flower",
+    "sprite": {
+      "height": 30,
+      "sheet": "27569626",
+      "width": 20,
+      "x": 0,
+      "y": 0
     },
     "tags": [
       "item",
@@ -13534,7 +16061,6 @@
       "zh-CN": "自动发射穿透子弹攻击敌人。死亡效果：给你提供短暂的无敌。",
       "zh-TW": "自動發射穿透子彈攻擊敵人。死亡時：可讓你暫時不受任何傷害。"
     },
-    "id": "6_pet_ghost_1",
     "name": {
       "de": "GEISTERBABY",
       "en-US": "GHOST BABY",
@@ -13546,6 +16072,14 @@
       "zh": "透明娃",
       "zh-CN": "小幽灵",
       "zh-TW": "小鬼"
+    },
+    "slug": "ghost-baby",
+    "sprite": {
+      "height": 29,
+      "sheet": "27569626",
+      "width": 19,
+      "x": 91,
+      "y": 0
     },
     "tags": [
       "item",
@@ -13567,7 +16101,6 @@
       "zh-CN": "自动往随机方向发射一个子弹",
       "zh-TW": "往隨機方向發射子彈。"
     },
-    "id": "6_pet_joker_1",
     "name": {
       "de": "JACK",
       "en-US": "JACK",
@@ -13579,6 +16112,14 @@
       "zh": "小丑",
       "zh-CN": "小丑",
       "zh-TW": "小丑傑克一世"
+    },
+    "slug": "jack",
+    "sprite": {
+      "height": 27,
+      "sheet": "27569626",
+      "width": 19,
+      "x": 191,
+      "y": 51
     },
     "tags": [
       "item",
@@ -13600,7 +16141,6 @@
       "zh-CN": "阻敌人子弹，受到攻击时有概率发射两个子弹。",
       "zh-TW": "可抵擋敵人的子彈，受到攻擊時可能會射出兩發子彈。"
     },
-    "id": "6_pet_mummy_1",
     "name": {
       "de": "MINI-MUMIE",
       "en-US": "TINY MUMMY",
@@ -13612,6 +16152,14 @@
       "zh": "绷带娃",
       "zh-CN": "木乃伊",
       "zh-TW": "小木乃伊一世"
+    },
+    "slug": "tiny-mummy",
+    "sprite": {
+      "height": 27,
+      "sheet": "27569626",
+      "width": 21,
+      "x": 200,
+      "y": 78
     },
     "tags": [
       "item",
@@ -13633,7 +16181,6 @@
       "zh-CN": "没人比他更懂财富！会主动抢夺金币，有概率产生随机掉落物。死亡效果：掉落大量金币。",
       "zh-TW": "會收集金幣，且有機會給你隨機可拾取物。死亡時：掉出隨機數量的金幣。"
     },
-    "id": "6_pet_pick_coin_random_1",
     "name": {
       "de": "GRABSCHER",
       "en-US": "GRABBER",
@@ -13645,6 +16192,14 @@
       "zh": "桔宝",
       "zh-CN": "桔宝",
       "zh-TW": "阿灰"
+    },
+    "slug": "grabber",
+    "sprite": {
+      "height": 28,
+      "sheet": "27569626",
+      "width": 22,
+      "x": 142,
+      "y": 56
     },
     "tags": [
       "item",
@@ -13666,7 +16221,6 @@
       "zh-CN": "他会收集红心，有概率掉落护盾。死亡效果：掉落随机护盾。",
       "zh-TW": "會收集紅心，且有機會給你護盾。死亡時：掉出隨機數量的護盾。"
     },
-    "id": "6_pet_pick_heart_1",
     "name": {
       "de": "BLAUER ARZT",
       "en-US": "BLUE DOCTOR",
@@ -13678,6 +16232,14 @@
       "zh": "曼哈顿",
       "zh-CN": "曼哈顿",
       "zh-TW": "藍身博士"
+    },
+    "slug": "blue-doctor",
+    "sprite": {
+      "height": 27,
+      "sheet": "27569626",
+      "width": 19,
+      "x": 221,
+      "y": 0
     },
     "tags": [
       "item",
@@ -13699,7 +16261,6 @@
       "zh-CN": "发射冰球攻击敌人。",
       "zh-TW": "投擲一顆雪球凍結敵人。"
     },
-    "id": "6_pet_snowboy_1",
     "name": {
       "de": "SCHNEEJUNGE",
       "en-US": "SNOW BOY",
@@ -13711,6 +16272,14 @@
       "zh": "雪娃",
       "zh-CN": "雪娃",
       "zh-TW": "雪弟"
+    },
+    "slug": "snow-boy",
+    "sprite": {
+      "height": 27,
+      "sheet": "27569626",
+      "width": 19,
+      "x": 221,
+      "y": 27
     },
     "tags": [
       "item",
@@ -13732,7 +16301,6 @@
       "zh-CN": "一块奇怪的石头，可以阻挡敌人子弹。",
       "zh-TW": "這塊奇怪石頭可抵擋敵人的子彈。"
     },
-    "id": "6_pet_wukong_1",
     "name": {
       "de": "STEIN",
       "en-US": "ROCK",
@@ -13744,6 +16312,14 @@
       "zh": "石头",
       "zh-CN": "石头",
       "zh-TW": "阿石"
+    },
+    "slug": "rock",
+    "sprite": {
+      "height": 20,
+      "sheet": "27569626",
+      "width": 20,
+      "x": 269,
+      "y": 111
     },
     "tags": [
       "item",
@@ -13765,7 +16341,6 @@
       "zh-CN": "一只喜欢恶作剧的喵。拾取红心变为霉心。死亡效果：掉落随机数量红心。",
       "zh-TW": "愛玩的小貓。收集紅心後再給你發霉之心。死亡時：掉出隨機數量的紅心。"
     },
-    "id": "6_pet_lpp",
     "name": {
       "de": "PETER",
       "en-US": "PETER",
@@ -13777,6 +16352,14 @@
       "zh": "小皮皮",
       "zh-CN": "小皮皮",
       "zh-TW": "彼得貓"
+    },
+    "slug": "peter",
+    "sprite": {
+      "height": 28,
+      "sheet": "27569626",
+      "width": 19,
+      "x": 147,
+      "y": 28
     },
     "tags": [
       "item",

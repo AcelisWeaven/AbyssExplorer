@@ -67,13 +67,18 @@
         <p class="has-text-centered" v-if="layout === 'compact'">Click an item to show its description.</p>
         <section :class="'layout-'+layout">
             <div class="item" v-for="(item, i) in searchItems" :key="i"
-                 :class="{'is-active': item.id === selectedItem}">
-                <div class="item-img" @click="selectItem(item.id)">
+                 :class="{'is-active': item.slug === selectedItem}">
+                <div class="item-img" @click="selectItem(item.slug)">
                     <div class="img">
-                        <picture>
-                            <source :srcset="`${publicPath}item/${item.id}.webp`" type="image/webp">
-                            <img :src="`${publicPath}item/${item.id}.png`" :alt="item.name[lang]">
-                        </picture>
+                        <img
+                                :src="`${publicPath}spritesheet-${item.sprite.sheet}.png`"
+                                :style="{
+                                    'width': `${item.sprite.width}px`,
+                                    'height': `${item.sprite.height}px`,
+                                    'object-position': `-${item.sprite.x}px -${item.sprite.y}px`,
+                                }"
+                                :alt="item.name[lang]"
+                        >
                     </div>
                 </div>
                 <div class="item-content">
@@ -721,6 +726,8 @@
         width: 60px;
 
         img {
+            object-fit: none;
+            pointer-events: none;
             transform-origin: center center;
             transform: scale(2);
             image-rendering: pixelated;
