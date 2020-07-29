@@ -2049,7 +2049,7 @@
       "laser"
     ],
     "category": "weapon",
-    "colorOrder": 12,
+    "colorOrder": -2,
     "desc": {
       "de": "Das Flüstern in der Dunkelheit ...",
       "en-US": "The whisper in the dark…",
@@ -3101,7 +3101,7 @@
       "curve"
     ],
     "category": "weapon",
-    "colorOrder": -2,
+    "colorOrder": 12,
     "desc": {
       "de": "Überbringe ewige Romantik.",
       "en-US": "Delivering eternal romance.",
