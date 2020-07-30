@@ -67,8 +67,16 @@
         <p class="has-text-centered" v-if="layout === 'compact'">Click an item to show its description.</p>
         <section :class="'layout-'+layout">
             <div class="item" v-for="(item, i) in searchItems" :key="i"
-                 :class="{'is-active': item.slug === selectedItem}">
-                <div class="item-img" @click="selectItem(item.slug)">
+                 :class="{
+                    'is-active': item.slug === selectedItem,
+                    'is-hover': item.slug === hoverItem,
+                }"
+            >
+                <div class="item-img"
+                     @click="selectItem(item.slug)"
+                     @mouseover="adjustHoverItem(item.slug, $event.target)"
+                     @mouseleave="hoverItem = null"
+                >
                     <div class="img">
                         <img
                                 :src="`${publicPath}spritesheet-${item.sprite.sheet}.png`"
@@ -81,7 +89,7 @@
                         >
                     </div>
                 </div>
-                <div class="item-content">
+                <div class="item-content" :style="hoverItem === item.slug ? tooltipStyle : {}">
                     <div class="item-name">{{ item.name[lang] }}</div>
                     <div class="item-desc">
                         <span>{{ item.desc[lang] }}</span>
@@ -93,7 +101,7 @@
                              v-if="item.category === 'weapon' && item.variants.length > 0 && item.variants[0].secSkill !== null"
                         >
                             <p class="text text-strike" v-if="item.variants.length > 1">VARIANTS</p>
-                            <div v-for="(variant, j) in item.variants" :key="j">
+                            <div v-for="(variant, j) in item.variants" :key="j" class="variant-wrapper">
                                 <div class="variant"
                                      :class="{'no-effect': variant.desc[lang] === 'No effect'}"
                                 >
@@ -560,8 +568,20 @@
 
             .item-img {
                 width: 50px;
+            }
 
-                &:hover {
+            .item-content {
+                display: none;
+
+                .item-name {
+                    text-align: center;
+                    font-weight: 700;
+                    margin-bottom: 10px;
+                }
+            }
+
+            &.is-hover {
+                .item-img {
                     cursor: pointer;
 
                     img {
@@ -570,10 +590,78 @@
                 }
             }
 
-            .item-content {
-                display: none;
-            }
+            &:not(.is-active).is-hover {
+                // creating a tooltip
+                position: relative;
+                font-size: .7rem;
+                text-align: justify;
 
+                .item-content {
+                    display: flex;
+                    position: absolute;
+                    flex-direction: column;
+                    z-index: 100;
+                    top: calc(100% + 10px);
+                    left: -60px;
+                    right: -60px;
+                    pointer-events: none;
+                    background-color: $blue;
+                    padding: 10px;
+                    border-radius: 10px;
+                    overflow: hidden;
+                    box-shadow: 0 0 15px rgba(black, .5);
+                    /*border: 1px solid white;*/
+
+                    .variants {
+                        margin-top: 15px;
+
+                        .variant-wrapper {
+                            &:first-of-type .variant {
+                                margin-top: 10px;
+                                border-top: 1px solid rgba(white, .5);
+                            }
+
+                            &:not(:last-child) .variant {
+                                border-bottom: 1px solid rgba(white, .5);
+                            }
+
+                            .variant {
+                                margin-top: 0;
+                                margin-bottom: 0;
+                            }
+
+                            p {
+                                font-size: .7rem;
+                            }
+
+                            .costs {
+                                display: none;
+                            }
+                        }
+
+                        margin-bottom: -10px;
+                    }
+
+                    .text:not(.text-strike) {
+                        display: none;
+                    }
+
+                    .text {
+                        font-size: 10px;
+                        margin: 0;
+                    }
+
+                    .bullets {
+                        display: inline;
+                        margin: 2px;
+
+                        .bullet, .bullet-speed {
+                            display: inline;
+                            padding: 2px 4px;
+                        }
+                    }
+                }
+            }
 
             &.is-active {
                 // creating a modal
@@ -614,7 +702,7 @@
                         justify-content: center;
                         line-height: $height - 10px;
                         background-color: rgba($red, .8);
-                        box-shadow: 0 0 3px white, 0 0 3px white inset, 0 0 20px $red,  0 0 20px $red inset;
+                        box-shadow: 0 0 3px white, 0 0 3px white inset, 0 0 20px $red, 0 0 20px $red inset;
                         text-shadow: 0 0 6px white, 0 0 10px $red;
                         border-radius: 2px;
                         border: 1px solid white;
@@ -637,12 +725,6 @@
                     @media only screen and (max-width: 900px) {
                         // bigger bottom padding on mobile, so the close button doesn't overlap with descriptions
                         padding-bottom: 60px;
-                    }
-
-                    .item-name {
-                        text-align: center;
-                        font-weight: 600;
-                        margin-bottom: 10px;
                     }
 
                     .item-desc {
@@ -777,6 +859,7 @@
                 filter: "",
                 items: processedItems,
                 isMenuOpen: false,
+                hoverItem: null,
                 lang: 'en-US',
                 languages: languages.default,
                 layout: 'compact',
@@ -888,10 +971,31 @@
                         name: "Pet",
                     },
                 },
+                tooltipStyle: {},
                 useAdvancedSearch: false,
             }
         },
         methods: {
+            adjustHoverItem(id, elem) {
+                this.hoverItem = id;
+                const maxTooltipSize = {x: 200, y: 300}
+                const rect = elem.getBoundingClientRect();
+                const windowRect = {x: window.innerWidth, y: window.innerHeight}
+                const left = rect.x + rect.width / 2 - maxTooltipSize.x / 2
+                let tooltipStyle = {};
+                if (left < 0) {
+                    tooltipStyle.transform = `translateX(${-left}px)`
+                } else if (left + maxTooltipSize.x > windowRect.x) {
+                    tooltipStyle.transform = `translateX(${-(left + maxTooltipSize.x - windowRect.x)}px)`
+                }
+                const bottom = rect.y + rect.height + maxTooltipSize.y;
+                if (bottom > windowRect.y) {
+                    tooltipStyle.top = 'initial'
+                    tooltipStyle.bottom = 'calc(100% + 10px)'
+                }
+
+                this.tooltipStyle = tooltipStyle;
+            },
             selectItem(id) {
                 // only possible in compact mode
                 if (this.layout !== 'compact') return;
@@ -911,6 +1015,7 @@
                 }
 
                 this.selectedItem = newSelectedItem;
+                this.hoverItem = null;
             },
             rpmToText(rpm) {
                 if (rpm < 200)
