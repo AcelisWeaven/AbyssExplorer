@@ -5,15 +5,11 @@
             An update is available
             <span class="button" @click="refreshApp">Update</span>
         </div>
-        <div class="header">
-            <div class="title">
+        <div class="columns">
+            <div class="large">
                 <h1 class="red-line">ABYSS <span class="pink">EXPLORER</span></h1>
-                <p>
-                    Search tool for <strong>Neon Abyss</strong> items
-                    <button @click="promptAppInstall" v-if="!isAppInstalled && appDeferredPrompt !== null">Add to home screen</button>
-                </p>
             </div>
-            <div class="lang">
+            <div class="aside narrow padded">
                 <div class="dropdown" :class="{'active': isMenuOpen}">
                     <div class="button" @click="isMenuOpen = !isMenuOpen">{{ langIcon }} <i class="arrow-down"></i>
                     </div>
@@ -23,6 +19,12 @@
                         </div>
                     </div>
                 </div>
+            </div>
+        </div>
+        <div class="columns">
+            <div class="large margin">Search tool for <strong>Neon Abyss</strong> items</div>
+            <div class="aside narrow">
+                <button class="button-pink" @click="promptAppInstall" v-if="!isAppInstalled && appDeferredPrompt !== null">Add to home screen</button>
             </div>
         </div>
         <div class="search">
@@ -411,23 +413,32 @@
         pointer-events: none;
     }
 
-    .header {
+    .columns {
         display: flex;
 
-        .title {
+        .large {
             flex: 1;
+
+            &.margin {
+                margin-bottom: 20px;
+            }
         }
 
-        button {
+        .narrow {
+            flex: 0;
+        }
+
+        .button-pink {
             position: relative;
-            margin-left: 10px;
             padding: 5px 5px 5px 25px;
+            margin-bottom: 20px;
             background: transparent;
             border: 1px solid white;
             border-radius: 2px;
             color: rgba(white, .9);
             box-shadow: 0 0 4px $pink, 0 0 4px $pink inset, 0 0 10px $pink, 0 0 10px $pink inset;
             cursor: pointer;
+            white-space: nowrap;
 
             &:hover {
                 background: rgba($pink, .3);
@@ -447,9 +458,12 @@
             }
         }
 
-        .lang {
+        .aside {
             flex: 0;
-            padding-top: 30px;
+
+            &.padded {
+                padding-top: 30px;
+            }
         }
     }
 
