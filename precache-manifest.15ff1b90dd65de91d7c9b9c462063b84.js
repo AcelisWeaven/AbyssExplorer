@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/cost/mana.png"
   },
   {
-    "revision": "2c9836bdf9492efbe50f",
+    "revision": "056455edc885c074ab0f",
     "url": "/AbyssExplorer/css/app.17652c61.css"
   },
   {
@@ -88,16 +88,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/icon/96.png"
   },
   {
-    "revision": "9c6cec3508d854b2e0728add2f70c4e6",
+    "revision": "02d3cd4d3fc8593df491c93299f600a0",
     "url": "/AbyssExplorer/index.html"
   },
   {
-    "revision": "2c9836bdf9492efbe50f",
-    "url": "/AbyssExplorer/js/app.5b778421.js"
+    "revision": "056455edc885c074ab0f",
+    "url": "/AbyssExplorer/js/app.9061a945.js"
   },
   {
-    "revision": "887f6d3d33320c159916",
-    "url": "/AbyssExplorer/js/chunk-vendors.c4ebd4ea.js"
+    "revision": "25610484282e54767954",
+    "url": "/AbyssExplorer/js/chunk-vendors.d280a94e.js"
   },
   {
     "revision": "18d0d53f40b09a3b46160db8d25109b6",
