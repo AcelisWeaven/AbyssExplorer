@@ -122,7 +122,7 @@
             <div class="no-results" v-if="searchItems.length === 0">No results :(</div>
         </section>
         <footer>
-            <p>Made with ❤ by AcelisWeaven.</p>
+            <p>Made with ❤ by AcelisWeaven. <a class="link-orange" href="https://github.com/AcelisWeaven" target="_blank">Buy me a coffee!</a></p>
             <p>
                 <a href="https://github.com/AcelisWeaven/AbyssExplorer">Source code</a> |
                 <a href="https://github.com/AcelisWeaven/AbyssExplorer/issues/new">Suggest an improvement</a>
@@ -827,6 +827,10 @@
         .body {
             padding: 0 150px;
         }
+    }
+
+    .link-orange {
+        color: orange;
     }
 </style>
 
