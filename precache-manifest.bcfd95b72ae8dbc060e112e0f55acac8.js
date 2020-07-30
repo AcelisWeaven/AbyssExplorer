@@ -120,7 +120,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/spritesheet-b0bc91af.png"
   },
   {
-    "revision": "921c3a35f3a6982c60f42e03509a5a54",
+    "revision": "559956ea7a27b1541351a337820f4b75",
     "url": "/AbyssExplorer/thumbnail.png"
   }
 ]);
