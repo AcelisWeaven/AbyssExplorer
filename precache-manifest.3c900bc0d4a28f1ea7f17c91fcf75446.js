@@ -88,7 +88,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/icon/96.png"
   },
   {
-    "revision": "8ab3bf6772165369a04591f8ec3573d0",
+    "revision": "ccb31af41bc21c9e90099739e0459f93",
     "url": "/AbyssExplorer/index.html"
   },
   {
