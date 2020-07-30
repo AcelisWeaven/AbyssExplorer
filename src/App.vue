@@ -8,7 +8,10 @@
         <div class="header">
             <div class="title">
                 <h1 class="red-line">ABYSS <span class="pink">EXPLORER</span></h1>
-                <p>Search tool for <strong>Neon Abyss</strong> items</p>
+                <p>
+                    Search tool for <strong>Neon Abyss</strong> items
+                    <button @click="promptAppInstall" v-if="!isAppInstalled && appDeferredPrompt !== null">Add to home screen</button>
+                </p>
             </div>
             <div class="lang">
                 <div class="dropdown" :class="{'active': isMenuOpen}">
@@ -23,7 +26,8 @@
             </div>
         </div>
         <div class="search">
-            <input type="text" id="search" v-model="search" placeholder="Search an item here. Use a comma to search multiple terms.">
+            <input type="text" id="search" v-model="search"
+                   placeholder="Search an item here. Use a comma to search multiple terms.">
             <div class="more-options">
                 <input type="checkbox" id="more-options" v-model="useAdvancedSearch">
                 <label for="more-options">More options</label>
@@ -122,7 +126,10 @@
             <div class="no-results" v-if="searchItems.length === 0">No results :(</div>
         </section>
         <footer>
-            <p>Made with ❤ by Jeremy Graziani. <a class="link-orange" href="https://www.buymeacoffee.com/jeremygr" target="_blank">Buy me a coffee!</a></p>
+            <p>
+                Made with ❤ by Jeremy Graziani.
+                <a class="link-orange" href="https://www.buymeacoffee.com/jeremygr" target="_blank">Buy me a coffee!</a>
+            </p>
             <p>
                 <a href="https://github.com/AcelisWeaven/AbyssExplorer">Source code</a> |
                 <a href="https://github.com/AcelisWeaven/AbyssExplorer/issues/new">Suggest an improvement</a>
@@ -409,6 +416,35 @@
 
         .title {
             flex: 1;
+        }
+
+        button {
+            position: relative;
+            margin-left: 10px;
+            padding: 5px 5px 5px 25px;
+            background: transparent;
+            border: 1px solid white;
+            border-radius: 2px;
+            color: rgba(white, .9);
+            box-shadow: 0 0 4px $pink, 0 0 4px $pink inset, 0 0 10px $pink, 0 0 10px $pink inset;
+            cursor: pointer;
+
+            &:hover {
+                background: rgba($pink, .3);
+            }
+
+            &::after {
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                position: absolute;
+                content: '+';
+                left: 5px;
+                top: 0;
+                bottom: 2px;
+                font-size: 1.3rem;
+                font-weight: 800;
+            }
         }
 
         .lang {
@@ -860,9 +896,10 @@
     export default {
         data() {
             return {
-                tagFilter: "",
+                appDeferredPrompt: null,
                 items: processedItems,
                 isMenuOpen: false,
+                isAppInstalled: false,
                 hoverItem: null,
                 lang: 'en-US',
                 languages: languages.default,
@@ -902,7 +939,7 @@
                 swIsRefreshing: false,
                 swRegistration: null,
                 swUpdateExists: false,
-                tagSingle: ["weapon"],
+                tagFilter: "",
                 tagGroups: [
                     {
                         name: "Items",
@@ -925,6 +962,7 @@
                         ],
                     },
                 ],
+                tagSingle: ["weapon"],
                 tags: {
                     "weapon": {
                         name: "Weapon",
@@ -1050,6 +1088,15 @@
                 // send message to SW to skip the waiting and activate the new SW
                 this.swRegistration.waiting.postMessage({type: 'SKIP_WAITING'});
             },
+            promptAppInstall() {
+                this.appDeferredPrompt.prompt();
+                this.appDeferredPrompt.userChoice.then(choiceResult => {
+                    if (choiceResult.outcome === 'accepted') {
+                        this.isAppInstalled = true;
+                        this.appDeferredPrompt = null;
+                    }
+                })
+            },
         },
         watch: {
             lang() {
@@ -1092,7 +1139,7 @@
                 return this.items
                     .filter(i => {
                         return (this.tagFilter === "" || i.tags.indexOf(this.tagFilter) !== -1) &&
-                        search.length === 0 || search.some(term => i.search[this.lang].includes(term));
+                            search.length === 0 || search.some(term => i.search[this.lang].includes(term));
                     })
                     .sort((a, b) => {
                         if (this.sort === 'name') {
@@ -1116,6 +1163,13 @@
         created() {
             // Listen for our custom event from the SW registration
             document.addEventListener('swUpdated', this.updateAvailable, {once: true})
+            window.addEventListener('beforeinstallprompt', e => {
+                e.preventDefault();
+                this.appDeferredPrompt = e;
+            })
+            window.addEventListener('appinstalled', () => {
+                this.isAppInstalled = true;
+            });
 
             // Prevent multiple refreshes
             navigator.serviceWorker.addEventListener('controllerchange', () => {
