@@ -23,7 +23,7 @@
             </div>
         </div>
         <div class="search">
-            <input type="text" id="search" v-model="search" placeholder="Search an item here...">
+            <input type="text" id="search" v-model="search" placeholder="Search an item here. Use a comma to search multiple terms.">
             <div class="more-options">
                 <input type="checkbox" id="more-options" v-model="useAdvancedSearch">
                 <label for="more-options">More options</label>
@@ -41,7 +41,7 @@
                 <div class="filter">
                     <label for="filter">Filter by</label>
                     <div class="select">
-                        <select id="filter" v-model="filter">
+                        <select id="filter" v-model="tagFilter">
                             <option value="">Everything</option>
                             <option v-for="key in tagSingle" :key="key" :value="key">{{ tags[key].name }}</option>
                             <optgroup v-for="(tagGroup, tagGroupIndex) in tagGroups"
@@ -860,7 +860,7 @@
     export default {
         data() {
             return {
-                filter: "",
+                tagFilter: "",
                 items: processedItems,
                 isMenuOpen: false,
                 hoverItem: null,
@@ -1065,7 +1065,7 @@
                 localStorage.setItem('useAdvancedSearch', this.useAdvancedSearch);
 
                 // when disabled, reset options
-                this.filter = "";
+                this.tagFilter = "";
             },
         },
         mounted() {
@@ -1085,10 +1085,14 @@
         },
         computed: {
             searchItems() {
-                const search = normalize(this.search);
+                const search = normalize(this.search).split(',')
+                    .map(term => term.trim())
+                    .filter(term => term.length > 0);
+
                 return this.items
                     .filter(i => {
-                        return i.search[this.lang].includes(search) && (this.filter === "" || i.tags.indexOf(this.filter) !== -1);
+                        return (this.tagFilter === "" || i.tags.indexOf(this.tagFilter) !== -1) &&
+                        search.length === 0 || search.some(term => i.search[this.lang].includes(term));
                     })
                     .sort((a, b) => {
                         if (this.sort === 'name') {
