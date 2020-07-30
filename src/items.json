@@ -1,6 +1,7 @@
 [
   {
-    "bulletTypes": [],
+    "bulletTypes": [
+    ],
     "category": "weapon",
     "colorOrder": 12,
     "desc": {
@@ -39,10 +40,12 @@
     "tags": [
       "weapon"
     ],
-    "variants": []
+    "variants": [
+    ]
   },
   {
-    "bulletTypes": [],
+    "bulletTypes": [
+    ],
     "category": "weapon",
     "colorOrder": 14,
     "desc": {
@@ -81,10 +84,12 @@
     "tags": [
       "weapon"
     ],
-    "variants": []
+    "variants": [
+    ]
   },
   {
-    "bulletTypes": [],
+    "bulletTypes": [
+    ],
     "category": "weapon",
     "colorOrder": 88,
     "desc": {
@@ -123,10 +128,12 @@
     "tags": [
       "weapon"
     ],
-    "variants": []
+    "variants": [
+    ]
   },
   {
-    "bulletTypes": [],
+    "bulletTypes": [
+    ],
     "category": "weapon",
     "colorOrder": 0,
     "desc": {
@@ -165,10 +172,12 @@
     "tags": [
       "weapon"
     ],
-    "variants": []
+    "variants": [
+    ]
   },
   {
-    "bulletTypes": [],
+    "bulletTypes": [
+    ],
     "category": "weapon",
     "colorOrder": 1,
     "desc": {
@@ -207,10 +216,12 @@
     "tags": [
       "weapon"
     ],
-    "variants": []
+    "variants": [
+    ]
   },
   {
-    "bulletTypes": [],
+    "bulletTypes": [
+    ],
     "category": "weapon",
     "colorOrder": 2,
     "desc": {
@@ -249,10 +260,12 @@
     "tags": [
       "weapon"
     ],
-    "variants": []
+    "variants": [
+    ]
   },
   {
-    "bulletTypes": [],
+    "bulletTypes": [
+    ],
     "category": "weapon",
     "colorOrder": 46,
     "desc": {
@@ -291,10 +304,12 @@
     "tags": [
       "weapon"
     ],
-    "variants": []
+    "variants": [
+    ]
   },
   {
-    "bulletTypes": [],
+    "bulletTypes": [
+    ],
     "category": "weapon",
     "colorOrder": 3,
     "desc": {
@@ -333,10 +348,12 @@
     "tags": [
       "weapon"
     ],
-    "variants": []
+    "variants": [
+    ]
   },
   {
-    "bulletTypes": [],
+    "bulletTypes": [
+    ],
     "category": "weapon",
     "colorOrder": 55,
     "desc": {
@@ -375,10 +392,12 @@
     "tags": [
       "weapon"
     ],
-    "variants": []
+    "variants": [
+    ]
   },
   {
-    "bulletTypes": [],
+    "bulletTypes": [
+    ],
     "category": "weapon",
     "colorOrder": 4,
     "desc": {
@@ -417,10 +436,12 @@
     "tags": [
       "weapon"
     ],
-    "variants": []
+    "variants": [
+    ]
   },
   {
-    "bulletTypes": [],
+    "bulletTypes": [
+    ],
     "category": "weapon",
     "colorOrder": 5,
     "desc": {
@@ -459,7 +480,8 @@
     "tags": [
       "weapon"
     ],
-    "variants": []
+    "variants": [
+    ]
   },
   {
     "bulletTypes": [
@@ -616,7 +638,8 @@
     ]
   },
   {
-    "bulletTypes": [],
+    "bulletTypes": [
+    ],
     "category": "weapon",
     "colorOrder": 123,
     "desc": {
@@ -746,7 +769,8 @@
     ]
   },
   {
-    "bulletTypes": [],
+    "bulletTypes": [
+    ],
     "category": "weapon",
     "colorOrder": 290,
     "desc": {
@@ -821,12 +845,14 @@
           "zh-TW": "No effect"
         },
         "secSkill": null,
-        "secSkillCosts": []
+        "secSkillCosts": [
+        ]
       }
     ]
   },
   {
-    "bulletTypes": [],
+    "bulletTypes": [
+    ],
     "category": "weapon",
     "colorOrder": 176,
     "desc": {
@@ -1078,7 +1104,8 @@
           "zh-TW": "No effect"
         },
         "secSkill": null,
-        "secSkillCosts": []
+        "secSkillCosts": [
+        ]
       },
       {
         "desc": {
@@ -1190,7 +1217,8 @@
           "zh-TW": "【主動道具】向前瞬移一小段距離。不耗資源。"
         },
         "secSkill": "2_power_a_blink",
-        "secSkillCosts": []
+        "secSkillCosts": [
+        ]
       }
     ]
   },
@@ -1338,7 +1366,8 @@
           "zh-TW": "No effect"
         },
         "secSkill": null,
-        "secSkillCosts": []
+        "secSkillCosts": [
+        ]
       }
     ]
   },
@@ -1401,7 +1430,8 @@
           "zh-TW": "No effect"
         },
         "secSkill": null,
-        "secSkillCosts": []
+        "secSkillCosts": [
+        ]
       },
       {
         "desc": {
@@ -1518,7 +1548,8 @@
     ]
   },
   {
-    "bulletTypes": [],
+    "bulletTypes": [
+    ],
     "category": "weapon",
     "colorOrder": 205,
     "desc": {
@@ -1581,27 +1612,6 @@
       },
       {
         "desc": {
-          "de": "[Aktiver Gegenstand] Aktualisiere alle geschlossenen Truhen im aktuellen Raum. Kostet 2 Kristalle.",
-          "en-US": "[Active Item] Refresh all the closed chests in the current room. Cost 2 crystals.",
-          "es": "[Objeto activo] Actualiza todos los cofres cerrados de la sala actual. Cuesta 2 cristales.",
-          "fr": "[Objet actif] Réinitialise tous les coffres fermés dans la salle actuelle. Coûte 2 cristaux.",
-          "it": "[Oggetto attivo] Rimpiazza tutti i forzieri chiusi nella stanza. Costo: 2 cristalli.",
-          "ja": "[アクティブアイテム] 現在の部屋にある閉じた宝箱をすべて新しいものに入れ替える。クリスタルを2消費。",
-          "ru": "[Активный предмет] Обновляет все закрытые сундуки в текущей комнате. Расходует 2 кристалла.",
-          "zh": "【主动技能】刷新当前房间内所有未开启的宝箱。消耗2水晶。",
-          "zh-CN": "【主动技能】刷新当前房间内所有未开启的宝箱。消耗2水晶。",
-          "zh-TW": "【主動道具】刷新目前房間內所有未開啟的寶箱。消耗2個水晶。"
-        },
-        "secSkill": "2_power_refesh_chest",
-        "secSkillCosts": [
-          {
-            "count": 2,
-            "type": "mana"
-          }
-        ]
-      },
-      {
-        "desc": {
           "de": "[Aktiver Gegenstand] Ersetze alle Gegenstände im aktuellen Raum durch zufällige Extras. Kostet 2 Kristalle.",
           "en-US": "[Active Item] Replace all items in the current room with random pickups. Cost 2 crystals.",
           "es": "[Objeto activo] Reemplaza todos los objetos de la sala actual con potenciadores aleatorios. Cuesta 2 cristales.",
@@ -1614,6 +1624,27 @@
           "zh-TW": "【主動道具】將目前房間內的所有道具更換成隨機的可拾取物。消耗2個水晶。"
         },
         "secSkill": "2_power_refesh_itemtodrop",
+        "secSkillCosts": [
+          {
+            "count": 2,
+            "type": "mana"
+          }
+        ]
+      },
+      {
+        "desc": {
+          "de": "[Aktiver Gegenstand] Aktualisiere alle geschlossenen Truhen im aktuellen Raum. Kostet 2 Kristalle.",
+          "en-US": "[Active Item] Refresh all the closed chests in the current room. Cost 2 crystals.",
+          "es": "[Objeto activo] Actualiza todos los cofres cerrados de la sala actual. Cuesta 2 cristales.",
+          "fr": "[Objet actif] Réinitialise tous les coffres fermés dans la salle actuelle. Coûte 2 cristaux.",
+          "it": "[Oggetto attivo] Rimpiazza tutti i forzieri chiusi nella stanza. Costo: 2 cristalli.",
+          "ja": "[アクティブアイテム] 現在の部屋にある閉じた宝箱をすべて新しいものに入れ替える。クリスタルを2消費。",
+          "ru": "[Активный предмет] Обновляет все закрытые сундуки в текущей комнате. Расходует 2 кристалла.",
+          "zh": "【主动技能】刷新当前房间内所有未开启的宝箱。消耗2水晶。",
+          "zh-CN": "【主动技能】刷新当前房间内所有未开启的宝箱。消耗2水晶。",
+          "zh-TW": "【主動道具】刷新目前房間內所有未開啟的寶箱。消耗2個水晶。"
+        },
+        "secSkill": "2_power_refesh_chest",
         "secSkillCosts": [
           {
             "count": 2,
@@ -1881,7 +1912,8 @@
           "zh-TW": "No effect"
         },
         "secSkill": null,
-        "secSkillCosts": []
+        "secSkillCosts": [
+        ]
       }
     ]
   },
@@ -1942,12 +1974,14 @@
           "zh-TW": "No effect"
         },
         "secSkill": null,
-        "secSkillCosts": []
+        "secSkillCosts": [
+        ]
       }
     ]
   },
   {
-    "bulletTypes": [],
+    "bulletTypes": [
+    ],
     "category": "weapon",
     "colorOrder": 6,
     "desc": {
@@ -2138,7 +2172,8 @@
           "zh-TW": "No effect"
         },
         "secSkill": null,
-        "secSkillCosts": []
+        "secSkillCosts": [
+        ]
       }
     ]
   },
@@ -2220,12 +2255,14 @@
           "zh-TW": "【主動道具】存放紅心，並於使用後扔出它們。不耗資源。（武器等級越高，便當容量越大。）"
         },
         "secSkill": "2_power_store_heart",
-        "secSkillCosts": []
+        "secSkillCosts": [
+        ]
       }
     ]
   },
   {
-    "bulletTypes": [],
+    "bulletTypes": [
+    ],
     "category": "weapon",
     "colorOrder": 152,
     "desc": {
@@ -2376,7 +2413,8 @@
     ]
   },
   {
-    "bulletTypes": [],
+    "bulletTypes": [
+    ],
     "category": "weapon",
     "colorOrder": 120,
     "desc": {
@@ -2430,7 +2468,8 @@
           "zh-TW": "No effect"
         },
         "secSkill": null,
-        "secSkillCosts": []
+        "secSkillCosts": [
+        ]
       }
     ]
   },
@@ -2491,7 +2530,8 @@
           "zh-TW": "No effect"
         },
         "secSkill": null,
-        "secSkillCosts": []
+        "secSkillCosts": [
+        ]
       }
     ]
   },
@@ -2573,7 +2613,8 @@
           "zh-TW": "【主動道具】重摔在地，造成衝擊傷害。不耗資源。"
         },
         "secSkill": "2_power_a_smash",
-        "secSkillCosts": []
+        "secSkillCosts": [
+        ]
       }
     ]
   },
@@ -2634,7 +2675,8 @@
           "zh-TW": "【主動道具】在空中飛舞。不耗資源。"
         },
         "secSkill": "2_power_a_jetpack",
-        "secSkillCosts": []
+        "secSkillCosts": [
+        ]
       },
       {
         "desc": {
@@ -2716,7 +2758,8 @@
           "zh-TW": "No effect"
         },
         "secSkill": null,
-        "secSkillCosts": []
+        "secSkillCosts": [
+        ]
       },
       {
         "desc": {
@@ -2732,12 +2775,14 @@
           "zh-TW": "【主動道具】這個工具能取代鑰匙，但使用時有可能爆炸。不耗資源。"
         },
         "secSkill": "2_power_a_unlock",
-        "secSkillCosts": []
+        "secSkillCosts": [
+        ]
       }
     ]
   },
   {
-    "bulletTypes": [],
+    "bulletTypes": [
+    ],
     "category": "weapon",
     "colorOrder": 8,
     "desc": {
@@ -2791,12 +2836,14 @@
           "zh-TW": "No effect"
         },
         "secSkill": null,
-        "secSkillCosts": []
+        "secSkillCosts": [
+        ]
       }
     ]
   },
   {
-    "bulletTypes": [],
+    "bulletTypes": [
+    ],
     "category": "weapon",
     "colorOrder": 207,
     "desc": {
@@ -2916,7 +2963,8 @@
           "zh-TW": "【主動道具】存放守護精靈，並於使用後釋放它們。（武器等級越高，魔瓶容量越大。）消耗1個水晶。"
         },
         "secSkill": "2_power_store_g_sprite",
-        "secSkillCosts": []
+        "secSkillCosts": [
+        ]
       }
     ]
   },
@@ -2977,7 +3025,8 @@
           "zh-TW": "【主動道具】存放邪惡精靈，並於使用後釋放它們。（武器等級越高，魔瓶容量越大。）消耗1個水晶。"
         },
         "secSkill": "2_power_store_a_sprite",
-        "secSkillCosts": []
+        "secSkillCosts": [
+        ]
       }
     ]
   },
@@ -3135,7 +3184,8 @@
     ]
   },
   {
-    "bulletTypes": [],
+    "bulletTypes": [
+    ],
     "category": "weapon",
     "colorOrder": 274,
     "desc": {
@@ -3189,12 +3239,14 @@
           "zh-TW": "【主動道具】減慢你落下的速度。不耗資源。"
         },
         "secSkill": "2_power_a_glide",
-        "secSkillCosts": []
+        "secSkillCosts": [
+        ]
       }
     ]
   },
   {
-    "bulletTypes": [],
+    "bulletTypes": [
+    ],
     "category": "weapon",
     "colorOrder": 11,
     "desc": {
@@ -3248,7 +3300,8 @@
           "zh-TW": "【主動道具】使時間變慢。不耗資源。"
         },
         "secSkill": "2_power_timeslow",
-        "secSkillCosts": []
+        "secSkillCosts": [
+        ]
       }
     ]
   },
@@ -3309,7 +3362,8 @@
           "zh-TW": "【主動道具】你強壯到可以舉起箱子或桶子！不耗資源。"
         },
         "secSkill": "2_power_a_lift",
-        "secSkillCosts": []
+        "secSkillCosts": [
+        ]
       }
     ]
   },
@@ -3611,7 +3665,8 @@
           "zh-TW": "No effect"
         },
         "secSkill": null,
-        "secSkillCosts": []
+        "secSkillCosts": [
+        ]
       }
     ]
   },
@@ -3672,7 +3727,8 @@
           "zh-TW": "【主動道具】向前翻滾一小段距離。不耗資源。"
         },
         "secSkill": "2_power_a_roll",
-        "secSkillCosts": []
+        "secSkillCosts": [
+        ]
       }
     ]
   },
@@ -3733,7 +3789,8 @@
           "zh-TW": "No effect"
         },
         "secSkill": null,
-        "secSkillCosts": []
+        "secSkillCosts": [
+        ]
       }
     ]
   },
@@ -3805,7 +3862,8 @@
     ]
   },
   {
-    "bulletTypes": [],
+    "bulletTypes": [
+    ],
     "category": "weapon",
     "colorOrder": 33,
     "desc": {
