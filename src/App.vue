@@ -72,8 +72,9 @@
                 </div>
             </div>
         </div>
-        <p class="has-text-centered" v-if="layout === 'compact'">Click an item to show its description. Hold click to
-            pin.</p>
+        <p class="has-text-centered" v-if="layout === 'compact'">Click an item to show its description.
+            <span v-if="!isTouchDevice">Hold click to pin.</span>
+        </p>
         <section :class="'layout-'+layout">
             <item v-for="item in searchItems" :key="item.slug" :item="item" :lang="lang" :public-path="publicPath"
                   :layout="layout"></item>
@@ -122,6 +123,10 @@
 
     .body {
         margin: 0;
+    }
+
+    * {
+        box-sizing: border-box;
     }
 
     @mixin tag {
@@ -477,7 +482,7 @@
         margin-bottom: 3rem;
 
         input[type="text"] {
-            width: calc(100% - 32px);
+            width: 100%;
             padding: 10px 15px;
             background-color: transparent;
             box-shadow: 0 0 2px 1px $cyan, 0 0 5px 5px rgba($cyan, 0.39);
@@ -517,7 +522,7 @@
         display: flex;
         flex-wrap: wrap;
         gap: 2rem;
-        justify-content: space-evenly;
+        justify-content: center;
 
         .item {
             display: flex;
@@ -782,6 +787,8 @@
                 z-index: 100;
                 overflow-y: auto;
                 @include bgNeon;
+                display: flex;
+                justify-content: center;
 
                 .item-img {
                     margin-top: 10vh;
@@ -821,6 +828,7 @@
                             right: 10px;
                             bottom: 10px;
                             top: initial;
+                            line-height: $height;
                         }
                     }
                 }
@@ -1159,6 +1167,9 @@
             this.useAdvancedSearch = localStorage.getItem('useAdvancedSearch') === 'true';
         },
         computed: {
+            isTouchDevice() {
+                return 'ontouchstart' in document.documentElement;
+            },
             sortedItems() {
                 if (this.sort === 'id')
                     return this.items;

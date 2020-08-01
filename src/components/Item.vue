@@ -7,14 +7,15 @@
                 }"
     >
         <item-sprite :sprite="item.sprite" :public-path="publicPath"
-             @mousedown.native="preparePinning()"
-             @mouseup.native="handleRelease()"
-             @mouseover.native="adjustHoverItem(item.slug, $event.target)"
-             @mouseleave.native="isHovered = false"
+                     @mousedown.native="preparePinning()"
+                     @mouseup.native="handleRelease()"
+
+                     @mouseover.native="adjustHoverItem(item.slug, $event.target)"
+                     @mouseleave.native="isHovered = false"
         ></item-sprite>
 
         <item-content :item="item" :lang="lang" :public-path="publicPath"
-             :style="isHovered ? tooltipStyle : {}"
+                      :style="isHovered && !isPinned ? tooltipStyle : {}"
         ></item-content>
     </div>
 </template>
@@ -56,6 +57,13 @@
                 required: true,
             },
         },
+        watch: {
+            layout() {
+                this.isHovered = false;
+                this.isActive = false;
+                this.isPinned = false;
+            }
+        },
         methods: {
             adjustHoverItem(id, elem) {
                 this.isHovered = true;
@@ -65,7 +73,7 @@
                 const left = rect.x + rect.width / 2 - maxTooltipSize.x / 2
                 let tooltipStyle = {};
                 if (left < 0) {
-                    tooltipStyle.transform = `translateX(${-left}px)`
+                    tooltipStyle.transform = `translateX(${-left + 10}px)`
                 } else if (left + maxTooltipSize.x > windowRect.x) {
                     tooltipStyle.transform = `translateX(${-(left + maxTooltipSize.x - windowRect.x)}px)`
                 }
@@ -78,19 +86,22 @@
                 this.tooltipStyle = tooltipStyle;
             },
             preparePinning() {
+                // only possible in compact mode
+                if (this.layout !== 'compact') return;
+
                 this.pinningTimeout = setTimeout(() => {
                     this.isPinned = !this.isPinned;
                     this.pinningTimeout = null;
                 }, 200)
             },
             handleRelease() {
-               // figure if we want to open a modal (short press) or pin an item (long press)
-               if (this.pinningTimeout !== null) {
-                   // modal
-                   this.selectItem();
-                   clearTimeout(this.pinningTimeout);
-                   this.pinningTimeout = null;
-               }
+                // figure if we want to open a modal (short press) or pin an item (long press)
+                if (this.pinningTimeout !== null) {
+                    // modal
+                    this.selectItem();
+                    clearTimeout(this.pinningTimeout);
+                    this.pinningTimeout = null;
+                }
             },
             selectItem() {
                 // only possible in compact mode, while not pinned
