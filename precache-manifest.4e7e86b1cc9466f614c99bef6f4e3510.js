@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/cost/mana.png"
   },
   {
-    "revision": "0e93443de78d3f5560f7",
-    "url": "/AbyssExplorer/css/app.2c4d9619.css"
+    "revision": "a2e9b3307edc290d20a9",
+    "url": "/AbyssExplorer/css/app.e641c6fd.css"
   },
   {
     "revision": "c002889df169e609927b5d25552a9f29",
@@ -88,12 +88,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/icon/96.png"
   },
   {
-    "revision": "9aa9b844ef60d8f9a01c4afa42c6b3f2",
+    "revision": "65db410ac2e97fbd060b0557bc31a982",
     "url": "/AbyssExplorer/index.html"
   },
   {
-    "revision": "0e93443de78d3f5560f7",
-    "url": "/AbyssExplorer/js/app.48df461a.js"
+    "revision": "a2e9b3307edc290d20a9",
+    "url": "/AbyssExplorer/js/app.e66bbe99.js"
   },
   {
     "revision": "25610484282e54767954",
