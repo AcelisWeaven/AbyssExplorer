@@ -4,26 +4,26 @@
         <div class="item-desc">
             <span>{{ item.desc[lang] }}</span>
             <div class="bullets" v-if="item.category === 'weapon'">
-                <div class="bullet" v-for="(bullet, j) in item.bulletTypes" :key="j">{{ bullet }}</div>
+                <div class="bullet" v-for="bullet in item.bulletTypes" :key="bullet">{{ bullet }}</div>
                 <div class="bullet-speed" v-if="item.rpm !== 300">{{ item.rpm | rpmToText }}</div>
             </div>
             <div class="variants"
                  v-if="item.category === 'weapon' && item.variants.length > 0 && item.variants[0].secSkill !== null"
             >
                 <p class="text text-strike" v-if="item.variants.length > 1">VARIANTS</p>
-                <div v-for="(variant, j) in item.variants" :key="j" class="variant-wrapper">
+                <div v-for="(variant, index) in item.variants" :key="`${variant.secSkill}-${index}`" class="variant-wrapper">
                     <div class="variant"
                          :class="{'no-effect': variant.desc[lang] === 'No effect'}"
                     >
                         <p>{{ variant.desc[lang] }}</p>
                         <div class="costs">
-                            <div v-for="(cost, k) in variant.secSkillCosts" :key="k" class="cost">
+                            <div v-for="cost in variant.secSkillCosts" :key="cost.type" class="cost">
                                 <span>{{ cost.count }}</span>
                                 <img :src="`${publicPath}cost/${cost.type}.png`" :alt="cost.type">
                             </div>
                         </div>
                     </div>
-                    <div class="text" v-if="j !== item.variants.length - 1">OR</div>
+                    <div class="text" v-if="index !== item.variants.length - 1">OR</div>
                 </div>
             </div>
         </div>

@@ -24,7 +24,9 @@
         <div class="columns">
             <div class="large margin">Search tool for <strong>Neon Abyss</strong> items</div>
             <div class="aside narrow">
-                <button class="button-pink" @click="promptAppInstall" v-if="!isAppInstalled && appDeferredPrompt !== null">Add to home screen</button>
+                <button class="button-pink" @click="promptAppInstall"
+                        v-if="!isAppInstalled && appDeferredPrompt !== null">Add to home screen
+                </button>
             </div>
         </div>
         <div class="search">
@@ -70,9 +72,11 @@
                 </div>
             </div>
         </div>
-        <p class="has-text-centered" v-if="layout === 'compact'">Click an item to show its description.</p>
+        <p class="has-text-centered" v-if="layout === 'compact'">Click an item to show its description. Hold click to
+            pin.</p>
         <section :class="'layout-'+layout">
-            <item v-for="(item, i) in searchItems" :key="i" :item="item" :lang="lang" :public-path="publicPath" :layout="layout"></item>
+            <item v-for="item in searchItems" :key="item.slug" :item="item" :lang="lang" :public-path="publicPath"
+                  :layout="layout"></item>
             <div class="no-results" v-if="searchItems.length === 0">No results :(</div>
         </section>
         <footer>
@@ -588,6 +592,112 @@
                 }
             }
 
+            &.is-pinned {
+                display: flex;
+                flex: 1 0 100%;
+                flex-direction: row;
+                padding: .9rem 1.5rem;
+                align-items: center;
+                background-color: rgba($pink, .1);
+
+                .costs {
+                    display: none;
+                }
+
+                .bullets {
+                    display: inline;
+                    margin-top: 0;
+                    margin-left: 1rem;
+                }
+
+                .text:not(.text-strike) {
+                    display: none;
+                }
+
+                .text {
+                    font-size: 10px;
+                    margin: 0;
+                }
+
+                .variants {
+                    margin-top: 5px;
+
+                    .variant-wrapper {
+                        &:first-of-type .variant {
+                            margin-top: 10px;
+                        }
+
+                        &:not(:last-child) .variant {
+                            border-bottom: 1px solid rgba(white, .5);
+                            border-bottom-left-radius: 0;
+                            border-bottom-right-radius: 0;
+                        }
+
+                        .variant {
+                            margin-top: 0;
+                            margin-bottom: 0;
+                        }
+
+                        p {
+                            font-size: .7rem;
+                        }
+
+                        .costs {
+                            display: none;
+                        }
+                    }
+                }
+
+                .item-img {
+                    width: 50px;
+                    margin-right: 20px;
+                    @media only screen and (max-width: 700px) {
+                        margin-right: 2rem;
+                        margin-left: -1rem;
+                    }
+
+                    &:hover {
+                        cursor: pointer;
+
+                        img {
+                            transform: scale(3);
+                        }
+                    }
+                }
+
+                .item-content {
+                    flex: 1;
+                    display: flex;
+                    flex-wrap: wrap;
+                    align-items: center;
+
+                    @media only screen and (max-width: 700px) {
+                        justify-content: center;
+
+                        .item-name {
+                            margin-bottom: 10px;
+                        }
+
+                        .item-name, .item-desc {
+                            flex: 0 0 100%;
+                        }
+                    }
+
+                    .item-name {
+                        text-align: center;
+                        padding-right: .5rem;
+                        width: max(15%, 170px);
+                        font-weight: 600;
+                    }
+
+                    .item-desc {
+                        flex: 1;
+                    }
+                }
+
+
+            }
+
             &:not(.is-active).is-hover {
                 // creating a tooltip
                 position: relative;
@@ -608,7 +718,6 @@
                     border-radius: 10px;
                     overflow: hidden;
                     box-shadow: 0 0 15px rgba(black, .5);
-                    /*border: 1px solid white;*/
 
                     .variants {
                         margin-top: 15px;
@@ -621,6 +730,8 @@
 
                             &:not(:last-child) .variant {
                                 border-bottom: 1px solid rgba(white, .5);
+                                border-bottom-left-radius: 0;
+                                border-bottom-right-radius: 0;
                             }
 
                             .variant {
@@ -1048,16 +1159,12 @@
             this.useAdvancedSearch = localStorage.getItem('useAdvancedSearch') === 'true';
         },
         computed: {
-            searchItems() {
-                const search = normalize(this.search).split(',')
-                    .map(term => term.trim())
-                    .filter(term => term.length > 0);
+            sortedItems() {
+                if (this.sort === 'id')
+                    return this.items;
 
                 return this.items
-                    .filter(i => {
-                        return (this.tagFilter === "" || i.tags.indexOf(this.tagFilter) !== -1) &&
-                            search.length === 0 || search.some(term => i.search[this.lang].includes(term));
-                    })
+                    .map(i => i) // make a copy
                     .sort((a, b) => {
                         if (this.sort === 'name') {
                             return a.search[this.lang].localeCompare(b.search[this.lang])
@@ -1071,6 +1178,17 @@
                         if (aValue < bValue)
                             return -1;
                         return 0;
+                    })
+            },
+            searchItems() {
+                const search = normalize(this.search).split(',')
+                    .map(term => term.trim())
+                    .filter(term => term.length > 0);
+
+                return this.sortedItems
+                    .filter(i => {
+                        return (this.tagFilter === "" || i.tags.indexOf(this.tagFilter) !== -1) &&
+                            search.length === 0 || search.some(term => i.search[this.lang].includes(term));
                     })
             },
             langIcon() {

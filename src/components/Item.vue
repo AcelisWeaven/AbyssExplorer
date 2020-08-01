@@ -2,11 +2,13 @@
     <div class="item"
          :class="{
                     'is-active': isActive,
-                    'is-hover': isHovered,
+                    'is-hover': isHovered && !isPinned,
+                    'is-pinned': isPinned,
                 }"
     >
         <item-sprite :sprite="item.sprite" :public-path="publicPath"
-             @click.native="selectItem()"
+             @mousedown.native="preparePinning()"
+             @mouseup.native="handleRelease()"
              @mouseover.native="adjustHoverItem(item.slug, $event.target)"
              @mouseleave.native="isHovered = false"
         ></item-sprite>
@@ -31,6 +33,8 @@
             return {
                 isActive: false,
                 isHovered: false,
+                isPinned: false,
+                pinningTimeout: null,
                 tooltipStyle: {},
             }
         },
@@ -73,9 +77,24 @@
 
                 this.tooltipStyle = tooltipStyle;
             },
+            preparePinning() {
+                this.pinningTimeout = setTimeout(() => {
+                    this.isPinned = !this.isPinned;
+                    this.pinningTimeout = null;
+                }, 200)
+            },
+            handleRelease() {
+               // figure if we want to open a modal (short press) or pin an item (long press)
+               if (this.pinningTimeout !== null) {
+                   // modal
+                   this.selectItem();
+                   clearTimeout(this.pinningTimeout);
+                   this.pinningTimeout = null;
+               }
+            },
             selectItem() {
-                // only possible in compact mode
-                if (this.layout !== 'compact') return;
+                // only possible in compact mode, while not pinned
+                if (this.layout !== 'compact' || this.isPinned) return;
 
                 // avoids body scroll when modal is open
                 const body = document.querySelector('.body');
