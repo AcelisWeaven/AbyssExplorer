@@ -1137,15 +1137,31 @@
         watch: {
             lang() {
                 localStorage.setItem('lang', this.lang);
+                this.$gtag.event(this.lang, {
+                    'event_category': 'lang',
+                    'event_label': 'preferences',
+                })
             },
             layout() {
                 localStorage.setItem('layout', this.layout);
+                this.$gtag.event(this.layout, {
+                    'event_category': 'layout',
+                    'event_label': 'preferences',
+                })
             },
             sort() {
                 localStorage.setItem('sort', this.sort);
+                this.$gtag.event(this.sort, {
+                    'event_category': 'sort',
+                    'event_label': 'preferences',
+                })
             },
             useAdvancedSearch() {
                 localStorage.setItem('useAdvancedSearch', this.useAdvancedSearch);
+                this.$gtag.event(this.useAdvancedSearch ? 'true' : 'false', {
+                    'event_category': 'advancedSearch',
+                    'event_label': 'preferences',
+                })
 
                 // when disabled, reset options
                 this.tagFilter = "";
