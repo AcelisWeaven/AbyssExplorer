@@ -72,59 +72,7 @@
         </div>
         <p class="has-text-centered" v-if="layout === 'compact'">Click an item to show its description.</p>
         <section :class="'layout-'+layout">
-            <div class="item" v-for="(item, i) in searchItems" :key="i"
-                 :class="{
-                    'is-active': item.slug === selectedItem,
-                    'is-hover': item.slug === hoverItem,
-                }"
-            >
-                <div class="item-img"
-                     @click="selectItem(item.slug)"
-                     @mouseover="adjustHoverItem(item.slug, $event.target)"
-                     @mouseleave="hoverItem = null"
-                >
-                    <div class="img">
-                        <img
-                                :src="`${publicPath}spritesheet-${item.sprite.sheet}.png`"
-                                :style="{
-                                    'width': `${item.sprite.width}px`,
-                                    'height': `${item.sprite.height}px`,
-                                    'object-position': `-${item.sprite.x}px -${item.sprite.y}px`,
-                                }"
-                                :alt="item.name[lang]"
-                        >
-                    </div>
-                </div>
-                <div class="item-content" :style="hoverItem === item.slug ? tooltipStyle : {}">
-                    <div class="item-name">{{ item.name[lang] }}</div>
-                    <div class="item-desc">
-                        <span>{{ item.desc[lang] }}</span>
-                        <div class="bullets" v-if="item.category === 'weapon'">
-                            <div class="bullet" v-for="(bullet, j) in item.bulletTypes" :key="j">{{ bullet }}</div>
-                            <div class="bullet-speed" v-if="item.rpm !== 300">{{ rpmToText(item.rpm) }}</div>
-                        </div>
-                        <div class="variants"
-                             v-if="item.category === 'weapon' && item.variants.length > 0 && item.variants[0].secSkill !== null"
-                        >
-                            <p class="text text-strike" v-if="item.variants.length > 1">VARIANTS</p>
-                            <div v-for="(variant, j) in item.variants" :key="j" class="variant-wrapper">
-                                <div class="variant"
-                                     :class="{'no-effect': variant.desc[lang] === 'No effect'}"
-                                >
-                                    <p>{{ variant.desc[lang] }}</p>
-                                    <div class="costs">
-                                        <span v-for="(cost, k) in variant.secSkillCosts" :key="k" class="cost">
-                                            <span>{{ cost.count }}</span>
-                                            <img :src="`${publicPath}cost/${cost.type}.png`" :alt="cost.type">
-                                        </span>
-                                    </div>
-                                </div>
-                                <div class="text" v-if="j !== item.variants.length - 1">OR</div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
+            <item v-for="(item, i) in searchItems" :key="i" :item="item" :lang="lang" :public-path="publicPath" :layout="layout"></item>
             <div class="no-results" v-if="searchItems.length === 0">No results :(</div>
         </section>
         <footer>
@@ -887,6 +835,7 @@
 <script>
     import * as items from './items.json';
     import * as languages from './languages.json';
+    import Item from "./components/Item";
 
     let processedItems = items.default;
 
@@ -908,6 +857,9 @@
     }
 
     export default {
+        components: {
+            Item
+        },
         data() {
             return {
                 appDeferredPrompt: null,
@@ -1032,55 +984,6 @@
             }
         },
         methods: {
-            adjustHoverItem(id, elem) {
-                this.hoverItem = id;
-                const maxTooltipSize = {x: 200, y: 300}
-                const rect = elem.getBoundingClientRect();
-                const windowRect = {x: window.innerWidth, y: window.innerHeight}
-                const left = rect.x + rect.width / 2 - maxTooltipSize.x / 2
-                let tooltipStyle = {};
-                if (left < 0) {
-                    tooltipStyle.transform = `translateX(${-left}px)`
-                } else if (left + maxTooltipSize.x > windowRect.x) {
-                    tooltipStyle.transform = `translateX(${-(left + maxTooltipSize.x - windowRect.x)}px)`
-                }
-                const bottom = rect.y + rect.height + maxTooltipSize.y;
-                if (bottom > windowRect.y) {
-                    tooltipStyle.top = 'initial'
-                    tooltipStyle.bottom = 'calc(100% + 10px)'
-                }
-
-                this.tooltipStyle = tooltipStyle;
-            },
-            selectItem(id) {
-                // only possible in compact mode
-                if (this.layout !== 'compact') return;
-
-                const newSelectedItem = this.selectedItem === id ? null : id;
-
-                // avoids body scroll when modal is open
-                if (newSelectedItem !== null) {
-                    const scrollY = window.scrollY;
-                    this.$refs.body.style.position = 'fixed';
-                    this.$refs.body.style.top = `-${scrollY}px`;
-                } else {
-                    const scrollY = this.$refs.body.style.top;
-                    this.$refs.body.style.position = '';
-                    this.$refs.body.style.top = '';
-                    window.scrollTo(0, parseInt(scrollY || '0') * -1);
-                }
-
-                this.selectedItem = newSelectedItem;
-                this.hoverItem = null;
-            },
-            rpmToText(rpm) {
-                if (rpm < 200)
-                    return 'very slow'
-                else if (rpm < 300)
-                    return 'slow'
-                else
-                    return 'fast'
-            },
             switchLanguage(lang) {
                 this.lang = lang;
                 this.isMenuOpen = false;
