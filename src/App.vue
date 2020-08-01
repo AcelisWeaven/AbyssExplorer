@@ -368,7 +368,7 @@
             flex: 1;
 
             &.margin {
-                margin-bottom: 20px;
+                margin-bottom: 25px;
             }
         }
 
