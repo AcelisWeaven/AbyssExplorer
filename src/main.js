@@ -2,6 +2,7 @@ import Vue from 'vue'
 import VueGtag from 'vue-gtag'
 import App from './App.vue'
 import './registerServiceWorker'
+import './filters'
 
 Vue.config.productionTip = false
 const isDev = process.env.NODE_ENV !== 'production'
