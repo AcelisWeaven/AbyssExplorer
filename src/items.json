@@ -32,10 +32,9 @@
     "slug": "shadow",
     "sprite": {
       "height": 20,
-      "sheet": "30aff9f5",
       "width": 30,
-      "x": 126,
-      "y": 127
+      "x": 190,
+      "y": 135
     },
     "tags": [
       "weapon"
@@ -76,10 +75,9 @@
     "slug": "steel-pipe",
     "sprite": {
       "height": 19,
-      "sheet": "30aff9f5",
       "width": 29,
-      "x": 186,
-      "y": 154
+      "x": 93,
+      "y": 131
     },
     "tags": [
       "weapon"
@@ -120,7 +118,6 @@
     "slug": "red-scorpion",
     "sprite": {
       "height": 21,
-      "sheet": "30aff9f5",
       "width": 31,
       "x": 64,
       "y": 110
@@ -164,7 +161,6 @@
     "slug": "black-eagle",
     "sprite": {
       "height": 19,
-      "sheet": "30aff9f5",
       "width": 32,
       "x": 0,
       "y": 0
@@ -208,7 +204,6 @@
     "slug": "grizzly",
     "sprite": {
       "height": 20,
-      "sheet": "30aff9f5",
       "width": 32,
       "x": 32,
       "y": 0
@@ -252,7 +247,6 @@
     "slug": "melody",
     "sprite": {
       "height": 18,
-      "sheet": "30aff9f5",
       "width": 32,
       "x": 0,
       "y": 19
@@ -296,10 +290,9 @@
     "slug": "rhino",
     "sprite": {
       "height": 20,
-      "sheet": "30aff9f5",
       "width": 30,
-      "x": 222,
-      "y": 130
+      "x": 157,
+      "y": 142
     },
     "tags": [
       "weapon"
@@ -340,10 +333,9 @@
     "slug": "canary",
     "sprite": {
       "height": 19,
-      "sheet": "30aff9f5",
       "width": 30,
-      "x": 190,
-      "y": 135
+      "x": 187,
+      "y": 155
     },
     "tags": [
       "weapon"
@@ -384,7 +376,6 @@
     "slug": "orion",
     "sprite": {
       "height": 19,
-      "sheet": "30aff9f5",
       "width": 31,
       "x": 224,
       "y": 111
@@ -428,7 +419,6 @@
     "slug": "seagull",
     "sprite": {
       "height": 19,
-      "sheet": "30aff9f5",
       "width": 31,
       "x": 160,
       "y": 103
@@ -472,10 +462,9 @@
     "slug": "pink-flame",
     "sprite": {
       "height": 20,
-      "sheet": "30aff9f5",
       "width": 29,
-      "x": 215,
-      "y": 169
+      "x": 122,
+      "y": 148
     },
     "tags": [
       "weapon"
@@ -518,7 +507,6 @@
     "slug": "judgment",
     "sprite": {
       "height": 21,
-      "sheet": "30aff9f5",
       "width": 32,
       "x": 32,
       "y": 20
@@ -605,7 +593,6 @@
     "slug": "golden-ripple",
     "sprite": {
       "height": 23,
-      "sheet": "30aff9f5",
       "width": 32,
       "x": 0,
       "y": 41
@@ -670,7 +657,6 @@
     "slug": "jimmy",
     "sprite": {
       "height": 25,
-      "sheet": "30aff9f5",
       "width": 32,
       "x": 64,
       "y": 0
@@ -707,7 +693,7 @@
       "laser"
     ],
     "category": "weapon",
-    "colorOrder": 286,
+    "colorOrder": 287,
     "desc": {
       "de": "Es besteht eine gewisse Chance, dass du einen Laser abfeuerst.",
       "en-US": "There's a chance you might fire a laser.",
@@ -736,7 +722,6 @@
     "slug": "nebula",
     "sprite": {
       "height": 22,
-      "sheet": "30aff9f5",
       "width": 32,
       "x": 96,
       "y": 0
@@ -772,7 +757,7 @@
     "bulletTypes": [
     ],
     "category": "weapon",
-    "colorOrder": 293,
+    "colorOrder": 294,
     "desc": {
       "de": "Hauch der Welt Farbe ein!",
       "en-US": "Color the world!",
@@ -801,7 +786,6 @@
     "slug": "rainbow",
     "sprite": {
       "height": 21,
-      "sheet": "30aff9f5",
       "width": 32,
       "x": 96,
       "y": 22
@@ -883,7 +867,6 @@
     "slug": "destiny",
     "sprite": {
       "height": 21,
-      "sheet": "30aff9f5",
       "width": 32,
       "x": 32,
       "y": 43
@@ -920,7 +903,7 @@
       "laser"
     ],
     "category": "weapon",
-    "colorOrder": 358,
+    "colorOrder": 360,
     "desc": {
       "de": "Ein Tanz auf dem Schlachtfeld.",
       "en-US": "Dancing on the battlefield.",
@@ -949,7 +932,6 @@
     "slug": "wind-blade",
     "sprite": {
       "height": 23,
-      "sheet": "30aff9f5",
       "width": 32,
       "x": 64,
       "y": 25
@@ -986,7 +968,7 @@
       "laser"
     ],
     "category": "weapon",
-    "colorOrder": 321,
+    "colorOrder": 322,
     "desc": {
       "de": "Entfessle dein Potenzial!",
       "en-US": "Unleash your potential!",
@@ -1015,7 +997,6 @@
     "slug": "soul-bringer",
     "sprite": {
       "height": 24,
-      "sheet": "30aff9f5",
       "width": 32,
       "x": 96,
       "y": 43
@@ -1052,7 +1033,7 @@
       "notes"
     ],
     "category": "weapon",
-    "colorOrder": 357,
+    "colorOrder": 359,
     "desc": {
       "de": "POTZBLITZ!",
       "en-US": "ROCK AND ROLL!",
@@ -1081,7 +1062,6 @@
     "slug": "thunder",
     "sprite": {
       "height": 20,
-      "sheet": "30aff9f5",
       "width": 32,
       "x": 64,
       "y": 48
@@ -1140,7 +1120,7 @@
       "laser"
     ],
     "category": "weapon",
-    "colorOrder": 336,
+    "colorOrder": 338,
     "desc": {
       "de": "Ein Blick aus dem Abgrund ...",
       "en-US": "A gaze from the Abyss…",
@@ -1169,7 +1149,6 @@
     "slug": "death-ray",
     "sprite": {
       "height": 21,
-      "sheet": "30aff9f5",
       "width": 32,
       "x": 96,
       "y": 67
@@ -1256,7 +1235,6 @@
     "slug": "passenger",
     "sprite": {
       "height": 23,
-      "sheet": "30aff9f5",
       "width": 32,
       "x": 0,
       "y": 88
@@ -1322,7 +1300,6 @@
     "slug": "lullaby",
     "sprite": {
       "height": 24,
-      "sheet": "30aff9f5",
       "width": 32,
       "x": 0,
       "y": 64
@@ -1378,7 +1355,7 @@
       "track"
     ],
     "category": "weapon",
-    "colorOrder": 301,
+    "colorOrder": 302,
     "desc": {
       "de": "Die Geheimwaffe eines Zauberers.",
       "en-US": "A wizard's secret weapon.",
@@ -1407,7 +1384,6 @@
     "slug": "the-8th-color",
     "sprite": {
       "height": 21,
-      "sheet": "30aff9f5",
       "width": 31,
       "x": 32,
       "y": 128
@@ -1461,7 +1437,7 @@
       "curve"
     ],
     "category": "weapon",
-    "colorOrder": 292,
+    "colorOrder": 293,
     "desc": {
       "de": "Er hat einen Traum ...",
       "en-US": "It has a dream….",
@@ -1490,7 +1466,6 @@
     "slug": "triggerfish",
     "sprite": {
       "height": 24,
-      "sheet": "30aff9f5",
       "width": 32,
       "x": 32,
       "y": 64
@@ -1580,10 +1555,9 @@
     "slug": "plastic-gun",
     "sprite": {
       "height": 22,
-      "sheet": "30aff9f5",
       "width": 30,
-      "x": 156,
-      "y": 142
+      "x": 217,
+      "y": 158
     },
     "tags": [
       "weapon"
@@ -1689,7 +1663,6 @@
     "slug": "famine",
     "sprite": {
       "height": 21,
-      "sheet": "30aff9f5",
       "width": 32,
       "x": 64,
       "y": 68
@@ -1797,7 +1770,6 @@
     "slug": "noise",
     "sprite": {
       "height": 22,
-      "sheet": "30aff9f5",
       "width": 32,
       "x": 32,
       "y": 88
@@ -1889,7 +1861,6 @@
     "slug": "giant-beast",
     "sprite": {
       "height": 24,
-      "sheet": "30aff9f5",
       "width": 32,
       "x": 96,
       "y": 88
@@ -1922,7 +1893,7 @@
       "charge"
     ],
     "category": "weapon",
-    "colorOrder": 307,
+    "colorOrder": 308,
     "desc": {
       "de": "Erzittere vor Furcht! Lade auf und wirf eine Frostbombe.",
       "en-US": "Fear and Trembling! Charge and throw a frost bomb.",
@@ -1951,7 +1922,6 @@
     "slug": "frostfire",
     "sprite": {
       "height": 21,
-      "sheet": "30aff9f5",
       "width": 32,
       "x": 64,
       "y": 89
@@ -2012,7 +1982,6 @@
     "slug": "hawkeye",
     "sprite": {
       "height": 22,
-      "sheet": "30aff9f5",
       "width": 32,
       "x": 128,
       "y": 0
@@ -2046,39 +2015,38 @@
   },
   {
     "bulletTypes": [
-      "laser"
+      "curve"
     ],
     "category": "weapon",
-    "colorOrder": 7,
+    "colorOrder": 358,
     "desc": {
-      "de": "Das Flüstern in der Dunkelheit ...",
-      "en-US": "The whisper in the dark…",
-      "es": "El susurro en la oscuridad...",
-      "fr": "Un murmure dans les ténèbres...",
-      "it": "Un mormorio nel buio...",
-      "ja": "これは暗闇の中のささやき…",
-      "ru": "Шепот во тьме...",
-      "zh": "黑暗中的低语…",
-      "zh-CN": "黑暗中的低语…",
-      "zh-TW": "黑暗中的細語..."
+      "de": "Überbringe ewige Romantik.",
+      "en-US": "Delivering eternal romance.",
+      "es": "Entrega de amor eterno.",
+      "fr": "Offre l'amour éternel.",
+      "it": "Una consegna d'amore.",
+      "ja": "永遠のロマンスをお届け。",
+      "ru": "Доставляет вечную любовь.",
+      "zh": "传递永恒的浪漫。",
+      "zh-CN": "传递永恒的浪漫。",
+      "zh-TW": "傳遞永恆的浪漫。"
     },
     "name": {
-      "de": "SCHWARZER RABE",
-      "en-US": "BLACK RAVEN",
-      "es": "CUERVO NEGRO",
-      "fr": "CORBEAU NOIR",
-      "it": "CORVO NERO",
-      "ja": "ブラックレイヴン",
-      "ru": "ЧЕРНЫЙ ВОРОН",
-      "zh": "渡鸦",
-      "zh-CN": "渡鸦",
-      "zh-TW": "渡鴉"
+      "de": "BOTE",
+      "en-US": "MESSENGER",
+      "es": "MENSAJERO",
+      "fr": "MESSAGER",
+      "it": "MESSAGGERO",
+      "ja": "メッセンジャー",
+      "ru": "ПОСЛАННИК",
+      "zh": "信使",
+      "zh-CN": "信使",
+      "zh-TW": "信使"
     },
-    "rpm": 300,
-    "slug": "black-raven",
+    "rpm": 200,
+    "slug": "messenger",
     "sprite": {
       "height": 19,
-      "sheet": "30aff9f5",
       "width": 32,
       "x": 160,
       "y": 0
@@ -2089,26 +2057,43 @@
     "variants": [
       {
         "desc": {
-          "de": "[Aktiver Gegenstand] Sprenge dich selbst! Du verlierst ein halbes Herz und 1 Kristall.",
-          "en-US": "[Active Item] Detonate yourself! Cost half a heart and 1 crystal.",
-          "es": "[Objeto activo] ¡Autodestrúyete! Cuesta medio corazón y 1 cristal.",
-          "fr": "[Objet actif] Faites-vous exploser ! Coûte 1 demi-cœur et 1 cristal.",
-          "it": "[Oggetto attivo] Fatti esplodere! Costo: metà cuore e 1 cristallo.",
-          "ja": "[アクティブアイテム] 自分を爆発させる！ ハート半分とクリスタルを1消費。",
-          "ru": "[Активный предмет] Вы можете взорвать себя! Расходует половину сердца и один кристалл.",
-          "zh": "【主动技能】产生一次自爆。消耗半个红心和1水晶。",
-          "zh-CN": "【主动技能】产生一次自爆。消耗半个红心和1水晶。",
-          "zh-TW": "【主動道具】引爆自己！消耗半顆紅心和1個水晶。"
+          "de": "[Aktiver Gegenstand] Lasse einen Kristall fallen. Kostet 2 Kristalle.",
+          "en-US": "[Active Item] Drop a crystal. Cost 2 crystals.",
+          "es": "[Objeto activo] Suelta un cristal. Cuesta 2 cristales.",
+          "fr": "[Objet actif] Laisse un cristal. Coûte 2 cristaux.",
+          "it": "[Oggetto attivo] Rilascia un cristallo. Costo: 2 cristalli.",
+          "ja": "[アクティブアイテム] クリスタルを1つドロップする。クリスタルを2消費。",
+          "ru": "[Активный предмет] Выпадает кристалл. Расходует 2 кристалла.",
+          "zh": "【主动技能】放置一个水晶。消耗2水晶。",
+          "zh-CN": "【主动技能】放置一个水晶。消耗2水晶。",
+          "zh-TW": "【主動道具】掉出一個水晶。消耗2個水晶。"
         },
-        "secSkill": "2_power_self_explo",
+        "secSkill": "2_power_place_mana",
         "secSkillCosts": [
           {
-            "count": 1,
+            "count": 2,
             "type": "mana"
-          },
+          }
+        ]
+      },
+      {
+        "desc": {
+          "de": "[Aktiver Gegenstand] Werte deine Waffe auf, solange du in diesem Raum bist. Kostet 3 Kristalle.",
+          "en-US": "[Active Item] Upgrade your gun while you're in this room. Cost 3 crystals.",
+          "es": "[Objeto activo] Mejora tu arma mientras estás en esta sala. Cuesta 3 cristales.",
+          "fr": "[Objet actif] Améliore votre arme dans la salle actuelle. Coûte 3 cristaux.",
+          "it": "[Oggetto attivo] Potenzia l'arma fino a quando resti nella stanza. Costo: 3 cristalli.",
+          "ja": "[アクティブアイテム] 現在の部屋にいる間、銃をアップグレードする。クリスタルを3消費。",
+          "ru": "[Активный предмет] Улучшает ваше огнестрельное оружие, пока вы находитесь в текущей комнате. Расходует 3 кристалла.",
+          "zh": "【主动技能】提高你的武器等级（只在当前房间内有效）。消耗3水晶。",
+          "zh-CN": "【主动技能】提高你的武器等级（只在当前房间内有效）。消耗3水晶。",
+          "zh-TW": "【主動道具】趁你在該房間時升級槍。消耗3個水晶。"
+        },
+        "secSkill": "2_power_room_gunUP",
+        "secSkillCosts": [
           {
-            "count": 0.5,
-            "type": "heart"
+            "count": 3,
+            "type": "mana"
           }
         ]
       }
@@ -2149,7 +2134,6 @@
     "slug": "red-dragon",
     "sprite": {
       "height": 24,
-      "sheet": "30aff9f5",
       "width": 32,
       "x": 192,
       "y": 0
@@ -2211,7 +2195,6 @@
     "slug": "sentinel",
     "sprite": {
       "height": 21,
-      "sheet": "30aff9f5",
       "width": 32,
       "x": 160,
       "y": 19
@@ -2293,7 +2276,6 @@
     "slug": "swallow",
     "sprite": {
       "height": 22,
-      "sheet": "30aff9f5",
       "width": 32,
       "x": 224,
       "y": 0
@@ -2351,7 +2333,7 @@
       "laser"
     ],
     "category": "weapon",
-    "colorOrder": 297,
+    "colorOrder": 298,
     "desc": {
       "de": "Für die Ehre, für Atlantis!",
       "en-US": "For Honor, for Atlantis!",
@@ -2380,7 +2362,6 @@
     "slug": "vortex",
     "sprite": {
       "height": 22,
-      "sheet": "30aff9f5",
       "width": 32,
       "x": 128,
       "y": 22
@@ -2445,7 +2426,6 @@
     "slug": "firekiss",
     "sprite": {
       "height": 22,
-      "sheet": "30aff9f5",
       "width": 32,
       "x": 224,
       "y": 22
@@ -2507,7 +2487,6 @@
     "slug": "keygun",
     "sprite": {
       "height": 18,
-      "sheet": "30aff9f5",
       "width": 32,
       "x": 32,
       "y": 110
@@ -2569,10 +2548,9 @@
     "slug": "silver-moon",
     "sprite": {
       "height": 19,
-      "sheet": "30aff9f5",
       "width": 30,
-      "x": 220,
-      "y": 150
+      "x": 63,
+      "y": 131
     },
     "tags": [
       "weapon"
@@ -2623,7 +2601,7 @@
       "laser"
     ],
     "category": "weapon",
-    "colorOrder": 359,
+    "colorOrder": 361,
     "desc": {
       "de": "Entfessle dein Potenzial!",
       "en-US": "Unleash your potential.",
@@ -2652,7 +2630,6 @@
     "slug": "light-dancer",
     "sprite": {
       "height": 23,
-      "sheet": "30aff9f5",
       "width": 32,
       "x": 192,
       "y": 24
@@ -2706,7 +2683,7 @@
       "curve"
     ],
     "category": "weapon",
-    "colorOrder": 361,
+    "colorOrder": 363,
     "desc": {
       "de": "Tränen des Himmels.",
       "en-US": "Tears from heaven.",
@@ -2735,7 +2712,6 @@
     "slug": "meteor",
     "sprite": {
       "height": 25,
-      "sheet": "30aff9f5",
       "width": 32,
       "x": 224,
       "y": 44
@@ -2813,7 +2789,6 @@
     "slug": "wild-wolf",
     "sprite": {
       "height": 20,
-      "sheet": "30aff9f5",
       "width": 32,
       "x": 160,
       "y": 40
@@ -2874,7 +2849,6 @@
     "slug": "golden-sam",
     "sprite": {
       "height": 22,
-      "sheet": "30aff9f5",
       "width": 32,
       "x": 128,
       "y": 44
@@ -2911,7 +2885,7 @@
       "curve"
     ],
     "category": "weapon",
-    "colorOrder": 315,
+    "colorOrder": 316,
     "desc": {
       "de": "Gute Nacht, schlaf gut.",
       "en-US": "Good night, sleep tight.",
@@ -2940,7 +2914,6 @@
     "slug": "guardian",
     "sprite": {
       "height": 24,
-      "sheet": "30aff9f5",
       "width": 32,
       "x": 192,
       "y": 47
@@ -3002,7 +2975,6 @@
     "slug": "destroyer",
     "sprite": {
       "height": 21,
-      "sheet": "30aff9f5",
       "width": 32,
       "x": 224,
       "y": 69
@@ -3035,7 +3007,7 @@
       "laser"
     ],
     "category": "weapon",
-    "colorOrder": 355,
+    "colorOrder": 357,
     "desc": {
       "de": "Bezaubernd und gefährlich.",
       "en-US": "Charming and dangerous.",
@@ -3064,7 +3036,6 @@
     "slug": "white-fox",
     "sprite": {
       "height": 22,
-      "sheet": "30aff9f5",
       "width": 32,
       "x": 160,
       "y": 60
@@ -3098,39 +3069,38 @@
   },
   {
     "bulletTypes": [
-      "curve"
+      "laser"
     ],
     "category": "weapon",
-    "colorOrder": 356,
+    "colorOrder": 7,
     "desc": {
-      "de": "Überbringe ewige Romantik.",
-      "en-US": "Delivering eternal romance.",
-      "es": "Entrega de amor eterno.",
-      "fr": "Offre l'amour éternel.",
-      "it": "Una consegna d'amore.",
-      "ja": "永遠のロマンスをお届け。",
-      "ru": "Доставляет вечную любовь.",
-      "zh": "传递永恒的浪漫。",
-      "zh-CN": "传递永恒的浪漫。",
-      "zh-TW": "傳遞永恆的浪漫。"
+      "de": "Das Flüstern in der Dunkelheit ...",
+      "en-US": "The whisper in the dark…",
+      "es": "El susurro en la oscuridad...",
+      "fr": "Un murmure dans les ténèbres...",
+      "it": "Un mormorio nel buio...",
+      "ja": "これは暗闇の中のささやき…",
+      "ru": "Шепот во тьме...",
+      "zh": "黑暗中的低语…",
+      "zh-CN": "黑暗中的低语…",
+      "zh-TW": "黑暗中的細語..."
     },
     "name": {
-      "de": "BOTE",
-      "en-US": "MESSENGER",
-      "es": "MENSAJERO",
-      "fr": "MESSAGER",
-      "it": "MESSAGGERO",
-      "ja": "メッセンジャー",
-      "ru": "ПОСЛАННИК",
-      "zh": "信使",
-      "zh-CN": "信使",
-      "zh-TW": "信使"
+      "de": "SCHWARZER RABE",
+      "en-US": "BLACK RAVEN",
+      "es": "CUERVO NEGRO",
+      "fr": "CORBEAU NOIR",
+      "it": "CORVO NERO",
+      "ja": "ブラックレイヴン",
+      "ru": "ЧЕРНЫЙ ВОРОН",
+      "zh": "渡鸦",
+      "zh-CN": "渡鸦",
+      "zh-TW": "渡鴉"
     },
-    "rpm": 200,
-    "slug": "messenger",
+    "rpm": 300,
+    "slug": "black-raven",
     "sprite": {
       "height": 20,
-      "sheet": "30aff9f5",
       "width": 32,
       "x": 128,
       "y": 66
@@ -3141,43 +3111,26 @@
     "variants": [
       {
         "desc": {
-          "de": "[Aktiver Gegenstand] Lasse einen Kristall fallen. Kostet 2 Kristalle.",
-          "en-US": "[Active Item] Drop a crystal. Cost 2 crystals.",
-          "es": "[Objeto activo] Suelta un cristal. Cuesta 2 cristales.",
-          "fr": "[Objet actif] Laisse un cristal. Coûte 2 cristaux.",
-          "it": "[Oggetto attivo] Rilascia un cristallo. Costo: 2 cristalli.",
-          "ja": "[アクティブアイテム] クリスタルを1つドロップする。クリスタルを2消費。",
-          "ru": "[Активный предмет] Выпадает кристалл. Расходует 2 кристалла.",
-          "zh": "【主动技能】放置一个水晶。消耗2水晶。",
-          "zh-CN": "【主动技能】放置一个水晶。消耗2水晶。",
-          "zh-TW": "【主動道具】掉出一個水晶。消耗2個水晶。"
+          "de": "[Aktiver Gegenstand] Sprenge dich selbst! Du verlierst ein halbes Herz und 1 Kristall.",
+          "en-US": "[Active Item] Detonate yourself! Cost half a heart and 1 crystal.",
+          "es": "[Objeto activo] ¡Autodestrúyete! Cuesta medio corazón y 1 cristal.",
+          "fr": "[Objet actif] Faites-vous exploser ! Coûte 1 demi-cœur et 1 cristal.",
+          "it": "[Oggetto attivo] Fatti esplodere! Costo: metà cuore e 1 cristallo.",
+          "ja": "[アクティブアイテム] 自分を爆発させる！ ハート半分とクリスタルを1消費。",
+          "ru": "[Активный предмет] Вы можете взорвать себя! Расходует половину сердца и один кристалл.",
+          "zh": "【主动技能】产生一次自爆。消耗半个红心和1水晶。",
+          "zh-CN": "【主动技能】产生一次自爆。消耗半个红心和1水晶。",
+          "zh-TW": "【主動道具】引爆自己！消耗半顆紅心和1個水晶。"
         },
-        "secSkill": "2_power_place_mana",
+        "secSkill": "2_power_self_explo",
         "secSkillCosts": [
           {
-            "count": 2,
+            "count": 1,
             "type": "mana"
-          }
-        ]
-      },
-      {
-        "desc": {
-          "de": "[Aktiver Gegenstand] Werte deine Waffe auf, solange du in diesem Raum bist. Kostet 3 Kristalle.",
-          "en-US": "[Active Item] Upgrade your gun while you're in this room. Cost 3 crystals.",
-          "es": "[Objeto activo] Mejora tu arma mientras estás en esta sala. Cuesta 3 cristales.",
-          "fr": "[Objet actif] Améliore votre arme dans la salle actuelle. Coûte 3 cristaux.",
-          "it": "[Oggetto attivo] Potenzia l'arma fino a quando resti nella stanza. Costo: 3 cristalli.",
-          "ja": "[アクティブアイテム] 現在の部屋にいる間、銃をアップグレードする。クリスタルを3消費。",
-          "ru": "[Активный предмет] Улучшает ваше огнестрельное оружие, пока вы находитесь в текущей комнате. Расходует 3 кристалла.",
-          "zh": "【主动技能】提高你的武器等级（只在当前房间内有效）。消耗3水晶。",
-          "zh-CN": "【主动技能】提高你的武器等级（只在当前房间内有效）。消耗3水晶。",
-          "zh-TW": "【主動道具】趁你在該房間時升級槍。消耗3個水晶。"
-        },
-        "secSkill": "2_power_room_gunUP",
-        "secSkillCosts": [
+          },
           {
-            "count": 3,
-            "type": "mana"
+            "count": 0.5,
+            "type": "heart"
           }
         ]
       }
@@ -3187,7 +3140,7 @@
     "bulletTypes": [
     ],
     "category": "weapon",
-    "colorOrder": 277,
+    "colorOrder": 278,
     "desc": {
       "de": "Es ist so leicht, als würde es gar nicht existieren.",
       "en-US": "It's so light, it's as if it doesn't exist.",
@@ -3216,7 +3169,6 @@
     "slug": "airgun",
     "sprite": {
       "height": 22,
-      "sheet": "30aff9f5",
       "width": 32,
       "x": 192,
       "y": 71
@@ -3277,7 +3229,6 @@
     "slug": "phantom",
     "sprite": {
       "height": 21,
-      "sheet": "30aff9f5",
       "width": 31,
       "x": 128,
       "y": 106
@@ -3310,7 +3261,7 @@
       "charge"
     ],
     "category": "weapon",
-    "colorOrder": 272,
+    "colorOrder": 273,
     "desc": {
       "de": "Geduld ist auch eine Waffe.",
       "en-US": "Patience is also a weapon.",
@@ -3339,7 +3290,6 @@
     "slug": "forge",
     "sprite": {
       "height": 19,
-      "sheet": "30aff9f5",
       "width": 31,
       "x": 0,
       "y": 137
@@ -3401,7 +3351,6 @@
     "slug": "song-of-joy",
     "sprite": {
       "height": 23,
-      "sheet": "30aff9f5",
       "width": 31,
       "x": 191,
       "y": 112
@@ -3480,7 +3429,7 @@
       "curve"
     ],
     "category": "weapon",
-    "colorOrder": 298,
+    "colorOrder": 299,
     "desc": {
       "de": "Quanten-Verflechtungstechnik.",
       "en-US": "Quantum entanglement technique.",
@@ -3509,7 +3458,6 @@
     "slug": "twins",
     "sprite": {
       "height": 20,
-      "sheet": "30aff9f5",
       "width": 31,
       "x": 159,
       "y": 122
@@ -3546,7 +3494,7 @@
       "laser"
     ],
     "category": "weapon",
-    "colorOrder": 302,
+    "colorOrder": 303,
     "desc": {
       "de": "Überbringe ewige Romantik.",
       "en-US": "Listen to the call of your heart.",
@@ -3575,7 +3523,6 @@
     "slug": "rebel",
     "sprite": {
       "height": 21,
-      "sheet": "30aff9f5",
       "width": 32,
       "x": 224,
       "y": 90
@@ -3613,7 +3560,7 @@
       "laser"
     ],
     "category": "weapon",
-    "colorOrder": 308,
+    "colorOrder": 309,
     "desc": {
       "de": "Es kristallisiert sich die Technologie der Zukunft heraus.",
       "en-US": "The crystallization of future technology",
@@ -3642,7 +3589,6 @@
     "slug": "star-burst",
     "sprite": {
       "height": 21,
-      "sheet": "30aff9f5",
       "width": 32,
       "x": 160,
       "y": 82
@@ -3704,7 +3650,6 @@
     "slug": "black-widow",
     "sprite": {
       "height": 20,
-      "sheet": "30aff9f5",
       "width": 32,
       "x": 128,
       "y": 86
@@ -3737,7 +3682,7 @@
       "charge"
     ],
     "category": "weapon",
-    "colorOrder": 309,
+    "colorOrder": 310,
     "desc": {
       "de": "Gedulde dich, junger Grashüpfer ... Lade diese Waffe vor dem Feuern auf, um einen Schuss abzugeben, für den sich das Warten lohnt.",
       "en-US": "Patience, young grasshopper... Charge this before firing for a shot worth waiting for.",
@@ -3766,7 +3711,6 @@
     "slug": "the-blaster",
     "sprite": {
       "height": 19,
-      "sheet": "30aff9f5",
       "width": 31,
       "x": 95,
       "y": 112
@@ -3829,7 +3773,6 @@
     "slug": "summer",
     "sprite": {
       "height": 19,
-      "sheet": "30aff9f5",
       "width": 32,
       "x": 192,
       "y": 93
@@ -3894,7 +3837,6 @@
     "slug": "terry",
     "sprite": {
       "height": 26,
-      "sheet": "30aff9f5",
       "width": 32,
       "x": 0,
       "y": 111
@@ -3956,10 +3898,9 @@
     "slug": "forbidden-mask",
     "sprite": {
       "height": 22,
-      "sheet": "30aff9f5",
       "width": 21,
-      "x": 340,
-      "y": 145
+      "x": 256,
+      "y": 450
     },
     "tags": [
       "item",
@@ -3968,7 +3909,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 303,
+    "colorOrder": 304,
     "desc": {
       "de": "Verliere Herzbehälter und erhalte Schilde. Erhöhe außerdem deinen Waffenschaden.",
       "en-US": "Reduce your heart containers and add shields. Also increase your weapon's damage.",
@@ -3996,10 +3937,9 @@
     "slug": "cyborg",
     "sprite": {
       "height": 25,
-      "sheet": "30aff9f5",
       "width": 23,
-      "x": 252,
-      "y": 130
+      "x": 178,
+      "y": 251
     },
     "tags": [
       "item",
@@ -4008,7 +3948,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 294,
+    "colorOrder": 295,
     "desc": {
       "de": "Erhöhe deinen Waffenschaden und deine Bewegungsgeschwindigkeit. Vergiss Schafe, träum einfach weiter von Einhörnern ...",
       "en-US": "Increase your weapon damage and movement speed. Forget sheep, you keep dreaming of unicorns... ",
@@ -4036,10 +3976,9 @@
     "slug": "nerve-system-6.0",
     "sprite": {
       "height": 20,
-      "sheet": "30aff9f5",
       "width": 24,
-      "x": 0,
-      "y": 236
+      "x": 221,
+      "y": 338
     },
     "tags": [
       "item",
@@ -4048,7 +3987,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 310,
+    "colorOrder": 311,
     "desc": {
       "de": "Die Kraft der Liebe! Erhalte Schilde und erhöhe deinen Waffenschaden.",
       "en-US": "The power of love! Add shields. Increase your weapon's damage.",
@@ -4076,10 +4015,9 @@
     "slug": "heart-of-the-ocean",
     "sprite": {
       "height": 23,
-      "sheet": "30aff9f5",
       "width": 23,
-      "x": 320,
-      "y": 167
+      "x": 141,
+      "y": 443
     },
     "tags": [
       "item",
@@ -4088,7 +4026,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 304,
+    "colorOrder": 305,
     "desc": {
       "de": "Stilvoller Augenschutz mit Zusatznutzen. Erhalte Schilde und erhöhe deine Feuerrate.",
       "en-US": "Stylish eye protection, with added benefits. Add shields and increase your rate of fire.",
@@ -4116,10 +4054,9 @@
     "slug": "future-tech",
     "sprite": {
       "height": 26,
-      "sheet": "30aff9f5",
       "width": 27,
-      "x": 144,
-      "y": 192
+      "x": 361,
+      "y": 188
     },
     "tags": [
       "item",
@@ -4128,7 +4065,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 344,
+    "colorOrder": 346,
     "desc": {
       "de": "Du hast dich noch nie stärker gefühlt – oder attraktiver. Erhalte Schilde. Einige Angriffe fügen dir keinen Schaden zu.",
       "en-US": "You've never felt stronger. Or better-looking. Add shields. Some attacks will deal no damage to you.",
@@ -4156,10 +4093,9 @@
     "slug": "sturdy-shield",
     "sprite": {
       "height": 24,
-      "sheet": "30aff9f5",
       "width": 24,
-      "x": 275,
-      "y": 123
+      "x": 295,
+      "y": 339
     },
     "tags": [
       "item",
@@ -4168,7 +4104,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 323,
+    "colorOrder": 324,
     "desc": {
       "de": "Jedes Mal, wenn du den Portalstein aktivierst, besteht die Chance, dass du einen Schild erhältst.",
       "en-US": "Each time you activate the Portal Stone, there's a chance of getting a shield.",
@@ -4196,10 +4132,9 @@
     "slug": "energy-cube",
     "sprite": {
       "height": 25,
-      "sheet": "30aff9f5",
       "width": 23,
-      "x": 250,
-      "y": 195
+      "x": 201,
+      "y": 256
     },
     "tags": [
       "item",
@@ -4208,7 +4143,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 326,
+    "colorOrder": 327,
     "desc": {
       "de": "Du kämpfst für die Menschheit! Nach jedem Kampf kannst du zusätzliche Schilde erhalten.",
       "en-US": "You fight for humanity! After each battle, you might receive extra shields.",
@@ -4236,10 +4171,9 @@
     "slug": "last-hope",
     "sprite": {
       "height": 28,
-      "sheet": "30aff9f5",
       "width": 25,
-      "x": 121,
-      "y": 147
+      "x": 217,
+      "y": 209
     },
     "tags": [
       "item",
@@ -4248,7 +4182,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 332,
+    "colorOrder": 333,
     "desc": {
       "de": "Erhöhe den Waffenschaden und erhalte Schilde. Eine unfassbare Kraftquelle. Nur hast du keine Ahnung, wie sie funktioniert. Irgendwas mit Teilchen?",
       "en-US": "Increase your gun's damage and add shields. An incredible source of power. You've no idea how it works. Strings, maybe?",
@@ -4276,10 +4210,9 @@
     "slug": "quantum-core",
     "sprite": {
       "height": 25,
-      "sheet": "30aff9f5",
       "width": 24,
-      "x": 250,
-      "y": 220
+      "x": 224,
+      "y": 263
     },
     "tags": [
       "item",
@@ -4316,10 +4249,9 @@
     "slug": "monk-hat",
     "sprite": {
       "height": 24,
-      "sheet": "30aff9f5",
       "width": 26,
-      "x": 120,
-      "y": 224
+      "x": 444,
+      "y": 212
     },
     "tags": [
       "item",
@@ -4356,10 +4288,9 @@
     "slug": "shroud",
     "sprite": {
       "height": 25,
-      "sheet": "30aff9f5",
       "width": 23,
-      "x": 269,
-      "y": 155
+      "x": 157,
+      "y": 276
     },
     "tags": [
       "item",
@@ -4396,10 +4327,9 @@
     "slug": "bent-spoon",
     "sprite": {
       "height": 27,
-      "sheet": "30aff9f5",
       "width": 19,
-      "x": 29,
-      "y": 178
+      "x": 361,
+      "y": 214
     },
     "tags": [
       "item",
@@ -4436,10 +4366,9 @@
     "slug": "persian-turban",
     "sprite": {
       "height": 28,
-      "sheet": "30aff9f5",
       "width": 24,
-      "x": 92,
-      "y": 150
+      "x": 242,
+      "y": 209
     },
     "tags": [
       "item",
@@ -4476,10 +4405,9 @@
     "slug": "ritual-mask",
     "sprite": {
       "height": 28,
-      "sheet": "30aff9f5",
       "width": 25,
-      "x": 146,
-      "y": 164
+      "x": 253,
+      "y": 130
     },
     "tags": [
       "item",
@@ -4488,7 +4416,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 333,
+    "colorOrder": 334,
     "desc": {
       "de": "Eine ausgefallene Kristallmaske. Sie fungiert als Kristallbehälter und gibt dir einen Schild – weil niemand sie angreifen möchte.",
       "en-US": "An extravagant crystal mask. It can be used as a crystal container and adds a shield - because no one wants to hit it.",
@@ -4516,10 +4444,9 @@
     "slug": "unknown-mask",
     "sprite": {
       "height": 24,
-      "sheet": "30aff9f5",
       "width": 22,
-      "x": 279,
-      "y": 98
+      "x": 268,
+      "y": 353
     },
     "tags": [
       "item",
@@ -4556,10 +4483,9 @@
     "slug": "melting-calendar",
     "sprite": {
       "height": 27,
-      "sheet": "30aff9f5",
       "width": 22,
-      "x": 48,
-      "y": 191
+      "x": 380,
+      "y": 214
     },
     "tags": [
       "item",
@@ -4596,10 +4522,9 @@
     "slug": "mutated-orange",
     "sprite": {
       "height": 25,
-      "sheet": "30aff9f5",
       "width": 24,
-      "x": 273,
-      "y": 180
+      "x": 131,
+      "y": 277
     },
     "tags": [
       "item",
@@ -4636,10 +4561,9 @@
     "slug": "royal-antlers",
     "sprite": {
       "height": 22,
-      "sheet": "30aff9f5",
       "width": 28,
-      "x": 116,
-      "y": 175
+      "x": 247,
+      "y": 158
     },
     "tags": [
       "item",
@@ -4676,10 +4600,9 @@
     "slug": "elf-bread",
     "sprite": {
       "height": 24,
-      "sheet": "30aff9f5",
       "width": 21,
-      "x": 281,
-      "y": 74
+      "x": 245,
+      "y": 356
     },
     "tags": [
       "item",
@@ -4688,7 +4611,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 316,
+    "colorOrder": 317,
     "desc": {
       "de": "Diese coolen Sneakers erhöhen deine Bewegungsgeschwindigkeit. Gib Fersengeld!",
       "en-US": "The sweet sneakers will increase your movement speed. Gotta go fast.",
@@ -4716,10 +4639,9 @@
     "slug": "running-shoes",
     "sprite": {
       "height": 17,
-      "sheet": "30aff9f5",
       "width": 29,
-      "x": 63,
-      "y": 131
+      "x": 151,
+      "y": 162
     },
     "tags": [
       "item",
@@ -4756,10 +4678,9 @@
     "slug": "motorcycle-helmet",
     "sprite": {
       "height": 27,
-      "sheet": "30aff9f5",
       "width": 24,
-      "x": 0,
-      "y": 182
+      "x": 344,
+      "y": 28
     },
     "tags": [
       "item",
@@ -4796,10 +4717,9 @@
     "slug": "broccoli",
     "sprite": {
       "height": 24,
-      "sheet": "30aff9f5",
       "width": 28,
-      "x": 48,
-      "y": 167
+      "x": 255,
+      "y": 180
     },
     "tags": [
       "item",
@@ -4836,10 +4756,9 @@
     "slug": "pepper-soup",
     "sprite": {
       "height": 24,
-      "sheet": "30aff9f5",
       "width": 26,
-      "x": 146,
-      "y": 218
+      "x": 446,
+      "y": 158
     },
     "tags": [
       "item",
@@ -4848,7 +4767,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 265,
+    "colorOrder": 266,
     "desc": {
       "de": "Atomisierte Cola, DER Drink des Weltraumzeitalters! Erhalte einen Herzbehälter und erhöhe deinen Waffenschaden leicht.",
       "en-US": "Atomized Cola, drink of the space age! Add a heart container and increase your weapon damage slightly.",
@@ -4876,10 +4795,9 @@
     "slug": "space-soda",
     "sprite": {
       "height": 28,
-      "sheet": "30aff9f5",
       "width": 21,
-      "x": 76,
-      "y": 178
+      "x": 266,
+      "y": 204
     },
     "tags": [
       "item",
@@ -4916,10 +4834,9 @@
     "slug": "giant-barbecue",
     "sprite": {
       "height": 25,
-      "sheet": "30aff9f5",
       "width": 25,
-      "x": 274,
-      "y": 205
+      "x": 104,
+      "y": 282
     },
     "tags": [
       "item",
@@ -4956,10 +4873,9 @@
     "slug": "fruit-popsicle",
     "sprite": {
       "height": 26,
-      "sheet": "30aff9f5",
       "width": 18,
-      "x": 97,
-      "y": 178
+      "x": 428,
+      "y": 75
     },
     "tags": [
       "item",
@@ -4996,10 +4912,9 @@
     "slug": "sashimi-sushi",
     "sprite": {
       "height": 18,
-      "sheet": "30aff9f5",
       "width": 27,
-      "x": 0,
-      "y": 218
+      "x": 28,
+      "y": 238
     },
     "tags": [
       "item",
@@ -5036,10 +4951,9 @@
     "slug": "creambeer",
     "sprite": {
       "height": 26,
-      "sheet": "30aff9f5",
       "width": 20,
-      "x": 199,
-      "y": 189
+      "x": 461,
+      "y": 182
     },
     "tags": [
       "item",
@@ -5076,10 +4990,9 @@
     "slug": "brave-cookies",
     "sprite": {
       "height": 24,
-      "sheet": "30aff9f5",
       "width": 24,
-      "x": 292,
-      "y": 147
+      "x": 370,
+      "y": 317
     },
     "tags": [
       "item",
@@ -5116,10 +5029,9 @@
     "slug": "canned-cat-food",
     "sprite": {
       "height": 25,
-      "sheet": "30aff9f5",
       "width": 24,
-      "x": 274,
-      "y": 230
+      "x": 75,
+      "y": 306
     },
     "tags": [
       "item",
@@ -5156,10 +5068,9 @@
     "slug": "tobe-beef",
     "sprite": {
       "height": 26,
-      "sheet": "30aff9f5",
       "width": 26,
-      "x": 172,
-      "y": 193
+      "x": 444,
+      "y": 101
     },
     "tags": [
       "item",
@@ -5168,7 +5079,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 273,
+    "colorOrder": 274,
     "desc": {
       "de": "Aus der Flasche ist ein Flüstern zu hören ... Erhalte einen Herzbehälter und stelle ein paar Herzen wieder her.",
       "en-US": "You hear whispers within the bottle... Add a heart container and recover some hearts.",
@@ -5196,10 +5107,9 @@
     "slug": "soul-flask",
     "sprite": {
       "height": 26,
-      "sheet": "30aff9f5",
       "width": 26,
-      "x": 219,
-      "y": 189
+      "x": 481,
+      "y": 0
     },
     "tags": [
       "item",
@@ -5236,10 +5146,9 @@
     "slug": "earth-bread",
     "sprite": {
       "height": 27,
-      "sheet": "30aff9f5",
       "width": 23,
-      "x": 27,
-      "y": 218
+      "x": 353,
+      "y": 0
     },
     "tags": [
       "item",
@@ -5276,10 +5185,9 @@
     "slug": "tanghulu",
     "sprite": {
       "height": 27,
-      "sheet": "30aff9f5",
       "width": 20,
-      "x": 50,
-      "y": 218
+      "x": 344,
+      "y": 55
     },
     "tags": [
       "item",
@@ -5316,10 +5224,9 @@
     "slug": "bodyguard-glasses",
     "sprite": {
       "height": 19,
-      "sheet": "30aff9f5",
       "width": 29,
-      "x": 92,
-      "y": 131
+      "x": 180,
+      "y": 174
     },
     "tags": [
       "item",
@@ -5328,7 +5235,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 345,
+    "colorOrder": 347,
     "desc": {
       "de": "Es steckt voller Kraft und Leidenschaft, ist aber schwer zu kontrollieren. Verringere deine Feuerrate, aber erhöhe deinen Waffenschaden enorm.",
       "en-US": "It's raw power and passion, but hard to control. Reduce your rate of fire but greatly increase your weapon damage.",
@@ -5356,10 +5263,9 @@
     "slug": "beast-amulet",
     "sprite": {
       "height": 24,
-      "sheet": "30aff9f5",
       "width": 27,
-      "x": 70,
-      "y": 218
+      "x": 347,
+      "y": 82
     },
     "tags": [
       "item",
@@ -5396,10 +5302,9 @@
     "slug": "devil-horn",
     "sprite": {
       "height": 22,
-      "sheet": "30aff9f5",
       "width": 25,
-      "x": 298,
-      "y": 230
+      "x": 322,
+      "y": 82
     },
     "tags": [
       "item",
@@ -5436,10 +5341,9 @@
     "slug": "stark-module",
     "sprite": {
       "height": 19,
-      "sheet": "30aff9f5",
       "width": 29,
-      "x": 63,
-      "y": 148
+      "x": 209,
+      "y": 180
     },
     "tags": [
       "item",
@@ -5476,10 +5380,9 @@
     "slug": "medal-of-honor",
     "sprite": {
       "height": 27,
-      "sheet": "30aff9f5",
       "width": 23,
-      "x": 97,
-      "y": 218
+      "x": 364,
+      "y": 55
     },
     "tags": [
       "item",
@@ -5516,10 +5419,9 @@
     "slug": "void-coin",
     "sprite": {
       "height": 24,
-      "sheet": "30aff9f5",
       "width": 24,
-      "x": 299,
-      "y": 122
+      "x": 394,
+      "y": 332
     },
     "tags": [
       "item",
@@ -5556,10 +5458,9 @@
     "slug": "pain-drop",
     "sprite": {
       "height": 24,
-      "sheet": "30aff9f5",
       "width": 19,
-      "x": 301,
-      "y": 98
+      "x": 25,
+      "y": 374
     },
     "tags": [
       "item",
@@ -5596,10 +5497,9 @@
     "slug": "hip-flask",
     "sprite": {
       "height": 23,
-      "sheet": "30aff9f5",
       "width": 20,
-      "x": 322,
-      "y": 190
+      "x": 144,
+      "y": 466
     },
     "tags": [
       "item",
@@ -5636,10 +5536,9 @@
     "slug": "garand-clip",
     "sprite": {
       "height": 27,
-      "sheet": "30aff9f5",
       "width": 23,
-      "x": 120,
-      "y": 197
+      "x": 368,
+      "y": 27
     },
     "tags": [
       "item",
@@ -5648,7 +5547,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 328,
+    "colorOrder": 329,
     "desc": {
       "de": "Sie haben das Recht, zu schweigen ... wenn sie erst tot sind. Feuere mehr Geschosse pro Schuss ab und erhöhe deine Geschossgeschwindigkeit.",
       "en-US": "They have the right to remain silent... after they're dead. Add extra bullets per shot and increase your bullet velocity.",
@@ -5676,10 +5575,9 @@
     "slug": "police-badge",
     "sprite": {
       "height": 25,
-      "sheet": "30aff9f5",
       "width": 23,
-      "x": 256,
-      "y": 0
+      "x": 50,
+      "y": 323
     },
     "tags": [
       "item",
@@ -5716,10 +5614,9 @@
     "slug": "go-board",
     "sprite": {
       "height": 23,
-      "sheet": "30aff9f5",
       "width": 23,
-      "x": 323,
-      "y": 213
+      "x": 144,
+      "y": 489
     },
     "tags": [
       "item",
@@ -5728,7 +5625,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 364,
+    "colorOrder": 366,
     "desc": {
       "de": "Ziehen ... Langsam ausatmen ... Und loslassen! ZACK! Feuere mehr Geschosse pro Schuss ab und erhöhe die Reichweite deiner Waffe.",
       "en-US": "Pull back... Exhale slowly... Let go! TWANG! Add extra bullets per shot and increase your weapon's range.\n",
@@ -5756,10 +5653,9 @@
     "slug": "slingshot",
     "sprite": {
       "height": 24,
-      "sheet": "30aff9f5",
       "width": 24,
-      "x": 302,
-      "y": 74
+      "x": 418,
+      "y": 352
     },
     "tags": [
       "item",
@@ -5796,10 +5692,9 @@
     "slug": "film-magazine",
     "sprite": {
       "height": 26,
-      "sheet": "30aff9f5",
       "width": 26,
-      "x": 172,
-      "y": 219
+      "x": 448,
+      "y": 127
     },
     "tags": [
       "item",
@@ -5836,10 +5731,9 @@
     "slug": "strange-mask",
     "sprite": {
       "height": 25,
-      "sheet": "30aff9f5",
       "width": 23,
-      "x": 256,
-      "y": 25
+      "x": 21,
+      "y": 324
     },
     "tags": [
       "item",
@@ -5848,7 +5742,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 363,
+    "colorOrder": 365,
     "desc": {
       "de": "Lasse dich vom gefiederten Schaft zum Sieg tragen. Erhöhe die Reichweite deiner Waffe und deine Feuerrate.",
       "en-US": "Let the feathered tip wing you on your way to victory. Increase your weapon's range and rate of fire.",
@@ -5876,10 +5770,9 @@
     "slug": "pink-dart",
     "sprite": {
       "height": 23,
-      "sheet": "30aff9f5",
       "width": 23,
-      "x": 342,
-      "y": 190
+      "x": 341,
+      "y": 365
     },
     "tags": [
       "item",
@@ -5916,10 +5809,9 @@
     "slug": "paper-plane",
     "sprite": {
       "height": 20,
-      "sheet": "30aff9f5",
       "width": 28,
-      "x": 171,
-      "y": 173
+      "x": 0,
+      "y": 236
     },
     "tags": [
       "item",
@@ -5956,10 +5848,9 @@
     "slug": "shadow-operation",
     "sprite": {
       "height": 25,
-      "sheet": "30aff9f5",
       "width": 22,
-      "x": 256,
-      "y": 50
+      "x": 180,
+      "y": 281
     },
     "tags": [
       "item",
@@ -5996,10 +5887,9 @@
     "slug": "telescopic-sight",
     "sprite": {
       "height": 23,
-      "sheet": "30aff9f5",
       "width": 24,
-      "x": 320,
-      "y": 98
+      "x": 172,
+      "y": 356
     },
     "tags": [
       "item",
@@ -6036,10 +5926,9 @@
     "slug": "mad-mask",
     "sprite": {
       "height": 25,
-      "sheet": "30aff9f5",
       "width": 26,
-      "x": 198,
-      "y": 215
+      "x": 472,
+      "y": 153
     },
     "tags": [
       "item",
@@ -6076,10 +5965,9 @@
     "slug": "e-sports-headset",
     "sprite": {
       "height": 24,
-      "sheet": "30aff9f5",
       "width": 23,
-      "x": 297,
-      "y": 171
+      "x": 196,
+      "y": 356
     },
     "tags": [
       "item",
@@ -6116,10 +6004,9 @@
     "slug": "paper-windmills",
     "sprite": {
       "height": 26,
-      "sheet": "30aff9f5",
       "width": 26,
-      "x": 224,
-      "y": 215
+      "x": 481,
+      "y": 178
     },
     "tags": [
       "item",
@@ -6156,10 +6043,9 @@
     "slug": "hair-dryer",
     "sprite": {
       "height": 23,
-      "sheet": "30aff9f5",
       "width": 25,
-      "x": 256,
-      "y": 75
+      "x": 155,
+      "y": 301
     },
     "tags": [
       "item",
@@ -6196,10 +6082,9 @@
     "slug": "drilling-warhead",
     "sprite": {
       "height": 29,
-      "sheet": "30aff9f5",
       "width": 17,
-      "x": 31,
-      "y": 149
+      "x": 238,
+      "y": 180
     },
     "tags": [
       "item",
@@ -6236,10 +6121,9 @@
     "slug": "espresso",
     "sprite": {
       "height": 23,
-      "sheet": "30aff9f5",
       "width": 21,
-      "x": 346,
-      "y": 213
+      "x": 364,
+      "y": 365
     },
     "tags": [
       "item",
@@ -6248,7 +6132,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 287,
+    "colorOrder": 288,
     "desc": {
       "de": "Lasse dich von ihm führen ... Erhalte Schilde und werte deine Waffe auf.",
       "en-US": "Let it guide you... Add shields. Upgrade your weapon.",
@@ -6276,10 +6160,9 @@
     "slug": "blue-protocol",
     "sprite": {
       "height": 24,
-      "sheet": "30aff9f5",
       "width": 25,
-      "x": 278,
-      "y": 50
+      "x": 129,
+      "y": 302
     },
     "tags": [
       "item",
@@ -6316,10 +6199,9 @@
     "slug": "wade-tech",
     "sprite": {
       "height": 21,
-      "sheet": "30aff9f5",
       "width": 24,
-      "x": 316,
-      "y": 146
+      "x": 219,
+      "y": 358
     },
     "tags": [
       "item",
@@ -6356,10 +6238,9 @@
     "slug": "like-of-the-king",
     "sprite": {
       "height": 26,
-      "sheet": "30aff9f5",
       "width": 24,
-      "x": 245,
-      "y": 169
+      "x": 481,
+      "y": 204
     },
     "tags": [
       "item",
@@ -6396,10 +6277,9 @@
     "slug": "super-logo",
     "sprite": {
       "height": 24,
-      "sheet": "30aff9f5",
       "width": 24,
-      "x": 323,
-      "y": 121
+      "x": 219,
+      "y": 379
     },
     "tags": [
       "item",
@@ -6436,10 +6316,9 @@
     "slug": "seals-patch",
     "sprite": {
       "height": 26,
-      "sheet": "30aff9f5",
       "width": 29,
       "x": 0,
-      "y": 156
+      "y": 209
     },
     "tags": [
       "item",
@@ -6448,7 +6327,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 348,
+    "colorOrder": 350,
     "desc": {
       "de": "Ding. Ding. Ding. Werte deine Waffe auf und erhöhe deinen Waffenschaden.",
       "en-US": "Clang. Clang. Clang. Upgrade your weapon. Increase your weapon damage.",
@@ -6476,10 +6355,9 @@
     "slug": "smithing-hammer",
     "sprite": {
       "height": 25,
-      "sheet": "30aff9f5",
       "width": 23,
-      "x": 256,
-      "y": 98
+      "x": 99,
+      "y": 307
     },
     "tags": [
       "item",
@@ -6516,10 +6394,9 @@
     "slug": "golden-apple",
     "sprite": {
       "height": 24,
-      "sheet": "30aff9f5",
       "width": 23,
-      "x": 299,
-      "y": 195
+      "x": 139,
+      "y": 368
     },
     "tags": [
       "item",
@@ -6528,7 +6405,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 341,
+    "colorOrder": 343,
     "desc": {
       "de": "ABSOLUTE MACHT! Werte deine Waffe auf. Erhöhe deinen Nahkampf- und Waffenschaden.",
       "en-US": "ABSOLUTE POWER! Upgrade your weapon, increase both your melee and weapon damage.",
@@ -6556,10 +6433,9 @@
     "slug": "power-diamond",
     "sprite": {
       "height": 25,
-      "sheet": "b0bc91af",
       "width": 22,
-      "x": 104,
-      "y": 173
+      "x": 202,
+      "y": 281
     },
     "tags": [
       "item",
@@ -6568,7 +6444,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 337,
+    "colorOrder": 339,
     "desc": {
       "de": "Umgib dich mit einem Ring aus Blitzen und füge Gegnern in der Nähe Schaden zu.",
       "en-US": "A ring of lightning will surround you and damage nearby enemies.",
@@ -6596,10 +6472,9 @@
     "slug": "tesla-coil",
     "sprite": {
       "height": 25,
-      "sheet": "b0bc91af",
       "width": 21,
-      "x": 78,
-      "y": 177
+      "x": 0,
+      "y": 333
     },
     "tags": [
       "item",
@@ -6636,10 +6511,9 @@
     "slug": "demon-wings",
     "sprite": {
       "height": 28,
-      "sheet": "b0bc91af",
       "width": 29,
-      "x": 54,
-      "y": 28
+      "x": 20,
+      "y": 179
     },
     "tags": [
       "item",
@@ -6648,7 +6522,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 354,
+    "colorOrder": 356,
     "desc": {
       "de": "Deine Seele schwillt an und du spürst, wie deine Füße vom Boden abheben ... Erhöhe deine Bewegungsgeschwindigkeit.",
       "en-US": "Your soul swells and you feel your feet lift off the ground... Increase your movement speed.",
@@ -6676,10 +6550,9 @@
     "slug": "divinity",
     "sprite": {
       "height": 25,
-      "sheet": "b0bc91af",
       "width": 26,
-      "x": 0,
-      "y": 126
+      "x": 470,
+      "y": 230
     },
     "tags": [
       "item",
@@ -6716,10 +6589,9 @@
     "slug": "pegasus",
     "sprite": {
       "height": 27,
-      "sheet": "b0bc91af",
       "width": 29,
-      "x": 62,
-      "y": 0
+      "x": 29,
+      "y": 209
     },
     "tags": [
       "item",
@@ -6728,7 +6600,46 @@
   },
   {
     "category": "item",
-    "colorOrder": 264,
+    "colorOrder": 337,
+    "desc": {
+      "de": "Du kannst jetzt fliegen! Erhöhe deine Bewegungsgeschwindigkeit.",
+      "en-US": "You can fly now! Increase your movement speed.",
+      "es": "¡Ahora puedes volar! Aumenta la velocidad de movimiento.",
+      "fr": "Vous pouvez voler maintenant ! Augmente votre vitesse de déplacement.",
+      "it": "Puoi volare! Incrementano la velocità di movimento.",
+      "ja": "飛べるようになる！ また、移動速度を上げる。",
+      "ru": "Вы научились летать! Увеличивает скорость передвижения.",
+      "zh": "获得飞行能力，移动速度增加。",
+      "zh-CN": "获得飞行能力，移动速度增加。",
+      "zh-TW": "現在你可以飛了！提高你的移動速度。"
+    },
+    "name": {
+      "de": "SCHWINGEN DER WEISHEIT",
+      "en-US": "WINGS OF WISDOM",
+      "es": "ALAS DE SABIDURÍA",
+      "fr": "AILES DE SAGESSE",
+      "it": "ALI DEL SAPERE",
+      "ja": "英知の翼",
+      "ru": "КРЫЛЬЯ МУДРОСТИ",
+      "zh": "智慧之翼",
+      "zh-CN": "智慧之翼",
+      "zh-TW": "智慧之翼"
+    },
+    "slug": "wings-of-wisdom",
+    "sprite": {
+      "height": 22,
+      "width": 23,
+      "x": 314,
+      "y": 385
+    },
+    "tags": [
+      "item",
+      "special"
+    ]
+  },
+  {
+    "category": "item",
+    "colorOrder": 265,
     "desc": {
       "de": "Diese grüne Kappe schrumpft dich ... Jep, das ist alles. Du wirst einfach kleiner. Betrachte die Welt aus einem neuen Winkel!",
       "en-US": "This green cap will diminish you... That is, it will make you smaller. See the world from a new angle!",
@@ -6756,10 +6667,9 @@
     "slug": "green-cap",
     "sprite": {
       "height": 20,
-      "sheet": "b0bc91af",
       "width": 24,
-      "x": 252,
-      "y": 0
+      "x": 162,
+      "y": 379
     },
     "tags": [
       "item",
@@ -6796,10 +6706,9 @@
     "slug": "birthday-cake",
     "sprite": {
       "height": 24,
-      "sheet": "b0bc91af",
       "width": 26,
-      "x": 26,
-      "y": 126
+      "x": 432,
+      "y": 51
     },
     "tags": [
       "item",
@@ -6836,10 +6745,9 @@
     "slug": "red-hat",
     "sprite": {
       "height": 20,
-      "sheet": "b0bc91af",
       "width": 25,
-      "x": 24,
-      "y": 174
+      "x": 73,
+      "y": 331
     },
     "tags": [
       "item",
@@ -6876,10 +6784,9 @@
     "slug": "dangerous-mine",
     "sprite": {
       "height": 23,
-      "sheet": "b0bc91af",
       "width": 24,
-      "x": 254,
-      "y": 20
+      "x": 186,
+      "y": 380
     },
     "tags": [
       "item",
@@ -6916,10 +6823,9 @@
     "slug": "fatal-dance",
     "sprite": {
       "height": 24,
-      "sheet": "b0bc91af",
       "width": 24,
-      "x": 234,
-      "y": 207
+      "x": 94,
+      "y": 382
     },
     "tags": [
       "item",
@@ -6956,10 +6862,9 @@
     "slug": "golden-torch",
     "sprite": {
       "height": 26,
-      "sheet": "b0bc91af",
       "width": 24,
-      "x": 180,
-      "y": 106
+      "x": 446,
+      "y": 75
     },
     "tags": [
       "item",
@@ -6996,10 +6901,9 @@
     "slug": "lidless-eye",
     "sprite": {
       "height": 24,
-      "sheet": "b0bc91af",
       "width": 28,
-      "x": 81,
-      "y": 80
+      "x": 266,
+      "y": 232
     },
     "tags": [
       "item",
@@ -7036,10 +6940,9 @@
     "slug": "silver-compass",
     "sprite": {
       "height": 23,
-      "sheet": "b0bc91af",
       "width": 23,
-      "x": 279,
-      "y": 89
+      "x": 287,
+      "y": 387
     },
     "tags": [
       "item",
@@ -7076,10 +6979,9 @@
     "slug": "treasure-map",
     "sprite": {
       "height": 24,
-      "sheet": "b0bc91af",
       "width": 24,
-      "x": 246,
-      "y": 182
+      "x": 66,
+      "y": 395
     },
     "tags": [
       "item",
@@ -7088,7 +6990,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 263,
+    "colorOrder": 264,
     "desc": {
       "de": "PIEP. PIEP. PIEP. Markiere alle Geheimnisse auf der Karte.",
       "en-US": "BEEP. BEEP. BEEP. Mark all secrets on your map.",
@@ -7116,10 +7018,9 @@
     "slug": "mini-radar",
     "sprite": {
       "height": 23,
-      "sheet": "b0bc91af",
       "width": 24,
-      "x": 234,
-      "y": 231
+      "x": 25,
+      "y": 398
     },
     "tags": [
       "item",
@@ -7156,10 +7057,9 @@
     "slug": "little-pickaxe",
     "sprite": {
       "height": 26,
-      "sheet": "b0bc91af",
       "width": 25,
-      "x": 204,
-      "y": 106
+      "x": 474,
+      "y": 26
     },
     "tags": [
       "item",
@@ -7196,10 +7096,9 @@
     "slug": "immortal-heart",
     "sprite": {
       "height": 24,
-      "sheet": "b0bc91af",
       "width": 26,
-      "x": 229,
-      "y": 106
+      "x": 445,
+      "y": 27
     },
     "tags": [
       "item",
@@ -7236,10 +7135,9 @@
     "slug": "sun-coin",
     "sprite": {
       "height": 24,
-      "sheet": "b0bc91af",
       "width": 25,
-      "x": 147,
-      "y": 150
+      "x": 44,
+      "y": 348
     },
     "tags": [
       "item",
@@ -7276,10 +7174,9 @@
     "slug": "heart-of-fire",
     "sprite": {
       "height": 27,
-      "sheet": "b0bc91af",
       "width": 20,
-      "x": 153,
-      "y": 76
+      "x": 376,
+      "y": 0
     },
     "tags": [
       "item",
@@ -7316,10 +7213,9 @@
     "slug": "schrodinger's-bet",
     "sprite": {
       "height": 25,
-      "sheet": "b0bc91af",
       "width": 25,
-      "x": 49,
-      "y": 190
+      "x": 0,
+      "y": 358
     },
     "tags": [
       "item",
@@ -7328,7 +7224,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 338,
+    "colorOrder": 340,
     "desc": {
       "de": "Du kannst dir die Beschreibung eines Gegenstands ansehen, bevor du ihn aufnimmst.",
       "en-US": "You can preview the description of an item without picking it up.",
@@ -7356,10 +7252,9 @@
     "slug": "inner-eye",
     "sprite": {
       "height": 28,
-      "sheet": "b0bc91af",
       "width": 22,
-      "x": 0,
-      "y": 58
+      "x": 256,
+      "y": 0
     },
     "tags": [
       "item",
@@ -7396,10 +7291,9 @@
     "slug": "coin-bomb",
     "sprite": {
       "height": 24,
-      "sheet": "b0bc91af",
       "width": 24,
-      "x": 247,
-      "y": 156
+      "x": 0,
+      "y": 408
     },
     "tags": [
       "item",
@@ -7436,10 +7330,9 @@
     "slug": "mercenary-lord",
     "sprite": {
       "height": 25,
-      "sheet": "b0bc91af",
       "width": 29,
-      "x": 91,
-      "y": 0
+      "x": 49,
+      "y": 179
     },
     "tags": [
       "item",
@@ -7476,10 +7369,9 @@
     "slug": "golden-statuette",
     "sprite": {
       "height": 26,
-      "sheet": "b0bc91af",
       "width": 25,
-      "x": 229,
-      "y": 130
+      "x": 474,
+      "y": 52
     },
     "tags": [
       "item",
@@ -7516,10 +7408,9 @@
     "slug": "battle-pass",
     "sprite": {
       "height": 19,
-      "sheet": "b0bc91af",
       "width": 24,
-      "x": 276,
-      "y": 0
+      "x": 118,
+      "y": 392
     },
     "tags": [
       "item",
@@ -7556,10 +7447,9 @@
     "slug": "golden-bird",
     "sprite": {
       "height": 25,
-      "sheet": "b0bc91af",
       "width": 25,
-      "x": 172,
-      "y": 156
+      "x": 452,
+      "y": 281
     },
     "tags": [
       "item",
@@ -7568,7 +7458,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 283,
+    "colorOrder": 284,
     "desc": {
       "de": "Du kannst Eier als Bomben einsetzen, wenn du keine Bomben hast.",
       "en-US": "You can use eggs as bombs when you don't have any bombs.",
@@ -7596,10 +7486,9 @@
     "slug": "shark-bait",
     "sprite": {
       "height": 27,
-      "sheet": "b0bc91af",
       "width": 26,
-      "x": 162,
-      "y": 25
+      "x": 360,
+      "y": 106
     },
     "tags": [
       "item",
@@ -7608,7 +7497,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 274,
+    "colorOrder": 275,
     "desc": {
       "de": "Wenn du keinen Schlüssel hast, kannst du stattdessen ein Ei benutzen.",
       "en-US": "If you don't have a key, you can use an egg instead.",
@@ -7636,10 +7525,9 @@
     "slug": "empty-can",
     "sprite": {
       "height": 24,
-      "sheet": "b0bc91af",
       "width": 25,
-      "x": 197,
-      "y": 176
+      "x": 477,
+      "y": 281
     },
     "tags": [
       "item",
@@ -7676,10 +7564,9 @@
     "slug": "mercy-hood",
     "sprite": {
       "height": 27,
-      "sheet": "b0bc91af",
       "width": 25,
-      "x": 188,
-      "y": 0
+      "x": 360,
+      "y": 133
     },
     "tags": [
       "item",
@@ -7716,10 +7603,9 @@
     "slug": "king's-crown",
     "sprite": {
       "height": 17,
-      "sheet": "b0bc91af",
       "width": 27,
-      "x": 22,
-      "y": 109
+      "x": 294,
+      "y": 239
     },
     "tags": [
       "item",
@@ -7728,7 +7614,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 342,
+    "colorOrder": 344,
     "desc": {
       "de": "Diese unglaubliche Bohne stellt alle deine Herzen wieder her und erhöht die Reichweite deiner Waffe.",
       "en-US": "This unbelievable bean will recover all your hearts and increase your weapon's range.",
@@ -7756,10 +7642,9 @@
     "slug": "magical-bean",
     "sprite": {
       "height": 26,
-      "sheet": "b0bc91af",
       "width": 21,
-      "x": 234,
-      "y": 80
+      "x": 458,
+      "y": 0
     },
     "tags": [
       "item",
@@ -7796,10 +7681,9 @@
     "slug": "spartan-lineage",
     "sprite": {
       "height": 30,
-      "sheet": "b0bc91af",
       "width": 24,
-      "x": 0,
-      "y": 28
+      "x": 31,
+      "y": 149
     },
     "tags": [
       "item",
@@ -7836,10 +7720,9 @@
     "slug": "berserker-blood",
     "sprite": {
       "height": 23,
-      "sheet": "b0bc91af",
       "width": 26,
-      "x": 123,
-      "y": 125
+      "x": 474,
+      "y": 78
     },
     "tags": [
       "item",
@@ -7848,7 +7731,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 279,
+    "colorOrder": 280,
     "desc": {
       "de": "Herzen werden durch Schilde ersetzt, wenn sie fallen gelassen werden. Der Erfinder hat die Gesetze des Universums geringfügig geändert.",
       "en-US": "Hearts will be replaced by shields when they drop. The creator slightly modified the rules of the universe.",
@@ -7876,10 +7759,9 @@
     "slug": "howard-reactor",
     "sprite": {
       "height": 24,
-      "sheet": "b0bc91af",
       "width": 22,
-      "x": 254,
-      "y": 130
+      "x": 90,
+      "y": 406
     },
     "tags": [
       "item",
@@ -7916,10 +7798,9 @@
     "slug": "agent-watch",
     "sprite": {
       "height": 25,
-      "sheet": "b0bc91af",
       "width": 22,
-      "x": 0,
-      "y": 177
+      "x": 477,
+      "y": 305
     },
     "tags": [
       "item",
@@ -7928,7 +7809,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 275,
+    "colorOrder": 276,
     "desc": {
       "de": "Du kannst Schlüssel als Bomben benutzen, wenn du keine Bomben hast.",
       "en-US": "You can use keys as bombs when you don't have any bombs.",
@@ -7956,10 +7837,9 @@
     "slug": "pen-no.7",
     "sprite": {
       "height": 29,
-      "sheet": "b0bc91af",
       "width": 15,
-      "x": 83,
-      "y": 27
+      "x": 55,
+      "y": 150
     },
     "tags": [
       "item",
@@ -7996,10 +7876,9 @@
     "slug": "steel-gear",
     "sprite": {
       "height": 24,
-      "sheet": "b0bc91af",
       "width": 24,
-      "x": 258,
-      "y": 206
+      "x": 49,
+      "y": 419
     },
     "tags": [
       "item",
@@ -8036,10 +7915,9 @@
     "slug": "rusty-key",
     "sprite": {
       "height": 24,
-      "sheet": "b0bc91af",
       "width": 24,
-      "x": 258,
-      "y": 230
+      "x": 24,
+      "y": 421
     },
     "tags": [
       "item",
@@ -8076,10 +7954,9 @@
     "slug": "bear-pendant",
     "sprite": {
       "height": 28,
-      "sheet": "b0bc91af",
       "width": 22,
-      "x": 22,
-      "y": 78
+      "x": 256,
+      "y": 28
     },
     "tags": [
       "item",
@@ -8088,7 +7965,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 365,
+    "colorOrder": 367,
     "desc": {
       "de": "Wenn du einen Schlüssel benutzt, besteht die Chance, dass du einen bösen Geist erhältst.",
       "en-US": "Every time you use a key, there's a chance you'll get an angry sprite.",
@@ -8116,10 +7993,9 @@
     "slug": "evil-bracelet",
     "sprite": {
       "height": 25,
-      "sheet": "b0bc91af",
       "width": 26,
-      "x": 149,
-      "y": 125
+      "x": 470,
+      "y": 101
     },
     "tags": [
       "item",
@@ -8156,10 +8032,9 @@
     "slug": "heart-necklace",
     "sprite": {
       "height": 27,
-      "sheet": "b0bc91af",
       "width": 22,
-      "x": 213,
-      "y": 0
+      "x": 363,
+      "y": 160
     },
     "tags": [
       "item",
@@ -8196,10 +8071,9 @@
     "slug": "jewelry-box",
     "sprite": {
       "height": 24,
-      "sheet": "b0bc91af",
       "width": 26,
-      "x": 175,
-      "y": 132
+      "x": 474,
+      "y": 126
     },
     "tags": [
       "item",
@@ -8236,10 +8110,9 @@
     "slug": "black-box",
     "sprite": {
       "height": 18,
-      "sheet": "b0bc91af",
       "width": 26,
-      "x": 201,
-      "y": 132
+      "x": 109,
+      "y": 238
     },
     "tags": [
       "item",
@@ -8248,7 +8121,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 331,
+    "colorOrder": 332,
     "desc": {
       "de": "Deine Waffe verursacht mehr Schaden, wenn deine Kristallbehälter voll sind. Du hast einen großen Plan.",
       "en-US": "Your weapon does more damage when your crystal containers are full. You have a big plan.",
@@ -8276,10 +8149,9 @@
     "slug": "magic-vortex",
     "sprite": {
       "height": 26,
-      "sheet": "b0bc91af",
       "width": 22,
-      "x": 201,
-      "y": 150
+      "x": 244,
+      "y": 237
     },
     "tags": [
       "item",
@@ -8288,7 +8160,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 330,
+    "colorOrder": 331,
     "desc": {
       "de": "Dieses katzenartige Amulett vibriert in der Nähe von Magie sanft. Je weniger Kristalle du hast, desto mehr Schaden verursacht deine Waffe.",
       "en-US": "This cat-faced amulet vibrates softly around magic. The fewer crystals you have, the more damage your weapon does.",
@@ -8316,10 +8188,9 @@
     "slug": "cat-medallion",
     "sprite": {
       "height": 26,
-      "sheet": "b0bc91af",
       "width": 29,
-      "x": 98,
-      "y": 25
+      "x": 70,
+      "y": 150
     },
     "tags": [
       "item",
@@ -8356,10 +8227,9 @@
     "slug": "emerald-bracelet",
     "sprite": {
       "height": 25,
-      "sheet": "b0bc91af",
       "width": 23,
-      "x": 22,
-      "y": 194
+      "x": 414,
+      "y": 282
     },
     "tags": [
       "item",
@@ -8396,10 +8266,9 @@
     "slug": "ruby-earrings",
     "sprite": {
       "height": 26,
-      "sheet": "b0bc91af",
       "width": 24,
-      "x": 223,
-      "y": 156
+      "x": 402,
+      "y": 240
     },
     "tags": [
       "item",
@@ -8436,10 +8305,9 @@
     "slug": "silver-brooch",
     "sprite": {
       "height": 28,
-      "sheet": "b0bc91af",
       "width": 22,
-      "x": 0,
-      "y": 86
+      "x": 256,
+      "y": 56
     },
     "tags": [
       "item",
@@ -8448,7 +8316,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 343,
+    "colorOrder": 345,
     "desc": {
       "de": "Wenn du eine Münze aufsammelst, besteht die Chance, dass du zusätzliche Kristalle erhältst.",
       "en-US": "Every time you pick up a coin, there's a chance you'll get extra crystals.",
@@ -8476,10 +8344,9 @@
     "slug": "amethyst-necklace",
     "sprite": {
       "height": 28,
-      "sheet": "b0bc91af",
       "width": 24,
-      "x": 44,
-      "y": 81
+      "x": 256,
+      "y": 84
     },
     "tags": [
       "item",
@@ -8488,7 +8355,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 317,
+    "colorOrder": 318,
     "desc": {
       "de": "Wenn du eine Münze aufsammelst, besteht die Chance, dass du zusätzliche Schilde erhältst.",
       "en-US": "Every time you pick up a coin, there's a chance you'll get extra shields.",
@@ -8516,10 +8383,9 @@
     "slug": "sapphire-ring",
     "sprite": {
       "height": 25,
-      "sheet": "b0bc91af",
       "width": 24,
-      "x": 222,
-      "y": 182
+      "x": 385,
+      "y": 292
     },
     "tags": [
       "item",
@@ -8556,10 +8422,9 @@
     "slug": "beggar's-card",
     "sprite": {
       "height": 21,
-      "sheet": "b0bc91af",
       "width": 21,
-      "x": 302,
-      "y": 83
+      "x": 486,
+      "y": 355
     },
     "tags": [
       "item",
@@ -8596,10 +8461,9 @@
     "slug": "rogue's-badge",
     "sprite": {
       "height": 24,
-      "sheet": "b0bc91af",
       "width": 23,
-      "x": 270,
-      "y": 180
+      "x": 0,
+      "y": 432
     },
     "tags": [
       "item",
@@ -8636,10 +8500,9 @@
     "slug": "dangerous-receipt",
     "sprite": {
       "height": 22,
-      "sheet": "b0bc91af",
       "width": 21,
-      "x": 299,
-      "y": 112
+      "x": 275,
+      "y": 424
     },
     "tags": [
       "item",
@@ -8676,10 +8539,9 @@
     "slug": "cursed-coin",
     "sprite": {
       "height": 23,
-      "sheet": "b0bc91af",
       "width": 23,
-      "x": 300,
-      "y": 60
+      "x": 186,
+      "y": 403
     },
     "tags": [
       "item",
@@ -8688,7 +8550,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 266,
+    "colorOrder": 267,
     "desc": {
       "de": "Erhalte 250 Münzen. Das ist genau das, was du brauchst.",
       "en-US": "Get 250 coins. This is what you need.",
@@ -8716,10 +8578,9 @@
     "slug": "accidental-wealth",
     "sprite": {
       "height": 21,
-      "sheet": "b0bc91af",
       "width": 26,
-      "x": 52,
-      "y": 127
+      "x": 55,
+      "y": 255
     },
     "tags": [
       "item",
@@ -8756,10 +8617,9 @@
     "slug": "lottery-ticket",
     "sprite": {
       "height": 25,
-      "sheet": "b0bc91af",
       "width": 26,
-      "x": 78,
-      "y": 127
+      "x": 321,
+      "y": 240
     },
     "tags": [
       "item",
@@ -8768,7 +8628,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 366,
+    "colorOrder": 368,
     "desc": {
       "de": "Wenn du keinen Schlüssel hast, kannst du stattdessen Münzen benutzen.",
       "en-US": "If you don't have a key, you can use coins instead.",
@@ -8796,10 +8656,9 @@
     "slug": "locksmith",
     "sprite": {
       "height": 22,
-      "sheet": "b0bc91af",
       "width": 25,
-      "x": 0,
-      "y": 219
+      "x": 437,
+      "y": 306
     },
     "tags": [
       "item",
@@ -8836,10 +8695,9 @@
     "slug": "gunpowder-plot",
     "sprite": {
       "height": 25,
-      "sheet": "b0bc91af",
       "width": 23,
-      "x": 25,
-      "y": 219
+      "x": 409,
+      "y": 307
     },
     "tags": [
       "item",
@@ -8876,10 +8734,9 @@
     "slug": "maneki-neko",
     "sprite": {
       "height": 27,
-      "sheet": "b0bc91af",
       "width": 25,
-      "x": 188,
-      "y": 27
+      "x": 385,
+      "y": 133
     },
     "tags": [
       "item",
@@ -8916,10 +8773,9 @@
     "slug": "magician-hat",
     "sprite": {
       "height": 19,
-      "sheet": "b0bc91af",
       "width": 27,
-      "x": 96,
-      "y": 108
+      "x": 217,
+      "y": 237
     },
     "tags": [
       "item",
@@ -8956,10 +8812,9 @@
     "slug": "heart-key",
     "sprite": {
       "height": 25,
-      "sheet": "b0bc91af",
       "width": 19,
-      "x": 48,
-      "y": 215
+      "x": 25,
+      "y": 349
     },
     "tags": [
       "item",
@@ -8996,10 +8851,9 @@
     "slug": "hacking-tool",
     "sprite": {
       "height": 28,
-      "sheet": "b0bc91af",
       "width": 18,
-      "x": 109,
-      "y": 80
+      "x": 278,
+      "y": 112
     },
     "tags": [
       "item",
@@ -9036,10 +8890,9 @@
     "slug": "black-friday",
     "sprite": {
       "height": 22,
-      "sheet": "b0bc91af",
       "width": 24,
-      "x": 271,
-      "y": 154
+      "x": 142,
+      "y": 399
     },
     "tags": [
       "item",
@@ -9076,10 +8929,9 @@
     "slug": "lipstick",
     "sprite": {
       "height": 27,
-      "sheet": "b0bc91af",
       "width": 17,
-      "x": 235,
-      "y": 0
+      "x": 385,
+      "y": 160
     },
     "tags": [
       "item",
@@ -9088,7 +8940,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 351,
+    "colorOrder": 353,
     "desc": {
       "de": "Das ist die Zukunft und du bist ein großer Träumer. Je mehr Schilde du hast, desto mehr Schaden verursacht deine Waffe.",
       "en-US": "This is the future, and you're a big dreamer. The more shields you have, the more damage your weapon does.",
@@ -9116,10 +8968,9 @@
     "slug": "2077",
     "sprite": {
       "height": 21,
-      "sheet": "b0bc91af",
       "width": 26,
-      "x": 52,
-      "y": 148
+      "x": 135,
+      "y": 238
     },
     "tags": [
       "item",
@@ -9128,7 +8979,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 284,
+    "colorOrder": 285,
     "desc": {
       "de": "Du verlierst Herzen trotz deiner Schilde. So langsam nimmst du diese Tatsache einfach hin.",
       "en-US": "You will lose hearts first even if you have shields. You are gradually accepting this fact.",
@@ -9156,10 +9007,9 @@
     "slug": "iron-heart",
     "sprite": {
       "height": 24,
-      "sheet": "b0bc91af",
       "width": 21,
-      "x": 255,
-      "y": 80
+      "x": 112,
+      "y": 411
     },
     "tags": [
       "item",
@@ -9196,10 +9046,9 @@
     "slug": "combat-helmet",
     "sprite": {
       "height": 24,
-      "sheet": "b0bc91af",
       "width": 26,
-      "x": 26,
-      "y": 150
+      "x": 81,
+      "y": 256
     },
     "tags": [
       "item",
@@ -9208,7 +9057,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 322,
+    "colorOrder": 323,
     "desc": {
       "de": "Je mehr Schilde du hast, desto mehr Nahkampfschaden verursachst du.",
       "en-US": "The more shields you have, the more melee damage you do.",
@@ -9236,10 +9085,9 @@
     "slug": "advanced-knife",
     "sprite": {
       "height": 21,
-      "sheet": "b0bc91af",
       "width": 31,
-      "x": 0,
-      "y": 0
+      "x": 126,
+      "y": 127
     },
     "tags": [
       "item",
@@ -9276,10 +9124,9 @@
     "slug": "thunder-engine",
     "sprite": {
       "height": 19,
-      "sheet": "b0bc91af",
       "width": 24,
-      "x": 255,
-      "y": 104
+      "x": 73,
+      "y": 430
     },
     "tags": [
       "item",
@@ -9288,7 +9135,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 339,
+    "colorOrder": 341,
     "desc": {
       "de": "Wenn du einen Schild verlierst, besteht die Chance, dass du einen Schutzgeist erhältst.",
       "en-US": "When you lose a shield, there's a chance you'll get a guardian sprite.",
@@ -9316,10 +9163,9 @@
     "slug": "virtual-assistant",
     "sprite": {
       "height": 24,
-      "sheet": "b0bc91af",
       "width": 23,
-      "x": 276,
-      "y": 123
+      "x": 48,
+      "y": 443
     },
     "tags": [
       "item",
@@ -9356,10 +9202,9 @@
     "slug": "electric-sheep",
     "sprite": {
       "height": 24,
-      "sheet": "b0bc91af",
       "width": 25,
-      "x": 67,
-      "y": 215
+      "x": 432,
+      "y": 328
     },
     "tags": [
       "item",
@@ -9368,7 +9213,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 305,
+    "colorOrder": 306,
     "desc": {
       "de": "Alle Schilde, die du bekommst, werden in Münzen umgewandelt.",
       "en-US": "All shields you get will turn to coins instead.",
@@ -9396,10 +9241,9 @@
     "slug": "energy-converter",
     "sprite": {
       "height": 19,
-      "sheet": "b0bc91af",
       "width": 21,
-      "x": 302,
-      "y": 41
+      "x": 210,
+      "y": 493
     },
     "tags": [
       "item",
@@ -9436,10 +9280,9 @@
     "slug": "turtle-hat",
     "sprite": {
       "height": 17,
-      "sheet": "b0bc91af",
       "width": 24,
-      "x": 67,
-      "y": 239
+      "x": 23,
+      "y": 445
     },
     "tags": [
       "item",
@@ -9476,10 +9319,9 @@
     "slug": "frying-pan",
     "sprite": {
       "height": 26,
-      "sheet": "b0bc91af",
       "width": 27,
-      "x": 213,
-      "y": 27
+      "x": 388,
+      "y": 187
     },
     "tags": [
       "item",
@@ -9516,10 +9358,9 @@
     "slug": "kendo-mask",
     "sprite": {
       "height": 23,
-      "sheet": "b0bc91af",
       "width": 23,
-      "x": 302,
-      "y": 18
+      "x": 209,
+      "y": 403
     },
     "tags": [
       "item",
@@ -9556,10 +9397,9 @@
     "slug": "onion-helmet",
     "sprite": {
       "height": 27,
-      "sheet": "b0bc91af",
       "width": 25,
-      "x": 213,
-      "y": 53
+      "x": 402,
+      "y": 160
     },
     "tags": [
       "item",
@@ -9596,10 +9436,9 @@
     "slug": "hard-hat",
     "sprite": {
       "height": 22,
-      "sheet": "b0bc91af",
       "width": 24,
-      "x": 256,
-      "y": 43
+      "x": 0,
+      "y": 467
     },
     "tags": [
       "item",
@@ -9636,10 +9475,9 @@
     "slug": "dance-mask",
     "sprite": {
       "height": 17,
-      "sheet": "b0bc91af",
       "width": 27,
-      "x": 123,
-      "y": 108
+      "x": 55,
+      "y": 238
     },
     "tags": [
       "item",
@@ -9676,10 +9514,9 @@
     "slug": "scarlet-tale",
     "sprite": {
       "height": 23,
-      "sheet": "b0bc91af",
       "width": 28,
-      "x": 68,
-      "y": 104
+      "x": 278,
+      "y": 140
     },
     "tags": [
       "item",
@@ -9716,10 +9553,9 @@
     "slug": "midnight-mask",
     "sprite": {
       "height": 26,
-      "sheet": "b0bc91af",
       "width": 24,
-      "x": 0,
-      "y": 151
+      "x": 107,
+      "y": 256
     },
     "tags": [
       "item",
@@ -9756,10 +9592,9 @@
     "slug": "metal-panties",
     "sprite": {
       "height": 17,
-      "sheet": "b0bc91af",
       "width": 24,
-      "x": 278,
-      "y": 19
+      "x": 24,
+      "y": 462
     },
     "tags": [
       "item",
@@ -9796,10 +9631,9 @@
     "slug": "golden-teeth",
     "sprite": {
       "height": 21,
-      "sheet": "b0bc91af",
       "width": 23,
-      "x": 282,
-      "y": 204
+      "x": 120,
+      "y": 491
     },
     "tags": [
       "item",
@@ -9808,7 +9642,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 346,
+    "colorOrder": 348,
     "desc": {
       "de": "Es besteht die Chance, dass du Kristalle fallen lässt, wenn du verletzt wirst.",
       "en-US": "You have a chance to drop extra crystals when you get hurt.",
@@ -9836,10 +9670,9 @@
     "slug": "annoying-hat",
     "sprite": {
       "height": 28,
-      "sheet": "b0bc91af",
       "width": 31,
-      "x": 31,
-      "y": 0
+      "x": 222,
+      "y": 130
     },
     "tags": [
       "item",
@@ -9876,10 +9709,9 @@
     "slug": "dimensional-bags",
     "sprite": {
       "height": 24,
-      "sheet": "b0bc91af",
       "width": 24,
-      "x": 276,
-      "y": 65
+      "x": 24,
+      "y": 479
     },
     "tags": [
       "item",
@@ -9888,7 +9720,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 314,
+    "colorOrder": 315,
     "desc": {
       "de": "Es besteht die Chance, dass du zusätzliche Schilde fallen lässt, wenn du verletzt wirst.",
       "en-US": "You have a chance to drop extra shields when you get hurt.",
@@ -9916,10 +9748,9 @@
     "slug": "robot-armor",
     "sprite": {
       "height": 25,
-      "sheet": "b0bc91af",
       "width": 25,
-      "x": 126,
-      "y": 174
+      "x": 457,
+      "y": 330
     },
     "tags": [
       "item",
@@ -9928,7 +9759,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 288,
+    "colorOrder": 289,
     "desc": {
       "de": "Wenn du in diesem Raum verletzt wirst, wirst du von einem Ring aus Blitzen umgeben, die Gegnern in der Nähe Schaden zufügen.",
       "en-US": "If you get hurt in this room, a ring of lightning will surround you and damage nearby enemies.",
@@ -9956,10 +9787,9 @@
     "slug": "power-helmet",
     "sprite": {
       "height": 25,
-      "sheet": "b0bc91af",
       "width": 23,
-      "x": 99,
-      "y": 198
+      "x": 482,
+      "y": 330
     },
     "tags": [
       "item",
@@ -9996,10 +9826,9 @@
     "slug": "welding-mask",
     "sprite": {
       "height": 24,
-      "sheet": "b0bc91af",
       "width": 22,
-      "x": 280,
-      "y": 36
+      "x": 48,
+      "y": 467
     },
     "tags": [
       "item",
@@ -10036,10 +9865,9 @@
     "slug": "pumpkinhead",
     "sprite": {
       "height": 25,
-      "sheet": "b0bc91af",
       "width": 26,
-      "x": 104,
-      "y": 148
+      "x": 0,
+      "y": 256
     },
     "tags": [
       "item",
@@ -10076,10 +9904,9 @@
     "slug": "nightmare-mask",
     "sprite": {
       "height": 29,
-      "sheet": "b0bc91af",
       "width": 28,
-      "x": 24,
-      "y": 49
+      "x": 58,
+      "y": 209
     },
     "tags": [
       "item",
@@ -10088,7 +9915,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 350,
+    "colorOrder": 352,
     "desc": {
       "de": "Es besteht die Chance, dass du Kristalle erhältst, wenn du verletzt wirst.",
       "en-US": "You have a chance to gain crystals when you get hurt.",
@@ -10116,10 +9943,9 @@
     "slug": "magic-wand",
     "sprite": {
       "height": 24,
-      "sheet": "b0bc91af",
       "width": 25,
-      "x": 92,
-      "y": 223
+      "x": 248,
+      "y": 282
     },
     "tags": [
       "item",
@@ -10128,7 +9954,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 289,
+    "colorOrder": 290,
     "desc": {
       "de": "Es besteht die Chance, dass du Schilde erhältst, wenn du verletzt wirst. Manche Fragen müssen einfach gestellt werden.",
       "en-US": "You have a chance to gain shields when you get hurt. There are some questions you can't avoid.",
@@ -10156,10 +9982,9 @@
     "slug": "ghost-shell",
     "sprite": {
       "height": 27,
-      "sheet": "b0bc91af",
       "width": 24,
-      "x": 173,
-      "y": 54
+      "x": 402,
+      "y": 213
     },
     "tags": [
       "item",
@@ -10196,10 +10021,9 @@
     "slug": "hiccups",
     "sprite": {
       "height": 25,
-      "sheet": "b0bc91af",
       "width": 14,
-      "x": 240,
-      "y": 27
+      "x": 498,
+      "y": 150
     },
     "tags": [
       "item",
@@ -10236,10 +10060,9 @@
     "slug": "kongming-lantern",
     "sprite": {
       "height": 25,
-      "sheet": "b0bc91af",
       "width": 22,
-      "x": 117,
-      "y": 223
+      "x": 224,
+      "y": 288
     },
     "tags": [
       "item",
@@ -10248,7 +10071,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 270,
+    "colorOrder": 271,
     "desc": {
       "de": "Wenn du auf ein halbes Herz fällst, fügst du sofort allen Gegnern Schaden zu.",
       "en-US": "If you are down to half a heart, you'll immediately deal damage to all enemies.",
@@ -10276,10 +10099,9 @@
     "slug": "dark-side",
     "sprite": {
       "height": 28,
-      "sheet": "b0bc91af",
       "width": 24,
-      "x": 124,
-      "y": 51
+      "x": 283,
+      "y": 163
     },
     "tags": [
       "item",
@@ -10288,7 +10110,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 276,
+    "colorOrder": 277,
     "desc": {
       "de": "Wenn du auf ein halbes Herz fällst, erhältst du die Fähigkeit, zu fliegen.",
       "en-US": "If you're down to half a heart, you'll gain the ability to fly.",
@@ -10316,10 +10138,9 @@
     "slug": "bamboo-dragonfly",
     "sprite": {
       "height": 22,
-      "sheet": "b0bc91af",
       "width": 25,
-      "x": 122,
-      "y": 200
+      "x": 273,
+      "y": 282
     },
     "tags": [
       "item",
@@ -10328,7 +10149,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 334,
+    "colorOrder": 335,
     "desc": {
       "de": "Wenn du auf ein halbes Herz fällst, lässt du sofort einen Schild fallen.",
       "en-US": "If you're down to half a heart, you'll immediately drop a shield.",
@@ -10356,10 +10177,9 @@
     "slug": "v.o.-field",
     "sprite": {
       "height": 29,
-      "sheet": "b0bc91af",
       "width": 26,
-      "x": 98,
-      "y": 51
+      "x": 78,
+      "y": 179
     },
     "tags": [
       "item",
@@ -10368,7 +10188,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 285,
+    "colorOrder": 286,
     "desc": {
       "de": "KEINE PANIK! Wenn du verletzt wirst, verlierst du nur ein halbes Herz.",
       "en-US": "DON'T PANIC! You'll only lose half a heart when you get hurt.",
@@ -10396,10 +10216,9 @@
     "slug": "the-towel",
     "sprite": {
       "height": 25,
-      "sheet": "b0bc91af",
       "width": 25,
-      "x": 139,
-      "y": 222
+      "x": 298,
+      "y": 289
     },
     "tags": [
       "item",
@@ -10408,7 +10227,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 324,
+    "colorOrder": 325,
     "desc": {
       "de": "Wenn du verletzt wirst, besteht die Chance, dass du doppelten Schaden erleidest ... oder überhaupt keinen.",
       "en-US": "Each time you get hurt, there's a chance you'll take double damage... or no damage at all.",
@@ -10436,10 +10255,9 @@
     "slug": "devil's-trade",
     "sprite": {
       "height": 25,
-      "sheet": "b0bc91af",
       "width": 25,
-      "x": 164,
-      "y": 181
+      "x": 273,
+      "y": 304
     },
     "tags": [
       "item",
@@ -10476,10 +10294,9 @@
     "slug": "big-daddy",
     "sprite": {
       "height": 25,
-      "sheet": "b0bc91af",
       "width": 26,
-      "x": 78,
-      "y": 152
+      "x": 26,
+      "y": 256
     },
     "tags": [
       "item",
@@ -10516,10 +10333,9 @@
     "slug": "fanatic-mask",
     "sprite": {
       "height": 25,
-      "sheet": "b0bc91af",
       "width": 24,
-      "x": 189,
-      "y": 200
+      "x": 246,
+      "y": 306
     },
     "tags": [
       "item",
@@ -10556,10 +10372,9 @@
     "slug": "crown-of-thorns",
     "sprite": {
       "height": 22,
-      "sheet": "b0bc91af",
       "width": 28,
-      "x": 120,
-      "y": 0
+      "x": 287,
+      "y": 191
     },
     "tags": [
       "item",
@@ -10596,10 +10411,9 @@
     "slug": "shadow-blade",
     "sprite": {
       "height": 21,
-      "sheet": "b0bc91af",
       "width": 21,
-      "x": 305,
-      "y": 199
+      "x": 486,
+      "y": 376
     },
     "tags": [
       "item",
@@ -10608,7 +10422,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 290,
+    "colorOrder": 291,
     "desc": {
       "de": "Lasse nicht nach! Je mehr Gegner du ohne Unterbrechung triffst, desto mehr Waffenschaden fügst du zu.",
       "en-US": "Don't let up! The more enemies you hit without stopping, the more weapon damage you'll do.",
@@ -10636,10 +10450,9 @@
     "slug": "player-zero-ready",
     "sprite": {
       "height": 21,
-      "sheet": "b0bc91af",
       "width": 26,
       "x": 52,
-      "y": 169
+      "y": 276
     },
     "tags": [
       "item",
@@ -10676,10 +10489,9 @@
     "slug": "demon-book",
     "sprite": {
       "height": 23,
-      "sheet": "b0bc91af",
       "width": 22,
-      "x": 293,
-      "y": 176
+      "x": 265,
+      "y": 401
     },
     "tags": [
       "item",
@@ -10716,10 +10528,9 @@
     "slug": "ancient-mask",
     "sprite": {
       "height": 25,
-      "sheet": "b0bc91af",
       "width": 22,
-      "x": 164,
-      "y": 206
+      "x": 180,
+      "y": 306
     },
     "tags": [
       "item",
@@ -10728,7 +10539,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 327,
+    "colorOrder": 328,
     "desc": {
       "de": "Jedes Mal, wenn du einen Gegner tötest, besteht die Chance, dass du zusätzliche Schilde fallen lässt.",
       "en-US": "You have a chance to drop extra shields each time you kill an enemy.",
@@ -10756,10 +10567,9 @@
     "slug": "inorganic-mod",
     "sprite": {
       "height": 26,
-      "sheet": "b0bc91af",
       "width": 28,
-      "x": 127,
-      "y": 22
+      "x": 294,
+      "y": 213
     },
     "tags": [
       "item",
@@ -10768,7 +10578,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 347,
+    "colorOrder": 349,
     "desc": {
       "de": "Jedes Mal, wenn in diesem Raum ein Gegner getötet wird, erhöht sich dein Waffenschaden.",
       "en-US": "Each time an enemy is killed in this room, your weapon damage increases.",
@@ -10796,10 +10606,9 @@
     "slug": "grim-hood",
     "sprite": {
       "height": 28,
-      "sheet": "b0bc91af",
       "width": 26,
-      "x": 127,
-      "y": 79
+      "x": 278,
+      "y": 0
     },
     "tags": [
       "item",
@@ -10836,10 +10645,9 @@
     "slug": "most-wanted-list",
     "sprite": {
       "height": 23,
-      "sheet": "b0bc91af",
       "width": 23,
-      "x": 295,
-      "y": 147
+      "x": 232,
+      "y": 404
     },
     "tags": [
       "item",
@@ -10876,10 +10684,9 @@
     "slug": "boom-gloves",
     "sprite": {
       "height": 25,
-      "sheet": "b0bc91af",
       "width": 20,
-      "x": 164,
-      "y": 231
+      "x": 202,
+      "y": 306
     },
     "tags": [
       "item",
@@ -10916,10 +10723,9 @@
     "slug": "rainforest-souvenir",
     "sprite": {
       "height": 24,
-      "sheet": "b0bc91af",
       "width": 25,
-      "x": 184,
-      "y": 231
+      "x": 154,
+      "y": 324
     },
     "tags": [
       "item",
@@ -10956,10 +10762,9 @@
     "slug": "screwdriver",
     "sprite": {
       "height": 28,
-      "sheet": "b0bc91af",
       "width": 14,
-      "x": 148,
-      "y": 48
+      "x": 162,
+      "y": 179
     },
     "tags": [
       "item",
@@ -10968,7 +10773,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 299,
+    "colorOrder": 300,
     "desc": {
       "de": "Wenn du genug Gegner tötest, lässt du zusätzliche Schilde fallen.",
       "en-US": "Kill enough enemies, and you'll drop extra shields.",
@@ -10996,10 +10801,9 @@
     "slug": "prophet-chip",
     "sprite": {
       "height": 22,
-      "sheet": "b0bc91af",
       "width": 27,
-      "x": 153,
-      "y": 103
+      "x": 374,
+      "y": 82
     },
     "tags": [
       "item",
@@ -11036,10 +10840,9 @@
     "slug": "clay-doll",
     "sprite": {
       "height": 25,
-      "sheet": "b0bc91af",
       "width": 28,
-      "x": 155,
-      "y": 0
+      "x": 278,
+      "y": 28
     },
     "tags": [
       "item",
@@ -11076,10 +10879,9 @@
     "slug": "sacred-tears",
     "sprite": {
       "height": 27,
-      "sheet": "b0bc91af",
       "width": 18,
-      "x": 238,
-      "y": 53
+      "x": 387,
+      "y": 54
     },
     "tags": [
       "item",
@@ -11116,10 +10918,9 @@
     "slug": "plague-mask",
     "sprite": {
       "height": 25,
-      "sheet": "b0bc91af",
       "width": 29,
-      "x": 52,
-      "y": 56
+      "x": 104,
+      "y": 168
     },
     "tags": [
       "item",
@@ -11128,7 +10929,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 329,
+    "colorOrder": 330,
     "desc": {
       "de": "Wenn du genug Gegner tötest, lässt du zusätzliche Herzen fallen.",
       "en-US": "Kill enough enemies, and you'll drop extra hearts.",
@@ -11156,10 +10957,9 @@
     "slug": "death-believer",
     "sprite": {
       "height": 25,
-      "sheet": "b0bc91af",
       "width": 27,
-      "x": 180,
-      "y": 81
+      "x": 415,
+      "y": 187
     },
     "tags": [
       "item",
@@ -11196,10 +10996,9 @@
     "slug": "slayer-of-demons",
     "sprite": {
       "height": 21,
-      "sheet": "b0bc91af",
       "width": 30,
-      "x": 24,
-      "y": 28
+      "x": 0,
+      "y": 156
     },
     "tags": [
       "item",
@@ -11208,7 +11007,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 311,
+    "colorOrder": 312,
     "desc": {
       "de": "Jedes Mal, wenn in diesem Raum ein Gegner getötet wird, werden deine Augen schärfer und erhöht sich dein Angriffstempo.",
       "en-US": "Each time an enemy is killed in this room, your eye gets sharper, increasing your weapon attack speed.",
@@ -11236,10 +11035,9 @@
     "slug": "ready-aim-eye",
     "sprite": {
       "height": 23,
-      "sheet": "b0bc91af",
       "width": 23,
-      "x": 282,
-      "y": 225
+      "x": 164,
+      "y": 427
     },
     "tags": [
       "item",
@@ -11276,10 +11074,9 @@
     "slug": "b-virus",
     "sprite": {
       "height": 25,
-      "sheet": "b0bc91af",
       "width": 16,
-      "x": 197,
-      "y": 54
+      "x": 496,
+      "y": 101
     },
     "tags": [
       "item",
@@ -11316,10 +11113,9 @@
     "slug": "bullet-crown",
     "sprite": {
       "height": 18,
-      "sheet": "b0bc91af",
       "width": 24,
-      "x": 300,
-      "y": 0
+      "x": 0,
+      "y": 489
     },
     "tags": [
       "item",
@@ -11356,10 +11152,9 @@
     "slug": "air-force-medal",
     "sprite": {
       "height": 26,
-      "sheet": "b0bc91af",
       "width": 17,
-      "x": 130,
-      "y": 148
+      "x": 453,
+      "y": 236
     },
     "tags": [
       "item",
@@ -11396,10 +11191,9 @@
     "slug": "night-vision",
     "sprite": {
       "height": 25,
-      "sheet": "b0bc91af",
       "width": 25,
-      "x": 209,
-      "y": 225
+      "x": 122,
+      "y": 326
     },
     "tags": [
       "item",
@@ -11436,10 +11230,9 @@
     "slug": "samurai's-soul",
     "sprite": {
       "height": 26,
-      "sheet": "b0bc91af",
       "width": 27,
-      "x": 207,
-      "y": 80
+      "x": 391,
+      "y": 27
     },
     "tags": [
       "item",
@@ -11448,7 +11241,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 318,
+    "colorOrder": 319,
     "desc": {
       "de": "Kuckuck, hab ich dich! Es besteht die Chance, dass deine Geschosse Gegner verfolgen.",
       "en-US": "Peekaboo! I see you! There's a chance your bullets will track enemies.",
@@ -11476,10 +11269,9 @@
     "slug": "soldier-mask",
     "sprite": {
       "height": 25,
-      "sheet": "27569626",
       "width": 24,
-      "x": 120,
-      "y": 138
+      "x": 222,
+      "y": 313
     },
     "tags": [
       "item",
@@ -11516,10 +11308,9 @@
     "slug": "popcorn",
     "sprite": {
       "height": 26,
-      "sheet": "27569626",
       "width": 26,
-      "x": 221,
-      "y": 54
+      "x": 426,
+      "y": 256
     },
     "tags": [
       "item",
@@ -11556,10 +11347,9 @@
     "slug": "iron-crown",
     "sprite": {
       "height": 26,
-      "sheet": "27569626",
       "width": 28,
-      "x": 93,
-      "y": 29
+      "x": 304,
+      "y": 0
     },
     "tags": [
       "item",
@@ -11596,10 +11386,9 @@
     "slug": "seed-of-stone",
     "sprite": {
       "height": 25,
-      "sheet": "27569626",
       "width": 25,
-      "x": 144,
-      "y": 154
+      "x": 179,
+      "y": 331
     },
     "tags": [
       "item",
@@ -11608,7 +11397,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 271,
+    "colorOrder": 272,
     "desc": {
       "de": "Es besteht die Chance, dass sich dein Geschoss in mehrere Geschosse aufteilt. Ein wunderschönes Schauspiel des Todes.",
       "en-US": "There's a chance your bullet will split into extra bullets. A beautiful display of death.",
@@ -11636,10 +11425,9 @@
     "slug": "flowerpot",
     "sprite": {
       "height": 26,
-      "sheet": "27569626",
       "width": 26,
-      "x": 221,
-      "y": 80
+      "x": 78,
+      "y": 280
     },
     "tags": [
       "item",
@@ -11676,10 +11464,9 @@
     "slug": "fission-device",
     "sprite": {
       "height": 17,
-      "sheet": "27569626",
       "width": 24,
-      "x": 0,
-      "y": 171
+      "x": 48,
+      "y": 491
     },
     "tags": [
       "item",
@@ -11716,10 +11503,9 @@
     "slug": "cherry-taste",
     "sprite": {
       "height": 23,
-      "sheet": "27569626",
       "width": 21,
-      "x": 243,
-      "y": 166
+      "x": 164,
+      "y": 450
     },
     "tags": [
       "item",
@@ -11728,7 +11514,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 312,
+    "colorOrder": 313,
     "desc": {
       "de": "Ein Triumph der Wissenschaft! Deine Geschosse prallen nach Zufallsprinzip von der Wand ab.",
       "en-US": "The victory of science! Your bullet will randomly rebound when it hits the wall.",
@@ -11756,10 +11542,9 @@
     "slug": "elastic-gel",
     "sprite": {
       "height": 20,
-      "sheet": "27569626",
       "width": 25,
-      "x": 91,
-      "y": 154
+      "x": 147,
+      "y": 348
     },
     "tags": [
       "item",
@@ -11768,7 +11553,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 280,
+    "colorOrder": 281,
     "desc": {
       "de": "Einige deiner Geschosse verfügen über Schilde, die gegnerische Geschosse blocken.",
       "en-US": "Some of your bullets have shields that can block enemy bullets.",
@@ -11796,10 +11581,9 @@
     "slug": "atlantis-bubble",
     "sprite": {
       "height": 21,
-      "sheet": "27569626",
       "width": 21,
-      "x": 300,
-      "y": 224
+      "x": 337,
+      "y": 388
     },
     "tags": [
       "item",
@@ -11836,10 +11620,9 @@
     "slug": "danger-sign",
     "sprite": {
       "height": 21,
-      "sheet": "27569626",
       "width": 21,
-      "x": 315,
-      "y": 202
+      "x": 316,
+      "y": 407
     },
     "tags": [
       "item",
@@ -11876,10 +11659,9 @@
     "slug": "hot-chili",
     "sprite": {
       "height": 24,
-      "sheet": "27569626",
       "width": 23,
-      "x": 47,
-      "y": 161
+      "x": 70,
+      "y": 467
     },
     "tags": [
       "item",
@@ -11888,7 +11670,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 313,
+    "colorOrder": 314,
     "desc": {
       "de": "Halte deine Waffe kühl! Alle deine Geschosse verursachen jetzt Eisschaden.",
       "en-US": "Cool down your gun! All your bullets now deal ice damage.",
@@ -11916,10 +11698,9 @@
     "slug": "cooling-system",
     "sprite": {
       "height": 23,
-      "sheet": "27569626",
       "width": 20,
-      "x": 257,
-      "y": 215
+      "x": 167,
+      "y": 473
     },
     "tags": [
       "item",
@@ -11956,10 +11737,9 @@
     "slug": "bad-apple",
     "sprite": {
       "height": 25,
-      "sheet": "27569626",
       "width": 21,
-      "x": 197,
-      "y": 157
+      "x": 98,
+      "y": 332
     },
     "tags": [
       "item",
@@ -11968,7 +11748,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 295,
+    "colorOrder": 296,
     "desc": {
       "de": "Deine Geschosse durchdringen Gegner.",
       "en-US": "Your bullets can pass through enemies.",
@@ -11996,10 +11776,9 @@
     "slug": "x-ray",
     "sprite": {
       "height": 22,
-      "sheet": "27569626",
       "width": 21,
-      "x": 70,
-      "y": 166
+      "x": 256,
+      "y": 472
     },
     "tags": [
       "item",
@@ -12036,10 +11815,9 @@
     "slug": "gamma-ray",
     "sprite": {
       "height": 26,
-      "sheet": "27569626",
       "width": 26,
-      "x": 44,
-      "y": 109
+      "x": 470,
+      "y": 255
     },
     "tags": [
       "item",
@@ -12076,10 +11854,9 @@
     "slug": "ping-pong",
     "sprite": {
       "height": 26,
-      "sheet": "27569626",
       "width": 24,
-      "x": 70,
-      "y": 114
+      "x": 0,
+      "y": 281
     },
     "tags": [
       "item",
@@ -12088,7 +11865,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 306,
+    "colorOrder": 307,
     "desc": {
       "de": "Es besteht die Chance, dass du ein wärmesuchendes Geschoss abfeuerst.",
       "en-US": "There's a chance you'll fire a heat-seeking bullet.",
@@ -12116,10 +11893,9 @@
     "slug": "alien-tech",
     "sprite": {
       "height": 22,
-      "sheet": "27569626",
       "width": 26,
-      "x": 0,
-      "y": 128
+      "x": 24,
+      "y": 281
     },
     "tags": [
       "item",
@@ -12156,10 +11932,9 @@
     "slug": "imperial-force",
     "sprite": {
       "height": 26,
-      "sheet": "27569626",
       "width": 25,
-      "x": 26,
-      "y": 135
+      "x": 50,
+      "y": 297
     },
     "tags": [
       "item",
@@ -12196,10 +11971,9 @@
     "slug": "clown-hat",
     "sprite": {
       "height": 21,
-      "sheet": "27569626",
       "width": 26,
-      "x": 0,
-      "y": 150
+      "x": 24,
+      "y": 303
     },
     "tags": [
       "item",
@@ -12208,7 +11982,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 278,
+    "colorOrder": 279,
     "desc": {
       "de": "Es besteht die Chance, dass dein Geschoss abprallt und weiterfliegt.",
       "en-US": "There's a chance you'll fire a ricocheting bullet.",
@@ -12236,10 +12010,9 @@
     "slug": "hand-mirror",
     "sprite": {
       "height": 26,
-      "sheet": "27569626",
       "width": 21,
-      "x": 200,
-      "y": 105
+      "x": 0,
+      "y": 307
     },
     "tags": [
       "item",
@@ -12248,7 +12021,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 335,
+    "colorOrder": 336,
     "desc": {
       "de": "Es besteht die Chance, dass du eine wärmesuchende Rakete abfeuerst.",
       "en-US": "There's a chance you'll fire a heat-seeking rocket.",
@@ -12276,10 +12049,9 @@
     "slug": "rocket-mod",
     "sprite": {
       "height": 26,
-      "sheet": "27569626",
       "width": 22,
-      "x": 123,
-      "y": 112
+      "x": 347,
+      "y": 241
     },
     "tags": [
       "item",
@@ -12316,9 +12088,8 @@
     "slug": "beehive",
     "sprite": {
       "height": 27,
-      "sheet": "27569626",
       "width": 24,
-      "x": 148,
+      "x": 396,
       "y": 0
     },
     "tags": [
@@ -12356,10 +12127,9 @@
     "slug": "lithium-battery",
     "sprite": {
       "height": 27,
-      "sheet": "27569626",
       "width": 18,
-      "x": 145,
-      "y": 84
+      "x": 386,
+      "y": 104
     },
     "tags": [
       "item",
@@ -12396,10 +12166,9 @@
     "slug": "szechuan-sauce",
     "sprite": {
       "height": 27,
-      "sheet": "27569626",
       "width": 18,
-      "x": 163,
-      "y": 84
+      "x": 426,
+      "y": 212
     },
     "tags": [
       "item",
@@ -12436,10 +12205,9 @@
     "slug": "snow-globe",
     "sprite": {
       "height": 25,
-      "sheet": "27569626",
       "width": 20,
-      "x": 116,
-      "y": 163
+      "x": 119,
+      "y": 351
     },
     "tags": [
       "item",
@@ -12476,10 +12244,9 @@
     "slug": "gas-mask",
     "sprite": {
       "height": 19,
-      "sheet": "27569626",
       "width": 25,
-      "x": 169,
-      "y": 178
+      "x": 69,
+      "y": 351
     },
     "tags": [
       "item",
@@ -12516,10 +12283,9 @@
     "slug": "jelly-beans",
     "sprite": {
       "height": 23,
-      "sheet": "27569626",
       "width": 26,
-      "x": 172,
-      "y": 111
+      "x": 369,
+      "y": 241
     },
     "tags": [
       "item",
@@ -12556,10 +12322,9 @@
     "slug": "ghost-nail",
     "sprite": {
       "height": 25,
-      "sheet": "27569626",
       "width": 25,
-      "x": 136,
-      "y": 179
+      "x": 94,
+      "y": 357
     },
     "tags": [
       "item",
@@ -12596,10 +12361,9 @@
     "slug": "devil-hotline",
     "sprite": {
       "height": 23,
-      "sheet": "27569626",
       "width": 27,
-      "x": 164,
-      "y": 56
+      "x": 401,
+      "y": 81
     },
     "tags": [
       "item",
@@ -12636,10 +12400,9 @@
     "slug": "golden-fist",
     "sprite": {
       "height": 26,
-      "sheet": "27569626",
       "width": 26,
-      "x": 145,
-      "y": 128
+      "x": 369,
+      "y": 264
     },
     "tags": [
       "item",
@@ -12676,10 +12439,9 @@
     "slug": "golden-skulls",
     "sprite": {
       "height": 29,
-      "sheet": "27569626",
       "width": 25,
-      "x": 20,
-      "y": 0
+      "x": 86,
+      "y": 209
     },
     "tags": [
       "item",
@@ -12688,7 +12450,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 267,
+    "colorOrder": 268,
     "desc": {
       "de": "Je öfter du in diesem Raum deinen Nahkampfangriff nutzt, desto mehr Schaden verursacht er, solange du dich dort aufhältst.",
       "en-US": "While in this room, the more times you use your melee attack, the more damage it does.",
@@ -12716,10 +12478,9 @@
     "slug": "whetstone",
     "sprite": {
       "height": 25,
-      "sheet": "27569626",
       "width": 17,
-      "x": 27,
-      "y": 110
+      "x": 204,
+      "y": 331
     },
     "tags": [
       "item",
@@ -12756,10 +12517,9 @@
     "slug": "hunter-queen",
     "sprite": {
       "height": 24,
-      "sheet": "27569626",
       "width": 24,
-      "x": 72,
-      "y": 222
+      "x": 341,
+      "y": 341
     },
     "tags": [
       "item",
@@ -12796,10 +12556,9 @@
     "slug": "the-crowbar",
     "sprite": {
       "height": 24,
-      "sheet": "27569626",
       "width": 24,
-      "x": 47,
-      "y": 188
+      "x": 365,
+      "y": 341
     },
     "tags": [
       "item",
@@ -12836,10 +12595,9 @@
     "slug": "war-hammer",
     "sprite": {
       "height": 25,
-      "sheet": "27569626",
       "width": 25,
-      "x": 218,
-      "y": 166
+      "x": 69,
+      "y": 370
     },
     "tags": [
       "item",
@@ -12876,10 +12634,9 @@
     "slug": "furious-chicken",
     "sprite": {
       "height": 29,
-      "sheet": "27569626",
       "width": 24,
-      "x": 0,
-      "y": 30
+      "x": 111,
+      "y": 209
     },
     "tags": [
       "item",
@@ -12916,10 +12673,9 @@
     "slug": "toy-home-run-bat",
     "sprite": {
       "height": 28,
-      "sheet": "27569626",
       "width": 14,
-      "x": 110,
-      "y": 0
+      "x": 278,
+      "y": 53
     },
     "tags": [
       "item",
@@ -12956,10 +12712,9 @@
     "slug": "mjolnir",
     "sprite": {
       "height": 25,
-      "sheet": "27569626",
       "width": 22,
-      "x": 194,
-      "y": 182
+      "x": 44,
+      "y": 372
     },
     "tags": [
       "item",
@@ -12996,10 +12751,9 @@
     "slug": "eric's-candle",
     "sprite": {
       "height": 28,
-      "sheet": "27569626",
       "width": 18,
-      "x": 24,
-      "y": 54
+      "x": 280,
+      "y": 81
     },
     "tags": [
       "item",
@@ -13036,10 +12790,9 @@
     "slug": "hungry-amulet",
     "sprite": {
       "height": 25,
-      "sheet": "27569626",
       "width": 29,
-      "x": 24,
-      "y": 29
+      "x": 133,
+      "y": 179
     },
     "tags": [
       "item",
@@ -13076,10 +12829,9 @@
     "slug": "electric-drill",
     "sprite": {
       "height": 21,
-      "sheet": "27569626",
       "width": 24,
-      "x": 96,
-      "y": 222
+      "x": 72,
+      "y": 491
     },
     "tags": [
       "item",
@@ -13116,10 +12868,9 @@
     "slug": "knife-and-fork",
     "sprite": {
       "height": 26,
-      "sheet": "27569626",
       "width": 19,
-      "x": 51,
-      "y": 135
+      "x": 395,
+      "y": 266
     },
     "tags": [
       "item",
@@ -13156,10 +12907,9 @@
     "slug": "space-spanner",
     "sprite": {
       "height": 24,
-      "sheet": "27569626",
       "width": 24,
-      "x": 71,
-      "y": 188
+      "x": 389,
+      "y": 356
     },
     "tags": [
       "item",
@@ -13168,7 +12918,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 319,
+    "colorOrder": 320,
     "desc": {
       "de": "Wenn du einen Gegner mit Nahkampfschaden tötest, besteht die Chance, dass du zusätzliche Kristalle bekommst.",
       "en-US": "Each time you kill an enemy with melee damage, there's a chance you'll receive extra crystals.",
@@ -13196,10 +12946,9 @@
     "slug": "wizard-sword",
     "sprite": {
       "height": 23,
-      "sheet": "27569626",
       "width": 22,
-      "x": 260,
-      "y": 189
+      "x": 185,
+      "y": 450
     },
     "tags": [
       "item",
@@ -13236,10 +12985,9 @@
     "slug": "golden-bell",
     "sprite": {
       "height": 24,
-      "sheet": "27569626",
       "width": 22,
-      "x": 120,
-      "y": 222
+      "x": 319,
+      "y": 361
     },
     "tags": [
       "item",
@@ -13248,7 +12996,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 340,
+    "colorOrder": 342,
     "desc": {
       "de": "Erhalte Schilde, wenn du Gegner mit Nahkampfschaden tötest.",
       "en-US": "Gain shields after killing enemies with melee damage.",
@@ -13276,10 +13024,9 @@
     "slug": "kinetic-blade",
     "sprite": {
       "height": 26,
-      "sheet": "27569626",
       "width": 26,
-      "x": 94,
-      "y": 128
+      "x": 266,
+      "y": 256
     },
     "tags": [
       "item",
@@ -13316,10 +13063,9 @@
     "slug": "gladiator-helmet",
     "sprite": {
       "height": 24,
-      "sheet": "27569626",
       "width": 28,
-      "x": 93,
-      "y": 55
+      "x": 292,
+      "y": 53
     },
     "tags": [
       "item",
@@ -13356,10 +13102,9 @@
     "slug": "headband",
     "sprite": {
       "height": 18,
-      "sheet": "27569626",
       "width": 27,
-      "x": 0,
-      "y": 110
+      "x": 82,
+      "y": 238
     },
     "tags": [
       "item",
@@ -13396,10 +13141,9 @@
     "slug": "spear-of-destiny",
     "sprite": {
       "height": 24,
-      "sheet": "27569626",
       "width": 24,
-      "x": 95,
-      "y": 188
+      "x": 290,
+      "y": 363
     },
     "tags": [
       "item",
@@ -13436,10 +13180,9 @@
     "slug": "ordinary-gloves",
     "sprite": {
       "height": 28,
-      "sheet": "27569626",
       "width": 23,
-      "x": 0,
-      "y": 59
+      "x": 296,
+      "y": 109
     },
     "tags": [
       "item",
@@ -13476,10 +13219,9 @@
     "slug": "chainsaw-bayonet",
     "sprite": {
       "height": 22,
-      "sheet": "27569626",
       "width": 22,
-      "x": 247,
-      "y": 114
+      "x": 277,
+      "y": 446
     },
     "tags": [
       "item",
@@ -13516,10 +13258,9 @@
     "slug": "iron-frog",
     "sprite": {
       "height": 22,
-      "sheet": "27569626",
       "width": 27,
-      "x": 96,
-      "y": 106
+      "x": 405,
+      "y": 53
     },
     "tags": [
       "item",
@@ -13528,7 +13269,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 360,
+    "colorOrder": 362,
     "desc": {
       "de": "Feuert 10 wärmesuchende Geschosse ab, wenn die Bombe explodiert.",
       "en-US": "Launches 10 heat-seeking bullets after the bomb explodes.",
@@ -13556,10 +13297,9 @@
     "slug": "alien-toy",
     "sprite": {
       "height": 23,
-      "sheet": "27569626",
       "width": 28,
-      "x": 0,
-      "y": 87
+      "x": 306,
+      "y": 137
     },
     "tags": [
       "item",
@@ -13596,10 +13336,9 @@
     "slug": "party-popper",
     "sprite": {
       "height": 25,
-      "sheet": "27569626",
       "width": 25,
-      "x": 161,
-      "y": 197
+      "x": 0,
+      "y": 383
     },
     "tags": [
       "item",
@@ -13636,10 +13375,9 @@
     "slug": "ghost-bottle",
     "sprite": {
       "height": 28,
-      "sheet": "27569626",
       "width": 16,
-      "x": 28,
-      "y": 82
+      "x": 307,
+      "y": 160
     },
     "tags": [
       "item",
@@ -13648,7 +13386,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 296,
+    "colorOrder": 297,
     "desc": {
       "de": "Deine Bombe beseitigt alle Geschosse aus einem gewissen Bereich.",
       "en-US": "Your bomb will clear a certain area of bullets.",
@@ -13676,10 +13414,9 @@
     "slug": "smiley-bomb",
     "sprite": {
       "height": 23,
-      "sheet": "27569626",
       "width": 18,
-      "x": 277,
-      "y": 212
+      "x": 343,
+      "y": 188
     },
     "tags": [
       "item",
@@ -13716,10 +13453,9 @@
     "slug": "firecrackers",
     "sprite": {
       "height": 22,
-      "sheet": "27569626",
       "width": 20,
-      "x": 247,
-      "y": 136
+      "x": 296,
+      "y": 410
     },
     "tags": [
       "item",
@@ -13756,10 +13492,9 @@
     "slug": "blasting-cap-5000",
     "sprite": {
       "height": 22,
-      "sheet": "27569626",
       "width": 22,
-      "x": 264,
-      "y": 158
+      "x": 277,
+      "y": 468
     },
     "tags": [
       "item",
@@ -13796,10 +13531,9 @@
     "slug": "blasting-cap-101",
     "sprite": {
       "height": 22,
-      "sheet": "27569626",
       "width": 22,
-      "x": 267,
-      "y": 136
+      "x": 277,
+      "y": 490
     },
     "tags": [
       "item",
@@ -13836,10 +13570,9 @@
     "slug": "chemical-burn",
     "sprite": {
       "height": 24,
-      "sheet": "27569626",
       "width": 21,
-      "x": 142,
-      "y": 222
+      "x": 266,
+      "y": 377
     },
     "tags": [
       "item",
@@ -13876,10 +13609,9 @@
     "slug": "red-flag",
     "sprite": {
       "height": 23,
-      "sheet": "27569626",
       "width": 20,
-      "x": 240,
-      "y": 0
+      "x": 187,
+      "y": 427
     },
     "tags": [
       "item",
@@ -13916,10 +13648,9 @@
     "slug": "sapper-backpack",
     "sprite": {
       "height": 23,
-      "sheet": "27569626",
       "width": 24,
-      "x": 163,
-      "y": 222
+      "x": 93,
+      "y": 449
     },
     "tags": [
       "item",
@@ -13956,10 +13687,9 @@
     "slug": "nanotechnology",
     "sprite": {
       "height": 23,
-      "sheet": "27569626",
       "width": 23,
-      "x": 240,
-      "y": 23
+      "x": 207,
+      "y": 426
     },
     "tags": [
       "item",
@@ -13996,10 +13726,9 @@
     "slug": "plan-b",
     "sprite": {
       "height": 22,
-      "sheet": "27569626",
       "width": 22,
-      "x": 282,
-      "y": 180
+      "x": 442,
+      "y": 355
     },
     "tags": [
       "item",
@@ -14036,10 +13765,9 @@
     "slug": "shaman-mask",
     "sprite": {
       "height": 27,
-      "sheet": "27569626",
       "width": 28,
-      "x": 44,
-      "y": 58
+      "x": 306,
+      "y": 26
     },
     "tags": [
       "item",
@@ -14076,10 +13804,9 @@
     "slug": "matchbox",
     "sprite": {
       "height": 24,
-      "sheet": "27569626",
       "width": 28,
-      "x": 44,
-      "y": 85
+      "x": 315,
+      "y": 188
     },
     "tags": [
       "item",
@@ -14088,7 +13815,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 281,
+    "colorOrder": 282,
     "desc": {
       "de": "Du kannst ein Ei manuell am Schlüpfen hindern, indem du die ESC-Taste drückst.",
       "en-US": "You can manually cancel the hatching process of the egg by pressing [Cancel Key].",
@@ -14116,10 +13843,9 @@
     "slug": "eternal-stone",
     "sprite": {
       "height": 24,
-      "sheet": "27569626",
       "width": 20,
-      "x": 216,
-      "y": 191
+      "x": 166,
+      "y": 399
     },
     "tags": [
       "item",
@@ -14156,10 +13882,9 @@
     "slug": "vanilla-ice-cream",
     "sprite": {
       "height": 26,
-      "sheet": "27569626",
       "width": 21,
-      "x": 70,
-      "y": 140
+      "x": 292,
+      "y": 256
     },
     "tags": [
       "item",
@@ -14196,10 +13921,9 @@
     "slug": "acorn",
     "sprite": {
       "height": 22,
-      "sheet": "27569626",
       "width": 22,
-      "x": 286,
-      "y": 158
+      "x": 413,
+      "y": 376
     },
     "tags": [
       "item",
@@ -14236,10 +13960,9 @@
     "slug": "double-yolks",
     "sprite": {
       "height": 24,
-      "sheet": "27569626",
       "width": 26,
-      "x": 221,
-      "y": 106
+      "x": 313,
+      "y": 265
     },
     "tags": [
       "item",
@@ -14276,10 +13999,9 @@
     "slug": "roly-poly-toy",
     "sprite": {
       "height": 29,
-      "sheet": "27569626",
       "width": 23,
-      "x": 45,
-      "y": 0
+      "x": 135,
+      "y": 209
     },
     "tags": [
       "item",
@@ -14316,10 +14038,9 @@
     "slug": "black-rum",
     "sprite": {
       "height": 28,
-      "sheet": "27569626",
       "width": 16,
-      "x": 72,
-      "y": 58
+      "x": 323,
+      "y": 160
     },
     "tags": [
       "item",
@@ -14356,10 +14077,9 @@
     "slug": "chicken-burger",
     "sprite": {
       "height": 23,
-      "sheet": "27569626",
       "width": 23,
-      "x": 260,
-      "y": 0
+      "x": 187,
+      "y": 473
     },
     "tags": [
       "item",
@@ -14396,10 +14116,9 @@
     "slug": "monocle",
     "sprite": {
       "height": 22,
-      "sheet": "27569626",
       "width": 23,
-      "x": 247,
-      "y": 46
+      "x": 207,
+      "y": 449
     },
     "tags": [
       "item",
@@ -14408,7 +14127,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 349,
+    "colorOrder": 351,
     "desc": {
       "de": "Wenn ein Schlüpfen fehlschlägt, lässt du einen zusätzlichen Kristall fallen.",
       "en-US": "You will drop an extra crystal if you hatch an empty egg.",
@@ -14436,10 +14155,9 @@
     "slug": "grape-candy",
     "sprite": {
       "height": 28,
-      "sheet": "27569626",
       "width": 24,
-      "x": 72,
-      "y": 86
+      "x": 298,
+      "y": 77
     },
     "tags": [
       "item",
@@ -14476,10 +14194,9 @@
     "slug": "blueberry-cake",
     "sprite": {
       "height": 21,
-      "sheet": "27569626",
       "width": 26,
-      "x": 221,
-      "y": 130
+      "x": 339,
+      "y": 267
     },
     "tags": [
       "item",
@@ -14488,7 +14205,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 352,
+    "colorOrder": 354,
     "desc": {
       "de": "Je mehr Eier du hast, desto mehr Geschosse feuerst du ab.",
       "en-US": "The more eggs you have, the more bullets you will fire.",
@@ -14516,10 +14233,9 @@
     "slug": "doughnut",
     "sprite": {
       "height": 22,
-      "sheet": "27569626",
       "width": 24,
-      "x": 187,
-      "y": 207
+      "x": 133,
+      "y": 421
     },
     "tags": [
       "item",
@@ -14556,10 +14272,9 @@
     "slug": "lemon-jelly",
     "sprite": {
       "height": 22,
-      "sheet": "27569626",
       "width": 23,
-      "x": 263,
-      "y": 23
+      "x": 210,
+      "y": 471
     },
     "tags": [
       "item",
@@ -14596,10 +14311,9 @@
     "slug": "gingerbread-man",
     "sprite": {
       "height": 27,
-      "sheet": "27569626",
       "width": 19,
-      "x": 166,
-      "y": 27
+      "x": 404,
+      "y": 104
     },
     "tags": [
       "item",
@@ -14636,10 +14350,9 @@
     "slug": "protein-powder",
     "sprite": {
       "height": 25,
-      "sheet": "27569626",
       "width": 22,
-      "x": 0,
-      "y": 222
+      "x": 298,
+      "y": 314
     },
     "tags": [
       "item",
@@ -14676,10 +14389,9 @@
     "slug": "saturn-lollipop",
     "sprite": {
       "height": 27,
-      "sheet": "27569626",
       "width": 28,
-      "x": 96,
-      "y": 79
+      "x": 319,
+      "y": 105
     },
     "tags": [
       "item",
@@ -14716,10 +14428,9 @@
     "slug": "snack-box",
     "sprite": {
       "height": 24,
-      "sheet": "27569626",
       "width": 24,
-      "x": 187,
-      "y": 229
+      "x": 96,
+      "y": 472
     },
     "tags": [
       "item",
@@ -14728,7 +14439,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 268,
+    "colorOrder": 269,
     "desc": {
       "de": "Wenn Gegner Eier berühren, können die Eier Schaden verursachen.",
       "en-US": "Eggs can cause touch damage to enemies.",
@@ -14756,10 +14467,9 @@
     "slug": "mustard-poop",
     "sprite": {
       "height": 20,
-      "sheet": "27569626",
       "width": 23,
-      "x": 277,
-      "y": 235
+      "x": 230,
+      "y": 427
     },
     "tags": [
       "item",
@@ -14796,10 +14506,9 @@
     "slug": "gum-bear",
     "sprite": {
       "height": 26,
-      "sheet": "27569626",
       "width": 20,
-      "x": 198,
-      "y": 131
+      "x": 339,
+      "y": 288
     },
     "tags": [
       "item",
@@ -14836,10 +14545,9 @@
     "slug": "lion-headgear",
     "sprite": {
       "height": 28,
-      "sheet": "27569626",
       "width": 26,
-      "x": 121,
-      "y": 28
+      "x": 334,
+      "y": 132
     },
     "tags": [
       "item",
@@ -14848,7 +14556,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 353,
+    "colorOrder": 355,
     "desc": {
       "de": "Wenn du volles Leben hast, schlüpfen deine Eier immer erfolgreich.",
       "en-US": "When you're at full health, your eggs never fail to hatch.",
@@ -14876,10 +14584,9 @@
     "slug": "marshmallow",
     "sprite": {
       "height": 28,
-      "sheet": "27569626",
       "width": 24,
-      "x": 124,
-      "y": 0
+      "x": 339,
+      "y": 160
     },
     "tags": [
       "item",
@@ -14916,10 +14623,9 @@
     "slug": "strawberry-candy",
     "sprite": {
       "height": 28,
-      "sheet": "27569626",
       "width": 18,
-      "x": 124,
-      "y": 56
+      "x": 322,
+      "y": 212
     },
     "tags": [
       "item",
@@ -14956,10 +14662,9 @@
     "slug": "worst-blowing-gum",
     "sprite": {
       "height": 24,
-      "sheet": "27569626",
       "width": 25,
-      "x": 0,
-      "y": 188
+      "x": 270,
+      "y": 329
     },
     "tags": [
       "item",
@@ -14996,10 +14701,9 @@
     "slug": "candy-corn",
     "sprite": {
       "height": 22,
-      "sheet": "27569626",
       "width": 20,
-      "x": 295,
-      "y": 202
+      "x": 385,
+      "y": 380
     },
     "tags": [
       "item",
@@ -15036,10 +14740,9 @@
     "slug": "candy-cane",
     "sprite": {
       "height": 26,
-      "sheet": "27569626",
       "width": 17,
-      "x": 204,
-      "y": 0
+      "x": 161,
+      "y": 238
     },
     "tags": [
       "item",
@@ -15076,10 +14779,9 @@
     "slug": "chocolate-cookies",
     "sprite": {
       "height": 24,
-      "sheet": "27569626",
       "width": 24,
-      "x": 211,
-      "y": 215
+      "x": 117,
+      "y": 443
     },
     "tags": [
       "item",
@@ -15116,10 +14818,9 @@
     "slug": "chocolate-coin",
     "sprite": {
       "height": 24,
-      "sheet": "27569626",
       "width": 27,
-      "x": 172,
-      "y": 0
+      "x": 418,
+      "y": 27
     },
     "tags": [
       "item",
@@ -15128,7 +14829,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 362,
+    "colorOrder": 364,
     "desc": {
       "de": "Jedes Mal, wenn sich dein Begleiter entwickelt, lässt du 2 Kristalle fallen.",
       "en-US": "Every time your pet evolves, you'll drop 2 crystals.",
@@ -15156,10 +14857,9 @@
     "slug": "crystal-hard-candy",
     "sprite": {
       "height": 23,
-      "sheet": "27569626",
       "width": 23,
-      "x": 283,
-      "y": 0
+      "x": 230,
+      "y": 447
     },
     "tags": [
       "item",
@@ -15196,10 +14896,9 @@
     "slug": "rainbow-candy",
     "sprite": {
       "height": 18,
-      "sheet": "27569626",
       "width": 26,
-      "x": 171,
-      "y": 134
+      "x": 131,
+      "y": 259
     },
     "tags": [
       "item",
@@ -15236,10 +14935,9 @@
     "slug": "toffee-apple",
     "sprite": {
       "height": 28,
-      "sheet": "27569626",
       "width": 21,
-      "x": 124,
-      "y": 84
+      "x": 340,
+      "y": 212
     },
     "tags": [
       "item",
@@ -15276,10 +14974,9 @@
     "slug": "nougat",
     "sprite": {
       "height": 22,
-      "sheet": "27569626",
       "width": 25,
-      "x": 22,
-      "y": 222
+      "x": 320,
+      "y": 314
     },
     "tags": [
       "item",
@@ -15288,7 +14985,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 269,
+    "colorOrder": 270,
     "desc": {
       "de": "Jedes Mal, wenn sich dein Begleiter entwickelt, lässt du einen halben Schild fallen.",
       "en-US": "Every time your pet evolves, you'll drop half a shield.",
@@ -15316,10 +15013,9 @@
     "slug": "hard-mints",
     "sprite": {
       "height": 25,
-      "sheet": "27569626",
       "width": 25,
-      "x": 47,
-      "y": 222
+      "x": 345,
+      "y": 316
     },
     "tags": [
       "item",
@@ -15356,10 +15052,9 @@
     "slug": "hero-mask",
     "sprite": {
       "height": 25,
-      "sheet": "27569626",
       "width": 22,
-      "x": 25,
-      "y": 188
+      "x": 246,
+      "y": 331
     },
     "tags": [
       "item",
@@ -15396,10 +15091,9 @@
     "slug": "space-helmet",
     "sprite": {
       "height": 26,
-      "sheet": "27569626",
       "width": 26,
-      "x": 171,
-      "y": 152
+      "x": 359,
+      "y": 290
     },
     "tags": [
       "item",
@@ -15436,10 +15130,9 @@
     "slug": "rabbit-ears",
     "sprite": {
       "height": 24,
-      "sheet": "27569626",
       "width": 22,
-      "x": 235,
-      "y": 215
+      "x": 243,
+      "y": 380
     },
     "tags": [
       "item",
@@ -15476,10 +15169,9 @@
     "slug": "ninja-costume",
     "sprite": {
       "height": 24,
-      "sheet": "27569626",
       "width": 24,
-      "x": 236,
-      "y": 191
+      "x": 120,
+      "y": 467
     },
     "tags": [
       "item",
@@ -15488,7 +15180,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 300,
+    "colorOrder": 301,
     "desc": {
       "de": "Er fängt den Wind – genau wie du! Erhalte einen zusätzlichen Sprung.",
       "en-US": "It catches the wind - just like you! You can make an extra jump.",
@@ -15516,10 +15208,9 @@
     "slug": "carp-streamer",
     "sprite": {
       "height": 15,
-      "sheet": "27569626",
       "width": 26,
-      "x": 218,
-      "y": 151
+      "x": 104,
+      "y": 193
     },
     "tags": [
       "item",
@@ -15556,10 +15247,9 @@
     "slug": "traveler-hood",
     "sprite": {
       "height": 25,
-      "sheet": "27569626",
       "width": 21,
-      "x": 26,
-      "y": 161
+      "x": 320,
+      "y": 336
     },
     "tags": [
       "item",
@@ -15568,7 +15258,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 320,
+    "colorOrder": 321,
     "desc": {
       "de": "Die kleinen Flügel sind extrem niedlich. Und sie lassen dich einmal mehr springen.",
       "en-US": "The little wings are so darn cute. And they let you make an extra jump.",
@@ -15596,10 +15286,9 @@
     "slug": "winged-hat",
     "sprite": {
       "height": 17,
-      "sheet": "27569626",
       "width": 27,
-      "x": 145,
-      "y": 111
+      "x": 426,
+      "y": 239
     },
     "tags": [
       "item",
@@ -15636,10 +15325,9 @@
     "slug": "eight-ball",
     "sprite": {
       "height": 20,
-      "sheet": "27569626",
       "width": 20,
-      "x": 321,
-      "y": 223
+      "x": 358,
+      "y": 388
     },
     "tags": [
       "item",
@@ -15676,10 +15364,9 @@
     "slug": "iron-windmill",
     "sprite": {
       "height": 23,
-      "sheet": "27569626",
       "width": 23,
-      "x": 247,
-      "y": 68
+      "x": 233,
+      "y": 470
     },
     "tags": [
       "item",
@@ -15688,7 +15375,7 @@
   },
   {
     "category": "pet",
-    "colorOrder": 325,
+    "colorOrder": 326,
     "desc": {
       "de": "Dieser kleine Ziegel blockt gegnerische Geschosse. Bei Tod: Es besteht die Chance, dass du noch einen Blauen Ziegel erhältst.",
       "en-US": "This little brick blocks enemies' bullets. On Death: you have the chance to get another Blue Brick.",
@@ -15716,10 +15403,9 @@
     "slug": "blue-brick",
     "sprite": {
       "height": 22,
-      "sheet": "27569626",
       "width": 22,
-      "x": 304,
-      "y": 180
+      "x": 464,
+      "y": 355
     },
     "tags": [
       "item",
@@ -15756,10 +15442,9 @@
     "slug": "sea-monster",
     "sprite": {
       "height": 23,
-      "sheet": "27569626",
       "width": 22,
-      "x": 247,
-      "y": 91
+      "x": 253,
+      "y": 427
     },
     "tags": [
       "item",
@@ -15796,10 +15481,9 @@
     "slug": "vibrant-ball",
     "sprite": {
       "height": 20,
-      "sheet": "27569626",
       "width": 20,
-      "x": 269,
-      "y": 91
+      "x": 435,
+      "y": 377
     },
     "tags": [
       "item",
@@ -15808,7 +15492,7 @@
   },
   {
     "category": "pet",
-    "colorOrder": 282,
+    "colorOrder": 283,
     "desc": {
       "de": "Er schießt automatisch auf Gegner.",
       "en-US": "He shoots enemies automatically.",
@@ -15836,10 +15520,9 @@
     "slug": "adam",
     "sprite": {
       "height": 27,
-      "sheet": "27569626",
       "width": 19,
-      "x": 185,
-      "y": 24
+      "x": 420,
+      "y": 0
     },
     "tags": [
       "item",
@@ -15876,10 +15559,9 @@
     "slug": "alien-baby",
     "sprite": {
       "height": 27,
-      "sheet": "27569626",
       "width": 19,
-      "x": 181,
-      "y": 79
+      "x": 439,
+      "y": 0
     },
     "tags": [
       "item",
@@ -15916,10 +15598,9 @@
     "slug": "little-bear",
     "sprite": {
       "height": 29,
-      "sheet": "27569626",
       "width": 21,
-      "x": 53,
-      "y": 29
+      "x": 158,
+      "y": 209
     },
     "tags": [
       "item",
@@ -15956,10 +15637,9 @@
     "slug": "cactus-baby",
     "sprite": {
       "height": 29,
-      "sheet": "27569626",
       "width": 23,
-      "x": 68,
-      "y": 0
+      "x": 179,
+      "y": 193
     },
     "tags": [
       "item",
@@ -15996,10 +15676,9 @@
     "slug": "fire-devil",
     "sprite": {
       "height": 29,
-      "sheet": "27569626",
       "width": 19,
-      "x": 74,
-      "y": 29
+      "x": 179,
+      "y": 222
     },
     "tags": [
       "item",
@@ -16036,10 +15715,9 @@
     "slug": "flower",
     "sprite": {
       "height": 30,
-      "sheet": "27569626",
       "width": 20,
       "x": 0,
-      "y": 0
+      "y": 177
     },
     "tags": [
       "item",
@@ -16048,7 +15726,7 @@
   },
   {
     "category": "pet",
-    "colorOrder": 368,
+    "colorOrder": 370,
     "desc": {
       "de": "Es feuert automatisch durchdringende Geschosse auf Gegner ab. Bei Tod: Du wirst eine kurze Zeit lang vor Schaden bewahrt.",
       "en-US": "She fires penetrating bullets at enemies automatically. On Death: protect you from damage for a short time.",
@@ -16076,10 +15754,9 @@
     "slug": "ghost-baby",
     "sprite": {
       "height": 29,
-      "sheet": "27569626",
       "width": 19,
-      "x": 91,
-      "y": 0
+      "x": 198,
+      "y": 222
     },
     "tags": [
       "item",
@@ -16088,7 +15765,7 @@
   },
   {
     "category": "pet",
-    "colorOrder": 367,
+    "colorOrder": 369,
     "desc": {
       "de": "Er feuert Geschosse in zufällige Richtungen ab.",
       "en-US": "He fires bullets in random directions.",
@@ -16116,10 +15793,9 @@
     "slug": "jack",
     "sprite": {
       "height": 27,
-      "sheet": "27569626",
       "width": 19,
-      "x": 191,
-      "y": 51
+      "x": 410,
+      "y": 131
     },
     "tags": [
       "item",
@@ -16156,10 +15832,9 @@
     "slug": "tiny-mummy",
     "sprite": {
       "height": 27,
-      "sheet": "27569626",
       "width": 21,
-      "x": 200,
-      "y": 78
+      "x": 423,
+      "y": 104
     },
     "tags": [
       "item",
@@ -16196,10 +15871,9 @@
     "slug": "grabber",
     "sprite": {
       "height": 28,
-      "sheet": "27569626",
       "width": 22,
-      "x": 142,
-      "y": 56
+      "x": 322,
+      "y": 53
     },
     "tags": [
       "item",
@@ -16208,7 +15882,7 @@
   },
   {
     "category": "pet",
-    "colorOrder": 291,
+    "colorOrder": 292,
     "desc": {
       "de": "Er sammelt Herzen und es besteht die Chance, dass er dir Schilde gibt. Bei Tod: Lasse zufällige Schilde fallen.",
       "en-US": "He collects hearts and has a chance to give you shields. On Death: drop random shields.",
@@ -16236,10 +15910,9 @@
     "slug": "blue-doctor",
     "sprite": {
       "height": 27,
-      "sheet": "27569626",
       "width": 19,
-      "x": 221,
-      "y": 0
+      "x": 427,
+      "y": 158
     },
     "tags": [
       "item",
@@ -16276,10 +15949,9 @@
     "slug": "snow-boy",
     "sprite": {
       "height": 27,
-      "sheet": "27569626",
       "width": 19,
-      "x": 221,
-      "y": 27
+      "x": 442,
+      "y": 185
     },
     "tags": [
       "item",
@@ -16316,10 +15988,48 @@
     "slug": "rock",
     "sprite": {
       "height": 20,
-      "sheet": "27569626",
       "width": 20,
-      "x": 269,
-      "y": 111
+      "x": 455,
+      "y": 377
+    },
+    "tags": [
+      "item",
+      "pet"
+    ]
+  },
+  {
+    "category": "pet",
+    "colorOrder": 263,
+    "desc": {
+      "de": "Sie feuert mit giftigen Geschossen auf Gegner. Wenn sie verletzt wird, spaltet sie sich in zwei Zombieschwestern auf.",
+      "en-US": "She shoots poison bullets at enemies. She splits into two zombie sisters after getting hurt.",
+      "es": "Dispara balas de veneno a los enemigos. Cuando la hieren, se divide en dos hermanas zombis.",
+      "fr": "Tire des balles empoisonnées sur les ennemis. Quand elle est blessée, elle se sépare en deux sœurs zombies.",
+      "it": "Spara proiettili velenosi ai nemici. Se colpita, si divide in due sorelle zombie.",
+      "ja": "敵に向かって毒の弾を発射する女の子。ダメージを受けると2人のゾンビシスターに分裂する。",
+      "ru": "Стреляет во врагов ядовитыми пулями. Разделяется на двух зомби-сестренок, когда ей наносят урон.",
+      "zh": "发射毒液球攻击敌人。受伤会分裂为两个僵尸妹妹。",
+      "zh-CN": "发射毒液球攻击敌人。受伤会分裂为两个僵尸妹妹。",
+      "zh-TW": "對敵人發射毒性子彈。受傷時會分裂成兩個殭屍妹。"
+    },
+    "name": {
+      "de": "ZOMBIESCHWESTER",
+      "en-US": "ZOMBIE SISTER",
+      "es": "HERMANA ZOMBI",
+      "fr": "SŒUR ZOMBIE",
+      "it": "SORELLA ZOMBIE",
+      "ja": "ゾンビシスター",
+      "ru": "ЗОМБИ-СЕСТРЕНКА",
+      "zh": "绿皮妹妹",
+      "zh-CN": "僵尸妹妹",
+      "zh-TW": "殭屍妹"
+    },
+    "slug": "zombie-sister",
+    "sprite": {
+      "height": 27,
+      "width": 19,
+      "x": 429,
+      "y": 131
     },
     "tags": [
       "item",
@@ -16356,10 +16066,9 @@
     "slug": "peter",
     "sprite": {
       "height": 28,
-      "sheet": "27569626",
       "width": 19,
-      "x": 147,
-      "y": 28
+      "x": 334,
+      "y": 0
     },
     "tags": [
       "item",

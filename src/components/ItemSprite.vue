@@ -2,7 +2,7 @@
     <div class="item-img">
         <div class="img">
             <img
-                    :src="`${publicPath}spritesheet-${sprite.sheet}.png`"
+                    :src="`${publicPath}spritesheet.png`"
                     :style="{
                                 'width': `${sprite.width}px`,
                                 'height': `${sprite.height}px`,
