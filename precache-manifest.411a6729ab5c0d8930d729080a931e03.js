@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/cost/mana.png"
   },
   {
-    "revision": "a2e9b3307edc290d20a9",
+    "revision": "cf191d7fbae1809c67f6",
     "url": "/AbyssExplorer/css/app.e641c6fd.css"
   },
   {
@@ -88,12 +88,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/icon/96.png"
   },
   {
-    "revision": "65db410ac2e97fbd060b0557bc31a982",
+    "revision": "46faaaf5c28d6f62119003ced4cfdfa2",
     "url": "/AbyssExplorer/index.html"
   },
   {
-    "revision": "a2e9b3307edc290d20a9",
-    "url": "/AbyssExplorer/js/app.e66bbe99.js"
+    "revision": "cf191d7fbae1809c67f6",
+    "url": "/AbyssExplorer/js/app.52f92188.js"
   },
   {
     "revision": "25610484282e54767954",
@@ -108,16 +108,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/robots.txt"
   },
   {
-    "revision": "275696260fc61f1877541ea360989c8a",
-    "url": "/AbyssExplorer/spritesheet-27569626.png"
-  },
-  {
-    "revision": "30aff9f5d44e7657bcbc203a0a12420e",
-    "url": "/AbyssExplorer/spritesheet-30aff9f5.png"
-  },
-  {
-    "revision": "b0bc91afa50f352d9120567ad28452ee",
-    "url": "/AbyssExplorer/spritesheet-b0bc91af.png"
+    "revision": "fad6426bb6802df5c3b550d272da2486",
+    "url": "/AbyssExplorer/spritesheet.png"
   },
   {
     "revision": "559956ea7a27b1541351a337820f4b75",
