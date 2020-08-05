@@ -2015,36 +2015,36 @@
   },
   {
     "bulletTypes": [
-      "curve"
+      "laser"
     ],
     "category": "weapon",
-    "colorOrder": 358,
+    "colorOrder": 7,
     "desc": {
-      "de": "Überbringe ewige Romantik.",
-      "en-US": "Delivering eternal romance.",
-      "es": "Entrega de amor eterno.",
-      "fr": "Offre l'amour éternel.",
-      "it": "Una consegna d'amore.",
-      "ja": "永遠のロマンスをお届け。",
-      "ru": "Доставляет вечную любовь.",
-      "zh": "传递永恒的浪漫。",
-      "zh-CN": "传递永恒的浪漫。",
-      "zh-TW": "傳遞永恆的浪漫。"
+      "de": "Das Flüstern in der Dunkelheit ...",
+      "en-US": "The whisper in the dark…",
+      "es": "El susurro en la oscuridad...",
+      "fr": "Un murmure dans les ténèbres...",
+      "it": "Un mormorio nel buio...",
+      "ja": "これは暗闇の中のささやき…",
+      "ru": "Шепот во тьме...",
+      "zh": "黑暗中的低语…",
+      "zh-CN": "黑暗中的低语…",
+      "zh-TW": "黑暗中的細語..."
     },
     "name": {
-      "de": "BOTE",
-      "en-US": "MESSENGER",
-      "es": "MENSAJERO",
-      "fr": "MESSAGER",
-      "it": "MESSAGGERO",
-      "ja": "メッセンジャー",
-      "ru": "ПОСЛАННИК",
-      "zh": "信使",
-      "zh-CN": "信使",
-      "zh-TW": "信使"
+      "de": "SCHWARZER RABE",
+      "en-US": "BLACK RAVEN",
+      "es": "CUERVO NEGRO",
+      "fr": "CORBEAU NOIR",
+      "it": "CORVO NERO",
+      "ja": "ブラックレイヴン",
+      "ru": "ЧЕРНЫЙ ВОРОН",
+      "zh": "渡鸦",
+      "zh-CN": "渡鸦",
+      "zh-TW": "渡鴉"
     },
-    "rpm": 200,
-    "slug": "messenger",
+    "rpm": 300,
+    "slug": "black-raven",
     "sprite": {
       "height": 19,
       "width": 32,
@@ -2057,43 +2057,26 @@
     "variants": [
       {
         "desc": {
-          "de": "[Aktiver Gegenstand] Lasse einen Kristall fallen. Kostet 2 Kristalle.",
-          "en-US": "[Active Item] Drop a crystal. Cost 2 crystals.",
-          "es": "[Objeto activo] Suelta un cristal. Cuesta 2 cristales.",
-          "fr": "[Objet actif] Laisse un cristal. Coûte 2 cristaux.",
-          "it": "[Oggetto attivo] Rilascia un cristallo. Costo: 2 cristalli.",
-          "ja": "[アクティブアイテム] クリスタルを1つドロップする。クリスタルを2消費。",
-          "ru": "[Активный предмет] Выпадает кристалл. Расходует 2 кристалла.",
-          "zh": "【主动技能】放置一个水晶。消耗2水晶。",
-          "zh-CN": "【主动技能】放置一个水晶。消耗2水晶。",
-          "zh-TW": "【主動道具】掉出一個水晶。消耗2個水晶。"
+          "de": "[Aktiver Gegenstand] Sprenge dich selbst! Du verlierst ein halbes Herz und 1 Kristall.",
+          "en-US": "[Active Item] Detonate yourself! Cost half a heart and 1 crystal.",
+          "es": "[Objeto activo] ¡Autodestrúyete! Cuesta medio corazón y 1 cristal.",
+          "fr": "[Objet actif] Faites-vous exploser ! Coûte 1 demi-cœur et 1 cristal.",
+          "it": "[Oggetto attivo] Fatti esplodere! Costo: metà cuore e 1 cristallo.",
+          "ja": "[アクティブアイテム] 自分を爆発させる！ ハート半分とクリスタルを1消費。",
+          "ru": "[Активный предмет] Вы можете взорвать себя! Расходует половину сердца и один кристалл.",
+          "zh": "【主动技能】产生一次自爆。消耗半个红心和1水晶。",
+          "zh-CN": "【主动技能】产生一次自爆。消耗半个红心和1水晶。",
+          "zh-TW": "【主動道具】引爆自己！消耗半顆紅心和1個水晶。"
         },
-        "secSkill": "2_power_place_mana",
+        "secSkill": "2_power_self_explo",
         "secSkillCosts": [
           {
-            "count": 2,
+            "count": 1,
             "type": "mana"
-          }
-        ]
-      },
-      {
-        "desc": {
-          "de": "[Aktiver Gegenstand] Werte deine Waffe auf, solange du in diesem Raum bist. Kostet 3 Kristalle.",
-          "en-US": "[Active Item] Upgrade your gun while you're in this room. Cost 3 crystals.",
-          "es": "[Objeto activo] Mejora tu arma mientras estás en esta sala. Cuesta 3 cristales.",
-          "fr": "[Objet actif] Améliore votre arme dans la salle actuelle. Coûte 3 cristaux.",
-          "it": "[Oggetto attivo] Potenzia l'arma fino a quando resti nella stanza. Costo: 3 cristalli.",
-          "ja": "[アクティブアイテム] 現在の部屋にいる間、銃をアップグレードする。クリスタルを3消費。",
-          "ru": "[Активный предмет] Улучшает ваше огнестрельное оружие, пока вы находитесь в текущей комнате. Расходует 3 кристалла.",
-          "zh": "【主动技能】提高你的武器等级（只在当前房间内有效）。消耗3水晶。",
-          "zh-CN": "【主动技能】提高你的武器等级（只在当前房间内有效）。消耗3水晶。",
-          "zh-TW": "【主動道具】趁你在該房間時升級槍。消耗3個水晶。"
-        },
-        "secSkill": "2_power_room_gunUP",
-        "secSkillCosts": [
+          },
           {
-            "count": 3,
-            "type": "mana"
+            "count": 0.5,
+            "type": "heart"
           }
         ]
       }
@@ -3069,36 +3052,36 @@
   },
   {
     "bulletTypes": [
-      "laser"
+      "curve"
     ],
     "category": "weapon",
-    "colorOrder": 7,
+    "colorOrder": 358,
     "desc": {
-      "de": "Das Flüstern in der Dunkelheit ...",
-      "en-US": "The whisper in the dark…",
-      "es": "El susurro en la oscuridad...",
-      "fr": "Un murmure dans les ténèbres...",
-      "it": "Un mormorio nel buio...",
-      "ja": "これは暗闇の中のささやき…",
-      "ru": "Шепот во тьме...",
-      "zh": "黑暗中的低语…",
-      "zh-CN": "黑暗中的低语…",
-      "zh-TW": "黑暗中的細語..."
+      "de": "Überbringe ewige Romantik.",
+      "en-US": "Delivering eternal romance.",
+      "es": "Entrega de amor eterno.",
+      "fr": "Offre l'amour éternel.",
+      "it": "Una consegna d'amore.",
+      "ja": "永遠のロマンスをお届け。",
+      "ru": "Доставляет вечную любовь.",
+      "zh": "传递永恒的浪漫。",
+      "zh-CN": "传递永恒的浪漫。",
+      "zh-TW": "傳遞永恆的浪漫。"
     },
     "name": {
-      "de": "SCHWARZER RABE",
-      "en-US": "BLACK RAVEN",
-      "es": "CUERVO NEGRO",
-      "fr": "CORBEAU NOIR",
-      "it": "CORVO NERO",
-      "ja": "ブラックレイヴン",
-      "ru": "ЧЕРНЫЙ ВОРОН",
-      "zh": "渡鸦",
-      "zh-CN": "渡鸦",
-      "zh-TW": "渡鴉"
+      "de": "BOTE",
+      "en-US": "MESSENGER",
+      "es": "MENSAJERO",
+      "fr": "MESSAGER",
+      "it": "MESSAGGERO",
+      "ja": "メッセンジャー",
+      "ru": "ПОСЛАННИК",
+      "zh": "信使",
+      "zh-CN": "信使",
+      "zh-TW": "信使"
     },
-    "rpm": 300,
-    "slug": "black-raven",
+    "rpm": 200,
+    "slug": "messenger",
     "sprite": {
       "height": 20,
       "width": 32,
@@ -3111,26 +3094,43 @@
     "variants": [
       {
         "desc": {
-          "de": "[Aktiver Gegenstand] Sprenge dich selbst! Du verlierst ein halbes Herz und 1 Kristall.",
-          "en-US": "[Active Item] Detonate yourself! Cost half a heart and 1 crystal.",
-          "es": "[Objeto activo] ¡Autodestrúyete! Cuesta medio corazón y 1 cristal.",
-          "fr": "[Objet actif] Faites-vous exploser ! Coûte 1 demi-cœur et 1 cristal.",
-          "it": "[Oggetto attivo] Fatti esplodere! Costo: metà cuore e 1 cristallo.",
-          "ja": "[アクティブアイテム] 自分を爆発させる！ ハート半分とクリスタルを1消費。",
-          "ru": "[Активный предмет] Вы можете взорвать себя! Расходует половину сердца и один кристалл.",
-          "zh": "【主动技能】产生一次自爆。消耗半个红心和1水晶。",
-          "zh-CN": "【主动技能】产生一次自爆。消耗半个红心和1水晶。",
-          "zh-TW": "【主動道具】引爆自己！消耗半顆紅心和1個水晶。"
+          "de": "[Aktiver Gegenstand] Lasse einen Kristall fallen. Kostet 2 Kristalle.",
+          "en-US": "[Active Item] Drop a crystal. Cost 2 crystals.",
+          "es": "[Objeto activo] Suelta un cristal. Cuesta 2 cristales.",
+          "fr": "[Objet actif] Laisse un cristal. Coûte 2 cristaux.",
+          "it": "[Oggetto attivo] Rilascia un cristallo. Costo: 2 cristalli.",
+          "ja": "[アクティブアイテム] クリスタルを1つドロップする。クリスタルを2消費。",
+          "ru": "[Активный предмет] Выпадает кристалл. Расходует 2 кристалла.",
+          "zh": "【主动技能】放置一个水晶。消耗2水晶。",
+          "zh-CN": "【主动技能】放置一个水晶。消耗2水晶。",
+          "zh-TW": "【主動道具】掉出一個水晶。消耗2個水晶。"
         },
-        "secSkill": "2_power_self_explo",
+        "secSkill": "2_power_place_mana",
         "secSkillCosts": [
           {
-            "count": 1,
+            "count": 2,
             "type": "mana"
-          },
+          }
+        ]
+      },
+      {
+        "desc": {
+          "de": "[Aktiver Gegenstand] Werte deine Waffe auf, solange du in diesem Raum bist. Kostet 3 Kristalle.",
+          "en-US": "[Active Item] Upgrade your gun while you're in this room. Cost 3 crystals.",
+          "es": "[Objeto activo] Mejora tu arma mientras estás en esta sala. Cuesta 3 cristales.",
+          "fr": "[Objet actif] Améliore votre arme dans la salle actuelle. Coûte 3 cristaux.",
+          "it": "[Oggetto attivo] Potenzia l'arma fino a quando resti nella stanza. Costo: 3 cristalli.",
+          "ja": "[アクティブアイテム] 現在の部屋にいる間、銃をアップグレードする。クリスタルを3消費。",
+          "ru": "[Активный предмет] Улучшает ваше огнестрельное оружие, пока вы находитесь в текущей комнате. Расходует 3 кристалла.",
+          "zh": "【主动技能】提高你的武器等级（只在当前房间内有效）。消耗3水晶。",
+          "zh-CN": "【主动技能】提高你的武器等级（只在当前房间内有效）。消耗3水晶。",
+          "zh-TW": "【主動道具】趁你在該房間時升級槍。消耗3個水晶。"
+        },
+        "secSkill": "2_power_room_gunUP",
+        "secSkillCosts": [
           {
-            "count": 0.5,
-            "type": "heart"
+            "count": 3,
+            "type": "mana"
           }
         ]
       }
