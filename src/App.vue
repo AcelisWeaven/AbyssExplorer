@@ -961,7 +961,12 @@
     // preprocess strings for search, helps with performance
 
     function normalize(str) {
-        return str.normalize('NFD').replace(/[\u0300-\u036f]/g, "").toLowerCase();
+        return str
+            .normalize('NFD')
+            .toLowerCase()
+            .replace(/[\u0300-\u036f]/g, '')
+            .replace('œ', 'oe')
+            .replace('æ', 'ae')
     }
 
     for (let item of processedItems) {
