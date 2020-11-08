@@ -4,24 +4,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/browserconfig.xml"
   },
   {
-    "revision": "29667f3dd45d33a87518f69c430923bc",
-    "url": "/AbyssExplorer/cost/bomb.png"
-  },
-  {
-    "revision": "e8cf065dfd3faee3d0452ededbeaa0a8",
-    "url": "/AbyssExplorer/cost/coin.png"
-  },
-  {
-    "revision": "de89bfd1bde2422369f4fb42bf15d807",
-    "url": "/AbyssExplorer/cost/heart.png"
-  },
-  {
-    "revision": "106f2fad2c47db6989e23cf5f2df8e5b",
-    "url": "/AbyssExplorer/cost/mana.png"
-  },
-  {
-    "revision": "2d3a08897c95ad02932b",
-    "url": "/AbyssExplorer/css/app.f983863e.css"
+    "revision": "47d8dec2891600c839cf",
+    "url": "/AbyssExplorer/css/app.fc6c41c7.css"
   },
   {
     "revision": "c002889df169e609927b5d25552a9f29",
@@ -88,12 +72,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/icon/96.png"
   },
   {
-    "revision": "cb33d44b82b7717b0c189cf9a7e5428a",
+    "revision": "973e1c059872512efe2b8c0839e785ba",
+    "url": "/AbyssExplorer/img/spritesheet.973e1c05.png"
+  },
+  {
+    "revision": "2f403410130fefea7a12049da97e7c96",
     "url": "/AbyssExplorer/index.html"
   },
   {
-    "revision": "2d3a08897c95ad02932b",
-    "url": "/AbyssExplorer/js/app.62f279d2.js"
+    "revision": "47d8dec2891600c839cf",
+    "url": "/AbyssExplorer/js/app.9cdea043.js"
   },
   {
     "revision": "f8fb5b0bcf832c172b0f",
@@ -106,10 +94,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "735ab4f94fbcd57074377afca324c813",
     "url": "/AbyssExplorer/robots.txt"
-  },
-  {
-    "revision": "fad6426bb6802df5c3b550d272da2486",
-    "url": "/AbyssExplorer/spritesheet.png"
   },
   {
     "revision": "559956ea7a27b1541351a337820f4b75",
