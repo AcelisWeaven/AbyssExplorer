@@ -3,6 +3,7 @@
         <div class="item-name">{{ item.name[lang] }}</div>
         <div class="item-desc">
             <span>{{ item.desc[lang] }}</span>
+            <span class="helper">{{ item.slug | helper(lang) }}</span>
             <div class="bullets" v-if="item.category === 'weapon'">
                 <div class="bullet" v-for="bullet in item.bulletTypes" :key="bullet">{{ bullet }}</div>
                 <div class="bullet-speed" v-if="item.rpm !== 300">{{ item.rpm | rpmToText }}</div>
