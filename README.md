@@ -49,4 +49,3 @@ Please make a pull-request, I'll gladly look into it.
 
 I don't have much free time for this project, but if you're looking to contribute, here are some features I didn't have time to implement:
 - make the UI translatable in every language
-- find a way to pack the item icons during the build, to ease maintenance
