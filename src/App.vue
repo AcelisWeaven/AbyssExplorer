@@ -518,6 +518,12 @@
         }
     }
 
+    .item-desc .helper {
+      font-style: italic;
+      color: rgba(white, .8);
+      padding: 0 5px;
+    }
+
     .layout-cards {
         display: flex;
         flex-wrap: wrap;
