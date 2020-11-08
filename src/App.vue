@@ -11,11 +11,11 @@
             </div>
             <div class="aside narrow padded">
                 <div class="dropdown" :class="{'active': isMenuOpen}">
-                    <div class="button" @click="isMenuOpen = !isMenuOpen">{{ langIcon }} <i class="arrow-down"></i>
+                    <div class="button" @click="isMenuOpen = !isMenuOpen"><i class="icon" :class="'icon-'+langIcon"></i> <i class="arrow-down"></i>
                     </div>
                     <div class="dropdown-options">
                         <div class="option" v-for="l in languages" :key="l.name" @click="switchLanguage(l.code)"
-                             :class="{'active': l.code === lang}">{{ l.icon }} {{ l.name }}
+                             :class="{'active': l.code === lang}"><i class="icon" :class="'icon-'+l.icon"></i> {{ l.name }}
                         </div>
                     </div>
                 </div>
@@ -89,7 +89,10 @@
                 <a href="https://github.com/AcelisWeaven/AbyssExplorer">Source code</a> |
                 <a href="https://github.com/AcelisWeaven/AbyssExplorer/issues/new">Suggest an improvement</a>
             </p>
-            <p>Sprites and text are the property of Team 17 and Veewo.</p>
+            <p>
+              Sprites and text are the property of Team 17 and Veewo.
+              Flag icons are from <a href="https://twemoji.twitter.com/" target="_blank">Twemoji</a>.
+            </p>
         </footer>
     </div>
 </template>
@@ -369,6 +372,10 @@
         pointer-events: none;
     }
 
+    .arrow-down {
+      margin-top: -4px;
+    }
+
     .columns {
         display: flex;
 
@@ -428,8 +435,10 @@
         text-align: right;
 
         .button {
-            display: inline-flex;
+            display : flex;
             flex-direction: row;
+            align-items : center;
+            min-height: 30px;
         }
 
         &.active {
@@ -448,10 +457,17 @@
         z-index: 10;
 
         .option {
+            display : flex;
+            align-items : center;
+            justify-content: right;
             padding: 5px 10px;
             border: 1px solid white;
             border-radius: 3px;
             background: linear-gradient(to right, $blue, $black);
+
+            .icon {
+                margin-right: 4px;
+            }
 
             &:not(:first-child) {
                 border-top-left-radius: 0;
@@ -475,6 +491,10 @@
         .option.active {
             background: linear-gradient(to right, $purple, $black);
         }
+    }
+
+    .icon {
+      display: inline-block;
     }
 
     .search {

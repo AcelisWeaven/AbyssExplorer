@@ -2,51 +2,51 @@
   {
     "name": "Chinese (Mainland China)",
     "code": "zh",
-    "icon": "🇨🇳"
+    "icon": "zh"
   },
   {
     "name": "Chinese (Simplified)",
     "code": "zh-CN",
-    "icon": "🇨🇳"
+    "icon": "zh"
   },
   {
     "name": "Chinese (Traditional)",
     "code": "zh-TW",
-    "icon": "🇨🇳"
+    "icon": "zh"
   },
   {
     "name": "English (United States)",
     "code": "en-US",
-    "icon": "🇺🇸"
+    "icon": "us"
   },
   {
     "name": "French",
     "code": "fr",
-    "icon": "🇫🇷"
+    "icon": "fr"
   },
   {
     "name": "German",
     "code": "de",
-    "icon": "🇩🇪"
+    "icon": "de"
   },
   {
     "name": "Italian",
     "code": "it",
-    "icon": "🇮🇹"
+    "icon": "it"
   },
   {
     "name": "Japanese",
     "code": "ja",
-    "icon": "🇯🇵"
+    "icon": "ja"
   },
   {
     "name": "Russian",
     "code": "ru",
-    "icon": "🇷🇺"
+    "icon": "ru"
   },
   {
     "name": "Spanish",
     "code": "es",
-    "icon": "🇪🇸"
+    "icon": "es"
   }
 ]
