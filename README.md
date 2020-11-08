@@ -3,6 +3,7 @@
 An app to search for Neon Abyss items.
 
 Sprites and texts are the property of Team 17 and Veewo.
+Flag icons are from [Twemoji](https://twemoji.twitter.com/).
 
 ## Project setup
 ```
