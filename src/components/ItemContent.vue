@@ -20,7 +20,7 @@
                         <div class="costs">
                             <div v-for="cost in variant.secSkillCosts" :key="cost.type" class="cost">
                                 <span>{{ cost.count }}</span>
-                                <img :src="`${publicPath}cost/${cost.type}.png`" :alt="cost.type">
+                                <i class="icon" :class="'icon-'+cost.type"></i>
                             </div>
                         </div>
                     </div>

@@ -201,9 +201,8 @@
                 @include tag;
                 background-color: rgba($pink, .3);
 
-                img {
-                    width: 24px;
-                    height: 24px;
+                .icon {
+                    transform: scale(1.3);
                     image-rendering: crisp-edges;
                 }
             }
@@ -773,6 +772,7 @@
 
                     .bullets {
                         display: inline;
+                        overflow-wrap: break-word;
                         margin: 2px;
 
                         .bullet, .bullet-speed {

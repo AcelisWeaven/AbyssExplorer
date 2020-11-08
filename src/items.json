@@ -3948,7 +3948,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 295,
+    "colorOrder": -1,
     "desc": {
       "de": "Erhöhe deinen Waffenschaden und deine Bewegungsgeschwindigkeit. Vergiss Schafe, träum einfach weiter von Einhörnern ...",
       "en-US": "Increase your weapon damage and movement speed. Forget sheep, you keep dreaming of unicorns... ",
@@ -3973,7 +3973,7 @@
       "zh-CN": "强化脑神经",
       "zh-TW": "神經系統6.0"
     },
-    "slug": "nerve-system-6.0",
+    "slug": "nerve-system-60",
     "sprite": {
       "height": 20,
       "width": 24,
@@ -7185,7 +7185,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 158,
+    "colorOrder": -1,
     "desc": {
       "de": "Bist du tot oder bist du lebendig? Du kannst es nicht wissen, bis du stirbst oder aufwachst ... und vielleicht passiert das ja.",
       "en-US": "Are you dead or are you alive? You won't know until you die and wake up... and there's a chance you might.",
@@ -7210,7 +7210,7 @@
       "zh-CN": "薛定谔的筹码",
       "zh-TW": "薛丁格的賭注"
     },
-    "slug": "schrodinger's-bet",
+    "slug": "schrodingers-bet",
     "sprite": {
       "height": 25,
       "width": 25,
@@ -7575,7 +7575,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 188,
+    "colorOrder": -1,
     "desc": {
       "de": "Deine Waffen verursacht mehr Schaden, wenn du volle Herzen hast.",
       "en-US": "Your weapon does more damage when you're at full hearts.",
@@ -7600,7 +7600,7 @@
       "zh-CN": "王者之冠",
       "zh-TW": "王者之冠"
     },
-    "slug": "king's-crown",
+    "slug": "kings-crown",
     "sprite": {
       "height": 17,
       "width": 27,
@@ -7809,7 +7809,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 276,
+    "colorOrder": -1,
     "desc": {
       "de": "Du kannst Schlüssel als Bomben benutzen, wenn du keine Bomben hast.",
       "en-US": "You can use keys as bombs when you don't have any bombs.",
@@ -7834,7 +7834,7 @@
       "zh-CN": "邦德钢笔",
       "zh-TW": "七號鋼筆"
     },
-    "slug": "pen-no.7",
+    "slug": "pen-no7",
     "sprite": {
       "height": 29,
       "width": 15,
@@ -8394,7 +8394,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 162,
+    "colorOrder": -1,
     "desc": {
       "de": "Solange du in diesem Raum bist, wird dein Waffenschaden jedes Mal erhöht, wenn du etwas aufsammelst.",
       "en-US": "While in this room, each time you pick something up, your weapon damage will increase.",
@@ -8419,7 +8419,7 @@
       "zh-CN": "丐帮会员证",
       "zh-TW": "乞丐卡"
     },
-    "slug": "beggar's-card",
+    "slug": "beggars-card",
     "sprite": {
       "height": 21,
       "width": 21,
@@ -8433,7 +8433,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 42,
+    "colorOrder": -1,
     "desc": {
       "de": "Solange du in diesem Raum bist, werden deine Bewegungsgeschwindigkeit und Sprunghöhe jedes Mal erhöht, wenn du etwas aufsammelst.",
       "en-US": "While in this room, each time you pick something up, your movement speed and jump height will increase.",
@@ -8458,7 +8458,7 @@
       "zh-CN": "兄弟会徽章",
       "zh-TW": "俠盜徽章"
     },
-    "slug": "rogue's-badge",
+    "slug": "rogues-badge",
     "sprite": {
       "height": 24,
       "width": 23,
@@ -10149,7 +10149,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 335,
+    "colorOrder": -1,
     "desc": {
       "de": "Wenn du auf ein halbes Herz fällst, lässt du sofort einen Schild fallen.",
       "en-US": "If you're down to half a heart, you'll immediately drop a shield.",
@@ -10174,7 +10174,7 @@
       "zh-CN": "绝对领域",
       "zh-TW": "V.O.領域"
     },
-    "slug": "v.o.-field",
+    "slug": "vo-field",
     "sprite": {
       "height": 29,
       "width": 26,
@@ -10227,7 +10227,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 325,
+    "colorOrder": -1,
     "desc": {
       "de": "Wenn du verletzt wirst, besteht die Chance, dass du doppelten Schaden erleidest ... oder überhaupt keinen.",
       "en-US": "Each time you get hurt, there's a chance you'll take double damage... or no damage at all.",
@@ -10252,7 +10252,7 @@
       "zh-CN": "魔鬼交易",
       "zh-TW": "魔鬼交易"
     },
-    "slug": "devil's-trade",
+    "slug": "devils-trade",
     "sprite": {
       "height": 25,
       "width": 25,
@@ -11202,7 +11202,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 109,
+    "colorOrder": -1,
     "desc": {
       "de": "Es besteht die Chance, dass du ein großes Geschoss abfeuerst.",
       "en-US": "There's a chance you'll fire a big bullet.",
@@ -11227,7 +11227,7 @@
       "zh-CN": "武士之魂",
       "zh-TW": "武士魂"
     },
-    "slug": "samurai's-soul",
+    "slug": "samurais-soul",
     "sprite": {
       "height": 26,
       "width": 27,
@@ -12723,7 +12723,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 198,
+    "colorOrder": -1,
     "desc": {
       "de": "Deine Nahkampfangriffe verursachen Feuerschaden.",
       "en-US": "Your melee attack deals fire damage.",
@@ -12748,7 +12748,7 @@
       "zh-CN": "贝里的蜡烛",
       "zh-TW": "艾瑞克之燭"
     },
-    "slug": "eric's-candle",
+    "slug": "erics-candle",
     "sprite": {
       "height": 28,
       "width": 18,
