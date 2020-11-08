@@ -23,3 +23,8 @@ yarn build
 ```
 yarn lint
 ```
+
+### Build and deploy to gh-pages
+```
+yarn deploy
+```
