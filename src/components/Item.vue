@@ -6,7 +6,7 @@
                     'is-pinned': isPinned,
                 }"
     >
-        <item-sprite :sprite="item.sprite" :public-path="publicPath"
+        <item-sprite :slug="item.slug"
                      @mousedown.native="preparePinning()"
                      @mouseup.native="handleRelease()"
 

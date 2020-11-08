@@ -3,6 +3,7 @@ import VueGtag from 'vue-gtag'
 import App from './App.vue'
 import './registerServiceWorker'
 import './filters'
+import './generated/spritesheet.css'
 
 Vue.config.productionTip = false
 const isDev = process.env.NODE_ENV !== 'production'

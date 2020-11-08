@@ -1,4 +1,45 @@
+const SpritesmithPlugin = require('webpack-spritesmith')
+const path = require('path')
+
 module.exports = {
+    configureWebpack: {
+        plugins: [
+            new SpritesmithPlugin({
+                src: {
+                    cwd: path.resolve(__dirname, 'src/sprites'),
+                    glob: '**/*.png'
+                },
+                target: {
+                    image: path.resolve(__dirname, 'src/generated/spritesheet.png'),
+                    css: [
+                        [path.resolve(__dirname, 'src/generated/spritesheet.css'), {
+                            format: 'icons'
+                        }]
+                    ],
+                },
+                customTemplates: {
+                    'icons': function (data) {
+                        const shared = '.icon { background-image: url("I") }'
+                            .replace('I',
+                                path.relative('src/generated', data.sprites[0].image)
+                                    .replaceAll("\\", "/")
+                            );
+
+                        const perSprite = data.sprites.map(function (sprite) {
+                            return '.icon-N { width: Wpx; height: Hpx; background-position: Xpx Ypx; }'
+                                .replace('N', sprite.name)
+                                .replace('W', sprite.width)
+                                .replace('H', sprite.height)
+                                .replace('X', sprite.offset_x)
+                                .replace('Y', sprite.offset_y);
+                        }).join('\n');
+
+                        return shared + '\n' + perSprite;
+                    },
+                }
+            })
+        ],
+    },
     publicPath: process.env.NODE_ENV === 'production'
         ? '/AbyssExplorer/'
         : '/',

@@ -1,29 +1,24 @@
 <template>
     <div class="item-img">
         <div class="img">
-            <img
-                    :src="`${publicPath}spritesheet.png`"
-                    :style="{
-                                'width': `${sprite.width}px`,
-                                'height': `${sprite.height}px`,
-                                'object-position': `-${sprite.x}px -${sprite.y}px`,
-                            }"
-                    alt=""
-            >
+            <i class="icon" :class="'icon-'+slug"></i>
         </div>
     </div>
 </template>
+
+<style>
+  .item-img .img .icon {
+    transform: scale(2);
+    image-rendering: crisp-edges;
+  }
+</style>
 
 <script>
     export default {
         name: "Sprite",
         props: {
-            publicPath: {
+            slug: {
                 type: String,
-                required: true,
-            },
-            sprite: {
-                type: Object,
                 required: true,
             }
         }

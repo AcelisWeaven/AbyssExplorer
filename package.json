@@ -9,13 +9,11 @@
     "lint": "vue-cli-service lint",
     "deploy": "yarn run build && gh-pages -d dist"
   },
-  "dependencies": {
+  "devDependencies": {
     "core-js": "^3.6.5",
     "register-service-worker": "^1.7.1",
     "vue": "^2.6.11",
-    "vue-gtag": "^1.8.0"
-  },
-  "devDependencies": {
+    "vue-gtag": "^1.8.0",
     "@vue/cli-plugin-babel": "~4.4.0",
     "@vue/cli-plugin-eslint": "~4.4.0",
     "@vue/cli-plugin-pwa": "~4.4.0",
@@ -26,6 +24,7 @@
     "gh-pages": "^3.1.0",
     "sass": "^1.26.5",
     "sass-loader": "^8.0.2",
-    "vue-template-compiler": "^2.6.11"
+    "vue-template-compiler": "^2.6.11",
+    "webpack-spritesmith": "^1.1.0"
   }
 }
