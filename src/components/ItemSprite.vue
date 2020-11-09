@@ -9,7 +9,7 @@
 <style>
   .item-img .img .icon {
     transform: scale(2);
-    image-rendering: crisp-edges;
+    image-rendering: pixelated;
   }
 </style>
 
