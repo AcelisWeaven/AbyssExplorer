@@ -206,7 +206,7 @@
 
                 .icon {
                     transform: scale(1.3);
-                    image-rendering: crisp-edges;
+                    image-rendering: pixelated;
                 }
             }
         }
