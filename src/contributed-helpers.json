@@ -1,4 +1,8 @@
 {
+  "dangerous-receipt": {
+    "fr": "(10 bombes)",
+    "en-US": "(10 bombs)"
+  },
   "lidless-eye": {
     "fr": "Révèle la carte.",
     "en-US": "Reveals the map."
