@@ -22,7 +22,7 @@ module.exports = {
                         const shared = '.icon { background-image: url("I") }'
                             .replace('I',
                                 path.relative('src/generated', data.sprites[0].image)
-                                    .replaceAll("\\", "/")
+                                    .replace(/\\/g, "/")
                             );
 
                         const perSprite = data.sprites.map(function (sprite) {
