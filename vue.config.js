@@ -19,22 +19,22 @@ module.exports = {
                 },
                 customTemplates: {
                     'icons': function (data) {
-                        const shared = '.icon { background-image: url("I") }'
+                        const shared = '.icon{background-image: url("I")}'
                             .replace('I',
                                 path.relative('src/generated', data.sprites[0].image)
                                     .replace(/\\/g, "/")
                             );
 
                         const perSprite = data.sprites.map(function (sprite) {
-                            return '.icon-N { width: Wpx; height: Hpx; background-position: Xpx Ypx; }'
+                            return '.icon-N{width:Wpx;height:Hpx;background-position:Xpx Ypx}'
                                 .replace('N', sprite.name)
                                 .replace('W', sprite.width)
                                 .replace('H', sprite.height)
                                 .replace('X', sprite.offset_x)
                                 .replace('Y', sprite.offset_y);
-                        }).join('\n');
+                        }).join('');
 
-                        return shared + '\n' + perSprite;
+                        return shared + perSprite;
                     },
                 }
             })
