@@ -25,11 +25,6 @@ yarn build
 yarn lint
 ```
 
-### Build and deploy to gh-pages
-```
-yarn deploy
-```
-
 ## Contributing
 
 There are a few ways to contribute to this project.
