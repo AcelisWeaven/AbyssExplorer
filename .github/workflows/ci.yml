@@ -27,12 +27,12 @@ jobs:
             ${{ runner.os }}-yarn-
 
       - name: Yarn install 🧶
-        uses: borales/actions-yarn@v2.0.0
+        uses: borales/actions-yarn@v2.3.0
         with:
           cmd: install # will run `yarn install` command
 
       - name: Yarn build 🛠
-        uses: borales/actions-yarn@v2.0.0
+        uses: borales/actions-yarn@v2.3.0
         with:
           cmd: build # will run `yarn build` command
 
