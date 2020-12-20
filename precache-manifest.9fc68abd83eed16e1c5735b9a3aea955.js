@@ -4,8 +4,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/browserconfig.xml"
   },
   {
-    "revision": "c48a2c8ccc781d37e2f7",
-    "url": "/AbyssExplorer/css/app.565dadad.css"
+    "revision": "49665d58febaa2f51173",
+    "url": "/AbyssExplorer/css/app.9dd9afbd.css"
   },
   {
     "revision": "c002889df169e609927b5d25552a9f29",
@@ -76,12 +76,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/img/spritesheet.34d1317a.png"
   },
   {
-    "revision": "81a98fc328bf8717a842382d07f592ff",
+    "revision": "9f5b6a80b0c9b748424172c2a140e557",
     "url": "/AbyssExplorer/index.html"
   },
   {
-    "revision": "c48a2c8ccc781d37e2f7",
-    "url": "/AbyssExplorer/js/app.8a5e5f6a.js"
+    "revision": "49665d58febaa2f51173",
+    "url": "/AbyssExplorer/js/app.c831e621.js"
   },
   {
     "revision": "0157f8b092f4c106adc0",
