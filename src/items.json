@@ -30,12 +30,6 @@
     },
     "rpm": 300,
     "slug": "shadow",
-    "sprite": {
-      "height": 20,
-      "width": 30,
-      "x": 190,
-      "y": 135
-    },
     "tags": [
       "weapon"
     ],
@@ -73,12 +67,6 @@
     },
     "rpm": 300,
     "slug": "steel-pipe",
-    "sprite": {
-      "height": 19,
-      "width": 29,
-      "x": 93,
-      "y": 131
-    },
     "tags": [
       "weapon"
     ],
@@ -116,12 +104,6 @@
     },
     "rpm": 300,
     "slug": "red-scorpion",
-    "sprite": {
-      "height": 21,
-      "width": 31,
-      "x": 64,
-      "y": 110
-    },
     "tags": [
       "weapon"
     ],
@@ -159,12 +141,6 @@
     },
     "rpm": 300,
     "slug": "black-eagle",
-    "sprite": {
-      "height": 19,
-      "width": 32,
-      "x": 0,
-      "y": 0
-    },
     "tags": [
       "weapon"
     ],
@@ -202,12 +178,6 @@
     },
     "rpm": 300,
     "slug": "grizzly",
-    "sprite": {
-      "height": 20,
-      "width": 32,
-      "x": 32,
-      "y": 0
-    },
     "tags": [
       "weapon"
     ],
@@ -245,12 +215,6 @@
     },
     "rpm": 300,
     "slug": "melody",
-    "sprite": {
-      "height": 18,
-      "width": 32,
-      "x": 0,
-      "y": 19
-    },
     "tags": [
       "weapon"
     ],
@@ -288,12 +252,6 @@
     },
     "rpm": 300,
     "slug": "rhino",
-    "sprite": {
-      "height": 20,
-      "width": 30,
-      "x": 157,
-      "y": 142
-    },
     "tags": [
       "weapon"
     ],
@@ -331,12 +289,6 @@
     },
     "rpm": 300,
     "slug": "canary",
-    "sprite": {
-      "height": 19,
-      "width": 30,
-      "x": 187,
-      "y": 155
-    },
     "tags": [
       "weapon"
     ],
@@ -374,12 +326,6 @@
     },
     "rpm": 300,
     "slug": "orion",
-    "sprite": {
-      "height": 19,
-      "width": 31,
-      "x": 224,
-      "y": 111
-    },
     "tags": [
       "weapon"
     ],
@@ -417,12 +363,6 @@
     },
     "rpm": 300,
     "slug": "seagull",
-    "sprite": {
-      "height": 19,
-      "width": 31,
-      "x": 160,
-      "y": 103
-    },
     "tags": [
       "weapon"
     ],
@@ -460,12 +400,6 @@
     },
     "rpm": 300,
     "slug": "pink-flame",
-    "sprite": {
-      "height": 20,
-      "width": 29,
-      "x": 122,
-      "y": 148
-    },
     "tags": [
       "weapon"
     ],
@@ -505,12 +439,6 @@
     },
     "rpm": 300,
     "slug": "judgment",
-    "sprite": {
-      "height": 21,
-      "width": 32,
-      "x": 32,
-      "y": 20
-    },
     "tags": [
       "weapon"
     ],
@@ -591,12 +519,6 @@
     },
     "rpm": 300,
     "slug": "golden-ripple",
-    "sprite": {
-      "height": 23,
-      "width": 32,
-      "x": 0,
-      "y": 41
-    },
     "tags": [
       "weapon"
     ],
@@ -655,12 +577,6 @@
     },
     "rpm": 900,
     "slug": "jimmy",
-    "sprite": {
-      "height": 25,
-      "width": 32,
-      "x": 64,
-      "y": 0
-    },
     "tags": [
       "weapon"
     ],
@@ -720,12 +636,6 @@
     },
     "rpm": 300,
     "slug": "nebula",
-    "sprite": {
-      "height": 22,
-      "width": 32,
-      "x": 96,
-      "y": 0
-    },
     "tags": [
       "weapon"
     ],
@@ -784,12 +694,6 @@
     },
     "rpm": 300,
     "slug": "rainbow",
-    "sprite": {
-      "height": 21,
-      "width": 32,
-      "x": 96,
-      "y": 22
-    },
     "tags": [
       "weapon"
     ],
@@ -865,12 +769,6 @@
     },
     "rpm": 300,
     "slug": "destiny",
-    "sprite": {
-      "height": 21,
-      "width": 32,
-      "x": 32,
-      "y": 43
-    },
     "tags": [
       "weapon"
     ],
@@ -930,12 +828,6 @@
     },
     "rpm": 300,
     "slug": "wind-blade",
-    "sprite": {
-      "height": 23,
-      "width": 32,
-      "x": 64,
-      "y": 25
-    },
     "tags": [
       "weapon"
     ],
@@ -995,12 +887,6 @@
     },
     "rpm": 300,
     "slug": "soul-bringer",
-    "sprite": {
-      "height": 24,
-      "width": 32,
-      "x": 96,
-      "y": 43
-    },
     "tags": [
       "weapon"
     ],
@@ -1060,12 +946,6 @@
     },
     "rpm": 300,
     "slug": "thunder",
-    "sprite": {
-      "height": 20,
-      "width": 32,
-      "x": 64,
-      "y": 48
-    },
     "tags": [
       "weapon"
     ],
@@ -1147,12 +1027,6 @@
     },
     "rpm": 300,
     "slug": "death-ray",
-    "sprite": {
-      "height": 21,
-      "width": 32,
-      "x": 96,
-      "y": 67
-    },
     "tags": [
       "weapon"
     ],
@@ -1233,12 +1107,6 @@
     },
     "rpm": 300,
     "slug": "passenger",
-    "sprite": {
-      "height": 23,
-      "width": 32,
-      "x": 0,
-      "y": 88
-    },
     "tags": [
       "weapon"
     ],
@@ -1298,12 +1166,6 @@
     },
     "rpm": 300,
     "slug": "lullaby",
-    "sprite": {
-      "height": 24,
-      "width": 32,
-      "x": 0,
-      "y": 64
-    },
     "tags": [
       "weapon"
     ],
@@ -1382,12 +1244,6 @@
     },
     "rpm": 300,
     "slug": "the-8th-color",
-    "sprite": {
-      "height": 21,
-      "width": 31,
-      "x": 32,
-      "y": 128
-    },
     "tags": [
       "weapon"
     ],
@@ -1464,12 +1320,6 @@
     },
     "rpm": 300,
     "slug": "triggerfish",
-    "sprite": {
-      "height": 24,
-      "width": 32,
-      "x": 32,
-      "y": 64
-    },
     "tags": [
       "weapon"
     ],
@@ -1553,12 +1403,6 @@
     },
     "rpm": 300,
     "slug": "plastic-gun",
-    "sprite": {
-      "height": 22,
-      "width": 30,
-      "x": 217,
-      "y": 158
-    },
     "tags": [
       "weapon"
     ],
@@ -1661,12 +1505,6 @@
     },
     "rpm": 300,
     "slug": "famine",
-    "sprite": {
-      "height": 21,
-      "width": 32,
-      "x": 64,
-      "y": 68
-    },
     "tags": [
       "weapon"
     ],
@@ -1768,12 +1606,6 @@
     },
     "rpm": 300,
     "slug": "noise",
-    "sprite": {
-      "height": 22,
-      "width": 32,
-      "x": 32,
-      "y": 88
-    },
     "tags": [
       "weapon"
     ],
@@ -1859,12 +1691,6 @@
     },
     "rpm": 300,
     "slug": "giant-beast",
-    "sprite": {
-      "height": 24,
-      "width": 32,
-      "x": 96,
-      "y": 88
-    },
     "tags": [
       "weapon"
     ],
@@ -1920,12 +1746,6 @@
     },
     "rpm": 300,
     "slug": "frostfire",
-    "sprite": {
-      "height": 21,
-      "width": 32,
-      "x": 64,
-      "y": 89
-    },
     "tags": [
       "weapon"
     ],
@@ -1980,12 +1800,6 @@
     },
     "rpm": 300,
     "slug": "hawkeye",
-    "sprite": {
-      "height": 22,
-      "width": 32,
-      "x": 128,
-      "y": 0
-    },
     "tags": [
       "weapon"
     ],
@@ -2045,12 +1859,6 @@
     },
     "rpm": 300,
     "slug": "black-raven",
-    "sprite": {
-      "height": 19,
-      "width": 32,
-      "x": 160,
-      "y": 0
-    },
     "tags": [
       "weapon"
     ],
@@ -2115,12 +1923,6 @@
     },
     "rpm": 300,
     "slug": "red-dragon",
-    "sprite": {
-      "height": 24,
-      "width": 32,
-      "x": 192,
-      "y": 0
-    },
     "tags": [
       "weapon"
     ],
@@ -2176,12 +1978,6 @@
     },
     "rpm": 300,
     "slug": "sentinel",
-    "sprite": {
-      "height": 21,
-      "width": 32,
-      "x": 160,
-      "y": 19
-    },
     "tags": [
       "weapon"
     ],
@@ -2257,12 +2053,6 @@
     },
     "rpm": 300,
     "slug": "swallow",
-    "sprite": {
-      "height": 22,
-      "width": 32,
-      "x": 224,
-      "y": 0
-    },
     "tags": [
       "weapon"
     ],
@@ -2343,12 +2133,6 @@
     },
     "rpm": 300,
     "slug": "vortex",
-    "sprite": {
-      "height": 22,
-      "width": 32,
-      "x": 128,
-      "y": 22
-    },
     "tags": [
       "weapon"
     ],
@@ -2407,12 +2191,6 @@
     },
     "rpm": 300,
     "slug": "firekiss",
-    "sprite": {
-      "height": 22,
-      "width": 32,
-      "x": 224,
-      "y": 22
-    },
     "tags": [
       "weapon"
     ],
@@ -2468,12 +2246,6 @@
     },
     "rpm": 200,
     "slug": "keygun",
-    "sprite": {
-      "height": 18,
-      "width": 32,
-      "x": 32,
-      "y": 110
-    },
     "tags": [
       "weapon"
     ],
@@ -2529,12 +2301,6 @@
     },
     "rpm": 300,
     "slug": "silver-moon",
-    "sprite": {
-      "height": 19,
-      "width": 30,
-      "x": 63,
-      "y": 131
-    },
     "tags": [
       "weapon"
     ],
@@ -2611,12 +2377,6 @@
     },
     "rpm": 300,
     "slug": "light-dancer",
-    "sprite": {
-      "height": 23,
-      "width": 32,
-      "x": 192,
-      "y": 24
-    },
     "tags": [
       "weapon"
     ],
@@ -2693,12 +2453,6 @@
     },
     "rpm": 800,
     "slug": "meteor",
-    "sprite": {
-      "height": 25,
-      "width": 32,
-      "x": 224,
-      "y": 44
-    },
     "tags": [
       "weapon"
     ],
@@ -2770,12 +2524,6 @@
     },
     "rpm": 300,
     "slug": "wild-wolf",
-    "sprite": {
-      "height": 20,
-      "width": 32,
-      "x": 160,
-      "y": 40
-    },
     "tags": [
       "weapon"
     ],
@@ -2830,12 +2578,6 @@
     },
     "rpm": 300,
     "slug": "golden-sam",
-    "sprite": {
-      "height": 22,
-      "width": 32,
-      "x": 128,
-      "y": 44
-    },
     "tags": [
       "weapon"
     ],
@@ -2895,12 +2637,6 @@
     },
     "rpm": 300,
     "slug": "guardian",
-    "sprite": {
-      "height": 24,
-      "width": 32,
-      "x": 192,
-      "y": 47
-    },
     "tags": [
       "weapon"
     ],
@@ -2956,12 +2692,6 @@
     },
     "rpm": 300,
     "slug": "destroyer",
-    "sprite": {
-      "height": 21,
-      "width": 32,
-      "x": 224,
-      "y": 69
-    },
     "tags": [
       "weapon"
     ],
@@ -3017,12 +2747,6 @@
     },
     "rpm": 300,
     "slug": "white-fox",
-    "sprite": {
-      "height": 22,
-      "width": 32,
-      "x": 160,
-      "y": 60
-    },
     "tags": [
       "weapon"
     ],
@@ -3082,12 +2806,6 @@
     },
     "rpm": 200,
     "slug": "messenger",
-    "sprite": {
-      "height": 20,
-      "width": 32,
-      "x": 128,
-      "y": 66
-    },
     "tags": [
       "weapon"
     ],
@@ -3167,12 +2885,6 @@
     },
     "rpm": 900,
     "slug": "airgun",
-    "sprite": {
-      "height": 22,
-      "width": 32,
-      "x": 192,
-      "y": 71
-    },
     "tags": [
       "weapon"
     ],
@@ -3227,12 +2939,6 @@
     },
     "rpm": 100,
     "slug": "phantom",
-    "sprite": {
-      "height": 21,
-      "width": 31,
-      "x": 128,
-      "y": 106
-    },
     "tags": [
       "weapon"
     ],
@@ -3288,12 +2994,6 @@
     },
     "rpm": 300,
     "slug": "forge",
-    "sprite": {
-      "height": 19,
-      "width": 31,
-      "x": 0,
-      "y": 137
-    },
     "tags": [
       "weapon"
     ],
@@ -3349,12 +3049,6 @@
     },
     "rpm": 300,
     "slug": "song-of-joy",
-    "sprite": {
-      "height": 23,
-      "width": 31,
-      "x": 191,
-      "y": 112
-    },
     "tags": [
       "weapon"
     ],
@@ -3456,12 +3150,6 @@
     },
     "rpm": 300,
     "slug": "twins",
-    "sprite": {
-      "height": 20,
-      "width": 31,
-      "x": 159,
-      "y": 122
-    },
     "tags": [
       "weapon"
     ],
@@ -3521,12 +3209,6 @@
     },
     "rpm": 300,
     "slug": "rebel",
-    "sprite": {
-      "height": 21,
-      "width": 32,
-      "x": 224,
-      "y": 90
-    },
     "tags": [
       "weapon"
     ],
@@ -3587,12 +3269,6 @@
     },
     "rpm": 200,
     "slug": "star-burst",
-    "sprite": {
-      "height": 21,
-      "width": 32,
-      "x": 160,
-      "y": 82
-    },
     "tags": [
       "weapon"
     ],
@@ -3648,12 +3324,6 @@
     },
     "rpm": 300,
     "slug": "black-widow",
-    "sprite": {
-      "height": 20,
-      "width": 32,
-      "x": 128,
-      "y": 86
-    },
     "tags": [
       "weapon"
     ],
@@ -3709,12 +3379,6 @@
     },
     "rpm": 300,
     "slug": "the-blaster",
-    "sprite": {
-      "height": 19,
-      "width": 31,
-      "x": 95,
-      "y": 112
-    },
     "tags": [
       "weapon"
     ],
@@ -3771,12 +3435,6 @@
     },
     "rpm": 300,
     "slug": "summer",
-    "sprite": {
-      "height": 19,
-      "width": 32,
-      "x": 192,
-      "y": 93
-    },
     "tags": [
       "weapon"
     ],
@@ -3835,12 +3493,6 @@
     },
     "rpm": 900,
     "slug": "terry",
-    "sprite": {
-      "height": 26,
-      "width": 32,
-      "x": 0,
-      "y": 111
-    },
     "tags": [
       "weapon"
     ],
@@ -3896,12 +3548,6 @@
       "zh-TW": "禁忌面具"
     },
     "slug": "forbidden-mask",
-    "sprite": {
-      "height": 22,
-      "width": 21,
-      "x": 256,
-      "y": 450
-    },
     "tags": [
       "item",
       "player-stat"
@@ -3935,12 +3581,6 @@
       "zh-TW": "生化人"
     },
     "slug": "cyborg",
-    "sprite": {
-      "height": 25,
-      "width": 23,
-      "x": 178,
-      "y": 251
-    },
     "tags": [
       "item",
       "player-stat"
@@ -3974,12 +3614,6 @@
       "zh-TW": "神經系統6.0"
     },
     "slug": "nerve-system-60",
-    "sprite": {
-      "height": 20,
-      "width": 24,
-      "x": 221,
-      "y": 338
-    },
     "tags": [
       "item",
       "player-stat"
@@ -4013,12 +3647,6 @@
       "zh-TW": "海洋之心"
     },
     "slug": "heart-of-the-ocean",
-    "sprite": {
-      "height": 23,
-      "width": 23,
-      "x": 141,
-      "y": 443
-    },
     "tags": [
       "item",
       "player-stat"
@@ -4052,12 +3680,6 @@
       "zh-TW": "未來科技"
     },
     "slug": "future-tech",
-    "sprite": {
-      "height": 26,
-      "width": 27,
-      "x": 361,
-      "y": 188
-    },
     "tags": [
       "item",
       "player-stat"
@@ -4091,12 +3713,6 @@
       "zh-TW": "頑強護盾"
     },
     "slug": "sturdy-shield",
-    "sprite": {
-      "height": 24,
-      "width": 24,
-      "x": 295,
-      "y": 339
-    },
     "tags": [
       "item",
       "player-stat"
@@ -4130,12 +3746,6 @@
       "zh-TW": "能量方塊"
     },
     "slug": "energy-cube",
-    "sprite": {
-      "height": 25,
-      "width": 23,
-      "x": 201,
-      "y": 256
-    },
     "tags": [
       "item",
       "player-stat"
@@ -4169,12 +3779,6 @@
       "zh-TW": "最後的希望"
     },
     "slug": "last-hope",
-    "sprite": {
-      "height": 28,
-      "width": 25,
-      "x": 217,
-      "y": 209
-    },
     "tags": [
       "item",
       "player-stat"
@@ -4208,12 +3812,6 @@
       "zh-TW": "量子核心"
     },
     "slug": "quantum-core",
-    "sprite": {
-      "height": 25,
-      "width": 24,
-      "x": 224,
-      "y": 263
-    },
     "tags": [
       "item",
       "player-stat"
@@ -4247,12 +3845,6 @@
       "zh-TW": "僧侶斗笠"
     },
     "slug": "monk-hat",
-    "sprite": {
-      "height": 24,
-      "width": 26,
-      "x": 444,
-      "y": 212
-    },
     "tags": [
       "item",
       "player-stat"
@@ -4286,12 +3878,6 @@
       "zh-TW": "木乃伊繃帶"
     },
     "slug": "shroud",
-    "sprite": {
-      "height": 25,
-      "width": 23,
-      "x": 157,
-      "y": 276
-    },
     "tags": [
       "item",
       "player-stat"
@@ -4325,12 +3911,6 @@
       "zh-TW": "彎湯匙"
     },
     "slug": "bent-spoon",
-    "sprite": {
-      "height": 27,
-      "width": 19,
-      "x": 361,
-      "y": 214
-    },
     "tags": [
       "item",
       "player-stat"
@@ -4364,12 +3944,6 @@
       "zh-TW": "波斯頭巾"
     },
     "slug": "persian-turban",
-    "sprite": {
-      "height": 28,
-      "width": 24,
-      "x": 242,
-      "y": 209
-    },
     "tags": [
       "item",
       "player-stat"
@@ -4403,12 +3977,6 @@
       "zh-TW": "儀式面具"
     },
     "slug": "ritual-mask",
-    "sprite": {
-      "height": 28,
-      "width": 25,
-      "x": 253,
-      "y": 130
-    },
     "tags": [
       "item",
       "player-stat"
@@ -4442,12 +4010,6 @@
       "zh-TW": "魔性面具"
     },
     "slug": "unknown-mask",
-    "sprite": {
-      "height": 24,
-      "width": 22,
-      "x": 268,
-      "y": 353
-    },
     "tags": [
       "item",
       "player-stat"
@@ -4481,12 +4043,6 @@
       "zh-TW": "融化的日曆"
     },
     "slug": "melting-calendar",
-    "sprite": {
-      "height": 27,
-      "width": 22,
-      "x": 380,
-      "y": 214
-    },
     "tags": [
       "item",
       "player-stat"
@@ -4520,12 +4076,6 @@
       "zh-TW": "變種柳橙"
     },
     "slug": "mutated-orange",
-    "sprite": {
-      "height": 25,
-      "width": 24,
-      "x": 131,
-      "y": 277
-    },
     "tags": [
       "item",
       "player-stat"
@@ -4559,12 +4109,6 @@
       "zh-TW": "皇家鹿角"
     },
     "slug": "royal-antlers",
-    "sprite": {
-      "height": 22,
-      "width": 28,
-      "x": 247,
-      "y": 158
-    },
     "tags": [
       "item",
       "player-stat"
@@ -4598,12 +4142,6 @@
       "zh-TW": "精靈餅乾"
     },
     "slug": "elf-bread",
-    "sprite": {
-      "height": 24,
-      "width": 21,
-      "x": 245,
-      "y": 356
-    },
     "tags": [
       "item",
       "player-stat"
@@ -4637,12 +4175,6 @@
       "zh-TW": "跑鞋"
     },
     "slug": "running-shoes",
-    "sprite": {
-      "height": 17,
-      "width": 29,
-      "x": 151,
-      "y": 162
-    },
     "tags": [
       "item",
       "player-stat"
@@ -4676,12 +4208,6 @@
       "zh-TW": "全罩式安全帽"
     },
     "slug": "motorcycle-helmet",
-    "sprite": {
-      "height": 27,
-      "width": 24,
-      "x": 344,
-      "y": 28
-    },
     "tags": [
       "item",
       "player-stat"
@@ -4715,12 +4241,6 @@
       "zh-TW": "花椰菜"
     },
     "slug": "broccoli",
-    "sprite": {
-      "height": 24,
-      "width": 28,
-      "x": 255,
-      "y": 180
-    },
     "tags": [
       "item",
       "player-stat"
@@ -4754,12 +4274,6 @@
       "zh-TW": "胡椒湯"
     },
     "slug": "pepper-soup",
-    "sprite": {
-      "height": 24,
-      "width": 26,
-      "x": 446,
-      "y": 158
-    },
     "tags": [
       "item",
       "player-stat"
@@ -4793,12 +4307,6 @@
       "zh-TW": "太空汽水"
     },
     "slug": "space-soda",
-    "sprite": {
-      "height": 28,
-      "width": 21,
-      "x": 266,
-      "y": 204
-    },
     "tags": [
       "item",
       "player-stat"
@@ -4832,12 +4340,6 @@
       "zh-TW": "巨人燒烤"
     },
     "slug": "giant-barbecue",
-    "sprite": {
-      "height": 25,
-      "width": 25,
-      "x": 104,
-      "y": 282
-    },
     "tags": [
       "item",
       "player-stat"
@@ -4871,12 +4373,6 @@
       "zh-TW": "水果冰棒"
     },
     "slug": "fruit-popsicle",
-    "sprite": {
-      "height": 26,
-      "width": 18,
-      "x": 428,
-      "y": 75
-    },
     "tags": [
       "item",
       "player-stat"
@@ -4910,12 +4406,6 @@
       "zh-TW": "刺身壽司"
     },
     "slug": "sashimi-sushi",
-    "sprite": {
-      "height": 18,
-      "width": 27,
-      "x": 28,
-      "y": 238
-    },
     "tags": [
       "item",
       "player-stat"
@@ -4949,12 +4439,6 @@
       "zh-TW": "奶油啤酒"
     },
     "slug": "creambeer",
-    "sprite": {
-      "height": 26,
-      "width": 20,
-      "x": 461,
-      "y": 182
-    },
     "tags": [
       "item",
       "player-stat"
@@ -4988,12 +4472,6 @@
       "zh-TW": "勇敢餅乾"
     },
     "slug": "brave-cookies",
-    "sprite": {
-      "height": 24,
-      "width": 24,
-      "x": 370,
-      "y": 317
-    },
     "tags": [
       "item",
       "player-stat"
@@ -5027,12 +4505,6 @@
       "zh-TW": "貓罐頭"
     },
     "slug": "canned-cat-food",
-    "sprite": {
-      "height": 25,
-      "width": 24,
-      "x": 75,
-      "y": 306
-    },
     "tags": [
       "item",
       "player-stat"
@@ -5066,12 +4538,6 @@
       "zh-TW": "和牛牛排"
     },
     "slug": "tobe-beef",
-    "sprite": {
-      "height": 26,
-      "width": 26,
-      "x": 444,
-      "y": 101
-    },
     "tags": [
       "item",
       "player-stat"
@@ -5105,12 +4571,6 @@
       "zh-TW": "聚魂瓶"
     },
     "slug": "soul-flask",
-    "sprite": {
-      "height": 26,
-      "width": 26,
-      "x": 481,
-      "y": 0
-    },
     "tags": [
       "item",
       "player-stat"
@@ -5144,12 +4604,6 @@
       "zh-TW": "土麵包"
     },
     "slug": "earth-bread",
-    "sprite": {
-      "height": 27,
-      "width": 23,
-      "x": 353,
-      "y": 0
-    },
     "tags": [
       "item",
       "player-stat"
@@ -5183,12 +4637,6 @@
       "zh-TW": "糖葫蘆"
     },
     "slug": "tanghulu",
-    "sprite": {
-      "height": 27,
-      "width": 20,
-      "x": 344,
-      "y": 55
-    },
     "tags": [
       "item",
       "player-stat"
@@ -5222,12 +4670,6 @@
       "zh-TW": "保鑣墨鏡"
     },
     "slug": "bodyguard-glasses",
-    "sprite": {
-      "height": 19,
-      "width": 29,
-      "x": 180,
-      "y": 174
-    },
     "tags": [
       "item",
       "gun-stat"
@@ -5261,12 +4703,6 @@
       "zh-TW": "獸符"
     },
     "slug": "beast-amulet",
-    "sprite": {
-      "height": 24,
-      "width": 27,
-      "x": 347,
-      "y": 82
-    },
     "tags": [
       "item",
       "gun-stat"
@@ -5300,12 +4736,6 @@
       "zh-TW": "惡魔角"
     },
     "slug": "devil-horn",
-    "sprite": {
-      "height": 22,
-      "width": 25,
-      "x": 322,
-      "y": 82
-    },
     "tags": [
       "item",
       "gun-stat"
@@ -5339,12 +4769,6 @@
       "zh-TW": "史塔克組件"
     },
     "slug": "stark-module",
-    "sprite": {
-      "height": 19,
-      "width": 29,
-      "x": 209,
-      "y": 180
-    },
     "tags": [
       "item",
       "gun-stat"
@@ -5378,12 +4802,6 @@
       "zh-TW": "榮譽勳章"
     },
     "slug": "medal-of-honor",
-    "sprite": {
-      "height": 27,
-      "width": 23,
-      "x": 364,
-      "y": 55
-    },
     "tags": [
       "item",
       "gun-stat"
@@ -5417,12 +4835,6 @@
       "zh-TW": "虛無之幣"
     },
     "slug": "void-coin",
-    "sprite": {
-      "height": 24,
-      "width": 24,
-      "x": 394,
-      "y": 332
-    },
     "tags": [
       "item",
       "gun-stat"
@@ -5456,12 +4868,6 @@
       "zh-TW": "止痛藥"
     },
     "slug": "pain-drop",
-    "sprite": {
-      "height": 24,
-      "width": 19,
-      "x": 25,
-      "y": 374
-    },
     "tags": [
       "item",
       "gun-stat"
@@ -5495,12 +4901,6 @@
       "zh-TW": "隨身酒壺"
     },
     "slug": "hip-flask",
-    "sprite": {
-      "height": 23,
-      "width": 20,
-      "x": 144,
-      "y": 466
-    },
     "tags": [
       "item",
       "gun-stat"
@@ -5534,12 +4934,6 @@
       "zh-TW": "加蘭德彈夾"
     },
     "slug": "garand-clip",
-    "sprite": {
-      "height": 27,
-      "width": 23,
-      "x": 368,
-      "y": 27
-    },
     "tags": [
       "item",
       "gun-stat"
@@ -5573,12 +4967,6 @@
       "zh-TW": "警徽"
     },
     "slug": "police-badge",
-    "sprite": {
-      "height": 25,
-      "width": 23,
-      "x": 50,
-      "y": 323
-    },
     "tags": [
       "item",
       "gun-stat"
@@ -5612,12 +5000,6 @@
       "zh-TW": "圍棋大師"
     },
     "slug": "go-board",
-    "sprite": {
-      "height": 23,
-      "width": 23,
-      "x": 144,
-      "y": 489
-    },
     "tags": [
       "item",
       "gun-stat"
@@ -5651,12 +5033,6 @@
       "zh-TW": "彈弓"
     },
     "slug": "slingshot",
-    "sprite": {
-      "height": 24,
-      "width": 24,
-      "x": 418,
-      "y": 352
-    },
     "tags": [
       "item",
       "gun-stat"
@@ -5690,12 +5066,6 @@
       "zh-TW": "電影雜誌"
     },
     "slug": "film-magazine",
-    "sprite": {
-      "height": 26,
-      "width": 26,
-      "x": 448,
-      "y": 127
-    },
     "tags": [
       "item",
       "gun-stat"
@@ -5729,12 +5099,6 @@
       "zh-TW": "奇異面具"
     },
     "slug": "strange-mask",
-    "sprite": {
-      "height": 25,
-      "width": 23,
-      "x": 21,
-      "y": 324
-    },
     "tags": [
       "item",
       "gun-stat"
@@ -5768,12 +5132,6 @@
       "zh-TW": "粉紅飛鏢"
     },
     "slug": "pink-dart",
-    "sprite": {
-      "height": 23,
-      "width": 23,
-      "x": 341,
-      "y": 365
-    },
     "tags": [
       "item",
       "gun-stat"
@@ -5807,12 +5165,6 @@
       "zh-TW": "紙飛機"
     },
     "slug": "paper-plane",
-    "sprite": {
-      "height": 20,
-      "width": 28,
-      "x": 0,
-      "y": 236
-    },
     "tags": [
       "item",
       "gun-stat"
@@ -5846,12 +5198,6 @@
       "zh-TW": "暗影行動"
     },
     "slug": "shadow-operation",
-    "sprite": {
-      "height": 25,
-      "width": 22,
-      "x": 180,
-      "y": 281
-    },
     "tags": [
       "item",
       "gun-stat"
@@ -5885,12 +5231,6 @@
       "zh-TW": "瞄準鏡"
     },
     "slug": "telescopic-sight",
-    "sprite": {
-      "height": 23,
-      "width": 24,
-      "x": 172,
-      "y": 356
-    },
     "tags": [
       "item",
       "gun-stat"
@@ -5924,12 +5264,6 @@
       "zh-TW": "瘋狂面具"
     },
     "slug": "mad-mask",
-    "sprite": {
-      "height": 25,
-      "width": 26,
-      "x": 472,
-      "y": 153
-    },
     "tags": [
       "item",
       "gun-stat"
@@ -5963,12 +5297,6 @@
       "zh-TW": "電競耳機"
     },
     "slug": "e-sports-headset",
-    "sprite": {
-      "height": 24,
-      "width": 23,
-      "x": 196,
-      "y": 356
-    },
     "tags": [
       "item",
       "gun-stat"
@@ -6002,12 +5330,6 @@
       "zh-TW": "紙風車"
     },
     "slug": "paper-windmills",
-    "sprite": {
-      "height": 26,
-      "width": 26,
-      "x": 481,
-      "y": 178
-    },
     "tags": [
       "item",
       "gun-stat"
@@ -6041,12 +5363,6 @@
       "zh-TW": "吹風機"
     },
     "slug": "hair-dryer",
-    "sprite": {
-      "height": 23,
-      "width": 25,
-      "x": 155,
-      "y": 301
-    },
     "tags": [
       "item",
       "gun-stat"
@@ -6080,12 +5396,6 @@
       "zh-TW": "螺旋彈頭"
     },
     "slug": "drilling-warhead",
-    "sprite": {
-      "height": 29,
-      "width": 17,
-      "x": 238,
-      "y": 180
-    },
     "tags": [
       "item",
       "gun-stat"
@@ -6119,12 +5429,6 @@
       "zh-TW": "濃縮咖啡"
     },
     "slug": "espresso",
-    "sprite": {
-      "height": 23,
-      "width": 21,
-      "x": 364,
-      "y": 365
-    },
     "tags": [
       "item",
       "gun-stat"
@@ -6158,12 +5462,6 @@
       "zh-TW": "藍色協定"
     },
     "slug": "blue-protocol",
-    "sprite": {
-      "height": 24,
-      "width": 25,
-      "x": 129,
-      "y": 302
-    },
     "tags": [
       "item",
       "gun-stat"
@@ -6197,12 +5495,6 @@
       "zh-TW": "韋德科技"
     },
     "slug": "wade-tech",
-    "sprite": {
-      "height": 21,
-      "width": 24,
-      "x": 219,
-      "y": 358
-    },
     "tags": [
       "item",
       "gun-stat"
@@ -6236,12 +5528,6 @@
       "zh-TW": "國王大拇指"
     },
     "slug": "like-of-the-king",
-    "sprite": {
-      "height": 26,
-      "width": 24,
-      "x": 481,
-      "y": 204
-    },
     "tags": [
       "item",
       "gun-stat"
@@ -6275,12 +5561,6 @@
       "zh-TW": "超級標誌"
     },
     "slug": "super-logo",
-    "sprite": {
-      "height": 24,
-      "width": 24,
-      "x": 219,
-      "y": 379
-    },
     "tags": [
       "item",
       "gun-stat"
@@ -6314,12 +5594,6 @@
       "zh-TW": "海豹徽章"
     },
     "slug": "seals-patch",
-    "sprite": {
-      "height": 26,
-      "width": 29,
-      "x": 0,
-      "y": 209
-    },
     "tags": [
       "item",
       "gun-stat"
@@ -6353,12 +5627,6 @@
       "zh-TW": "鍛鐵鎚"
     },
     "slug": "smithing-hammer",
-    "sprite": {
-      "height": 25,
-      "width": 23,
-      "x": 99,
-      "y": 307
-    },
     "tags": [
       "item",
       "gun-stat"
@@ -6392,12 +5660,6 @@
       "zh-TW": "金蘋果"
     },
     "slug": "golden-apple",
-    "sprite": {
-      "height": 24,
-      "width": 23,
-      "x": 139,
-      "y": 368
-    },
     "tags": [
       "item",
       "gun-stat"
@@ -6431,12 +5693,6 @@
       "zh-TW": "能量寶鑽"
     },
     "slug": "power-diamond",
-    "sprite": {
-      "height": 25,
-      "width": 22,
-      "x": 202,
-      "y": 281
-    },
     "tags": [
       "item",
       "gun-stat"
@@ -6470,12 +5726,6 @@
       "zh-TW": "特斯拉線圈"
     },
     "slug": "tesla-coil",
-    "sprite": {
-      "height": 25,
-      "width": 21,
-      "x": 0,
-      "y": 333
-    },
     "tags": [
       "item",
       "special"
@@ -6509,12 +5759,6 @@
       "zh-TW": "惡魔之翼"
     },
     "slug": "demon-wings",
-    "sprite": {
-      "height": 28,
-      "width": 29,
-      "x": 20,
-      "y": 179
-    },
     "tags": [
       "item",
       "special"
@@ -6548,12 +5792,6 @@
       "zh-TW": "神威"
     },
     "slug": "divinity",
-    "sprite": {
-      "height": 25,
-      "width": 26,
-      "x": 470,
-      "y": 230
-    },
     "tags": [
       "item",
       "special"
@@ -6587,12 +5825,6 @@
       "zh-TW": "飛馬"
     },
     "slug": "pegasus",
-    "sprite": {
-      "height": 27,
-      "width": 29,
-      "x": 29,
-      "y": 209
-    },
     "tags": [
       "item",
       "special"
@@ -6626,12 +5858,6 @@
       "zh-TW": "智慧之翼"
     },
     "slug": "wings-of-wisdom",
-    "sprite": {
-      "height": 22,
-      "width": 23,
-      "x": 314,
-      "y": 385
-    },
     "tags": [
       "item",
       "special"
@@ -6665,12 +5891,6 @@
       "zh-TW": "綠帽"
     },
     "slug": "green-cap",
-    "sprite": {
-      "height": 20,
-      "width": 24,
-      "x": 162,
-      "y": 379
-    },
     "tags": [
       "item",
       "special"
@@ -6704,12 +5924,6 @@
       "zh-TW": "生日蛋糕"
     },
     "slug": "birthday-cake",
-    "sprite": {
-      "height": 24,
-      "width": 26,
-      "x": 432,
-      "y": 51
-    },
     "tags": [
       "item",
       "special"
@@ -6743,12 +5957,6 @@
       "zh-TW": "水管工紅帽"
     },
     "slug": "red-hat",
-    "sprite": {
-      "height": 20,
-      "width": 25,
-      "x": 73,
-      "y": 331
-    },
     "tags": [
       "item",
       "special"
@@ -6782,12 +5990,6 @@
       "zh-TW": "危險地雷"
     },
     "slug": "dangerous-mine",
-    "sprite": {
-      "height": 23,
-      "width": 24,
-      "x": 186,
-      "y": 380
-    },
     "tags": [
       "item",
       "special"
@@ -6821,12 +6023,6 @@
       "zh-TW": "致命之舞"
     },
     "slug": "fatal-dance",
-    "sprite": {
-      "height": 24,
-      "width": 24,
-      "x": 94,
-      "y": 382
-    },
     "tags": [
       "item",
       "special"
@@ -6860,12 +6056,6 @@
       "zh-TW": "金色火炬"
     },
     "slug": "golden-torch",
-    "sprite": {
-      "height": 26,
-      "width": 24,
-      "x": 446,
-      "y": 75
-    },
     "tags": [
       "item",
       "special"
@@ -6899,12 +6089,6 @@
       "zh-TW": "魔眼"
     },
     "slug": "lidless-eye",
-    "sprite": {
-      "height": 24,
-      "width": 28,
-      "x": 266,
-      "y": 232
-    },
     "tags": [
       "item",
       "special"
@@ -6938,12 +6122,6 @@
       "zh-TW": "銀色羅盤"
     },
     "slug": "silver-compass",
-    "sprite": {
-      "height": 23,
-      "width": 23,
-      "x": 287,
-      "y": 387
-    },
     "tags": [
       "item",
       "special"
@@ -6977,12 +6155,6 @@
       "zh-TW": "藏寶圖"
     },
     "slug": "treasure-map",
-    "sprite": {
-      "height": 24,
-      "width": 24,
-      "x": 66,
-      "y": 395
-    },
     "tags": [
       "item",
       "special"
@@ -7016,12 +6188,6 @@
       "zh-TW": "迷你雷達"
     },
     "slug": "mini-radar",
-    "sprite": {
-      "height": 23,
-      "width": 24,
-      "x": 25,
-      "y": 398
-    },
     "tags": [
       "item",
       "special"
@@ -7055,12 +6221,6 @@
       "zh-TW": "小十字鎬"
     },
     "slug": "little-pickaxe",
-    "sprite": {
-      "height": 26,
-      "width": 25,
-      "x": 474,
-      "y": 26
-    },
     "tags": [
       "item",
       "special"
@@ -7094,12 +6254,6 @@
       "zh-TW": "不朽之心"
     },
     "slug": "immortal-heart",
-    "sprite": {
-      "height": 24,
-      "width": 26,
-      "x": 445,
-      "y": 27
-    },
     "tags": [
       "item",
       "special"
@@ -7133,12 +6287,6 @@
       "zh-TW": "太陽金幣"
     },
     "slug": "sun-coin",
-    "sprite": {
-      "height": 24,
-      "width": 25,
-      "x": 44,
-      "y": 348
-    },
     "tags": [
       "item",
       "special"
@@ -7172,12 +6320,6 @@
       "zh-TW": "火焰之心"
     },
     "slug": "heart-of-fire",
-    "sprite": {
-      "height": 27,
-      "width": 20,
-      "x": 376,
-      "y": 0
-    },
     "tags": [
       "item",
       "special"
@@ -7211,12 +6353,6 @@
       "zh-TW": "薛丁格的賭注"
     },
     "slug": "schrodingers-bet",
-    "sprite": {
-      "height": 25,
-      "width": 25,
-      "x": 0,
-      "y": 358
-    },
     "tags": [
       "item",
       "special"
@@ -7250,12 +6386,6 @@
       "zh-TW": "天眼"
     },
     "slug": "inner-eye",
-    "sprite": {
-      "height": 28,
-      "width": 22,
-      "x": 256,
-      "y": 0
-    },
     "tags": [
       "item",
       "special"
@@ -7289,12 +6419,6 @@
       "zh-TW": "金幣炸彈"
     },
     "slug": "coin-bomb",
-    "sprite": {
-      "height": 24,
-      "width": 24,
-      "x": 0,
-      "y": 408
-    },
     "tags": [
       "item",
       "resource"
@@ -7328,12 +6452,6 @@
       "zh-TW": "傭兵之王"
     },
     "slug": "mercenary-lord",
-    "sprite": {
-      "height": 25,
-      "width": 29,
-      "x": 49,
-      "y": 179
-    },
     "tags": [
       "item",
       "resource"
@@ -7367,12 +6485,6 @@
       "zh-TW": "小金人"
     },
     "slug": "golden-statuette",
-    "sprite": {
-      "height": 26,
-      "width": 25,
-      "x": 474,
-      "y": 52
-    },
     "tags": [
       "item",
       "resource"
@@ -7406,12 +6518,6 @@
       "zh-TW": "戰鬥通行證"
     },
     "slug": "battle-pass",
-    "sprite": {
-      "height": 19,
-      "width": 24,
-      "x": 118,
-      "y": 392
-    },
     "tags": [
       "item",
       "resource"
@@ -7445,12 +6551,6 @@
       "zh-TW": "金鳥"
     },
     "slug": "golden-bird",
-    "sprite": {
-      "height": 25,
-      "width": 25,
-      "x": 452,
-      "y": 281
-    },
     "tags": [
       "item",
       "resource"
@@ -7484,12 +6584,6 @@
       "zh-TW": "鯊魚誘餌"
     },
     "slug": "shark-bait",
-    "sprite": {
-      "height": 27,
-      "width": 26,
-      "x": 360,
-      "y": 106
-    },
     "tags": [
       "item",
       "resource"
@@ -7523,12 +6617,6 @@
       "zh-TW": "空罐頭"
     },
     "slug": "empty-can",
-    "sprite": {
-      "height": 24,
-      "width": 25,
-      "x": 477,
-      "y": 281
-    },
     "tags": [
       "item",
       "resource"
@@ -7562,12 +6650,6 @@
       "zh-TW": "慈悲連衣帽"
     },
     "slug": "mercy-hood",
-    "sprite": {
-      "height": 27,
-      "width": 25,
-      "x": 360,
-      "y": 133
-    },
     "tags": [
       "item",
       "resource"
@@ -7601,12 +6683,6 @@
       "zh-TW": "王者之冠"
     },
     "slug": "kings-crown",
-    "sprite": {
-      "height": 17,
-      "width": 27,
-      "x": 294,
-      "y": 239
-    },
     "tags": [
       "item",
       "resource"
@@ -7640,12 +6716,6 @@
       "zh-TW": "魔豆"
     },
     "slug": "magical-bean",
-    "sprite": {
-      "height": 26,
-      "width": 21,
-      "x": 458,
-      "y": 0
-    },
     "tags": [
       "item",
       "resource"
@@ -7679,12 +6749,6 @@
       "zh-TW": "斯巴達血統"
     },
     "slug": "spartan-lineage",
-    "sprite": {
-      "height": 30,
-      "width": 24,
-      "x": 31,
-      "y": 149
-    },
     "tags": [
       "item",
       "resource"
@@ -7718,12 +6782,6 @@
       "zh-TW": "狂戰士之血"
     },
     "slug": "berserker-blood",
-    "sprite": {
-      "height": 23,
-      "width": 26,
-      "x": 474,
-      "y": 78
-    },
     "tags": [
       "item",
       "resource"
@@ -7757,12 +6815,6 @@
       "zh-TW": "方舟反應爐"
     },
     "slug": "howard-reactor",
-    "sprite": {
-      "height": 24,
-      "width": 22,
-      "x": 90,
-      "y": 406
-    },
     "tags": [
       "item",
       "resource"
@@ -7796,12 +6848,6 @@
       "zh-TW": "特務手錶"
     },
     "slug": "agent-watch",
-    "sprite": {
-      "height": 25,
-      "width": 22,
-      "x": 477,
-      "y": 305
-    },
     "tags": [
       "item",
       "resource"
@@ -7835,12 +6881,6 @@
       "zh-TW": "七號鋼筆"
     },
     "slug": "pen-no7",
-    "sprite": {
-      "height": 29,
-      "width": 15,
-      "x": 55,
-      "y": 150
-    },
     "tags": [
       "item",
       "resource"
@@ -7874,12 +6914,6 @@
       "zh-TW": "鋼製齒輪"
     },
     "slug": "steel-gear",
-    "sprite": {
-      "height": 24,
-      "width": 24,
-      "x": 49,
-      "y": 419
-    },
     "tags": [
       "item",
       "resource"
@@ -7913,12 +6947,6 @@
       "zh-TW": "生鏽鑰匙"
     },
     "slug": "rusty-key",
-    "sprite": {
-      "height": 24,
-      "width": 24,
-      "x": 24,
-      "y": 421
-    },
     "tags": [
       "item",
       "resource"
@@ -7952,12 +6980,6 @@
       "zh-TW": "小熊吊飾"
     },
     "slug": "bear-pendant",
-    "sprite": {
-      "height": 28,
-      "width": 22,
-      "x": 256,
-      "y": 28
-    },
     "tags": [
       "item",
       "resource"
@@ -7991,12 +7013,6 @@
       "zh-TW": "邪惡手環"
     },
     "slug": "evil-bracelet",
-    "sprite": {
-      "height": 25,
-      "width": 26,
-      "x": 470,
-      "y": 101
-    },
     "tags": [
       "item",
       "resource"
@@ -8030,12 +7046,6 @@
       "zh-TW": "心型項鍊"
     },
     "slug": "heart-necklace",
-    "sprite": {
-      "height": 27,
-      "width": 22,
-      "x": 363,
-      "y": 160
-    },
     "tags": [
       "item",
       "resource"
@@ -8069,12 +7079,6 @@
       "zh-TW": "珠寶盒"
     },
     "slug": "jewelry-box",
-    "sprite": {
-      "height": 24,
-      "width": 26,
-      "x": 474,
-      "y": 126
-    },
     "tags": [
       "item",
       "resource"
@@ -8108,12 +7112,6 @@
       "zh-TW": "黑盒子"
     },
     "slug": "black-box",
-    "sprite": {
-      "height": 18,
-      "width": 26,
-      "x": 109,
-      "y": 238
-    },
     "tags": [
       "item",
       "resource"
@@ -8147,12 +7145,6 @@
       "zh-TW": "魔法漩渦"
     },
     "slug": "magic-vortex",
-    "sprite": {
-      "height": 26,
-      "width": 22,
-      "x": 244,
-      "y": 237
-    },
     "tags": [
       "item",
       "resource"
@@ -8186,12 +7178,6 @@
       "zh-TW": "貓面勛章"
     },
     "slug": "cat-medallion",
-    "sprite": {
-      "height": 26,
-      "width": 29,
-      "x": 70,
-      "y": 150
-    },
     "tags": [
       "item",
       "resource"
@@ -8225,12 +7211,6 @@
       "zh-TW": "翡翠手環"
     },
     "slug": "emerald-bracelet",
-    "sprite": {
-      "height": 25,
-      "width": 23,
-      "x": 414,
-      "y": 282
-    },
     "tags": [
       "item",
       "resource"
@@ -8264,12 +7244,6 @@
       "zh-TW": "紅寶石耳環"
     },
     "slug": "ruby-earrings",
-    "sprite": {
-      "height": 26,
-      "width": 24,
-      "x": 402,
-      "y": 240
-    },
     "tags": [
       "item",
       "resource"
@@ -8303,12 +7277,6 @@
       "zh-TW": "銀色胸針"
     },
     "slug": "silver-brooch",
-    "sprite": {
-      "height": 28,
-      "width": 22,
-      "x": 256,
-      "y": 56
-    },
     "tags": [
       "item",
       "resource"
@@ -8342,12 +7310,6 @@
       "zh-TW": "紫水晶項鍊"
     },
     "slug": "amethyst-necklace",
-    "sprite": {
-      "height": 28,
-      "width": 24,
-      "x": 256,
-      "y": 84
-    },
     "tags": [
       "item",
       "resource"
@@ -8381,12 +7343,6 @@
       "zh-TW": "藍寶石戒指"
     },
     "slug": "sapphire-ring",
-    "sprite": {
-      "height": 25,
-      "width": 24,
-      "x": 385,
-      "y": 292
-    },
     "tags": [
       "item",
       "resource"
@@ -8420,12 +7376,6 @@
       "zh-TW": "乞丐卡"
     },
     "slug": "beggars-card",
-    "sprite": {
-      "height": 21,
-      "width": 21,
-      "x": 486,
-      "y": 355
-    },
     "tags": [
       "item",
       "resource"
@@ -8459,12 +7409,6 @@
       "zh-TW": "俠盜徽章"
     },
     "slug": "rogues-badge",
-    "sprite": {
-      "height": 24,
-      "width": 23,
-      "x": 0,
-      "y": 432
-    },
     "tags": [
       "item",
       "resource"
@@ -8498,12 +7442,6 @@
       "zh-TW": "危險收據"
     },
     "slug": "dangerous-receipt",
-    "sprite": {
-      "height": 22,
-      "width": 21,
-      "x": 275,
-      "y": 424
-    },
     "tags": [
       "item",
       "resource"
@@ -8537,12 +7475,6 @@
       "zh-TW": "詛咒之幣"
     },
     "slug": "cursed-coin",
-    "sprite": {
-      "height": 23,
-      "width": 23,
-      "x": 186,
-      "y": 403
-    },
     "tags": [
       "item",
       "resource"
@@ -8576,12 +7508,6 @@
       "zh-TW": "橫財"
     },
     "slug": "accidental-wealth",
-    "sprite": {
-      "height": 21,
-      "width": 26,
-      "x": 55,
-      "y": 255
-    },
     "tags": [
       "item",
       "resource"
@@ -8615,12 +7541,6 @@
       "zh-TW": "彩券"
     },
     "slug": "lottery-ticket",
-    "sprite": {
-      "height": 25,
-      "width": 26,
-      "x": 321,
-      "y": 240
-    },
     "tags": [
       "item",
       "resource"
@@ -8654,12 +7574,6 @@
       "zh-TW": "鎖匠"
     },
     "slug": "locksmith",
-    "sprite": {
-      "height": 22,
-      "width": 25,
-      "x": 437,
-      "y": 306
-    },
     "tags": [
       "item",
       "resource"
@@ -8693,12 +7607,6 @@
       "zh-TW": "火藥陰謀"
     },
     "slug": "gunpowder-plot",
-    "sprite": {
-      "height": 25,
-      "width": 23,
-      "x": 409,
-      "y": 307
-    },
     "tags": [
       "item",
       "resource"
@@ -8732,12 +7640,6 @@
       "zh-TW": "招財貓"
     },
     "slug": "maneki-neko",
-    "sprite": {
-      "height": 27,
-      "width": 25,
-      "x": 385,
-      "y": 133
-    },
     "tags": [
       "item",
       "resource"
@@ -8771,12 +7673,6 @@
       "zh-TW": "魔術師帽"
     },
     "slug": "magician-hat",
-    "sprite": {
-      "height": 19,
-      "width": 27,
-      "x": 217,
-      "y": 237
-    },
     "tags": [
       "item",
       "resource"
@@ -8810,12 +7706,6 @@
       "zh-TW": "心型鑰匙"
     },
     "slug": "heart-key",
-    "sprite": {
-      "height": 25,
-      "width": 19,
-      "x": 25,
-      "y": 349
-    },
     "tags": [
       "item",
       "resource"
@@ -8849,12 +7739,6 @@
       "zh-TW": "駭客工具"
     },
     "slug": "hacking-tool",
-    "sprite": {
-      "height": 28,
-      "width": 18,
-      "x": 278,
-      "y": 112
-    },
     "tags": [
       "item",
       "resource"
@@ -8888,12 +7772,6 @@
       "zh-TW": "黑色星期五"
     },
     "slug": "black-friday",
-    "sprite": {
-      "height": 22,
-      "width": 24,
-      "x": 142,
-      "y": 399
-    },
     "tags": [
       "item",
       "resource"
@@ -8927,12 +7805,6 @@
       "zh-TW": "唇膏"
     },
     "slug": "lipstick",
-    "sprite": {
-      "height": 27,
-      "width": 17,
-      "x": 385,
-      "y": 160
-    },
     "tags": [
       "item",
       "resource"
@@ -8966,12 +7838,6 @@
       "zh-TW": 2077
     },
     "slug": "2077",
-    "sprite": {
-      "height": 21,
-      "width": 26,
-      "x": 135,
-      "y": 238
-    },
     "tags": [
       "item",
       "resource"
@@ -9005,12 +7871,6 @@
       "zh-TW": "鐵石心腸"
     },
     "slug": "iron-heart",
-    "sprite": {
-      "height": 24,
-      "width": 21,
-      "x": 112,
-      "y": 411
-    },
     "tags": [
       "item",
       "resource"
@@ -9044,12 +7904,6 @@
       "zh-TW": "戰術頭盔"
     },
     "slug": "combat-helmet",
-    "sprite": {
-      "height": 24,
-      "width": 26,
-      "x": 81,
-      "y": 256
-    },
     "tags": [
       "item",
       "resource"
@@ -9083,12 +7937,6 @@
       "zh-TW": "高級刀"
     },
     "slug": "advanced-knife",
-    "sprite": {
-      "height": 21,
-      "width": 31,
-      "x": 126,
-      "y": 127
-    },
     "tags": [
       "item",
       "resource"
@@ -9122,12 +7970,6 @@
       "zh-TW": "雷電引擎"
     },
     "slug": "thunder-engine",
-    "sprite": {
-      "height": 19,
-      "width": 24,
-      "x": 73,
-      "y": 430
-    },
     "tags": [
       "item",
       "resource"
@@ -9161,12 +8003,6 @@
       "zh-TW": "虛擬助理"
     },
     "slug": "virtual-assistant",
-    "sprite": {
-      "height": 24,
-      "width": 23,
-      "x": 48,
-      "y": 443
-    },
     "tags": [
       "item",
       "resource"
@@ -9200,12 +8036,6 @@
       "zh-TW": "電子羊"
     },
     "slug": "electric-sheep",
-    "sprite": {
-      "height": 24,
-      "width": 25,
-      "x": 432,
-      "y": 328
-    },
     "tags": [
       "item",
       "resource"
@@ -9239,12 +8069,6 @@
       "zh-TW": "能量轉換器"
     },
     "slug": "energy-converter",
-    "sprite": {
-      "height": 19,
-      "width": 21,
-      "x": 210,
-      "y": 493
-    },
     "tags": [
       "item",
       "resource"
@@ -9278,12 +8102,6 @@
       "zh-TW": "烏龜帽"
     },
     "slug": "turtle-hat",
-    "sprite": {
-      "height": 17,
-      "width": 24,
-      "x": 23,
-      "y": 445
-    },
     "tags": [
       "item",
       "hurt"
@@ -9317,12 +8135,6 @@
       "zh-TW": "平底鍋"
     },
     "slug": "frying-pan",
-    "sprite": {
-      "height": 26,
-      "width": 27,
-      "x": 388,
-      "y": 187
-    },
     "tags": [
       "item",
       "hurt"
@@ -9356,12 +8168,6 @@
       "zh-TW": "劍道面具"
     },
     "slug": "kendo-mask",
-    "sprite": {
-      "height": 23,
-      "width": 23,
-      "x": 209,
-      "y": 403
-    },
     "tags": [
       "item",
       "hurt"
@@ -9395,12 +8201,6 @@
       "zh-TW": "洋蔥頭盔"
     },
     "slug": "onion-helmet",
-    "sprite": {
-      "height": 27,
-      "width": 25,
-      "x": 402,
-      "y": 160
-    },
     "tags": [
       "item",
       "hurt"
@@ -9434,12 +8234,6 @@
       "zh-TW": "工程帽"
     },
     "slug": "hard-hat",
-    "sprite": {
-      "height": 22,
-      "width": 24,
-      "x": 0,
-      "y": 467
-    },
     "tags": [
       "item",
       "hurt"
@@ -9473,12 +8267,6 @@
       "zh-TW": "舞會面具"
     },
     "slug": "dance-mask",
-    "sprite": {
-      "height": 17,
-      "width": 27,
-      "x": 55,
-      "y": 238
-    },
     "tags": [
       "item",
       "hurt"
@@ -9512,12 +8300,6 @@
       "zh-TW": "血色童話"
     },
     "slug": "scarlet-tale",
-    "sprite": {
-      "height": 23,
-      "width": 28,
-      "x": 278,
-      "y": 140
-    },
     "tags": [
       "item",
       "hurt"
@@ -9551,12 +8333,6 @@
       "zh-TW": "午夜面具"
     },
     "slug": "midnight-mask",
-    "sprite": {
-      "height": 26,
-      "width": 24,
-      "x": 107,
-      "y": 256
-    },
     "tags": [
       "item",
       "hurt"
@@ -9590,12 +8366,6 @@
       "zh-TW": "金屬內褲"
     },
     "slug": "metal-panties",
-    "sprite": {
-      "height": 17,
-      "width": 24,
-      "x": 24,
-      "y": 462
-    },
     "tags": [
       "item",
       "hurt"
@@ -9629,12 +8399,6 @@
       "zh-TW": "金牙"
     },
     "slug": "golden-teeth",
-    "sprite": {
-      "height": 21,
-      "width": 23,
-      "x": 120,
-      "y": 491
-    },
     "tags": [
       "item",
       "hurt"
@@ -9668,12 +8432,6 @@
       "zh-TW": "煩人帽子"
     },
     "slug": "annoying-hat",
-    "sprite": {
-      "height": 28,
-      "width": 31,
-      "x": 222,
-      "y": 130
-    },
     "tags": [
       "item",
       "hurt"
@@ -9707,12 +8465,6 @@
       "zh-TW": "百寶袋"
     },
     "slug": "dimensional-bags",
-    "sprite": {
-      "height": 24,
-      "width": 24,
-      "x": 24,
-      "y": 479
-    },
     "tags": [
       "item",
       "hurt"
@@ -9746,12 +8498,6 @@
       "zh-TW": "機器人頭盔"
     },
     "slug": "robot-armor",
-    "sprite": {
-      "height": 25,
-      "width": 25,
-      "x": 457,
-      "y": 330
-    },
     "tags": [
       "item",
       "hurt"
@@ -9785,12 +8531,6 @@
       "zh-TW": "電力頭盔"
     },
     "slug": "power-helmet",
-    "sprite": {
-      "height": 25,
-      "width": 23,
-      "x": 482,
-      "y": 330
-    },
     "tags": [
       "item",
       "hurt"
@@ -9824,12 +8564,6 @@
       "zh-TW": "焊接面罩"
     },
     "slug": "welding-mask",
-    "sprite": {
-      "height": 24,
-      "width": 22,
-      "x": 48,
-      "y": 467
-    },
     "tags": [
       "item",
       "hurt"
@@ -9863,12 +8597,6 @@
       "zh-TW": "南瓜頭"
     },
     "slug": "pumpkinhead",
-    "sprite": {
-      "height": 25,
-      "width": 26,
-      "x": 0,
-      "y": 256
-    },
     "tags": [
       "item",
       "hurt"
@@ -9902,12 +8630,6 @@
       "zh-TW": "夢魘面具"
     },
     "slug": "nightmare-mask",
-    "sprite": {
-      "height": 29,
-      "width": 28,
-      "x": 58,
-      "y": 209
-    },
     "tags": [
       "item",
       "hurt"
@@ -9941,12 +8663,6 @@
       "zh-TW": "魔杖"
     },
     "slug": "magic-wand",
-    "sprite": {
-      "height": 24,
-      "width": 25,
-      "x": 248,
-      "y": 282
-    },
     "tags": [
       "item",
       "hurt"
@@ -9980,12 +8696,6 @@
       "zh-TW": "攻殼機動盔"
     },
     "slug": "ghost-shell",
-    "sprite": {
-      "height": 27,
-      "width": 24,
-      "x": 402,
-      "y": 213
-    },
     "tags": [
       "item",
       "hurt"
@@ -10019,12 +8729,6 @@
       "zh-TW": "嗝兒"
     },
     "slug": "hiccups",
-    "sprite": {
-      "height": 25,
-      "width": 14,
-      "x": 498,
-      "y": 150
-    },
     "tags": [
       "item",
       "hurt"
@@ -10058,12 +8762,6 @@
       "zh-TW": "孔明燈"
     },
     "slug": "kongming-lantern",
-    "sprite": {
-      "height": 25,
-      "width": 22,
-      "x": 224,
-      "y": 288
-    },
     "tags": [
       "item",
       "hurt"
@@ -10097,12 +8795,6 @@
       "zh-TW": "黑暗面"
     },
     "slug": "dark-side",
-    "sprite": {
-      "height": 28,
-      "width": 24,
-      "x": 283,
-      "y": 163
-    },
     "tags": [
       "item",
       "hurt"
@@ -10136,12 +8828,6 @@
       "zh-TW": "竹蜻蜓"
     },
     "slug": "bamboo-dragonfly",
-    "sprite": {
-      "height": 22,
-      "width": 25,
-      "x": 273,
-      "y": 282
-    },
     "tags": [
       "item",
       "hurt"
@@ -10175,12 +8861,6 @@
       "zh-TW": "V.O.領域"
     },
     "slug": "vo-field",
-    "sprite": {
-      "height": 29,
-      "width": 26,
-      "x": 78,
-      "y": 179
-    },
     "tags": [
       "item",
       "hurt"
@@ -10214,12 +8894,6 @@
       "zh-TW": "毛巾"
     },
     "slug": "the-towel",
-    "sprite": {
-      "height": 25,
-      "width": 25,
-      "x": 298,
-      "y": 289
-    },
     "tags": [
       "item",
       "hurt"
@@ -10253,12 +8927,6 @@
       "zh-TW": "魔鬼交易"
     },
     "slug": "devils-trade",
-    "sprite": {
-      "height": 25,
-      "width": 25,
-      "x": 273,
-      "y": 304
-    },
     "tags": [
       "item",
       "hurt"
@@ -10292,12 +8960,6 @@
       "zh-TW": "大老爹"
     },
     "slug": "big-daddy",
-    "sprite": {
-      "height": 25,
-      "width": 26,
-      "x": 26,
-      "y": 256
-    },
     "tags": [
       "item",
       "hurt"
@@ -10331,12 +8993,6 @@
       "zh-TW": "狂熱面具"
     },
     "slug": "fanatic-mask",
-    "sprite": {
-      "height": 25,
-      "width": 24,
-      "x": 246,
-      "y": 306
-    },
     "tags": [
       "item",
       "hurt"
@@ -10370,12 +9026,6 @@
       "zh-TW": "荊棘冠"
     },
     "slug": "crown-of-thorns",
-    "sprite": {
-      "height": 22,
-      "width": 28,
-      "x": 287,
-      "y": 191
-    },
     "tags": [
       "item",
       "hurt"
@@ -10409,12 +9059,6 @@
       "zh-TW": "暗影劍"
     },
     "slug": "shadow-blade",
-    "sprite": {
-      "height": 21,
-      "width": 21,
-      "x": 486,
-      "y": 376
-    },
     "tags": [
       "item",
       "attack"
@@ -10448,12 +9092,6 @@
       "zh-TW": "二號玩家就緒"
     },
     "slug": "player-zero-ready",
-    "sprite": {
-      "height": 21,
-      "width": 26,
-      "x": 52,
-      "y": 276
-    },
     "tags": [
       "item",
       "attack"
@@ -10487,12 +9125,6 @@
       "zh-TW": "惡魔之書"
     },
     "slug": "demon-book",
-    "sprite": {
-      "height": 23,
-      "width": 22,
-      "x": 265,
-      "y": 401
-    },
     "tags": [
       "item",
       "attack"
@@ -10526,12 +9158,6 @@
       "zh-TW": "古老面具"
     },
     "slug": "ancient-mask",
-    "sprite": {
-      "height": 25,
-      "width": 22,
-      "x": 180,
-      "y": 306
-    },
     "tags": [
       "item",
       "attack"
@@ -10565,12 +9191,6 @@
       "zh-TW": "無機物變異體"
     },
     "slug": "inorganic-mod",
-    "sprite": {
-      "height": 26,
-      "width": 28,
-      "x": 294,
-      "y": 213
-    },
     "tags": [
       "item",
       "attack"
@@ -10604,12 +9224,6 @@
       "zh-TW": "死神斗篷帽"
     },
     "slug": "grim-hood",
-    "sprite": {
-      "height": 28,
-      "width": 26,
-      "x": 278,
-      "y": 0
-    },
     "tags": [
       "item",
       "attack"
@@ -10643,12 +9257,6 @@
       "zh-TW": "懸賞令"
     },
     "slug": "most-wanted-list",
-    "sprite": {
-      "height": 23,
-      "width": 23,
-      "x": 232,
-      "y": 404
-    },
     "tags": [
       "item",
       "attack"
@@ -10682,12 +9290,6 @@
       "zh-TW": "砰砰手套"
     },
     "slug": "boom-gloves",
-    "sprite": {
-      "height": 25,
-      "width": 20,
-      "x": 202,
-      "y": 306
-    },
     "tags": [
       "item",
       "attack"
@@ -10721,12 +9323,6 @@
       "zh-TW": "雨林紀念品"
     },
     "slug": "rainforest-souvenir",
-    "sprite": {
-      "height": 24,
-      "width": 25,
-      "x": 154,
-      "y": 324
-    },
     "tags": [
       "item",
       "attack"
@@ -10760,12 +9356,6 @@
       "zh-TW": "螺絲起子"
     },
     "slug": "screwdriver",
-    "sprite": {
-      "height": 28,
-      "width": 14,
-      "x": 162,
-      "y": 179
-    },
     "tags": [
       "item",
       "attack"
@@ -10799,12 +9389,6 @@
       "zh-TW": "先知晶片"
     },
     "slug": "prophet-chip",
-    "sprite": {
-      "height": 22,
-      "width": 27,
-      "x": 374,
-      "y": 82
-    },
     "tags": [
       "item",
       "attack"
@@ -10838,12 +9422,6 @@
       "zh-TW": "黏土玩偶"
     },
     "slug": "clay-doll",
-    "sprite": {
-      "height": 25,
-      "width": 28,
-      "x": 278,
-      "y": 28
-    },
     "tags": [
       "item",
       "attack"
@@ -10877,12 +9455,6 @@
       "zh-TW": "神聖眼淚"
     },
     "slug": "sacred-tears",
-    "sprite": {
-      "height": 27,
-      "width": 18,
-      "x": 387,
-      "y": 54
-    },
     "tags": [
       "item",
       "attack"
@@ -10916,12 +9488,6 @@
       "zh-TW": "瘟疫面具"
     },
     "slug": "plague-mask",
-    "sprite": {
-      "height": 25,
-      "width": 29,
-      "x": 104,
-      "y": 168
-    },
     "tags": [
       "item",
       "attack"
@@ -10955,12 +9521,6 @@
       "zh-TW": "死亡信徒"
     },
     "slug": "death-believer",
-    "sprite": {
-      "height": 25,
-      "width": 27,
-      "x": 415,
-      "y": 187
-    },
     "tags": [
       "item",
       "attack"
@@ -10994,12 +9554,6 @@
       "zh-TW": "惡魔殺手"
     },
     "slug": "slayer-of-demons",
-    "sprite": {
-      "height": 21,
-      "width": 30,
-      "x": 0,
-      "y": 156
-    },
     "tags": [
       "item",
       "attack"
@@ -11033,12 +9587,6 @@
       "zh-TW": "銳利鷹眼"
     },
     "slug": "ready-aim-eye",
-    "sprite": {
-      "height": 23,
-      "width": 23,
-      "x": 164,
-      "y": 427
-    },
     "tags": [
       "item",
       "attack"
@@ -11072,12 +9620,6 @@
       "zh-TW": "B型病毒"
     },
     "slug": "b-virus",
-    "sprite": {
-      "height": 25,
-      "width": 16,
-      "x": 496,
-      "y": 101
-    },
     "tags": [
       "item",
       "attack"
@@ -11111,12 +9653,6 @@
       "zh-TW": "子彈頭冠"
     },
     "slug": "bullet-crown",
-    "sprite": {
-      "height": 18,
-      "width": 24,
-      "x": 0,
-      "y": 489
-    },
     "tags": [
       "item",
       "attack"
@@ -11150,12 +9686,6 @@
       "zh-TW": "空軍勛章"
     },
     "slug": "air-force-medal",
-    "sprite": {
-      "height": 26,
-      "width": 17,
-      "x": 453,
-      "y": 236
-    },
     "tags": [
       "item",
       "attack"
@@ -11189,12 +9719,6 @@
       "zh-TW": "夜視鏡"
     },
     "slug": "night-vision",
-    "sprite": {
-      "height": 25,
-      "width": 25,
-      "x": 122,
-      "y": 326
-    },
     "tags": [
       "item",
       "bullet"
@@ -11228,12 +9752,6 @@
       "zh-TW": "武士魂"
     },
     "slug": "samurais-soul",
-    "sprite": {
-      "height": 26,
-      "width": 27,
-      "x": 391,
-      "y": 27
-    },
     "tags": [
       "item",
       "bullet"
@@ -11267,12 +9785,6 @@
       "zh-TW": "士兵面具"
     },
     "slug": "soldier-mask",
-    "sprite": {
-      "height": 25,
-      "width": 24,
-      "x": 222,
-      "y": 313
-    },
     "tags": [
       "item",
       "bullet"
@@ -11306,12 +9818,6 @@
       "zh-TW": "爆米花"
     },
     "slug": "popcorn",
-    "sprite": {
-      "height": 26,
-      "width": 26,
-      "x": 426,
-      "y": 256
-    },
     "tags": [
       "item",
       "bullet"
@@ -11345,12 +9851,6 @@
       "zh-TW": "鐵冠"
     },
     "slug": "iron-crown",
-    "sprite": {
-      "height": 26,
-      "width": 28,
-      "x": 304,
-      "y": 0
-    },
     "tags": [
       "item",
       "bullet"
@@ -11384,12 +9884,6 @@
       "zh-TW": "石頭種子"
     },
     "slug": "seed-of-stone",
-    "sprite": {
-      "height": 25,
-      "width": 25,
-      "x": 179,
-      "y": 331
-    },
     "tags": [
       "item",
       "bullet"
@@ -11423,12 +9917,6 @@
       "zh-TW": "花盆"
     },
     "slug": "flowerpot",
-    "sprite": {
-      "height": 26,
-      "width": 26,
-      "x": 78,
-      "y": 280
-    },
     "tags": [
       "item",
       "bullet"
@@ -11462,12 +9950,6 @@
       "zh-TW": "裂變裝置"
     },
     "slug": "fission-device",
-    "sprite": {
-      "height": 17,
-      "width": 24,
-      "x": 48,
-      "y": 491
-    },
     "tags": [
       "item",
       "bullet"
@@ -11501,12 +9983,6 @@
       "zh-TW": "櫻桃口味"
     },
     "slug": "cherry-taste",
-    "sprite": {
-      "height": 23,
-      "width": 21,
-      "x": 164,
-      "y": 450
-    },
     "tags": [
       "item",
       "bullet"
@@ -11540,12 +10016,6 @@
       "zh-TW": "彈性凝膠"
     },
     "slug": "elastic-gel",
-    "sprite": {
-      "height": 20,
-      "width": 25,
-      "x": 147,
-      "y": 348
-    },
     "tags": [
       "item",
       "bullet"
@@ -11579,12 +10049,6 @@
       "zh-TW": "亞特蘭提斯泡泡"
     },
     "slug": "atlantis-bubble",
-    "sprite": {
-      "height": 21,
-      "width": 21,
-      "x": 337,
-      "y": 388
-    },
     "tags": [
       "item",
       "bullet"
@@ -11618,12 +10082,6 @@
       "zh-TW": "危險標誌"
     },
     "slug": "danger-sign",
-    "sprite": {
-      "height": 21,
-      "width": 21,
-      "x": 316,
-      "y": 407
-    },
     "tags": [
       "item",
       "bullet"
@@ -11657,12 +10115,6 @@
       "zh-TW": "小辣椒"
     },
     "slug": "hot-chili",
-    "sprite": {
-      "height": 24,
-      "width": 23,
-      "x": 70,
-      "y": 467
-    },
     "tags": [
       "item",
       "bullet"
@@ -11696,12 +10148,6 @@
       "zh-TW": "散熱系統"
     },
     "slug": "cooling-system",
-    "sprite": {
-      "height": 23,
-      "width": 20,
-      "x": 167,
-      "y": 473
-    },
     "tags": [
       "item",
       "bullet"
@@ -11735,12 +10181,6 @@
       "zh-TW": "壞蘋果"
     },
     "slug": "bad-apple",
-    "sprite": {
-      "height": 25,
-      "width": 21,
-      "x": 98,
-      "y": 332
-    },
     "tags": [
       "item",
       "bullet"
@@ -11774,12 +10214,6 @@
       "zh-TW": "X光"
     },
     "slug": "x-ray",
-    "sprite": {
-      "height": 22,
-      "width": 21,
-      "x": 256,
-      "y": 472
-    },
     "tags": [
       "item",
       "bullet"
@@ -11813,12 +10247,6 @@
       "zh-TW": "伽馬射線"
     },
     "slug": "gamma-ray",
-    "sprite": {
-      "height": 26,
-      "width": 26,
-      "x": 470,
-      "y": 255
-    },
     "tags": [
       "item",
       "bullet"
@@ -11852,12 +10280,6 @@
       "zh-TW": "乒乓球"
     },
     "slug": "ping-pong",
-    "sprite": {
-      "height": 26,
-      "width": 24,
-      "x": 0,
-      "y": 281
-    },
     "tags": [
       "item",
       "bullet"
@@ -11891,12 +10313,6 @@
       "zh-TW": "外星科技"
     },
     "slug": "alien-tech",
-    "sprite": {
-      "height": 22,
-      "width": 26,
-      "x": 24,
-      "y": 281
-    },
     "tags": [
       "item",
       "bullet"
@@ -11930,12 +10346,6 @@
       "zh-TW": "帝國原力"
     },
     "slug": "imperial-force",
-    "sprite": {
-      "height": 26,
-      "width": 25,
-      "x": 50,
-      "y": 297
-    },
     "tags": [
       "item",
       "bullet"
@@ -11969,12 +10379,6 @@
       "zh-TW": "小丑帽"
     },
     "slug": "clown-hat",
-    "sprite": {
-      "height": 21,
-      "width": 26,
-      "x": 24,
-      "y": 303
-    },
     "tags": [
       "item",
       "bullet"
@@ -12008,12 +10412,6 @@
       "zh-TW": "隨身鏡"
     },
     "slug": "hand-mirror",
-    "sprite": {
-      "height": 26,
-      "width": 21,
-      "x": 0,
-      "y": 307
-    },
     "tags": [
       "item",
       "bullet"
@@ -12047,12 +10445,6 @@
       "zh-TW": "火箭發射器"
     },
     "slug": "rocket-mod",
-    "sprite": {
-      "height": 26,
-      "width": 22,
-      "x": 347,
-      "y": 241
-    },
     "tags": [
       "item",
       "bullet"
@@ -12086,12 +10478,6 @@
       "zh-TW": "蜂巢"
     },
     "slug": "beehive",
-    "sprite": {
-      "height": 27,
-      "width": 24,
-      "x": 396,
-      "y": 0
-    },
     "tags": [
       "item",
       "bullet"
@@ -12125,12 +10511,6 @@
       "zh-TW": "鋰電池"
     },
     "slug": "lithium-battery",
-    "sprite": {
-      "height": 27,
-      "width": 18,
-      "x": 386,
-      "y": 104
-    },
     "tags": [
       "item",
       "bullet"
@@ -12164,12 +10544,6 @@
       "zh-TW": "四川辣醬"
     },
     "slug": "szechuan-sauce",
-    "sprite": {
-      "height": 27,
-      "width": 18,
-      "x": 426,
-      "y": 212
-    },
     "tags": [
       "item",
       "bullet"
@@ -12203,12 +10577,6 @@
       "zh-TW": "雪花球"
     },
     "slug": "snow-globe",
-    "sprite": {
-      "height": 25,
-      "width": 20,
-      "x": 119,
-      "y": 351
-    },
     "tags": [
       "item",
       "bullet"
@@ -12242,12 +10610,6 @@
       "zh-TW": "防毒面具"
     },
     "slug": "gas-mask",
-    "sprite": {
-      "height": 19,
-      "width": 25,
-      "x": 69,
-      "y": 351
-    },
     "tags": [
       "item",
       "bullet"
@@ -12281,12 +10643,6 @@
       "zh-TW": "雷根糖"
     },
     "slug": "jelly-beans",
-    "sprite": {
-      "height": 23,
-      "width": 26,
-      "x": 369,
-      "y": 241
-    },
     "tags": [
       "item",
       "bullet"
@@ -12320,12 +10676,6 @@
       "zh-TW": "鬼釘"
     },
     "slug": "ghost-nail",
-    "sprite": {
-      "height": 25,
-      "width": 25,
-      "x": 94,
-      "y": 357
-    },
     "tags": [
       "item",
       "bullet"
@@ -12359,12 +10709,6 @@
       "zh-TW": "惡魔熱線"
     },
     "slug": "devil-hotline",
-    "sprite": {
-      "height": 23,
-      "width": 27,
-      "x": 401,
-      "y": 81
-    },
     "tags": [
       "item",
       "melee"
@@ -12398,12 +10742,6 @@
       "zh-TW": "金拳頭"
     },
     "slug": "golden-fist",
-    "sprite": {
-      "height": 26,
-      "width": 26,
-      "x": 369,
-      "y": 264
-    },
     "tags": [
       "item",
       "melee"
@@ -12437,12 +10775,6 @@
       "zh-TW": "黃金骷髏頭"
     },
     "slug": "golden-skulls",
-    "sprite": {
-      "height": 29,
-      "width": 25,
-      "x": 86,
-      "y": 209
-    },
     "tags": [
       "item",
       "melee"
@@ -12476,12 +10808,6 @@
       "zh-TW": "磨刀石"
     },
     "slug": "whetstone",
-    "sprite": {
-      "height": 25,
-      "width": 17,
-      "x": 204,
-      "y": 331
-    },
     "tags": [
       "item",
       "melee"
@@ -12515,12 +10841,6 @@
       "zh-TW": "獵人女王"
     },
     "slug": "hunter-queen",
-    "sprite": {
-      "height": 24,
-      "width": 24,
-      "x": 341,
-      "y": 341
-    },
     "tags": [
       "item",
       "melee"
@@ -12554,12 +10874,6 @@
       "zh-TW": "鐵撬"
     },
     "slug": "the-crowbar",
-    "sprite": {
-      "height": 24,
-      "width": 24,
-      "x": 365,
-      "y": 341
-    },
     "tags": [
       "item",
       "melee"
@@ -12593,12 +10907,6 @@
       "zh-TW": "戰鎚"
     },
     "slug": "war-hammer",
-    "sprite": {
-      "height": 25,
-      "width": 25,
-      "x": 69,
-      "y": 370
-    },
     "tags": [
       "item",
       "melee"
@@ -12632,12 +10940,6 @@
       "zh-TW": "憤怒雞"
     },
     "slug": "furious-chicken",
-    "sprite": {
-      "height": 29,
-      "width": 24,
-      "x": 111,
-      "y": 209
-    },
     "tags": [
       "item",
       "melee"
@@ -12671,12 +10973,6 @@
       "zh-TW": "玩具球棒"
     },
     "slug": "toy-home-run-bat",
-    "sprite": {
-      "height": 28,
-      "width": 14,
-      "x": 278,
-      "y": 53
-    },
     "tags": [
       "item",
       "melee"
@@ -12710,12 +11006,6 @@
       "zh-TW": "雷神之鎚"
     },
     "slug": "mjolnir",
-    "sprite": {
-      "height": 25,
-      "width": 22,
-      "x": 44,
-      "y": 372
-    },
     "tags": [
       "item",
       "melee"
@@ -12749,12 +11039,6 @@
       "zh-TW": "艾瑞克之燭"
     },
     "slug": "erics-candle",
-    "sprite": {
-      "height": 28,
-      "width": 18,
-      "x": 280,
-      "y": 81
-    },
     "tags": [
       "item",
       "melee"
@@ -12788,12 +11072,6 @@
       "zh-TW": "飢餓護身符"
     },
     "slug": "hungry-amulet",
-    "sprite": {
-      "height": 25,
-      "width": 29,
-      "x": 133,
-      "y": 179
-    },
     "tags": [
       "item",
       "melee"
@@ -12827,12 +11105,6 @@
       "zh-TW": "電鑽"
     },
     "slug": "electric-drill",
-    "sprite": {
-      "height": 21,
-      "width": 24,
-      "x": 72,
-      "y": 491
-    },
     "tags": [
       "item",
       "melee"
@@ -12866,12 +11138,6 @@
       "zh-TW": "刀與叉"
     },
     "slug": "knife-and-fork",
-    "sprite": {
-      "height": 26,
-      "width": 19,
-      "x": 395,
-      "y": 266
-    },
     "tags": [
       "item",
       "melee"
@@ -12905,12 +11171,6 @@
       "zh-TW": "太空扳手"
     },
     "slug": "space-spanner",
-    "sprite": {
-      "height": 24,
-      "width": 24,
-      "x": 389,
-      "y": 356
-    },
     "tags": [
       "item",
       "melee"
@@ -12944,12 +11204,6 @@
       "zh-TW": "巫師劍"
     },
     "slug": "wizard-sword",
-    "sprite": {
-      "height": 23,
-      "width": 22,
-      "x": 185,
-      "y": 450
-    },
     "tags": [
       "item",
       "melee"
@@ -12983,12 +11237,6 @@
       "zh-TW": "金鈴鐺"
     },
     "slug": "golden-bell",
-    "sprite": {
-      "height": 24,
-      "width": 22,
-      "x": 319,
-      "y": 361
-    },
     "tags": [
       "item",
       "melee"
@@ -13022,12 +11270,6 @@
       "zh-TW": "動能劍"
     },
     "slug": "kinetic-blade",
-    "sprite": {
-      "height": 26,
-      "width": 26,
-      "x": 266,
-      "y": 256
-    },
     "tags": [
       "item",
       "melee"
@@ -13061,12 +11303,6 @@
       "zh-TW": "古羅馬戰士頭盔"
     },
     "slug": "gladiator-helmet",
-    "sprite": {
-      "height": 24,
-      "width": 28,
-      "x": 292,
-      "y": 53
-    },
     "tags": [
       "item",
       "melee"
@@ -13100,12 +11336,6 @@
       "zh-TW": "頭帶"
     },
     "slug": "headband",
-    "sprite": {
-      "height": 18,
-      "width": 27,
-      "x": 82,
-      "y": 238
-    },
     "tags": [
       "item",
       "melee"
@@ -13139,12 +11369,6 @@
       "zh-TW": "命運之矛"
     },
     "slug": "spear-of-destiny",
-    "sprite": {
-      "height": 24,
-      "width": 24,
-      "x": 290,
-      "y": 363
-    },
     "tags": [
       "item",
       "melee"
@@ -13178,12 +11402,6 @@
       "zh-TW": "平凡手套"
     },
     "slug": "ordinary-gloves",
-    "sprite": {
-      "height": 28,
-      "width": 23,
-      "x": 296,
-      "y": 109
-    },
     "tags": [
       "item",
       "melee"
@@ -13217,12 +11435,6 @@
       "zh-TW": "鏈鋸槍"
     },
     "slug": "chainsaw-bayonet",
-    "sprite": {
-      "height": 22,
-      "width": 22,
-      "x": 277,
-      "y": 446
-    },
     "tags": [
       "item",
       "melee"
@@ -13256,12 +11468,6 @@
       "zh-TW": "發條青蛙"
     },
     "slug": "iron-frog",
-    "sprite": {
-      "height": 22,
-      "width": 27,
-      "x": 405,
-      "y": 53
-    },
     "tags": [
       "item",
       "bomb"
@@ -13295,12 +11501,6 @@
       "zh-TW": "外星玩具"
     },
     "slug": "alien-toy",
-    "sprite": {
-      "height": 23,
-      "width": 28,
-      "x": 306,
-      "y": 137
-    },
     "tags": [
       "item",
       "bomb"
@@ -13334,12 +11534,6 @@
       "zh-TW": "拉炮"
     },
     "slug": "party-popper",
-    "sprite": {
-      "height": 25,
-      "width": 25,
-      "x": 0,
-      "y": 383
-    },
     "tags": [
       "item",
       "bomb"
@@ -13373,12 +11567,6 @@
       "zh-TW": "幽靈瓶"
     },
     "slug": "ghost-bottle",
-    "sprite": {
-      "height": 28,
-      "width": 16,
-      "x": 307,
-      "y": 160
-    },
     "tags": [
       "item",
       "bomb"
@@ -13412,12 +11600,6 @@
       "zh-TW": "微笑炸彈"
     },
     "slug": "smiley-bomb",
-    "sprite": {
-      "height": 23,
-      "width": 18,
-      "x": 343,
-      "y": 188
-    },
     "tags": [
       "item",
       "bomb"
@@ -13451,12 +11633,6 @@
       "zh-TW": "鞭炮"
     },
     "slug": "firecrackers",
-    "sprite": {
-      "height": 22,
-      "width": 20,
-      "x": 296,
-      "y": 410
-    },
     "tags": [
       "item",
       "bomb"
@@ -13490,12 +11666,6 @@
       "zh-TW": "雷管5000"
     },
     "slug": "blasting-cap-5000",
-    "sprite": {
-      "height": 22,
-      "width": 22,
-      "x": 277,
-      "y": 468
-    },
     "tags": [
       "item",
       "bomb"
@@ -13529,12 +11699,6 @@
       "zh-TW": "雷管101"
     },
     "slug": "blasting-cap-101",
-    "sprite": {
-      "height": 22,
-      "width": 22,
-      "x": 277,
-      "y": 490
-    },
     "tags": [
       "item",
       "bomb"
@@ -13568,12 +11732,6 @@
       "zh-TW": "化學燃料"
     },
     "slug": "chemical-burn",
-    "sprite": {
-      "height": 24,
-      "width": 21,
-      "x": 266,
-      "y": 377
-    },
     "tags": [
       "item",
       "bomb"
@@ -13607,12 +11765,6 @@
       "zh-TW": "小紅旗"
     },
     "slug": "red-flag",
-    "sprite": {
-      "height": 23,
-      "width": 20,
-      "x": 187,
-      "y": 427
-    },
     "tags": [
       "item",
       "bomb"
@@ -13646,12 +11798,6 @@
       "zh-TW": "工兵背包"
     },
     "slug": "sapper-backpack",
-    "sprite": {
-      "height": 23,
-      "width": 24,
-      "x": 93,
-      "y": 449
-    },
     "tags": [
       "item",
       "bomb"
@@ -13685,12 +11831,6 @@
       "zh-TW": "奈米科技"
     },
     "slug": "nanotechnology",
-    "sprite": {
-      "height": 23,
-      "width": 23,
-      "x": 207,
-      "y": 426
-    },
     "tags": [
       "item",
       "bomb"
@@ -13724,12 +11864,6 @@
       "zh-TW": "B計畫"
     },
     "slug": "plan-b",
-    "sprite": {
-      "height": 22,
-      "width": 22,
-      "x": 442,
-      "y": 355
-    },
     "tags": [
       "item",
       "bomb"
@@ -13763,12 +11897,6 @@
       "zh-TW": "薩滿面具"
     },
     "slug": "shaman-mask",
-    "sprite": {
-      "height": 27,
-      "width": 28,
-      "x": 306,
-      "y": 26
-    },
     "tags": [
       "item",
       "egg"
@@ -13802,12 +11930,6 @@
       "zh-TW": "火柴盒"
     },
     "slug": "matchbox",
-    "sprite": {
-      "height": 24,
-      "width": 28,
-      "x": 315,
-      "y": 188
-    },
     "tags": [
       "item",
       "egg"
@@ -13841,12 +11963,6 @@
       "zh-TW": "永恆之石"
     },
     "slug": "eternal-stone",
-    "sprite": {
-      "height": 24,
-      "width": 20,
-      "x": 166,
-      "y": 399
-    },
     "tags": [
       "item",
       "egg"
@@ -13880,12 +11996,6 @@
       "zh-TW": "香草冰淇淋"
     },
     "slug": "vanilla-ice-cream",
-    "sprite": {
-      "height": 26,
-      "width": 21,
-      "x": 292,
-      "y": 256
-    },
     "tags": [
       "item",
       "egg"
@@ -13919,12 +12029,6 @@
       "zh-TW": "橡實"
     },
     "slug": "acorn",
-    "sprite": {
-      "height": 22,
-      "width": 22,
-      "x": 413,
-      "y": 376
-    },
     "tags": [
       "item",
       "egg"
@@ -13958,12 +12062,6 @@
       "zh-TW": "雙黃蛋"
     },
     "slug": "double-yolks",
-    "sprite": {
-      "height": 24,
-      "width": 26,
-      "x": 313,
-      "y": 265
-    },
     "tags": [
       "item",
       "egg"
@@ -13997,12 +12095,6 @@
       "zh-TW": "不倒翁"
     },
     "slug": "roly-poly-toy",
-    "sprite": {
-      "height": 29,
-      "width": 23,
-      "x": 135,
-      "y": 209
-    },
     "tags": [
       "item",
       "egg"
@@ -14036,12 +12128,6 @@
       "zh-TW": "黑蘭姆酒"
     },
     "slug": "black-rum",
-    "sprite": {
-      "height": 28,
-      "width": 16,
-      "x": 323,
-      "y": 160
-    },
     "tags": [
       "item",
       "egg"
@@ -14075,12 +12161,6 @@
       "zh-TW": "香雞堡"
     },
     "slug": "chicken-burger",
-    "sprite": {
-      "height": 23,
-      "width": 23,
-      "x": 187,
-      "y": 473
-    },
     "tags": [
       "item",
       "egg"
@@ -14114,12 +12194,6 @@
       "zh-TW": "單片眼鏡"
     },
     "slug": "monocle",
-    "sprite": {
-      "height": 22,
-      "width": 23,
-      "x": 207,
-      "y": 449
-    },
     "tags": [
       "item",
       "egg"
@@ -14153,12 +12227,6 @@
       "zh-TW": "葡萄軟糖"
     },
     "slug": "grape-candy",
-    "sprite": {
-      "height": 28,
-      "width": 24,
-      "x": 298,
-      "y": 77
-    },
     "tags": [
       "item",
       "egg"
@@ -14192,12 +12260,6 @@
       "zh-TW": "藍莓蛋糕"
     },
     "slug": "blueberry-cake",
-    "sprite": {
-      "height": 21,
-      "width": 26,
-      "x": 339,
-      "y": 267
-    },
     "tags": [
       "item",
       "egg"
@@ -14231,12 +12293,6 @@
       "zh-TW": "甜甜圈"
     },
     "slug": "doughnut",
-    "sprite": {
-      "height": 22,
-      "width": 24,
-      "x": 133,
-      "y": 421
-    },
     "tags": [
       "item",
       "egg"
@@ -14270,12 +12326,6 @@
       "zh-TW": "檸檬果凍"
     },
     "slug": "lemon-jelly",
-    "sprite": {
-      "height": 22,
-      "width": 23,
-      "x": 210,
-      "y": 471
-    },
     "tags": [
       "item",
       "egg"
@@ -14309,12 +12359,6 @@
       "zh-TW": "薑餅人"
     },
     "slug": "gingerbread-man",
-    "sprite": {
-      "height": 27,
-      "width": 19,
-      "x": 404,
-      "y": 104
-    },
     "tags": [
       "item",
       "egg"
@@ -14348,12 +12392,6 @@
       "zh-TW": "乳清蛋白粉"
     },
     "slug": "protein-powder",
-    "sprite": {
-      "height": 25,
-      "width": 22,
-      "x": 298,
-      "y": 314
-    },
     "tags": [
       "item",
       "egg"
@@ -14387,12 +12425,6 @@
       "zh-TW": "土星棒棒糖"
     },
     "slug": "saturn-lollipop",
-    "sprite": {
-      "height": 27,
-      "width": 28,
-      "x": 319,
-      "y": 105
-    },
     "tags": [
       "item",
       "egg"
@@ -14426,12 +12458,6 @@
       "zh-TW": "零食盒"
     },
     "slug": "snack-box",
-    "sprite": {
-      "height": 24,
-      "width": 24,
-      "x": 96,
-      "y": 472
-    },
     "tags": [
       "item",
       "egg"
@@ -14465,12 +12491,6 @@
       "zh-TW": "芥末便便"
     },
     "slug": "mustard-poop",
-    "sprite": {
-      "height": 20,
-      "width": 23,
-      "x": 230,
-      "y": 427
-    },
     "tags": [
       "item",
       "egg"
@@ -14504,12 +12524,6 @@
       "zh-TW": "小熊軟糖"
     },
     "slug": "gum-bear",
-    "sprite": {
-      "height": 26,
-      "width": 20,
-      "x": 339,
-      "y": 288
-    },
     "tags": [
       "item",
       "pet-effect"
@@ -14543,12 +12557,6 @@
       "zh-TW": "獅子頭套"
     },
     "slug": "lion-headgear",
-    "sprite": {
-      "height": 28,
-      "width": 26,
-      "x": 334,
-      "y": 132
-    },
     "tags": [
       "item",
       "pet-effect"
@@ -14582,12 +12590,6 @@
       "zh-TW": "棉花糖"
     },
     "slug": "marshmallow",
-    "sprite": {
-      "height": 28,
-      "width": 24,
-      "x": 339,
-      "y": 160
-    },
     "tags": [
       "item",
       "pet-effect"
@@ -14621,12 +12623,6 @@
       "zh-TW": "草莓糖果"
     },
     "slug": "strawberry-candy",
-    "sprite": {
-      "height": 28,
-      "width": 18,
-      "x": 322,
-      "y": 212
-    },
     "tags": [
       "item",
       "pet-effect"
@@ -14660,12 +12656,6 @@
       "zh-TW": "超級泡泡糖"
     },
     "slug": "worst-blowing-gum",
-    "sprite": {
-      "height": 24,
-      "width": 25,
-      "x": 270,
-      "y": 329
-    },
     "tags": [
       "item",
       "pet-effect"
@@ -14699,12 +12689,6 @@
       "zh-TW": "玉米糖"
     },
     "slug": "candy-corn",
-    "sprite": {
-      "height": 22,
-      "width": 20,
-      "x": 385,
-      "y": 380
-    },
     "tags": [
       "item",
       "pet-effect"
@@ -14738,12 +12722,6 @@
       "zh-TW": "拐杖糖"
     },
     "slug": "candy-cane",
-    "sprite": {
-      "height": 26,
-      "width": 17,
-      "x": 161,
-      "y": 238
-    },
     "tags": [
       "item",
       "pet-effect"
@@ -14777,12 +12755,6 @@
       "zh-TW": "巧克力餅乾"
     },
     "slug": "chocolate-cookies",
-    "sprite": {
-      "height": 24,
-      "width": 24,
-      "x": 117,
-      "y": 443
-    },
     "tags": [
       "item",
       "pet-effect"
@@ -14816,12 +12788,6 @@
       "zh-TW": "金幣巧克力"
     },
     "slug": "chocolate-coin",
-    "sprite": {
-      "height": 24,
-      "width": 27,
-      "x": 418,
-      "y": 27
-    },
     "tags": [
       "item",
       "pet-effect"
@@ -14855,12 +12821,6 @@
       "zh-TW": "水果糖"
     },
     "slug": "crystal-hard-candy",
-    "sprite": {
-      "height": 23,
-      "width": 23,
-      "x": 230,
-      "y": 447
-    },
     "tags": [
       "item",
       "pet-effect"
@@ -14894,12 +12854,6 @@
       "zh-TW": "彩虹糖"
     },
     "slug": "rainbow-candy",
-    "sprite": {
-      "height": 18,
-      "width": 26,
-      "x": 131,
-      "y": 259
-    },
     "tags": [
       "item",
       "pet-effect"
@@ -14933,12 +12887,6 @@
       "zh-TW": "蘋果糖"
     },
     "slug": "toffee-apple",
-    "sprite": {
-      "height": 28,
-      "width": 21,
-      "x": 340,
-      "y": 212
-    },
     "tags": [
       "item",
       "pet-effect"
@@ -14972,12 +12920,6 @@
       "zh-TW": "牛軋糖"
     },
     "slug": "nougat",
-    "sprite": {
-      "height": 22,
-      "width": 25,
-      "x": 320,
-      "y": 314
-    },
     "tags": [
       "item",
       "pet-effect"
@@ -15011,12 +12953,6 @@
       "zh-TW": "薄荷糖"
     },
     "slug": "hard-mints",
-    "sprite": {
-      "height": 25,
-      "width": 25,
-      "x": 345,
-      "y": 316
-    },
     "tags": [
       "item",
       "pet-effect"
@@ -15050,12 +12986,6 @@
       "zh-TW": "英雄面具"
     },
     "slug": "hero-mask",
-    "sprite": {
-      "height": 25,
-      "width": 22,
-      "x": 246,
-      "y": 331
-    },
     "tags": [
       "item",
       "jump"
@@ -15089,12 +13019,6 @@
       "zh-TW": "太空人面罩"
     },
     "slug": "space-helmet",
-    "sprite": {
-      "height": 26,
-      "width": 26,
-      "x": 359,
-      "y": 290
-    },
     "tags": [
       "item",
       "jump"
@@ -15128,12 +13052,6 @@
       "zh-TW": "兔子耳朵"
     },
     "slug": "rabbit-ears",
-    "sprite": {
-      "height": 24,
-      "width": 22,
-      "x": 243,
-      "y": 380
-    },
     "tags": [
       "item",
       "jump"
@@ -15167,12 +13085,6 @@
       "zh-TW": "忍者裝"
     },
     "slug": "ninja-costume",
-    "sprite": {
-      "height": 24,
-      "width": 24,
-      "x": 120,
-      "y": 467
-    },
     "tags": [
       "item",
       "jump"
@@ -15206,12 +13118,6 @@
       "zh-TW": "鯉魚旗"
     },
     "slug": "carp-streamer",
-    "sprite": {
-      "height": 15,
-      "width": 26,
-      "x": 104,
-      "y": 193
-    },
     "tags": [
       "item",
       "jump"
@@ -15245,12 +13151,6 @@
       "zh-TW": "旅人斗篷帽"
     },
     "slug": "traveler-hood",
-    "sprite": {
-      "height": 25,
-      "width": 21,
-      "x": 320,
-      "y": 336
-    },
     "tags": [
       "item",
       "jump"
@@ -15284,12 +13184,6 @@
       "zh-TW": "飛天帽"
     },
     "slug": "winged-hat",
-    "sprite": {
-      "height": 17,
-      "width": 27,
-      "x": 426,
-      "y": 239
-    },
     "tags": [
       "item",
       "jump"
@@ -15323,12 +13217,6 @@
       "zh-TW": "8號球"
     },
     "slug": "eight-ball",
-    "sprite": {
-      "height": 20,
-      "width": 20,
-      "x": 358,
-      "y": 388
-    },
     "tags": [
       "item",
       "pet-guard"
@@ -15362,12 +13250,6 @@
       "zh-TW": "鐵風車"
     },
     "slug": "iron-windmill",
-    "sprite": {
-      "height": 23,
-      "width": 23,
-      "x": 233,
-      "y": 470
-    },
     "tags": [
       "item",
       "pet-guard"
@@ -15401,12 +13283,6 @@
       "zh-TW": "藍色積木"
     },
     "slug": "blue-brick",
-    "sprite": {
-      "height": 22,
-      "width": 22,
-      "x": 464,
-      "y": 355
-    },
     "tags": [
       "item",
       "pet-guard"
@@ -15440,12 +13316,6 @@
       "zh-TW": "小海怪"
     },
     "slug": "sea-monster",
-    "sprite": {
-      "height": 23,
-      "width": 22,
-      "x": 253,
-      "y": 427
-    },
     "tags": [
       "item",
       "pet-guard"
@@ -15479,12 +13349,6 @@
       "zh-TW": "震動球"
     },
     "slug": "vibrant-ball",
-    "sprite": {
-      "height": 20,
-      "width": 20,
-      "x": 435,
-      "y": 377
-    },
     "tags": [
       "item",
       "pet-guard"
@@ -15518,12 +13382,6 @@
       "zh-TW": "亞當一代"
     },
     "slug": "adam",
-    "sprite": {
-      "height": 27,
-      "width": 19,
-      "x": 420,
-      "y": 0
-    },
     "tags": [
       "item",
       "pet"
@@ -15557,12 +13415,6 @@
       "zh-TW": "外星寶寶"
     },
     "slug": "alien-baby",
-    "sprite": {
-      "height": 27,
-      "width": 19,
-      "x": 439,
-      "y": 0
-    },
     "tags": [
       "item",
       "pet"
@@ -15596,12 +13448,6 @@
       "zh-TW": "小熊"
     },
     "slug": "little-bear",
-    "sprite": {
-      "height": 29,
-      "width": 21,
-      "x": 158,
-      "y": 209
-    },
     "tags": [
       "item",
       "pet"
@@ -15635,12 +13481,6 @@
       "zh-TW": "仙人掌寶寶一代"
     },
     "slug": "cactus-baby",
-    "sprite": {
-      "height": 29,
-      "width": 23,
-      "x": 179,
-      "y": 193
-    },
     "tags": [
       "item",
       "pet"
@@ -15674,12 +13514,6 @@
       "zh-TW": "火魔"
     },
     "slug": "fire-devil",
-    "sprite": {
-      "height": 29,
-      "width": 19,
-      "x": 179,
-      "y": 222
-    },
     "tags": [
       "item",
       "pet"
@@ -15713,12 +13547,6 @@
       "zh-TW": "小花"
     },
     "slug": "flower",
-    "sprite": {
-      "height": 30,
-      "width": 20,
-      "x": 0,
-      "y": 177
-    },
     "tags": [
       "item",
       "pet"
@@ -15752,12 +13580,6 @@
       "zh-TW": "小鬼"
     },
     "slug": "ghost-baby",
-    "sprite": {
-      "height": 29,
-      "width": 19,
-      "x": 198,
-      "y": 222
-    },
     "tags": [
       "item",
       "pet"
@@ -15791,12 +13613,6 @@
       "zh-TW": "小丑傑克一世"
     },
     "slug": "jack",
-    "sprite": {
-      "height": 27,
-      "width": 19,
-      "x": 410,
-      "y": 131
-    },
     "tags": [
       "item",
       "pet"
@@ -15830,12 +13646,6 @@
       "zh-TW": "小木乃伊一世"
     },
     "slug": "tiny-mummy",
-    "sprite": {
-      "height": 27,
-      "width": 21,
-      "x": 423,
-      "y": 104
-    },
     "tags": [
       "item",
       "pet"
@@ -15869,12 +13679,6 @@
       "zh-TW": "阿灰"
     },
     "slug": "grabber",
-    "sprite": {
-      "height": 28,
-      "width": 22,
-      "x": 322,
-      "y": 53
-    },
     "tags": [
       "item",
       "pet"
@@ -15908,12 +13712,6 @@
       "zh-TW": "藍身博士"
     },
     "slug": "blue-doctor",
-    "sprite": {
-      "height": 27,
-      "width": 19,
-      "x": 427,
-      "y": 158
-    },
     "tags": [
       "item",
       "pet"
@@ -15947,12 +13745,6 @@
       "zh-TW": "雪弟"
     },
     "slug": "snow-boy",
-    "sprite": {
-      "height": 27,
-      "width": 19,
-      "x": 442,
-      "y": 185
-    },
     "tags": [
       "item",
       "pet"
@@ -15986,12 +13778,6 @@
       "zh-TW": "阿石"
     },
     "slug": "rock",
-    "sprite": {
-      "height": 20,
-      "width": 20,
-      "x": 455,
-      "y": 377
-    },
     "tags": [
       "item",
       "pet"
@@ -16025,12 +13811,6 @@
       "zh-TW": "殭屍妹"
     },
     "slug": "zombie-sister",
-    "sprite": {
-      "height": 27,
-      "width": 19,
-      "x": 429,
-      "y": 131
-    },
     "tags": [
       "item",
       "pet"
@@ -16064,12 +13844,6 @@
       "zh-TW": "彼得貓"
     },
     "slug": "peter",
-    "sprite": {
-      "height": 28,
-      "width": 19,
-      "x": 334,
-      "y": 0
-    },
     "tags": [
       "item",
       "pet"
