@@ -5,7 +5,7 @@
     </div>
     <div class="item-desc">
       <span>{{ item.desc[lang] }}</span>
-      <span class="helper">{{ item.slug | helper(lang) }}</span>
+      <span class="helper">{{ helper(item.slug, lang) }}</span>
       <div
         v-if="item.category === 'weapon'"
         class="bullets"
@@ -21,7 +21,7 @@
           v-if="item.rpm !== 300"
           class="bullet-speed"
         >
-          {{ item.rpm | rpmToText }}
+          {{ rpmToText(item.rpm) }}
         </div>
       </div>
       <div
@@ -71,6 +71,11 @@
 </template>
 
 <script>
+import * as contributedHelpers from '../contributed-helpers.json';
+
+const helpers = contributedHelpers.default
+const langFallback = 'en-US'
+
 export default {
   name: "ItemContent",
   props: {
@@ -83,6 +88,30 @@ export default {
       type: String,
       required: true,
     },
+  },
+
+  methods: {
+    rpmToText(rpm) {
+      if (rpm < 200)
+        return 'very slow'
+      else if (rpm < 300)
+        return 'slow'
+      else
+        return 'fast'
+    },
+
+    helper(itemSlug, lang) {
+      // Looks for an helper for an item. Fallback to the english text, if it's defined.
+      if (itemSlug in helpers) {
+        const helper = helpers[itemSlug];
+
+        if (lang in helper)
+          return helper[lang]
+        else if (langFallback in helper)
+          return helper[langFallback]
+      }
+      return ''
+    }
   }
 }
 </script>

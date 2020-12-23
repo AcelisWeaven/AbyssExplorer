@@ -2,7 +2,6 @@ import Vue from 'vue'
 import VueGtag from 'vue-gtag'
 import App from './App.vue'
 import './registerServiceWorker'
-import './filters'
 import './generated/spritesheet.css'
 
 Vue.config.productionTip = false
