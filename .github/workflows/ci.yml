@@ -10,6 +10,9 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    env:
+      VUE_APP_GA_ID: ${{ secrets.VUE_APP_GA_ID }}
+      VUE_APP_ABSOLUTE_URL: ${{ secrets.VUE_APP_ABSOLUTE_URL }}
 
     steps:
       - uses: actions/checkout@v2
@@ -18,9 +21,6 @@ jobs:
         run: yarn install
 
       - name: Yarn build 🛠
-        env:
-          VUE_APP_GA_ID: ${{ secrets.VUE_APP_GA_ID }}
-          VUE_APP_ABSOLUTE_URL: ${{ secrets.VUE_APP_ABSOLUTE_URL }}
         run: yarn build
 
       - name: Deploy 🚀
