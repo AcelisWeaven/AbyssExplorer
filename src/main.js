@@ -14,6 +14,7 @@ Vue.use(VueGtag, {
   config: {
     id: process.env.VUE_APP_GA_ID,
     params: {
+      send_page_view: true,
       anonymize_ip: true
     }
   }
