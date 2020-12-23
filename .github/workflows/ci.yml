@@ -21,6 +21,9 @@ jobs:
       - name: Yarn install 🧶
         run: yarn install
 
+      - name: Yarn lint ✔️
+        run: yarn lint
+
       - name: Yarn build 🛠
         run: yarn build
 
