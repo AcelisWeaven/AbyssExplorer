@@ -7,12 +7,13 @@ on:
     branches: [ master ]
   workflow_dispatch:
 
+env:
+  VUE_APP_GA_ID: ${{ secrets.VUE_APP_GA_ID }}
+  VUE_APP_ABSOLUTE_URL: ${{ secrets.VUE_APP_ABSOLUTE_URL }}
+
 jobs:
   build:
     runs-on: ubuntu-latest
-    env:
-      VUE_APP_GA_ID: ${{ secrets.VUE_APP_GA_ID }}
-      VUE_APP_ABSOLUTE_URL: ${{ secrets.VUE_APP_ABSOLUTE_URL }}
 
     steps:
       - uses: actions/checkout@v2
