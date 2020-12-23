@@ -9,11 +9,11 @@
   >
     <ItemSprite
       :slug="item.slug"
-      @mousedown="preparePinning"
-      @mouseup="handleRelease"
+      @mousedown.native="preparePinning"
+      @mouseup.native="handleRelease"
 
-      @mouseover="adjustHoverItem(item.slug, $event.target)"
-      @mouseleave="isHovered = false"
+      @mouseover.native="adjustHoverItem(item.slug, $event.target)"
+      @mouseleave.native="isHovered = false"
     />
 
     <ItemContent

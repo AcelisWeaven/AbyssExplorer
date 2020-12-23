@@ -56,7 +56,8 @@ module.exports = {
     'vue/no-deprecated-slot-attribute': 'error',
     'vue/no-deprecated-slot-scope-attribute': 'error',
     'vue/no-deprecated-v-bind-sync': 'error',
-    'vue/no-deprecated-v-on-native-modifier': 'error',
+    // FIXME: Restore this rule later.
+    // 'vue/no-deprecated-v-on-native-modifier': 'error',
     'vue/no-deprecated-v-on-number-modifiers': 'error',
     'vue/no-deprecated-vue-config-keycodes': 'error',
     'vue/no-dupe-keys': 'error',
