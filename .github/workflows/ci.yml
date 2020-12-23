@@ -33,6 +33,9 @@ jobs:
 
       - name: Yarn build 🛠
         uses: borales/actions-yarn@v2.3.0
+        env:
+          VUE_APP_GA_ID: ${{ secrets.VUE_APP_GA_ID }}
+          VUE_APP_ABSOLUTE_URL: ${{ secrets.VUE_APP_ABSOLUTE_URL }}
         with:
           cmd: build # will run `yarn build` command
 
