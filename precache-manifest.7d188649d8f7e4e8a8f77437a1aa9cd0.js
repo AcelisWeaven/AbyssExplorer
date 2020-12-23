@@ -4,8 +4,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/browserconfig.xml"
   },
   {
-    "revision": "48673c358df8b81c58da",
-    "url": "/AbyssExplorer/css/app.9dd9afbd.css"
+    "revision": "3892ad2dcf455ac06954",
+    "url": "/AbyssExplorer/css/app.0e7b6e21.css"
   },
   {
     "revision": "c002889df169e609927b5d25552a9f29",
@@ -72,16 +72,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AbyssExplorer/icon/96.png"
   },
   {
-    "revision": "34d1317a3c7487ab7a8d316f81abfd48",
-    "url": "/AbyssExplorer/img/spritesheet.34d1317a.png"
+    "revision": "6440e35f0bf2128e575c241d308fae0c",
+    "url": "/AbyssExplorer/img/spritesheet.6440e35f.png"
   },
   {
-    "revision": "5072d20c1c103d10f72000d224805e5c",
+    "revision": "3afa6bb32efdafa2333b11542695318f",
     "url": "/AbyssExplorer/index.html"
   },
   {
-    "revision": "48673c358df8b81c58da",
-    "url": "/AbyssExplorer/js/app.9b44a715.js"
+    "revision": "3892ad2dcf455ac06954",
+    "url": "/AbyssExplorer/js/app.33f15364.js"
   },
   {
     "revision": "0157f8b092f4c106adc0",
