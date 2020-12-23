@@ -535,6 +535,9 @@
                 }
             }
         }
+        #search {
+            font-size:16px;
+        }
     }
 
     .item-desc .helper {
