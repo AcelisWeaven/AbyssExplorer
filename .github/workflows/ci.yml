@@ -10,6 +10,10 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    environment: ci
+    env:
+      VUE_APP_GA_ID: ${{ secrets.VUE_APP_GA_ID }}
+      VUE_APP_ABSOLUTE_URL: ${{ secrets.VUE_APP_ABSOLUTE_URL }}
 
     steps:
       - uses: actions/checkout@v2
@@ -19,10 +23,6 @@ jobs:
 
       - name: Yarn build 🛠
         run: yarn build
-        environment: ci
-        env:
-          VUE_APP_GA_ID: ${{ secrets.VUE_APP_GA_ID }}
-          VUE_APP_ABSOLUTE_URL: ${{ secrets.VUE_APP_ABSOLUTE_URL }}
 
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@3.7.1
