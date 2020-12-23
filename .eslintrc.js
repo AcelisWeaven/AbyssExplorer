@@ -57,7 +57,8 @@ module.exports = {
     'vue/no-deprecated-slot-attribute': 'warn',
     'vue/no-deprecated-slot-scope-attribute': 'warn',
     'vue/no-deprecated-v-bind-sync': 'warn',
-    'vue/no-deprecated-v-on-native-modifier': 'warn',
+    // FIXME: This rule should be added to be able to migrate to Vue 3 easily. However, I don't know how to replace events like mousedown.native yet
+    // 'vue/no-deprecated-v-on-native-modifier': 'warn',
     'vue/no-deprecated-v-on-number-modifiers': 'warn',
     'vue/no-deprecated-vue-config-keycodes': 'warn',
     'vue/no-dupe-keys': 'warn',
