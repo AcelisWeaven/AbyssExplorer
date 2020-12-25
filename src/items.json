@@ -1,638 +1,6 @@
 [
   {
     "bulletTypes": [
-    ],
-    "category": "weapon",
-    "colorOrder": 4,
-    "desc": {
-      "de": "Wartet auf deinen großen Moment, um aus den Wolken zu schießen.",
-      "en-US": "Waiting for your moment to burst from the clouds.",
-      "es": "Esperando tu momento para surgir de entre las nubes.",
-      "fr": "Attend votre signal pour surgir des nuages.",
-      "it": "La morte piomba dal cielo.",
-      "ja": "暗雲から飛び出すために、時を待て。",
-      "ru": "Ждет момента, чтобы спикировать из-за облаков.",
-      "zh": "等待着冲出云霄的时刻。",
-      "zh-CN": "等待着冲出云霄的时刻。",
-      "zh-TW": "等待衝出雲霄的時刻。"
-    },
-    "name": {
-      "de": "MÖWE",
-      "en-US": "SEAGULL",
-      "es": "GAVIOTA",
-      "fr": "MOUETTE",
-      "it": "ALA DI GABBIANO",
-      "ja": "シーガル",
-      "ru": "ЧАЙКА",
-      "zh": "海鸥",
-      "zh-CN": "海鸥",
-      "zh-TW": "海鷗"
-    },
-    "rpm": 300,
-    "slug": "seagull",
-    "tags": [
-      "weapon"
-    ],
-    "variants": [
-      {
-        "desc": {
-          "de": "No effect",
-          "en-US": "No effect",
-          "es": "No effect",
-          "fr": "No effect",
-          "it": "No effect",
-          "ja": "No effect",
-          "ru": "No effect",
-          "zh": "No effect",
-          "zh-CN": "No effect",
-          "zh-TW": "No effect"
-        },
-        "secSkill": null,
-        "secSkillCosts": [
-        ]
-      }
-    ]
-  },
-  {
-    "bulletTypes": [
-    ],
-    "category": "weapon",
-    "colorOrder": 15,
-    "desc": {
-      "de": "Es ist robust. Es ist hart. Es ist Stahl.",
-      "en-US": "It's strong, it's hard, it's steel.",
-      "es": "Es fuerte, es dura, es de acero.",
-      "fr": "Il est solide, il est dur, il est en acier.",
-      "it": "È duro, è letale, è acciaio.",
-      "ja": "強靭で固い鋼鉄製。",
-      "ru": "Мощная, прочная, стальная.",
-      "zh": "一根再普通不过的钢管。",
-      "zh-CN": "一根再普通不过的钢管。",
-      "zh-TW": "堅硬扎實的鋼製管子。"
-    },
-    "name": {
-      "de": "STAHLROHR",
-      "en-US": "STEEL PIPE",
-      "es": "TUBERÍA DE ACERO",
-      "fr": "TUYAU EN ACIER",
-      "it": "TUBO D'ACCIAIO",
-      "ja": "鉄パイプ",
-      "ru": "СТАЛЬНАЯ ТРУБА",
-      "zh": "钢管",
-      "zh-CN": "钢管",
-      "zh-TW": "鋼管"
-    },
-    "rpm": 300,
-    "slug": "steel-pipe",
-    "tags": [
-      "weapon"
-    ],
-    "variants": [
-      {
-        "desc": {
-          "de": "No effect",
-          "en-US": "No effect",
-          "es": "No effect",
-          "fr": "No effect",
-          "it": "No effect",
-          "ja": "No effect",
-          "ru": "No effect",
-          "zh": "No effect",
-          "zh-CN": "No effect",
-          "zh-TW": "No effect"
-        },
-        "secSkill": null,
-        "secSkillCosts": [
-        ]
-      }
-    ]
-  },
-  {
-    "bulletTypes": [
-    ],
-    "category": "weapon",
-    "colorOrder": 99,
-    "desc": {
-      "de": "Ist auf kurze Distanz tödlich.",
-      "en-US": "Give a fatal blow at close range.",
-      "es": "Asesta un golpe letal a corta distancia.",
-      "fr": "Porte un coup fatal à courte portée.",
-      "it": "Non lascia scampo a distanza ravvicinata.",
-      "ja": "近距離からの強力な一撃。",
-      "ru": "Нанесите смертельный удар с короткой дистанции.",
-      "zh": "给予近距离的致命一击。",
-      "zh-CN": "给予近距离的致命一击。",
-      "zh-TW": "從近距離給予致命的一擊。"
-    },
-    "name": {
-      "de": "ROTER SKORPION",
-      "en-US": "RED SCORPION",
-      "es": "ESCORPIÓN ROJO",
-      "fr": "SCORPION ROUGE",
-      "it": "SCORPIONE ROSSO",
-      "ja": "レッドスコーピオン",
-      "ru": "КРАСНЫЙ СКОРПИОН",
-      "zh": "红蝎",
-      "zh-CN": "红蝎",
-      "zh-TW": "紅蠍"
-    },
-    "rpm": 300,
-    "slug": "red-scorpion",
-    "tags": [
-      "weapon"
-    ],
-    "variants": [
-      {
-        "desc": {
-          "de": "No effect",
-          "en-US": "No effect",
-          "es": "No effect",
-          "fr": "No effect",
-          "it": "No effect",
-          "ja": "No effect",
-          "ru": "No effect",
-          "zh": "No effect",
-          "zh-CN": "No effect",
-          "zh-TW": "No effect"
-        },
-        "secSkill": null,
-        "secSkillCosts": [
-        ]
-      }
-    ]
-  },
-  {
-    "bulletTypes": [
-    ],
-    "category": "weapon",
-    "colorOrder": 0,
-    "desc": {
-      "de": "Auch auf große Distanz präzise.",
-      "en-US": "Precise long distance strike.",
-      "es": "Golpe preciso a larga distancia.",
-      "fr": "Attaque avec précision sur une longue distance.",
-      "it": "Infallibile dalla lunga distanza.",
-      "ja": "長距離からの精密な一撃。",
-      "ru": "Точный удар с дальнего расстояния.",
-      "zh": "精准的远距离打击。",
-      "zh-CN": "精准的远距离打击。",
-      "zh-TW": "精準遠距攻擊。"
-    },
-    "name": {
-      "de": "SCHWARZER ADLER",
-      "en-US": "BLACK EAGLE",
-      "es": "ÁGUILA NEGRA",
-      "fr": "AIGLE NOIR",
-      "it": "AQUILA NERA",
-      "ja": "ブラックイーグル",
-      "ru": "ЧЕРНЫЙ ОРЕЛ",
-      "zh": "黑鹰",
-      "zh-CN": "黑鹰",
-      "zh-TW": "黑鷹"
-    },
-    "rpm": 100,
-    "slug": "black-eagle",
-    "tags": [
-      "weapon"
-    ],
-    "variants": [
-      {
-        "desc": {
-          "de": "No effect",
-          "en-US": "No effect",
-          "es": "No effect",
-          "fr": "No effect",
-          "it": "No effect",
-          "ja": "No effect",
-          "ru": "No effect",
-          "zh": "No effect",
-          "zh-CN": "No effect",
-          "zh-TW": "No effect"
-        },
-        "secSkill": null,
-        "secSkillCosts": [
-        ]
-      }
-    ]
-  },
-  {
-    "bulletTypes": [
-    ],
-    "category": "weapon",
-    "colorOrder": 6,
-    "desc": {
-      "de": "Raging Dröhnen aus der Tiefe des Stahldschungel.",
-      "en-US": "Raging roar from the depth of the Steel Jungle.",
-      "es": "Raging rugido de la profundidad de la selva de acero.",
-      "fr": "Rage grondement de la profondeur de la jungle acier.",
-      "it": "Raging boato dalla profondità della giungla d'acciaio.",
-      "ja": "ジャングルの深さからスチール轟音！",
-      "ru": "Бешеный рев из глубины сталелитейных джунглей.",
-      "zh": "来自钢铁丛林深处的怒吼！",
-      "zh-CN": "来自钢铁丛林深处的怒吼！",
-      "zh-TW": "來自鋼鐵叢林深處的怒吼！"
-    },
-    "name": {
-      "de": "STAHL LÖWE",
-      "en-US": "STEEL LION",
-      "es": "LEÓN DE ACERO",
-      "fr": "LION EN ACIER",
-      "it": "LEONE D'ACCIAIO",
-      "ja": "スチールライオン",
-      "ru": "СТАЛИ ЛЕВ",
-      "zh": "铁狮",
-      "zh-CN": "铁狮",
-      "zh-TW": "鐵獅"
-    },
-    "rpm": 300,
-    "slug": "steel-lion",
-    "tags": [
-      "weapon"
-    ],
-    "variants": [
-    ]
-  },
-  {
-    "bulletTypes": [
-    ],
-    "category": "weapon",
-    "colorOrder": 5,
-    "desc": {
-      "de": "Eine aufgeregt brennende Seele.",
-      "en-US": "A soul burning in agitation.",
-      "es": "Un alma que arde agitada.",
-      "fr": "Une âme ardente et agitée.",
-      "it": "Un'anima che brucia irrequieta.",
-      "ja": "魂は不安に燃えさかる。",
-      "ru": "Горящая в смятении душа.",
-      "zh": "在躁动中燃烧的灵魂。",
-      "zh-CN": "在躁动中燃烧的灵魂。",
-      "zh-TW": "燃燒躁動的靈魂。"
-    },
-    "name": {
-      "de": "PINKE FLAMME",
-      "en-US": "PINK FLAME",
-      "es": "LLAMA ROSA",
-      "fr": "FLAMME ROSE",
-      "it": "FIAMMA ROSEA",
-      "ja": "ピンクフレイム",
-      "ru": "РОЗОВОЕ ПЛАМЯ",
-      "zh": "粉焰",
-      "zh-CN": "粉焰",
-      "zh-TW": "粉紅火焰"
-    },
-    "rpm": 300,
-    "slug": "pink-flame",
-    "tags": [
-      "weapon"
-    ],
-    "variants": [
-      {
-        "desc": {
-          "de": "No effect",
-          "en-US": "No effect",
-          "es": "No effect",
-          "fr": "No effect",
-          "it": "No effect",
-          "ja": "No effect",
-          "ru": "No effect",
-          "zh": "No effect",
-          "zh-CN": "No effect",
-          "zh-TW": "No effect"
-        },
-        "secSkill": null,
-        "secSkillCosts": [
-        ]
-      }
-    ]
-  },
-  {
-    "bulletTypes": [
-    ],
-    "category": "weapon",
-    "colorOrder": 1,
-    "desc": {
-      "de": "Dein allerbester Freund für immer.",
-      "en-US": "Your truest friend forever.",
-      "es": "Tu mejor amigo para siempre.",
-      "fr": "Votre meilleur ami pour la vie.",
-      "it": "Un amico che non ti abbandona mai.",
-      "ja": "これ以上ない、本物にして永遠の友。",
-      "ru": "Ваш самый лучший, самый верный друг.",
-      "zh": "你最朴实真挚的伙伴。",
-      "zh-CN": "你最朴实真挚的伙伴。 ",
-      "zh-TW": "你這輩子最真摯可靠的夥伴。"
-    },
-    "name": {
-      "de": "GRIZZLY",
-      "en-US": "GRIZZLY",
-      "es": "OSO PARDO",
-      "fr": "GRIZZLI",
-      "it": "GRIZZLY",
-      "ja": "グリズリー",
-      "ru": "ГРИЗЛИ",
-      "zh": "灰熊",
-      "zh-CN": "灰熊",
-      "zh-TW": "灰熊"
-    },
-    "rpm": 300,
-    "slug": "grizzly",
-    "tags": [
-      "weapon"
-    ],
-    "variants": [
-      {
-        "desc": {
-          "de": "No effect",
-          "en-US": "No effect",
-          "es": "No effect",
-          "fr": "No effect",
-          "it": "No effect",
-          "ja": "No effect",
-          "ru": "No effect",
-          "zh": "No effect",
-          "zh-CN": "No effect",
-          "zh-TW": "No effect"
-        },
-        "secSkill": null,
-        "secSkillCosts": [
-        ]
-      }
-    ]
-  },
-  {
-    "bulletTypes": [
-    ],
-    "category": "weapon",
-    "colorOrder": 2,
-    "desc": {
-      "de": "Sieht stinknormal aus, beherbergt aber ein Geheimnis.",
-      "en-US": "Looks ordinary, but hides a secret.",
-      "es": "Parece normal, pero oculta un secreto.",
-      "fr": "Son apparence ordinaire abrite un secret.",
-      "it": "Dietro l'aspetto convenzionale si nasconde un segreto.",
-      "ja": "一見普通だが、ミステリアスな秘密を隠している。",
-      "ru": "Вроде бы обычная, но на деле с секретом.",
-      "zh": "外观普通，却暗藏玄机。",
-      "zh-CN": "外观普通，却暗藏玄机。",
-      "zh-TW": "外觀普通，卻暗藏玄機。"
-    },
-    "name": {
-      "de": "MELODIE",
-      "en-US": "MELODY",
-      "es": "MELODÍA",
-      "fr": "MÉLODIE",
-      "it": "MELODIA",
-      "ja": "メロディ",
-      "ru": "МЕЛОДИЯ",
-      "zh": "雨中曲",
-      "zh-CN": "雨中曲",
-      "zh-TW": "雨中曲"
-    },
-    "rpm": 300,
-    "slug": "melody",
-    "tags": [
-      "weapon"
-    ],
-    "variants": [
-      {
-        "desc": {
-          "de": "No effect",
-          "en-US": "No effect",
-          "es": "No effect",
-          "fr": "No effect",
-          "it": "No effect",
-          "ja": "No effect",
-          "ru": "No effect",
-          "zh": "No effect",
-          "zh-CN": "No effect",
-          "zh-TW": "No effect"
-        },
-        "secSkill": null,
-        "secSkillCosts": [
-        ]
-      }
-    ]
-  },
-  {
-    "bulletTypes": [
-    ],
-    "category": "weapon",
-    "colorOrder": 50,
-    "desc": {
-      "de": "Ein Geschenk von Serena.",
-      "en-US": "A gift from Serena.",
-      "es": "Un regalo de Serena.",
-      "fr": "Un cadeau de Serena.",
-      "it": "Un regalo di Serena.",
-      "ja": "セリーナからの贈り物。",
-      "ru": "Дар от Серены.",
-      "zh": "来自莎莉娜的礼物。",
-      "zh-CN": "来自莎莉娜的礼物。",
-      "zh-TW": "來自莎莉娜的禮物。"
-    },
-    "name": {
-      "de": "NASHORN",
-      "en-US": "RHINO",
-      "es": "RINOCERONTE",
-      "fr": "RHINO",
-      "it": "RINOCERONTE",
-      "ja": "ライノ",
-      "ru": "НОСОРОГ",
-      "zh": "犀牛",
-      "zh-CN": "犀牛",
-      "zh-TW": "犀牛"
-    },
-    "rpm": 300,
-    "slug": "rhino",
-    "tags": [
-      "weapon"
-    ],
-    "variants": [
-      {
-        "desc": {
-          "de": "No effect",
-          "en-US": "No effect",
-          "es": "No effect",
-          "fr": "No effect",
-          "it": "No effect",
-          "ja": "No effect",
-          "ru": "No effect",
-          "zh": "No effect",
-          "zh-CN": "No effect",
-          "zh-TW": "No effect"
-        },
-        "secSkill": null,
-        "secSkillCosts": [
-        ]
-      }
-    ]
-  },
-  {
-    "bulletTypes": [
-      "laser"
-    ],
-    "category": "weapon",
-    "colorOrder": 61,
-    "desc": {
-      "de": "All diese Momente werden in Vergessenheit geraten ...",
-      "en-US": "All those moments will be lost in time...",
-      "es": "Todos esos momentos se perderán en el tiempo...",
-      "fr": "Tous ces moments se perdront dans l'oubli...",
-      "it": "E tutti quei momenti andranno perduti nel tempo...",
-      "ja": "こんな記憶もすべて、時の流れの中に消えてゆく…雨の中の涙のように。",
-      "ru": "Все эти моменты когда-нибудь потонут в песках времени...",
-      "zh": "过去种种终将遗失在时光里，就像滴落在雨中的泪水。",
-      "zh-CN": "过去种种终将遗失在时光里，就像滴落在雨中的泪水。",
-      "zh-TW": "一切將隨著時間消逝..."
-    },
-    "name": {
-      "de": "ORION",
-      "en-US": "ORION",
-      "es": "ORIÓN",
-      "fr": "ORION",
-      "it": "ORIONE",
-      "ja": "オリオン",
-      "ru": "ОРИОН",
-      "zh": "猎户座",
-      "zh-CN": "猎户座",
-      "zh-TW": "獵戶座"
-    },
-    "rpm": 300,
-    "slug": "orion",
-    "tags": [
-      "weapon"
-    ],
-    "variants": [
-      {
-        "desc": {
-          "de": "No effect",
-          "en-US": "No effect",
-          "es": "No effect",
-          "fr": "No effect",
-          "it": "No effect",
-          "ja": "No effect",
-          "ru": "No effect",
-          "zh": "No effect",
-          "zh-CN": "No effect",
-          "zh-TW": "No effect"
-        },
-        "secSkill": null,
-        "secSkillCosts": [
-        ]
-      }
-    ]
-  },
-  {
-    "bulletTypes": [
-    ],
-    "category": "weapon",
-    "colorOrder": 13,
-    "desc": {
-      "de": "Die winzigen eingravierten Buchstaben bilden ein Wort: Mittwoch.",
-      "en-US": "Tiny letters engraved on it read: Wednesday.",
-      "es": "Las letras pequeñas que lleva grabadas dicen: miércoles.",
-      "fr": "Y est gravé en minuscules lettres : mercredi.",
-      "it": "Vi è incisa a caratteri minuscoli la parola \"Mercoledì\".",
-      "ja": "刻み込まれたごく小さな文字はこう読める：水曜日。",
-      "ru": "Выгравированные на ней буковки складываются в слово «среда».",
-      "zh": "上边刻着一行小字：星期三。",
-      "zh-CN": "上边刻着一行小字：星期三。",
-      "zh-TW": "表面刻有一行細小文字：星期三。"
-    },
-    "name": {
-      "de": "SCHATTEN",
-      "en-US": "SHADOW",
-      "es": "SOMBRA",
-      "fr": "OMBRE",
-      "it": "OMBRA",
-      "ja": "シャドウ",
-      "ru": "ТЕНЬ",
-      "zh": "影子",
-      "zh-CN": "影子",
-      "zh-TW": "闇影"
-    },
-    "rpm": 300,
-    "slug": "shadow",
-    "tags": [
-      "weapon"
-    ],
-    "variants": [
-      {
-        "desc": {
-          "de": "No effect",
-          "en-US": "No effect",
-          "es": "No effect",
-          "fr": "No effect",
-          "it": "No effect",
-          "ja": "No effect",
-          "ru": "No effect",
-          "zh": "No effect",
-          "zh-CN": "No effect",
-          "zh-TW": "No effect"
-        },
-        "secSkill": null,
-        "secSkillCosts": [
-        ]
-      }
-    ]
-  },
-  {
-    "bulletTypes": [
-    ],
-    "category": "weapon",
-    "colorOrder": 3,
-    "desc": {
-      "de": "Eine elegant hergestellte Antiquität mit meisterhaft eingemeißelten Symbolen.",
-      "en-US": "An elegantly crafted antique with exquisitely carved glyphs.",
-      "es": "Una antigüedad elegantemente tallada con exquisitos glifos grabados.",
-      "fr": "Un objet ancien de belle facture portant des glyphes sculptés avec raffinement.",
-      "it": "Elegante oggetto d'antiquariato di pregevole fattura e ricoperto di glifi decorativi.",
-      "ja": "美しい象形文字が彫られた骨董品。",
-      "ru": "Искусно сделанная антикварная фигурка с резными символами.",
-      "zh": "有着精美花纹的古董。",
-      "zh-CN": "有着精美花纹的古董。",
-      "zh-TW": "表面刻有精美象形文字的雅緻古董。"
-    },
-    "name": {
-      "de": "KANARIENVOGEL",
-      "en-US": "CANARY",
-      "es": "CANARIO",
-      "fr": "CANARI",
-      "it": "CANARINO",
-      "ja": "カナリア",
-      "ru": "КАНАРЕЙКА",
-      "zh": "金丝雀",
-      "zh-CN": "金丝雀",
-      "zh-TW": "金絲雀"
-    },
-    "rpm": 300,
-    "slug": "canary",
-    "tags": [
-      "weapon"
-    ],
-    "variants": [
-      {
-        "desc": {
-          "de": "No effect",
-          "en-US": "No effect",
-          "es": "No effect",
-          "fr": "No effect",
-          "it": "No effect",
-          "ja": "No effect",
-          "ru": "No effect",
-          "zh": "No effect",
-          "zh-CN": "No effect",
-          "zh-TW": "No effect"
-        },
-        "secSkill": null,
-        "secSkillCosts": [
-        ]
-      }
-    ]
-  },
-  {
-    "bulletTypes": [
       "charge",
       "laser"
     ],
@@ -717,7 +85,7 @@
       "curve"
     ],
     "category": "weapon",
-    "colorOrder": 165,
+    "colorOrder": 172,
     "desc": {
       "de": "Eine Notlüge.",
       "en-US": "A white lie.",
@@ -775,7 +143,7 @@
     "bulletTypes": [
     ],
     "category": "weapon",
-    "colorOrder": 134,
+    "colorOrder": 138,
     "desc": {
       "de": "Überall nichts als Fischgräten!",
       "en-US": "There are fish bones all over the place.",
@@ -834,7 +202,7 @@
       "laser"
     ],
     "category": "weapon",
-    "colorOrder": 308,
+    "colorOrder": 317,
     "desc": {
       "de": "Es besteht eine gewisse Chance, dass du einen Laser abfeuerst.",
       "en-US": "There's a chance you might fire a laser.",
@@ -896,7 +264,7 @@
     "bulletTypes": [
     ],
     "category": "weapon",
-    "colorOrder": 315,
+    "colorOrder": 324,
     "desc": {
       "de": "Hauch der Welt Farbe ein!",
       "en-US": "Color the world!",
@@ -975,7 +343,7 @@
     "bulletTypes": [
     ],
     "category": "weapon",
-    "colorOrder": 194,
+    "colorOrder": 202,
     "desc": {
       "de": "Es hängt ganz von dir ab ... oder vom Zufall.",
       "en-US": "It's up to you... or fate.",
@@ -1038,7 +406,7 @@
       "laser"
     ],
     "category": "weapon",
-    "colorOrder": 387,
+    "colorOrder": 397,
     "desc": {
       "de": "Ein Tanz auf dem Schlachtfeld.",
       "en-US": "Dancing on the battlefield.",
@@ -1135,7 +503,7 @@
       "laser"
     ],
     "category": "weapon",
-    "colorOrder": 346,
+    "colorOrder": 355,
     "desc": {
       "de": "Entfessle dein Potenzial!",
       "en-US": "Unleash your potential!",
@@ -1194,7 +562,7 @@
       "notes"
     ],
     "category": "weapon",
-    "colorOrder": 385,
+    "colorOrder": 395,
     "desc": {
       "de": "POTZBLITZ!",
       "en-US": "ROCK AND ROLL!",
@@ -1275,7 +643,7 @@
       "laser"
     ],
     "category": "weapon",
-    "colorOrder": 363,
+    "colorOrder": 372,
     "desc": {
       "de": "Ein Blick aus dem Abgrund ...",
       "en-US": "A gaze from the Abyss…",
@@ -1355,7 +723,7 @@
       "bounce"
     ],
     "category": "weapon",
-    "colorOrder": 222,
+    "colorOrder": 230,
     "desc": {
       "de": "Mach’s dir gemütlich!",
       "en-US": "Enjoy yourself!",
@@ -1414,7 +782,7 @@
       "curve"
     ],
     "category": "weapon",
-    "colorOrder": 195,
+    "colorOrder": 203,
     "desc": {
       "de": "Schlaf, Kindlein, schlaf.",
       "en-US": "Good night, sleep tight.",
@@ -1492,7 +860,7 @@
       "track"
     ],
     "category": "weapon",
-    "colorOrder": 325,
+    "colorOrder": 334,
     "desc": {
       "de": "Die Geheimwaffe eines Zauberers.",
       "en-US": "A wizard's secret weapon.",
@@ -1568,7 +936,7 @@
       "curve"
     ],
     "category": "weapon",
-    "colorOrder": 314,
+    "colorOrder": 323,
     "desc": {
       "de": "Er hat einen Traum ...",
       "en-US": "It has a dream….",
@@ -1651,7 +1019,7 @@
     "bulletTypes": [
     ],
     "category": "weapon",
-    "colorOrder": 224,
+    "colorOrder": 232,
     "desc": {
       "de": "Viel Spaß!",
       "en-US": "Have fun!",
@@ -1853,7 +1221,7 @@
       "track"
     ],
     "category": "weapon",
-    "colorOrder": 196,
+    "colorOrder": 204,
     "desc": {
       "de": "Das Ideal aus der Vergangenheit.",
       "en-US": "The ideal of the past.",
@@ -1938,7 +1306,7 @@
       "track"
     ],
     "category": "weapon",
-    "colorOrder": 133,
+    "colorOrder": 137,
     "desc": {
       "de": "Das gefällt dir mit Sicherheit! Aber gehe ... vorsichtig damit um.",
       "en-US": "You must like this! But use it... cautiously.",
@@ -1993,7 +1361,7 @@
       "charge"
     ],
     "category": "weapon",
-    "colorOrder": 331,
+    "colorOrder": 340,
     "desc": {
       "de": "Erzittere vor Furcht! Lade auf und wirf eine Frostbombe.",
       "en-US": "Fear and Trembling! Charge and throw a frost bomb.",
@@ -2170,7 +1538,7 @@
       "track"
     ],
     "category": "weapon",
-    "colorOrder": 130,
+    "colorOrder": 134,
     "desc": {
       "de": "Die ultimative Waffe ... Zerstöre alles!!!",
       "en-US": "The ultimate weapon…Destroy everything!!",
@@ -2225,7 +1593,7 @@
       "track"
     ],
     "category": "weapon",
-    "colorOrder": 129,
+    "colorOrder": 133,
     "desc": {
       "de": "Verringerte Leistung, dafür mit Zielerfassung.",
       "en-US": "Sacrificed performance to add a tracking module.",
@@ -2304,7 +1672,7 @@
     "bulletTypes": [
     ],
     "category": "weapon",
-    "colorOrder": 167,
+    "colorOrder": 174,
     "desc": {
       "de": "Schließe deine Augen.",
       "en-US": "Close your eyes.",
@@ -2388,7 +1756,7 @@
       "laser"
     ],
     "category": "weapon",
-    "colorOrder": 321,
+    "colorOrder": 330,
     "desc": {
       "de": "Für die Ehre, für Atlantis!",
       "en-US": "For Honor, for Atlantis!",
@@ -2450,7 +1818,7 @@
     "bulletTypes": [
     ],
     "category": "weapon",
-    "colorOrder": 131,
+    "colorOrder": 135,
     "desc": {
       "de": "Du weißt gar nichts.",
       "en-US": "You know nothing.",
@@ -2505,7 +1873,7 @@
       "charge"
     ],
     "category": "weapon",
-    "colorOrder": 225,
+    "colorOrder": 233,
     "desc": {
       "de": "Feuert nach dem Wiederaufladen einen goldenen Schlüssel ab. Kann alle Schlösser öffnen.",
       "en-US": "After recharging, launches a golden key. It can open all locks.",
@@ -2636,7 +2004,7 @@
       "curve"
     ],
     "category": "weapon",
-    "colorOrder": 389,
+    "colorOrder": 399,
     "desc": {
       "de": "Tränen des Himmels.",
       "en-US": "Tears from heaven.",
@@ -2761,7 +2129,7 @@
     "bulletTypes": [
     ],
     "category": "weapon",
-    "colorOrder": 226,
+    "colorOrder": 234,
     "desc": {
       "de": "Kraft ist wichtiger als Präzision.",
       "en-US": "Power is more important than precision.",
@@ -2820,7 +2188,7 @@
       "curve"
     ],
     "category": "weapon",
-    "colorOrder": 340,
+    "colorOrder": 349,
     "desc": {
       "de": "Gute Nacht, schlaf gut.",
       "en-US": "Good night, sleep tight.",
@@ -2879,7 +2247,7 @@
       "laser"
     ],
     "category": "weapon",
-    "colorOrder": 100,
+    "colorOrder": 103,
     "desc": {
       "de": "Schrei aus der Hölle.",
       "en-US": "Scream from hell.",
@@ -2938,7 +2306,7 @@
       "laser"
     ],
     "category": "weapon",
-    "colorOrder": 383,
+    "colorOrder": 393,
     "desc": {
       "de": "Bezaubernd und gefährlich.",
       "en-US": "Charming and dangerous.",
@@ -2997,83 +2365,7 @@
       "curve"
     ],
     "category": "weapon",
-    "colorOrder": 316,
-    "desc": {
-      "de": "Ein warmes Licht leuchtet leicht.",
-      "en-US": "A warm light shone slightly.",
-      "es": "Una luz brilló caliente ligeramente.",
-      "fr": "Une lumière chaude rayonnait légèrement.",
-      "it": "Un caldo brillava la luce un po '.",
-      "ja": "少し暖かい光輝き。",
-      "ru": "Теплый свет сиял немного.",
-      "zh": "微微闪烁着温暖的光芒。",
-      "zh-CN": "微微闪烁着温暖的光芒。",
-      "zh-TW": "微微閃爍著溫暖的光芒。"
-    },
-    "name": {
-      "de": "STERNENSTAUB",
-      "en-US": "STARDUST",
-      "es": "POLVO DE ESTRELLAS",
-      "fr": "POUSSIÈRE D'ÉTOILES",
-      "it": "POLVERE DI STELLE",
-      "ja": "スターダスト",
-      "ru": "ЗВЕЗДНАЯ ПЫЛЬ",
-      "zh": "星辰",
-      "zh-CN": "星辰",
-      "zh-TW": "星辰"
-    },
-    "rpm": 150,
-    "slug": "stardust",
-    "tags": [
-      "weapon"
-    ],
-    "variants": [
-      {
-        "desc": {
-          "de": "[Aktiver Gegenstand] Feuere eine starke Energiekugel ab. Gegner, die dadurch besiegt werden, lassen Kristalle fallen. Kostet 1 Kristalle.",
-          "en-US": "[Active Item] Fire a powerful energy ball. If the enemy is destroyed by the energy ball, it will drop crystals. Cost 1 crystal.",
-          "es": "[Objeto activo] Dispara una poderosa bola de energía. Si destruye al enemigo, la bola de energía suelta cristales. Cuesta 1 cristales.",
-          "fr": "[Objet actif] Tirez une puissante boule d'énergie. Si l'ennemi est détruit par la boule d'énergie, il laisse des cristaux. Coûte 1 cristaux.",
-          "it": "[Oggetto attivo] Lancia una potente sfera di energia. I nemici distrutti rilasciano cristalli. Costo: 1 cristalli.",
-          "ja": "[アクティブアイテム] 強力なエナジーボールを発射する。このエナジーボールで倒された敵はクリスタルをドロップする。クリスタルを1消費。",
-          "ru": "[Активный предмет] Выпускает мощный энергетический шар. Если этот шар убьет врага, из последнего выпадут кристаллы. Расходует 1 кристалла.",
-          "zh": "发射一个强大的能量球。敌人如果被能量球消灭会掉落水晶。消耗1水晶。",
-          "zh-CN": "发射一个强大的能量球。敌人如果被能量球消灭会掉落水晶。消耗1水晶。",
-          "zh-TW": "【主動道具】發射強大的能量球。遭能量球摧毀的敵人會掉出水晶。消耗1個水晶。"
-        },
-        "secSkill": "2_power_fireball_mana",
-        "secSkillCosts": [
-          {
-            "count": 1,
-            "type": "mana"
-          }
-        ]
-      },
-      {
-        "desc": {
-          "de": "[Aktiver Gegenstand] Verringere deine Fallgeschwindigkeit. Kostet nichts.",
-          "en-US": "[Active Item] Slow down your falling speed. No cost.",
-          "es": "[Objeto activo] Ralentiza tu velocidad de caída. Sin coste.",
-          "fr": "[Objet actif] Ralentit votre vitesse de chute. Gratuit.",
-          "it": "[Oggetto attivo] Riduce la tua velocità di caduta. Nessun costo.",
-          "ja": "[アクティブアイテム] 落下速度を遅くする。コスト無し。",
-          "ru": "[Активный предмет] Снижает скорость падения. Ничего не расходует.",
-          "zh": "【主动技能】在空中使用可以减慢下落速度。无消耗 。",
-          "zh-CN": "【主动技能】在空中使用可以减慢下落速度。无消耗 。",
-          "zh-TW": "【主動道具】減慢你落下的速度。不耗資源。"
-        },
-        "secSkill": "2_power_a_glide",
-        "secSkillCosts": [
-        ]
-      }
-    ]
-  },
-  {
-    "bulletTypes": [
-      "curve"
-    ],
-    "category": "weapon",
-    "colorOrder": 384,
+    "colorOrder": 394,
     "desc": {
       "de": "Überbringe ewige Romantik.",
       "en-US": "Delivering eternal romance.",
@@ -3152,7 +2444,7 @@
     "bulletTypes": [
     ],
     "category": "weapon",
-    "colorOrder": 299,
+    "colorOrder": 308,
     "desc": {
       "de": "Es ist so leicht, als würde es gar nicht existieren.",
       "en-US": "It's so light, it's as if it doesn't exist.",
@@ -3261,45 +2553,7 @@
       "charge"
     ],
     "category": "weapon",
-    "colorOrder": 292,
-    "desc": {
-      "de": "Was ist die Wirklichkeit überhaupt?",
-      "en-US": "What is reality anyway?",
-      "es": "¿Cuál es la realidad de todos modos?",
-      "fr": "Quelle est la réalité de toute façon?",
-      "it": "Qual è la realtà in ogni caso?",
-      "ja": "現実とにかくは何ですか？",
-      "ru": "Что такое реальность в любом случае?",
-      "zh": "什么是现实？",
-      "zh-CN": "什么是现实？",
-      "zh-TW": "什麼是現實？"
-    },
-    "name": {
-      "de": "MATRIX",
-      "en-US": "MATRIX",
-      "es": "MATRIZ",
-      "fr": "MATRICE",
-      "it": "MATRICE",
-      "ja": "マトリックス",
-      "ru": "МАТРИЦА",
-      "zh": "矩阵",
-      "zh-CN": "矩阵",
-      "zh-TW": "矩陣"
-    },
-    "rpm": 200,
-    "slug": "matrix",
-    "tags": [
-      "weapon"
-    ],
-    "variants": [
-    ]
-  },
-  {
-    "bulletTypes": [
-      "charge"
-    ],
-    "category": "weapon",
-    "colorOrder": 294,
+    "colorOrder": 303,
     "desc": {
       "de": "Geduld ist auch eine Waffe.",
       "en-US": "Patience is also a weapon.",
@@ -3354,7 +2608,7 @@
       "bounce"
     ],
     "category": "weapon",
-    "colorOrder": 197,
+    "colorOrder": 205,
     "desc": {
       "de": "Das Wichtigste im Leben ist, glücklich zu sein.",
       "en-US": "The most important thing in life is to be happy.",
@@ -3452,83 +2706,10 @@
   },
   {
     "bulletTypes": [
-      "curve",
-      "track"
-    ],
-    "category": "weapon",
-    "colorOrder": 320,
-    "desc": {
-      "de": "ZZZZZZZZZ.",
-      "en-US": "zzzzZZZZZ.",
-      "es": "ZZZZZZZZZ.",
-      "fr": "Zzzzzzzzz.",
-      "it": "ZZZZZZZZZ.",
-      "ja": "ZZZZZZZZZ。",
-      "ru": "ZZZZZZZZZ.",
-      "zh": "呼呼呼呼呼。",
-      "zh-CN": "呼呼呼呼呼。",
-      "zh-TW": "呼呼呼呼呼。"
-    },
-    "name": {
-      "de": "TAGTRAUM",
-      "en-US": "DAYDREAM",
-      "es": "ENSUEÑO",
-      "fr": "RÊVE",
-      "it": "FANTASTICARE",
-      "ja": "空想",
-      "ru": "ГРЕЗЫ",
-      "zh": "白日梦",
-      "zh-CN": "白日梦",
-      "zh-TW": "白日夢"
-    },
-    "rpm": 150,
-    "slug": "daydream",
-    "tags": [
-      "weapon"
-    ],
-    "variants": [
-      {
-        "desc": {
-          "de": "[Aktiver Gegenstand] Verlangsame die Zeit. Kostet nichts.",
-          "en-US": "[Active Item] Slow down time. No cost.",
-          "es": "[Objeto activo] Ralentiza el tiempo. Sin coste.",
-          "fr": "[Objet actif] Ralentit le temps. Gratuit.",
-          "it": "[Oggetto attivo] Rallenta lo scorrere del tempo. Nessun costo.",
-          "ja": "[アクティブアイテム] 時の流れを遅くする。コスト無し。",
-          "ru": "[Активный предмет] Замедляет время. Ничего не расходует.",
-          "zh": "【主动技能】让时间减缓。无消耗。",
-          "zh-CN": "【主动技能】让时间减缓。无消耗。",
-          "zh-TW": "【主動道具】使時間變慢。不耗資源。"
-        },
-        "secSkill": "2_power_timeslow",
-        "secSkillCosts": [
-        ]
-      },
-      {
-        "desc": {
-          "de": "[Aktiver Gegenstand] Brich am Boden zusammen und verursache durch deinen Aufprall Schaden.  Kostet nichts.",
-          "en-US": "[Active Item] Collapse to the ground, causing impact damage. No cost.",
-          "es": "[Objeto activo] Cae al suelo y causa daño de impacto. Sin coste.",
-          "fr": "[Objet actif] Écrasez-vous au sol en infligeant des dégâts d'impact. Gratuit.",
-          "it": "[Oggetto attivo] Crolla a terra, infliggendo danni da impatto. Nessun costo.",
-          "ja": "[アクティブ] 床に勢いよく着地し、その衝撃でダメージを与える。コスト無し。",
-          "ru": "[Активный предмет] Обрушьтесь на землю, нанеся урон при падении. Ничего не расходует.",
-          "zh": "【技能】立刻下坠，造成冲击伤害。无消耗。",
-          "zh-CN": "【技能】立刻下坠，造成冲击伤害。无消耗。",
-          "zh-TW": "【主動道具】重摔在地，造成衝擊傷害。不耗資源。"
-        },
-        "secSkill": "2_power_a_smash",
-        "secSkillCosts": [
-        ]
-      }
-    ]
-  },
-  {
-    "bulletTypes": [
       "curve"
     ],
     "category": "weapon",
-    "colorOrder": 322,
+    "colorOrder": 331,
     "desc": {
       "de": "Quanten-Verflechtungstechnik.",
       "en-US": "Quantum entanglement technique.",
@@ -3587,7 +2768,7 @@
       "laser"
     ],
     "category": "weapon",
-    "colorOrder": 326,
+    "colorOrder": 335,
     "desc": {
       "de": "Überbringe ewige Romantik.",
       "en-US": "Listen to the call of your heart.",
@@ -3647,7 +2828,7 @@
       "laser"
     ],
     "category": "weapon",
-    "colorOrder": 332,
+    "colorOrder": 341,
     "desc": {
       "de": "Es kristallisiert sich die Technologie der Zukunft heraus.",
       "en-US": "The crystallization of future technology",
@@ -3757,7 +2938,7 @@
       "charge"
     ],
     "category": "weapon",
-    "colorOrder": 333,
+    "colorOrder": 342,
     "desc": {
       "de": "Gedulde dich, junger Grashüpfer ... Lade diese Waffe vor dem Feuern auf, um einen Schuss abzugeben, für den sich das Warten lohnt.",
       "en-US": "Patience, young grasshopper... Charge this before firing for a shot worth waiting for.",
@@ -3813,7 +2994,7 @@
       "track"
     ],
     "category": "weapon",
-    "colorOrder": 227,
+    "colorOrder": 235,
     "desc": {
       "de": "Wieder beißt einer ins Gras.",
       "en-US": "Another one bites the dust.",
@@ -3927,7 +3108,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 128,
+    "colorOrder": 132,
     "desc": {
       "de": "Du wurdest befördert! Verbessere alle deine Werte.",
       "en-US": "You got promoted! Enhance your stats in all areas.",
@@ -3960,7 +3141,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 327,
+    "colorOrder": 336,
     "desc": {
       "de": "Verliere Herzbehälter und erhalte Schilde. Erhöhe außerdem deinen Waffenschaden.",
       "en-US": "Reduce your heart containers and add shields. Also increase your weapon's damage.",
@@ -3993,7 +3174,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 337,
+    "colorOrder": 346,
     "desc": {
       "de": "Erhöhe deinen Waffenschaden und deine Bewegungsgeschwindigkeit. Vergiss Schafe, träum einfach weiter von Einhörnern ...",
       "en-US": "Increase your weapon damage and movement speed. Forget sheep, you keep dreaming of unicorns... ",
@@ -4026,7 +3207,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 334,
+    "colorOrder": 343,
     "desc": {
       "de": "Die Kraft der Liebe! Erhalte Schilde und erhöhe deinen Waffenschaden.",
       "en-US": "The power of love! Add shields. Increase your weapon's damage.",
@@ -4059,7 +3240,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 328,
+    "colorOrder": 337,
     "desc": {
       "de": "Stilvoller Augenschutz mit Zusatznutzen. Erhalte Schilde und erhöhe deine Feuerrate.",
       "en-US": "Stylish eye protection, with added benefits. Add shields and increase your rate of fire.",
@@ -4092,7 +3273,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 372,
+    "colorOrder": 381,
     "desc": {
       "de": "Du hast dich noch nie stärker gefühlt – oder attraktiver. Erhalte Schilde. Einige Angriffe fügen dir keinen Schaden zu.",
       "en-US": "You've never felt stronger. Or better-looking. Add shields. Some attacks will deal no damage to you.",
@@ -4125,7 +3306,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 348,
+    "colorOrder": 357,
     "desc": {
       "de": "Jedes Mal, wenn du den Portalstein aktivierst, besteht die Chance, dass du einen Schild erhältst.",
       "en-US": "Each time you activate the Portal Stone, there's a chance of getting a shield.",
@@ -4158,7 +3339,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 351,
+    "colorOrder": 360,
     "desc": {
       "de": "Du kämpfst für die Menschheit! Nach jedem Kampf kannst du zusätzliche Schilde erhalten.",
       "en-US": "You fight for humanity! After each battle, you might receive extra shields.",
@@ -4191,7 +3372,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 358,
+    "colorOrder": 367,
     "desc": {
       "de": "Erhöhe den Waffenschaden und erhalte Schilde. Eine unfassbare Kraftquelle. Nur hast du keine Ahnung, wie sie funktioniert. Irgendwas mit Teilchen?",
       "en-US": "Increase your gun's damage and add shields. An incredible source of power. You've no idea how it works. Strings, maybe?",
@@ -4224,7 +3405,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 168,
+    "colorOrder": 175,
     "desc": {
       "de": "Erhalte einen Herzbehälter und einen Kristallbehälter. Schütze dein Gesicht vor Sonne und Regen, damit du dich deiner Meditation widmen kannst.",
       "en-US": "Add a heart container and a crystal container. Keep the sun and rain off your face so you can concentrate on meditating.",
@@ -4257,7 +3438,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 59,
+    "colorOrder": 60,
     "desc": {
       "de": "Erhalte einen Kristallbehälter. Du kannst Kristalle erhalten, wenn du Gegner erledigst.",
       "en-US": "Add a crystal container. You can get crystals after killing enemies.",
@@ -4323,7 +3504,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 255,
+    "colorOrder": 264,
     "desc": {
       "de": "Das wunderschöne Juwel in diesem Turban hat die gleiche Funktion wie ein paar Kristallbehälter.",
       "en-US": "The beautiful gem in this turban functions as a number of crystal containers.",
@@ -4356,7 +3537,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 75,
+    "colorOrder": 78,
     "desc": {
       "de": "Erhalte einen Kristallbehälter. Du kannst eine gewisse Menge Kristalle ausgeben, um Herzen wiederherzustellen.",
       "en-US": "Add a crystal container. You can recover hearts when a certain amount of crystals are used.",
@@ -4389,7 +3570,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 359,
+    "colorOrder": 368,
     "desc": {
       "de": "Eine ausgefallene Kristallmaske. Sie fungiert als Kristallbehälter und gibt dir einen Schild – weil niemand sie angreifen möchte.",
       "en-US": "An extravagant crystal mask. It can be used as a crystal container and adds a shield - because no one wants to hit it.",
@@ -4422,7 +3603,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 64,
+    "colorOrder": 65,
     "desc": {
       "de": "Zeit ist ein bedeutungsloses, menschliches Konstrukt. Das ist dir jetzt klar geworden und dadurch erhöht sich deine Bewegungsgeschwindigkeit.",
       "en-US": "Time is a meaningless mortal construct. You understand this now, and your movement speed increases.",
@@ -4455,7 +3636,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 192,
+    "colorOrder": 200,
     "desc": {
       "de": "Diese Orange wird dich RICHTIG stark machen. Erhöhe deine Bewegungsgeschwindigkeit und deinen Waffenschaden.",
       "en-US": "This orange will make you SUPER strong. Increase your movement speed and weapon damage.",
@@ -4488,7 +3669,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 169,
+    "colorOrder": 177,
     "desc": {
       "de": "Erhöhe deine Bewegungsgeschwindigkeit. Wenn du Schlüssel benutzt, lässt du zusätzliche Münzen fallen.",
       "en-US": "Increase your movement speed. You'll drop extra coins when you use keys.",
@@ -4521,7 +3702,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 198,
+    "colorOrder": 206,
     "desc": {
       "de": "Ein einziger Biss gibt dir Kraft für den ganzen Tag. Erhöhe deine Bewegungsgeschwindigkeit und stelle ein Herz wieder her.",
       "en-US": "A bite can keep you going all day. Increase your movement speed and recover a heart.",
@@ -4554,7 +3735,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 341,
+    "colorOrder": 350,
     "desc": {
       "de": "Diese coolen Sneakers erhöhen deine Bewegungsgeschwindigkeit. Gib Fersengeld!",
       "en-US": "The sweet sneakers will increase your movement speed. Gotta go fast.",
@@ -4587,7 +3768,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 256,
+    "colorOrder": 265,
     "desc": {
       "de": "Erhöhe deine Bewegungsgeschwindigkeit, deinen Waffenschaden und deinen Nahkampfschaden.",
       "en-US": "Increase your movement speed, weapon damage, and melee damage.",
@@ -4620,7 +3801,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 276,
+    "colorOrder": 285,
     "desc": {
       "de": "Gesundes Essen! Enthält jede Menge Vitamine! Erhalte einen Herzbehälter.",
       "en-US": "Healthy food! Contains a wide variety of vitamins! Add a heart container.",
@@ -4653,7 +3834,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 135,
+    "colorOrder": 139,
     "desc": {
       "de": "Die treibt dir die Tränen in die Augen ... Weil sie so lecker ist natürlich! Erhalte einen Herzbehälter.",
       "en-US": "It'll bring tears to your eyes! ...Why, because it's so tasty, of course! Add a heart container.",
@@ -4686,7 +3867,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 286,
+    "colorOrder": 295,
     "desc": {
       "de": "Atomisierte Cola, DER Drink des Weltraumzeitalters! Erhalte einen Herzbehälter und erhöhe deinen Waffenschaden leicht.",
       "en-US": "Atomized Cola, drink of the space age! Add a heart container and increase your weapon damage slightly.",
@@ -4719,7 +3900,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 148,
+    "colorOrder": 153,
     "desc": {
       "de": "Wer braucht schon einen hohen IQ, wenn er Muckis haben kann! Erhalte einen Herzbehälter. Erhöhe deinen Waffenschaden, aber senke deine Feuerrate.",
       "en-US": "Trade your IQ for POWER! Add a heart container. Increase your weapon damage, but reduce your rate of fire.",
@@ -4752,7 +3933,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 228,
+    "colorOrder": 236,
     "desc": {
       "de": "Wenn man ein Lutscheis schleckt, ist immer Sommer. Erhalte einen Herzbehälter.",
       "en-US": "It's always summer when you're eating a popsicle. Add a heart container.",
@@ -4785,7 +3966,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 150,
+    "colorOrder": 155,
     "desc": {
       "de": "Sorry, ich spreche kein Sushi. Erhalte einen Herzbehälter.",
       "en-US": "Sorry, I don't speak Sushi. Add a heart container.",
@@ -4818,7 +3999,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 199,
+    "colorOrder": 207,
     "desc": {
       "de": "Ein Bier, das ganz sicher kein aufgemotzter Milchshake ist. Erhalte einen Herzbehälter und einen Kristallbehälter.",
       "en-US": "A beer that is certainly not a milkshake. Add a heart container and a crystal container.",
@@ -4851,7 +4032,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 136,
+    "colorOrder": 140,
     "desc": {
       "de": "Andere kriegen von Zucker einen Hänger, du kriegst nur Heldenmut. Erhalte Schilde und einen Herzbehälter.",
       "en-US": "B.A.D. (Brave And Delicious). Add shields and a heart container.",
@@ -4884,7 +4065,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 114,
+    "colorOrder": 118,
     "desc": {
       "de": "Du erhältst Geschenke von Katzen – und einen Herzbehälter.",
       "en-US": "You get some gifts from cats. Also add a heart container.",
@@ -4917,7 +4098,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 137,
+    "colorOrder": 142,
     "desc": {
       "de": "Das beste Fleisch ÜBERHAUPT! Erhalte einen Herzbehälter.",
       "en-US": "The best beef EVER! Add a heart container.",
@@ -4950,7 +4131,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 295,
+    "colorOrder": 304,
     "desc": {
       "de": "Aus der Flasche ist ein Flüstern zu hören ... Erhalte einen Herzbehälter und stelle ein paar Herzen wieder her.",
       "en-US": "You hear whispers within the bottle... Add a heart container and recover some hearts.",
@@ -4983,7 +4164,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 229,
+    "colorOrder": 237,
     "desc": {
       "de": "Diese essbare Wurzel ist nur den Zwergen bekannt. Erhalte einen Herzbehälter.",
       "en-US": "An edible root known only to the Dwarves. Add a heart container.",
@@ -5016,7 +4197,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 102,
+    "colorOrder": 105,
     "desc": {
       "de": "Ein Spieß mit kandiertem Weißdorn. Erhalte einen Herzbehälter.",
       "en-US": "A stick of candied hawthorn. Add a heart container.",
@@ -5082,7 +4263,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 373,
+    "colorOrder": 382,
     "desc": {
       "de": "Es steckt voller Kraft und Leidenschaft, ist aber schwer zu kontrollieren. Verringere deine Feuerrate, aber erhöhe deinen Waffenschaden enorm.",
       "en-US": "It's raw power and passion, but hard to control. Reduce your rate of fire but greatly increase your weapon damage.",
@@ -5115,7 +4296,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 152,
+    "colorOrder": 157,
     "desc": {
       "de": "Diese Hörner erhöhen deinen Waffen- und Nahkampfschaden. Mach dir keine Sorgen, wenn du auf einmal Hunger auf Fleisch bekommst.",
       "en-US": "These let you increase your weapon damage and melee damage. Don't worry about the sudden craving for flesh.",
@@ -5148,7 +4329,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 104,
+    "colorOrder": 107,
     "desc": {
       "de": "Erhöhe deinen Waffenschaden und die Geschossgeschwindigkeit. Stark Innovations(TM). (Stark haftet nicht für abgetrennte Gliedmaßen.)",
       "en-US": "Increase your weapon damage and bullet velocity. Stark Brilliance(TM). (Stark is not responsible for any loss of limbs)",
@@ -5181,7 +4362,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 200,
+    "colorOrder": 208,
     "desc": {
       "de": "Es geht um Disziplin. Erhöhe deine Bewegungsgeschwindigkeit und deinen Waffenschaden.",
       "en-US": "It's about discipline. Increase your movement speed and your weapon damage.",
@@ -5247,7 +4428,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 206,
+    "colorOrder": 214,
     "desc": {
       "de": "Kämpfe dich durch den Schmerz. Ziehe Kraft aus ihm. Erhöhe deinen Waffenschaden und deine Feuerrate.",
       "en-US": "Fight through the pain. Let it give you strength. Increase your weapon damage and rate of fire.",
@@ -5346,7 +4527,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 353,
+    "colorOrder": 362,
     "desc": {
       "de": "Sie haben das Recht, zu schweigen ... wenn sie erst tot sind. Feuere mehr Geschosse pro Schuss ab und erhöhe deine Geschossgeschwindigkeit.",
       "en-US": "They have the right to remain silent... Add extra bullets per shot and increase your bullet velocity.",
@@ -5379,7 +4560,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 230,
+    "colorOrder": 238,
     "desc": {
       "de": "Man gewinnt durch Positionierung, Timing ... und indem man überlebt. Feuere mehr Geschosse pro Schuss ab und erhöhe deine Bewegungsgeschwindigkeit.",
       "en-US": "Winning is positioning, timing... and being the last alive. Add extra bullets per shot and increase your movement speed.",
@@ -5412,7 +4593,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 392,
+    "colorOrder": 402,
     "desc": {
       "de": "Ziehen ... Langsam ausatmen ... Und loslassen! ZACK! Feuere mehr Geschosse pro Schuss ab und erhöhe die Reichweite deiner Waffe.",
       "en-US": "Pull back... Exhale slowly... Let go! TWANG! Add extra bullets per shot and increase your weapon's range.\n",
@@ -5445,7 +4626,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 115,
+    "colorOrder": 119,
     "desc": {
       "de": "Jetzt weißt du über Gun Fu Bescheid. Feuere mehr Geschosse pro Schuss ab und erhöhe die Reichweite deiner Waffe.",
       "en-US": "Now you know Gun Fu. Add extra bullets per shot and increase your weapon's range.",
@@ -5511,7 +4692,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 391,
+    "colorOrder": 401,
     "desc": {
       "de": "Lasse dich vom gefiederten Schaft zum Sieg tragen. Erhöhe die Reichweite deiner Waffe und deine Feuerrate.",
       "en-US": "Let the feathered tip wing you on your way to victory. Increase your weapon's range and rate of fire.",
@@ -5544,7 +4725,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 60,
+    "colorOrder": 61,
     "desc": {
       "de": "Lasse ihn mal frische Luft schnappen ... Erhöhe die Reichweite deiner Waffe und den Waffenschaden.",
       "en-US": "Let it catch the breeze... Increase your weapon's range and damage.",
@@ -5643,7 +4824,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 153,
+    "colorOrder": 158,
     "desc": {
       "de": "Wahnsinniger geht es wirklich nicht. Erhöhe deine Feuerrate enorm.",
       "en-US": "This IS the craziest thing you've ever seen. Greatly increase your rate of fire.",
@@ -5709,7 +4890,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 189,
+    "colorOrder": 197,
     "desc": {
       "de": "Atme aus, während du abdrückst, um deinen Geschossen etwas mehr Wumms zu geben. Erhöhe deine Feuerrate und deinen Waffenschaden.",
       "en-US": "Exhale as you pull the trigger to give your bullets a bit more oomph. Increase your rate of fire and weapon damage.",
@@ -5742,7 +4923,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 245,
+    "colorOrder": 254,
     "desc": {
       "de": "Lasse deine Geschosse von heißer Luft getragen werden. Erhöhe die Reichweite deiner Waffe und die Feuerrate.",
       "en-US": "Let it blow your bullets farther, faster. Increase your weapon's range and rate of fire.",
@@ -5808,7 +4989,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 170,
+    "colorOrder": 179,
     "desc": {
       "de": "Spürst du das Koffein schon? Es wird Zeit für ein KUGELKRÄNZCHEN ... äh, Kaffeekränzchen. Erhöhe deine Feuerrate.",
       "en-US": "Feel that caffeine hit? It's BULLET TIME. Increase your rate of fire.",
@@ -5841,7 +5022,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 309,
+    "colorOrder": 318,
     "desc": {
       "de": "Lasse dich von ihm führen ... Erhalte Schilde und werte deine Waffe auf.",
       "en-US": "Let it guide you... Add shields. Upgrade your weapon.",
@@ -5874,7 +5055,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 201,
+    "colorOrder": 209,
     "desc": {
       "de": "Sieht aus, als ließe sie sich kinderleicht installieren ... Werte deine Waffe auf und erhöhe deine Feuerrate.",
       "en-US": "It looks easy enough to install... Upgrade your weapon. Increase your rate of fire.",
@@ -5907,7 +5088,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 62,
+    "colorOrder": 63,
     "desc": {
       "de": "Dem König gefällt, was du tust. Werte deine Waffe auf und erhöhe deine Geschossgeschwindigkeit.",
       "en-US": "You have the King's approval. Upgrade your weapon. Increase your bullet velocity.",
@@ -5940,7 +5121,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 91,
+    "colorOrder": 94,
     "desc": {
       "de": "Du bist in Bestform. Werte deine Waffe auf. Erhöhe deine Sprunghöhe und deine Bewegungsgeschwindigkeit leicht.",
       "en-US": "You're at the top of your game. Upgrade your weapon. Increase your jump height and movement speed slightly.",
@@ -5973,7 +5154,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 158,
+    "colorOrder": 165,
     "desc": {
       "de": "Darauf hast du hingearbeitet. Werte deine Waffe auf und erhöhe deine Bewegungsgeschwindigkeit.",
       "en-US": "You've worked for this. Upgrade your weapon. Increase your movement speed.",
@@ -6006,7 +5187,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 376,
+    "colorOrder": 386,
     "desc": {
       "de": "Ding. Ding. Ding. Werte deine Waffe auf und erhöhe deinen Waffenschaden.",
       "en-US": "Clang. Clang. Clang. Upgrade your weapon. Increase your weapon damage.",
@@ -6039,7 +5220,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 208,
+    "colorOrder": 216,
     "desc": {
       "de": "Ein Relikt der ersten Zivilisation. Werte deine Waffe auf und erhöhe deine Bewegungsgeschwindigkeit leicht.",
       "en-US": "The relic of the first civilization. Upgrade your weapon. Increase your movement speed slightly.",
@@ -6072,7 +5253,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 369,
+    "colorOrder": 378,
     "desc": {
       "de": "ABSOLUTE MACHT! Werte deine Waffe auf. Erhöhe deinen Nahkampf- und Waffenschaden.",
       "en-US": "ABSOLUTE POWER! Upgrade your weapon, increase both your melee and weapon damage.",
@@ -6105,7 +5286,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 364,
+    "colorOrder": 373,
     "desc": {
       "de": "Umgib dich mit einem Ring aus Blitzen und füge Gegnern in der Nähe Schaden zu.",
       "en-US": "A ring of lightning will surround you and damage nearby enemies.",
@@ -6138,7 +5319,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 362,
+    "colorOrder": 371,
     "desc": {
       "de": "Du kannst jetzt fliegen! Erhöhe deine Bewegungsgeschwindigkeit.",
       "en-US": "You can fly now! Increase your movement speed.",
@@ -6171,7 +5352,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 154,
+    "colorOrder": 159,
     "desc": {
       "de": "Ein kleines Opfer kann viel bewirken ... Tausche einen Herzbehälter gegen die Fähigkeit, zu fliegen.",
       "en-US": "A little sacrifice goes a long way... Trade one heart container for the ability to fly.",
@@ -6204,7 +5385,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 382,
+    "colorOrder": 392,
     "desc": {
       "de": "Deine Seele schwillt an und du spürst, wie deine Füße vom Boden abheben ... Erhöhe deine Bewegungsgeschwindigkeit.",
       "en-US": "Your soul swells and you feel your feet lift off the ground... Increase your movement speed.",
@@ -6237,7 +5418,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 76,
+    "colorOrder": 79,
     "desc": {
       "de": "Du fühlst dich mit deinen Federflügeln am Rücken stark. Schlage mit ihnen, um abzuheben!",
       "en-US": "You feel strong, feathery wings at your back. Flap them and lift into the air!",
@@ -6270,7 +5451,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 284,
+    "colorOrder": 293,
     "desc": {
       "de": "Ein sonderbarer Trank, auf dem „Trink mich nicht!“ steht.",
       "en-US": "A strange potion with \"Don't Drink Me\" written on it.",
@@ -6303,7 +5484,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 285,
+    "colorOrder": 294,
     "desc": {
       "de": "Diese grüne Kappe schrumpft dich ... Jep, das ist alles. Du wirst einfach kleiner. Betrachte die Welt aus einem neuen Winkel!",
       "en-US": "This green cap will diminish you... That is, it will make you smaller. See the world from a new angle!",
@@ -6336,7 +5517,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 151,
+    "colorOrder": 156,
     "desc": {
       "de": "Ein Kuchen, auf dem „ALLES GUTE“ steht. Du wirst größer und hast die Chance, Herzen wiederherzustellen, wenn du Schaden nimmst.",
       "en-US": "A cake with \"HAPPY BIRTHDAY\" written on it. You are bigger and have the chance to recover hearts when you get hurt.",
@@ -6369,7 +5550,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 92,
+    "colorOrder": 95,
     "desc": {
       "de": "Deine Sprünge können Gegnern Schaden zu fügen. Dann mal viel Spaß! Und pass auf die Pilze auf ...",
       "en-US": "Your jumping can cause damage to enemies. Where is the princess?",
@@ -6402,7 +5583,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 246,
+    "colorOrder": 255,
     "desc": {
       "de": "Du hinterlässt mit jedem Sprung eine Mine. Klingt das wahnsinnig oder wahnsinnig SUPER?",
       "en-US": "Every time you jump, you leave a mine behind you. That sounds crazy or crazy AWESOME?",
@@ -6435,7 +5616,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 261,
+    "colorOrder": 270,
     "desc": {
       "de": "Während du in der Luft bist, schießt du gerade nach unten.",
       "en-US": "You will fires extra bullets downwards while you're in the air.",
@@ -6468,7 +5649,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 144,
+    "colorOrder": 149,
     "desc": {
       "de": "Ihr Licht wärmt. Erhalte einen zusätzlichen Schatzraum in jedem Level.",
       "en-US": "The light is warm. Get an extra treasure room at each new level. ",
@@ -6501,7 +5682,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 146,
+    "colorOrder": 151,
     "desc": {
       "de": "Es sieht ... ALLES! Einschließlich deiner geheimsten Wünsche und Ängste.",
       "en-US": "It sees ...... EVERYTHING! Including your inner desires and fears.",
@@ -6534,7 +5715,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 79,
+    "colorOrder": 82,
     "desc": {
       "de": "Enthülle die Wahrheit und mit ihr alle Räume auf der Karte.",
       "en-US": "Reveal the truth. Show all rooms on your map.",
@@ -6567,7 +5748,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 159,
+    "colorOrder": 166,
     "desc": {
       "de": "Markiere alle versteckten Räume auf der Karte. Auf der Rückseite siehst du eine verblichene Signatur – Captain Jack S. ...?",
       "en-US": "Mark all hidden rooms on your map. You can see a faint signature on the back - Captain Jack S....?",
@@ -6600,7 +5781,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 283,
+    "colorOrder": 292,
     "desc": {
       "de": "PIEP. PIEP. PIEP. Markiere alle Geheimnisse auf der Karte.",
       "en-US": "BEEP. BEEP. BEEP. Mark all secrets on your map.",
@@ -6633,7 +5814,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 231,
+    "colorOrder": 240,
     "desc": {
       "de": "Ein sehr nützliches Werkzeug. Enthülle alle versteckten Räume in der Nähe.",
       "en-US": "A very useful tool. Reveal all nearby hidden rooms.",
@@ -6666,7 +5847,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 161,
+    "colorOrder": 168,
     "desc": {
       "de": "Das ist eine legendäre Trophäe. Du wirst nach dem Tod einmal wiederbelebt. (Kann nur einmal verwendet werden.)",
       "en-US": "This is a legendary trophy. You can revive after death. (Can only be used once.)",
@@ -6699,7 +5880,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 244,
+    "colorOrder": 253,
     "desc": {
       "de": "Du wirst nach dem Tod wiederbelebt, aber ... du fühlst dich irgendwie anders. (Kann nur einmal verwendet werden.)",
       "en-US": "You can revive after death, but you feel a little... different. (Can only be used once.)",
@@ -6732,7 +5913,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 132,
+    "colorOrder": 136,
     "desc": {
       "de": "Du wirst nach dem Tod wiederbelebt, aber ... du bist irgendwie müde. (Kann nur einmal verwendet werden.)",
       "en-US": "You can revive after death, but you feel... tired. (Can only be used once.)",
@@ -6765,7 +5946,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 164,
+    "colorOrder": 171,
     "desc": {
       "de": "Bist du tot oder bist du lebendig? Du kannst es nicht wissen, bis du stirbst oder aufwachst ... und vielleicht passiert das ja.",
       "en-US": "Are you dead or are you alive? You won't know until you die and wake up... and there's a chance you might.",
@@ -6798,7 +5979,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 365,
+    "colorOrder": 374,
     "desc": {
       "de": "Du kannst dir die Beschreibung eines Gegenstands ansehen, bevor du ihn aufnimmst.",
       "en-US": "You can preview the description of an item without picking it up.",
@@ -6831,7 +6012,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 172,
+    "colorOrder": 181,
     "desc": {
       "de": "Du bekommst dreimal so viele Münzen, aber Münzen explodieren nach 3 Sekunden, wenn du sie nicht aufsammelst. Zeit ist Geld, oder?",
       "en-US": "You get triple the coins, but coins will explode after 3 seconds if you haven't picked it up. Time is money, right?",
@@ -6864,7 +6045,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 232,
+    "colorOrder": 241,
     "desc": {
       "de": "Je mehr Münzen du hast, desto mehr Schaden verursacht deine Waffe.",
       "en-US": "The more coins you have, the more damage your weapon does.",
@@ -6897,7 +6078,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 202,
+    "colorOrder": 210,
     "desc": {
       "de": "Es besteht die Chance, dass du Schutzgeister erhältst, wenn du Münzen benutzt. Möchtest du sie nicht einfach küssen?",
       "en-US": "You have a chance to get a guard sprite when you use coins. Don't you want to kiss it?",
@@ -6930,7 +6111,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 247,
+    "colorOrder": 256,
     "desc": {
       "de": "Zahle, um zu siegen! Je mehr Münzen du hast, desto mehr Geschosse kannst du abfeuern.",
       "en-US": "Pay to Win! The more coins you have, the more bullets you can shoot.",
@@ -6963,7 +6144,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 175,
+    "colorOrder": 184,
     "desc": {
       "de": "Je mehr Münzen du hast, desto schneller kannst du schießen.",
       "en-US": "The more coins you have, the faster you can shoot.",
@@ -6996,7 +6177,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 305,
+    "colorOrder": 314,
     "desc": {
       "de": "Du kannst Eier als Bomben einsetzen, wenn du keine Bomben hast.",
       "en-US": "You can use eggs as bombs when you don't have any bombs.",
@@ -7029,7 +6210,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 296,
+    "colorOrder": 141,
     "desc": {
       "de": "Wenn du keinen Schlüssel hast, kannst du stattdessen ein Ei benutzen.",
       "en-US": "If you don't have a key, you can use an egg instead.",
@@ -7062,7 +6243,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 125,
+    "colorOrder": 129,
     "desc": {
       "de": "Möge die Liebe mit dir sein. Verdopple die Anzahl der wiederhergestellten Herzen.",
       "en-US": "May the love be with you. Double the amount of hearts recovered.",
@@ -7095,7 +6276,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 174,
+    "colorOrder": 183,
     "desc": {
       "de": "Deine Waffen verursacht mehr Schaden, wenn du volle Herzen hast.",
       "en-US": "Your weapon does more damage when you're at full hearts.",
@@ -7128,7 +6309,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 370,
+    "colorOrder": 379,
     "desc": {
       "de": "Diese unglaubliche Bohne stellt alle deine Herzen wieder her und erhöht die Reichweite deiner Waffe.",
       "en-US": "This unbelievable bean will recover all your hearts and increase your weapon's range.",
@@ -7161,7 +6342,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 176,
+    "colorOrder": 72,
     "desc": {
       "de": "Je weniger Herzen du hast, desto mehr Schaden verursacht deine Waffe. DAS. IST. SPARTA!!!",
       "en-US": "The fewer hearts you have, the more damage your weapon does. SPARTAN!!!",
@@ -7194,7 +6375,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 116,
+    "colorOrder": 120,
     "desc": {
       "de": "Die Rage treibt deinen Körper an. Je weniger Herzen du hast, desto mehr Geschosse kannst du abfeuern.",
       "en-US": "The fury drive your body. The fewer hearts you have, the more bullets you can shoot.",
@@ -7227,7 +6408,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 301,
+    "colorOrder": 310,
     "desc": {
       "de": "Herzen werden durch Schilde ersetzt, wenn sie fallen gelassen werden. Der Erfinder hat die Gesetze des Universums geringfügig geändert.",
       "en-US": "Hearts will be replaced by shields when they drop. The creator slightly modified the rules of the universe.",
@@ -7293,7 +6474,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 263,
+    "colorOrder": 272,
     "desc": {
       "de": "Du kannst Schlüssel als Bomben benutzen, wenn du keine Bomben hast.",
       "en-US": "You can use keys as bombs when you don't have any bombs.",
@@ -7326,7 +6507,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 204,
+    "colorOrder": 212,
     "desc": {
       "de": "Je mehr Schlüssel du hast, desto schneller schießt deine Waffe.",
       "en-US": "The more keys you have, the faster your weapon shoots.",
@@ -7392,7 +6573,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 155,
+    "colorOrder": 160,
     "desc": {
       "de": "Wenn du einen Schlüssel benutzt, besteht die Chance, dass du zusätzliche Eier fallen lässt.",
       "en-US": "Every time you use a key, there's a chance you'll drop extra eggs.",
@@ -7425,7 +6606,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 393,
+    "colorOrder": 403,
     "desc": {
       "de": "Wenn du einen Schlüssel benutzt, erhältst du einen bösen Geist.",
       "en-US": "Every time you use a key, you'll get an angry sprite.",
@@ -7458,7 +6639,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 93,
+    "colorOrder": 96,
     "desc": {
       "de": "Wenn du einen Schlüssel benutzt, besteht die Chance, dass du zusätzliche Herzen fallen lässt.",
       "en-US": "Every time you use a key, there's a chance you'll drop extra hearts.",
@@ -7491,7 +6672,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 262,
+    "colorOrder": 271,
     "desc": {
       "de": "Wenn du einen Schlüssel benutzt, erhältst du eine Schutzpanzerung.",
       "en-US": "Every time you use a key, you'll get a protective shell.",
@@ -7524,7 +6705,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 105,
+    "colorOrder": 108,
     "desc": {
       "de": "Wenn du einen Schlüssel benutzt, besteht die Chance, dass du zusätzliche Schilde fallen lässt.",
       "en-US": "Every time you use a key, there's a chance you'll drop extra shields.",
@@ -7557,7 +6738,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 357,
+    "colorOrder": 366,
     "desc": {
       "de": "Deine Waffe verursacht mehr Schaden, wenn deine Kristallbehälter voll sind. Du hast einen großen Plan.",
       "en-US": "Your weapon does more damage when your crystal containers are full. You have a big plan.",
@@ -7590,7 +6771,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 356,
+    "colorOrder": 365,
     "desc": {
       "de": "Dieses katzenartige Amulett vibriert in der Nähe von Magie sanft. Je weniger Kristalle du hast, desto mehr Schaden verursacht deine Waffe.",
       "en-US": "This cat-faced amulet vibrates softly around magic. The fewer crystals you have, the more damage your weapon does.",
@@ -7623,7 +6804,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 278,
+    "colorOrder": 287,
     "desc": {
       "de": "Wenn du eine Münze aufsammelst, besteht die Chance, dass du zusätzliche Bomben erhältst.",
       "en-US": "Every time you pick up a coin, there's a chance you'll get extra bombs.",
@@ -7656,7 +6837,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 117,
+    "colorOrder": 121,
     "desc": {
       "de": "Wenn du eine Münze aufsammelst, besteht die Chance, dass du zusätzliche Herzen erhältst.",
       "en-US": "Every time you pick up a coin, there's a chance you'll get extra hearts.",
@@ -7689,7 +6870,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 73,
+    "colorOrder": 76,
     "desc": {
       "de": "Wenn du eine Münze aufsammelst, besteht die Chance, dass du zusätzliche Schlüssel erhältst.",
       "en-US": "Every time you pick up a coin, there's a chance you'll get extra keys.",
@@ -7722,7 +6903,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 371,
+    "colorOrder": 380,
     "desc": {
       "de": "Wenn du eine Münze aufsammelst, besteht die Chance, dass du zusätzliche Kristalle erhältst.",
       "en-US": "Every time you pick up a coin, there's a chance you'll get extra crystals.",
@@ -7755,7 +6936,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 342,
+    "colorOrder": 351,
     "desc": {
       "de": "Wenn du eine Münze aufsammelst, besteht die Chance, dass du zusätzliche Schilde erhältst.",
       "en-US": "Every time you pick up a coin, there's a chance you'll get extra shields.",
@@ -7788,7 +6969,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 160,
+    "colorOrder": 167,
     "desc": {
       "de": "Solange du in diesem Raum bist, wird dein Waffenschaden jedes Mal erhöht, wenn du etwas aufsammelst.",
       "en-US": "While in this room, each time you pick something up, your weapon damage will increase.",
@@ -7821,7 +7002,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 264,
+    "colorOrder": 273,
     "desc": {
       "de": "Solange du in diesem Raum bist, werden deine Bewegungsgeschwindigkeit und Sprunghöhe jedes Mal erhöht, wenn du etwas aufsammelst.",
       "en-US": "While in this room, each time you pick something up, your movement speed and jump height will increase.",
@@ -7854,7 +7035,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 87,
+    "colorOrder": 90,
     "desc": {
       "de": "Dir werden ein paar Bomben geliefert.",
       "en-US": "You receive delivery of a batch of bombs.",
@@ -7887,7 +7068,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 233,
+    "colorOrder": 242,
     "desc": {
       "de": "Verwandle alle Holztruhen in verfluchte Truhen.",
       "en-US": "Turn all wooden chests to cursed chests.",
@@ -7920,7 +7101,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 394,
+    "colorOrder": 404,
     "desc": {
       "de": "Wenn du keinen Schlüssel hast, kannst du stattdessen Münzen benutzen.",
       "en-US": "If you don't have a key, you can use coins instead.",
@@ -7953,7 +7134,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 287,
+    "colorOrder": 296,
     "desc": {
       "de": "Erhalte 250 Münzen. Das ist genau das, was du brauchst.",
       "en-US": "Get 250 coins. This is what you need.",
@@ -7986,7 +7167,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 66,
+    "colorOrder": 67,
     "desc": {
       "de": "777 Münzen! Du hast ja so ein Glück ... und fühlst dich trotzdem einsam.",
       "en-US": "777 coins! You feel extremely lucky... and lonely.",
@@ -8052,7 +7233,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 63,
+    "colorOrder": 64,
     "desc": {
       "de": "Miau ... Du erhältst einen zusätzlichen Bonus, wenn du Münzen aufsammelst.",
       "en-US": "Meow... You get an extra bonus when you pick up coins.",
@@ -8118,7 +7299,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 94,
+    "colorOrder": 97,
     "desc": {
       "de": "Wenn du keinen Schlüssel hast, kannst du stattdessen ein halbes Herz benutzen.",
       "en-US": "If you don't have a key, you can use half a heart instead.",
@@ -8151,7 +7332,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 270,
+    "colorOrder": 279,
     "desc": {
       "de": "Wer braucht schon Schlüssel? Du jedenfalls nicht.",
       "en-US": "I got this! Keys are no longer a problem.",
@@ -8184,7 +7365,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 126,
+    "colorOrder": 130,
     "desc": {
       "de": "Zeit zum Shoppen! Im Laden kostet alles nur noch die Hälfte!",
       "en-US": "It's shopping time! Everything in the shop is half price!",
@@ -8217,7 +7398,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 103,
+    "colorOrder": 106,
     "desc": {
       "de": "Schmier ihn dir nicht auf die Zähne. Der Laden wird wiederaufgefüllt.",
       "en-US": "Don't get it on your teeth. The shop will now replenish.",
@@ -8250,7 +7431,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 379,
+    "colorOrder": 389,
     "desc": {
       "de": "Das ist die Zukunft und du bist ein großer Träumer. Je mehr Schilde du hast, desto mehr Schaden verursacht deine Waffe.",
       "en-US": "This is the future, and you're a big dreamer. The more shields you have, the more damage your weapon does.",
@@ -8283,7 +7464,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 306,
+    "colorOrder": 315,
     "desc": {
       "de": "Du verlierst Herzen trotz deiner Schilde. So langsam nimmst du diese Tatsache einfach hin.",
       "en-US": "You will lose hearts first even if you have shields. You are gradually accepting this fact.",
@@ -8316,7 +7497,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 138,
+    "colorOrder": 143,
     "desc": {
       "de": "Je mehr Schilde du hast, desto mehr Geschosse feuert deine Waffe ab.",
       "en-US": "The more shields you have, the more bullets your weapon shoots.",
@@ -8349,7 +7530,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 347,
+    "colorOrder": 356,
     "desc": {
       "de": "Je mehr Schilde du hast, desto mehr Nahkampfschaden verursachst du.",
       "en-US": "The more shields you have, the more melee damage you do.",
@@ -8382,7 +7563,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 205,
+    "colorOrder": 213,
     "desc": {
       "de": "Je mehr Schilde du hast, desto schneller feuerst du.",
       "en-US": "The more shields you have, the faster you fire.",
@@ -8415,7 +7596,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 329,
+    "colorOrder": 338,
     "desc": {
       "de": "Alle Schilde, die du bekommst, werden in Münzen umgewandelt.",
       "en-US": "All shields you get will turn to coins instead.",
@@ -8448,7 +7629,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 367,
+    "colorOrder": 376,
     "desc": {
       "de": "Wenn du einen Schild verlierst, besteht die Chance, dass du einen Schutzgeist erhältst.",
       "en-US": "When you lose a shield, there's a chance you'll get a guardian sprite.",
@@ -8514,7 +7695,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 267,
+    "colorOrder": 276,
     "desc": {
       "de": "Es besteht die Chance, dass du Schaden von hinten blockst.",
       "en-US": "There's a chance that you'll block damage taken from behind.",
@@ -8613,7 +7794,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 124,
+    "colorOrder": 128,
     "desc": {
       "de": "Du erhältst pro Raum eine vorübergehende Schutzschicht.",
       "en-US": "You get a temporary protective shell per room.",
@@ -8646,7 +7827,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 234,
+    "colorOrder": 243,
     "desc": {
       "de": "Du erleidest keinen Schaden durch Umweltgefahren.",
       "en-US": "You won't take any environmental damage.",
@@ -8679,7 +7860,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 235,
+    "colorOrder": 244,
     "desc": {
       "de": "Werte deine Waffe auf, falls du in diesem Raum verletzt wirst.",
       "en-US": "Upgrade your gun if you get hurt while in this room.",
@@ -8712,7 +7893,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 68,
+    "colorOrder": 70,
     "desc": {
       "de": "Erhöhe deine Feuerrate, falls du in diesem Raum verletzt wirst.",
       "en-US": "Increase your rate of fire if you get hurt while in this room.",
@@ -8745,7 +7926,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 74,
+    "colorOrder": 77,
     "desc": {
       "de": "Endlich Freitag! Erhöhe deinen Waffenschaden, wenn du verletzt wirst.",
       "en-US": "It's Friday! Increase your weapon's damage when you get hurt.",
@@ -8811,7 +7992,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 248,
+    "colorOrder": 257,
     "desc": {
       "de": "Uff. Hoffentlich magst du Suppe. Lasse Münzen fallen, wenn du verletzt wirst.",
       "en-US": "Oof. Hope you like soup. Drop coins when you get hurt.",
@@ -8844,7 +8025,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 374,
+    "colorOrder": 383,
     "desc": {
       "de": "Es besteht die Chance, dass du Kristalle fallen lässt, wenn du verletzt wirst.",
       "en-US": "You have a chance to drop extra crystals when you get hurt.",
@@ -8877,7 +8058,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 65,
+    "colorOrder": 66,
     "desc": {
       "de": "Es besteht die Chance, dass du zufällige Geschenke erhältst, wenn du verletzt wirst.",
       "en-US": "You have a chance to receive random goodies when you get hurt.",
@@ -8910,7 +8091,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 339,
+    "colorOrder": 348,
     "desc": {
       "de": "Es besteht die Chance, dass du zusätzliche Schilde fallen lässt, wenn du verletzt wirst.",
       "en-US": "You have a chance to drop extra shields when you get hurt.",
@@ -8943,7 +8124,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 310,
+    "colorOrder": 319,
     "desc": {
       "de": "Wenn du in diesem Raum verletzt wirst, wirst du von einem Ring aus Blitzen umgeben, die Gegnern in der Nähe Schaden zufügen.",
       "en-US": "If you get hurt in this room, a ring of lightning will surround you and damage nearby enemies.",
@@ -8976,7 +8157,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 106,
+    "colorOrder": 109,
     "desc": {
       "de": "Es besteht die Chance, dass du zusätzliche Schlüssel fallen lässt, wenn du durch eine Explosion verletzt wirst.",
       "en-US": "You have a chance to drop extra keys when you get hurt by an explosion.",
@@ -9009,7 +8190,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 178,
+    "colorOrder": 186,
     "desc": {
       "de": "Wenn du verletzt wirst, explodierst du. Wer das überlebt, hat seine Lektion vielleicht gelernt.",
       "en-US": "When you get hurt, you will explode. Anyone who survives might learn a lesson.",
@@ -9075,7 +8256,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 378,
+    "colorOrder": 388,
     "desc": {
       "de": "Wenn du verletzt wirst, erhältst du Kristalle.",
       "en-US": "You will gain crystals when you get hurt.",
@@ -9108,7 +8289,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 311,
+    "colorOrder": 320,
     "desc": {
       "de": "Es besteht die Chance, dass du Schilde erhältst, wenn du verletzt wirst. Manche Fragen müssen einfach gestellt werden.",
       "en-US": "You have a chance to gain shields when you get hurt. There are some questions you can't avoid.",
@@ -9141,7 +8322,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 279,
+    "colorOrder": 288,
     "desc": {
       "de": "Du erhältst einen zufälligen Gegenstand, wenn du 6-mal im selben Raum verletzt wirst.",
       "en-US": "You will get a random item if you get hurt 6 times in the same room.",
@@ -9174,7 +8355,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 207,
+    "colorOrder": 215,
     "desc": {
       "de": "Wenn du verletzt wirst, erhältst du einen Schutzgeist.",
       "en-US": "You will get a guard sprite when you get hurt.",
@@ -9207,7 +8388,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 291,
+    "colorOrder": 300,
     "desc": {
       "de": "Wenn du auf ein halbes Herz fällst, fügst du sofort allen Gegnern Schaden zu.",
       "en-US": "If you are down to half a heart, you'll immediately deal damage to all enemies.",
@@ -9240,7 +8421,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 298,
+    "colorOrder": 307,
     "desc": {
       "de": "Wenn du auf ein halbes Herz fällst, erhältst du die Fähigkeit, zu fliegen.",
       "en-US": "If you're down to half a heart, you'll gain the ability to fly.",
@@ -9273,7 +8454,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 366,
+    "colorOrder": 375,
     "desc": {
       "de": "Wenn du auf ein halbes Herz fällst, lässt du sofort einen Schild fallen.",
       "en-US": "If you're down to half a heart, you'll immediately drop a shield.",
@@ -9306,7 +8487,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 307,
+    "colorOrder": 316,
     "desc": {
       "de": "KEINE PANIK! Wenn du verletzt wirst, verlierst du nur ein halbes Herz.",
       "en-US": "DON'T PANIC! You'll only lose half a heart when you get hurt.",
@@ -9339,7 +8520,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 354,
+    "colorOrder": 363,
     "desc": {
       "de": "Wenn du verletzt wirst, besteht die Chance, dass du doppelten Schaden erleidest ... oder überhaupt keinen.",
       "en-US": "Each time you get hurt, there's a chance you'll take double damage... or no damage at all.",
@@ -9372,7 +8553,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 221,
+    "colorOrder": 229,
     "desc": {
       "de": "Du bist gegen Explosionsschaden immun.",
       "en-US": "You're immune to the explosion damage caused by yourself.",
@@ -9405,7 +8586,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 180,
+    "colorOrder": 188,
     "desc": {
       "de": "Es besteht die Chance, dass du Herzen wiederherstellst, wenn du durch eine Explosion verletzt wirst.",
       "en-US": "You have a chance to recover hearts when you get hurt by an explosion.",
@@ -9438,7 +8619,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 193,
+    "colorOrder": 201,
     "desc": {
       "de": "Fügt Gegnern, die dich berühren, Nahkampfschaden zu.",
       "en-US": "Deal melee damage to enemies who make contact with you.",
@@ -9471,7 +8652,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 181,
+    "colorOrder": 189,
     "desc": {
       "de": "Nichts ist wahr. Alles ist erlaubt. Füge mehr Waffenschaden zu, wenn du von hinten angreifst.",
       "en-US": "Nothing is True. Everything is Permitted. Do more weapon damage when you attack from behind.",
@@ -9504,7 +8685,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 312,
+    "colorOrder": 321,
     "desc": {
       "de": "Lasse nicht nach! Je mehr Gegner du ohne Unterbrechung triffst, desto mehr Waffenschaden fügst du zu.",
       "en-US": "Don't let up! The more enemies you hit without stopping, the more weapon damage you'll do.",
@@ -9537,7 +8718,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 139,
+    "colorOrder": 144,
     "desc": {
       "de": "Jedes Mal, wenn du einen Gegner mit einer Bombe tötest, erhältst du 1 bösen Geist.",
       "en-US": "You will get 1 angry sprite each time you kill an enemy by explosions.",
@@ -9570,7 +8751,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 210,
+    "colorOrder": 218,
     "desc": {
       "de": "Jedes Mal, wenn du einen Gegner mit einer Bombe tötest, besteht die Chance, dass du Herzen wiederherstellst.",
       "en-US": "You have a chance to recover hearts each time you kill an enemy by bombs.",
@@ -9603,7 +8784,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 352,
+    "colorOrder": 361,
     "desc": {
       "de": "Jedes Mal, wenn du einen Gegner tötest, besteht die Chance, dass du zusätzliche Schilde fallen lässt.",
       "en-US": "You have a chance to drop extra shields each time you kill an enemy.",
@@ -9636,7 +8817,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 375,
+    "colorOrder": 385,
     "desc": {
       "de": "Jedes Mal, wenn in diesem Raum ein Gegner getötet wird, erhöht sich dein Waffenschaden.",
       "en-US": "Each time an enemy is killed in this room, your weapon damage increases.",
@@ -9669,7 +8850,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 211,
+    "colorOrder": 219,
     "desc": {
       "de": "Du erhältst doppelt so viele Münzen, wenn du Gegner tötest.",
       "en-US": "You get twice the coins after you kill enemies.",
@@ -9702,7 +8883,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 280,
+    "colorOrder": 289,
     "desc": {
       "de": "Wenn du genug Gegner tötest, lässt du zusätzliche Bomben fallen.",
       "en-US": "Kill enough enemies, and you'll drop extra bombs.",
@@ -9735,7 +8916,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 162,
+    "colorOrder": 169,
     "desc": {
       "de": "Wenn du genug Gegner tötest, lässt du zusätzliche Eier fallen.",
       "en-US": "Kill enough enemies, and you'll drop extra eggs.",
@@ -9768,7 +8949,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 95,
+    "colorOrder": 98,
     "desc": {
       "de": "Wenn du genug Gegner tötest, lässt du zusätzliche Schlüssel fallen.",
       "en-US": "Kill enough enemies, and you'll drop extra keys.",
@@ -9801,7 +8982,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 323,
+    "colorOrder": 332,
     "desc": {
       "de": "Wenn du genug Gegner tötest, lässt du zusätzliche Schilde fallen.",
       "en-US": "Kill enough enemies, and you'll drop extra shields.",
@@ -9834,7 +9015,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 81,
+    "colorOrder": 84,
     "desc": {
       "de": "Kunst ist eine Explosion! Es besteht die Chance, dass eine Explosion von dir ausgeht, nachdem du einen Gegner getötet hast.",
       "en-US": "Art is an explosion! There's a chance that killing an enemy will release an explosion from you. ",
@@ -9867,7 +9048,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 236,
+    "colorOrder": 245,
     "desc": {
       "de": "Jedes Mal, wenn du einen Gegner tötest, besteht die Chance, dass du einen Schutzpanzer erhältst.",
       "en-US": "You have a chance to get a protective shell each time you kill an enemy.",
@@ -9900,7 +9081,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 140,
+    "colorOrder": 145,
     "desc": {
       "de": "Es besteht die Chance, dass du ein halbes Herz wiederherstellst, wenn du einen Gegner tötest.",
       "en-US": "You have a chance of recovering half a heart each time you kill an enemy.",
@@ -9933,7 +9114,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 355,
+    "colorOrder": 364,
     "desc": {
       "de": "Wenn du genug Gegner tötest, lässt du zusätzliche Herzen fallen.",
       "en-US": "Kill enough enemies, and you'll drop extra hearts.",
@@ -9966,7 +9147,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 141,
+    "colorOrder": 146,
     "desc": {
       "de": "Wenn du genug Gegner tötest, lässt du zusätzliche Kristalle fallen.",
       "en-US": "Kill enough enemies, and you'll get crystals.",
@@ -9999,7 +9180,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 335,
+    "colorOrder": 344,
     "desc": {
       "de": "Jedes Mal, wenn in diesem Raum ein Gegner getötet wird, werden deine Augen schärfer und erhöht sich dein Angriffstempo.",
       "en-US": "Each time an enemy is killed in this room, your eye gets sharper, increasing your weapon attack speed.",
@@ -10032,7 +9213,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 96,
+    "colorOrder": 99,
     "desc": {
       "de": "Wenn du einen Gegner tötest, besteht die Chance, dass er explodiert.",
       "en-US": "Each time you kill an enemy, there's a chance it will explode.",
@@ -10065,7 +9246,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 237,
+    "colorOrder": 246,
     "desc": {
       "de": "Jedes Mal, wenn in diesem Raum ein Gegner getötet wird, nimmt die Zahl der Patronen deiner Waffe zu.",
       "en-US": "Each time an enemy is killed in this room, your weapon bullets increase.",
@@ -10098,7 +9279,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 67,
+    "colorOrder": 69,
     "desc": {
       "de": "Erhöhe deinen Waffenschaden, während du in der Luft bist.",
       "en-US": "Increase your weapon damage when you are in the air.",
@@ -10131,7 +9312,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 281,
+    "colorOrder": 290,
     "desc": {
       "de": "Feuere alle zehn Schüsse ein Spezialgeschoss ab, das mehr Schaden verursacht.",
       "en-US": "Fire a special bullet every ten shots, causing greater damage to the enemy.",
@@ -10164,7 +9345,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 118,
+    "colorOrder": 122,
     "desc": {
       "de": "Es besteht die Chance, dass du ein großes Geschoss abfeuerst.",
       "en-US": "There's a chance you'll fire a big bullet.",
@@ -10197,7 +9378,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 343,
+    "colorOrder": 352,
     "desc": {
       "de": "Kuckuck, hab ich dich! Es besteht die Chance, dass deine Geschosse Gegner verfolgen.",
       "en-US": "Peekaboo! I see you! There's a chance your bullets will track enemies.",
@@ -10230,7 +9411,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 182,
+    "colorOrder": 190,
     "desc": {
       "de": "Alle deine Geschosse explodieren beim Einschlag oder nachdem sie eine gewisse Distanz zurückgelegt haben. Viel Spaß bei der Vorstellung.",
       "en-US": "All your bullets will explode on impact or after they travel a certain distance. Enjoy the show.",
@@ -10263,7 +9444,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 89,
+    "colorOrder": 92,
     "desc": {
       "de": "Es besteht die Chance, dass deine Geschosse ein wunderschönes Feuerwerk erzeugen.",
       "en-US": "There's a chance your bullet will create a beautiful firework.",
@@ -10296,7 +9477,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 265,
+    "colorOrder": 274,
     "desc": {
       "de": "Deine Geschosse erschaffen eine Plattform an der Wand.",
       "en-US": "Your bullet will create a platform on the wall.",
@@ -10329,7 +9510,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 293,
+    "colorOrder": 302,
     "desc": {
       "de": "Es besteht die Chance, dass sich dein Geschoss in mehrere Geschosse aufteilt. Ein wunderschönes Schauspiel des Todes.",
       "en-US": "There's a chance your bullet will split into extra bullets. A beautiful display of death.",
@@ -10395,7 +9576,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 119,
+    "colorOrder": 123,
     "desc": {
       "de": "Es besteht die Chance, dass sich dein Geschoss in mehrere Geschosse aufteilt. Wir wissen, wie verlockend es ist, aber lecke besser nicht dran.",
       "en-US": "There's a chance your bullet will split into extra bullets. We know it's tempting, but don't lick any.",
@@ -10428,7 +9609,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 336,
+    "colorOrder": 345,
     "desc": {
       "de": "Ein Triumph der Wissenschaft! Deine Geschosse prallen nach Zufallsprinzip von der Wand ab.",
       "en-US": "The victory of science! Your bullet will randomly rebound when it hits the wall.",
@@ -10461,7 +9642,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 302,
+    "colorOrder": 311,
     "desc": {
       "de": "Einige deiner Geschosse verfügen über Schilde, die gegnerische Geschosse blocken.",
       "en-US": "Some of your bullets have shields that can block enemy bullets.",
@@ -10494,7 +9675,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 257,
+    "colorOrder": 266,
     "desc": {
       "de": "Deine Waffe ist so was von geladen! Alle deine Geschosse verursachen jetzt Elektroschaden.",
       "en-US": "Your gun is full of electricity! All your bullets now deal electric damage.",
@@ -10527,7 +9708,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 142,
+    "colorOrder": 147,
     "desc": {
       "de": "Fackle nicht lange, zünde deine Waffe an! Alle deine Geschosse verursachen jetzt Feuerschaden.",
       "en-US": "Let your gun burn! All your bullets now deal fire damage.",
@@ -10560,7 +9741,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 338,
+    "colorOrder": 347,
     "desc": {
       "de": "Halte deine Waffe kühl! Alle deine Geschosse verursachen jetzt Eisschaden.",
       "en-US": "Cool down your gun! All your bullets now deal ice damage.",
@@ -10593,7 +9774,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 266,
+    "colorOrder": 275,
     "desc": {
       "de": "Dein Gift fließt durch ihre Adern. Alle deine Geschosse verursachen jetzt Giftschaden.",
       "en-US": "Your poison runs through their veins. All your bullets now deal poison damage.",
@@ -10626,7 +9807,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 318,
+    "colorOrder": 327,
     "desc": {
       "de": "Deine Geschosse durchdringen Gegner.",
       "en-US": "Your bullets can pass through enemies.",
@@ -10659,7 +9840,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 249,
+    "colorOrder": 258,
     "desc": {
       "de": "Jetzt hält dich gar nichts mehr auf! Deine Geschosse durchdringen Gegner.",
       "en-US": "Ain't nothing gonna stop you now! Your bullets can pass through walls.",
@@ -10692,7 +9873,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 120,
+    "colorOrder": 124,
     "desc": {
       "de": "Es besteht die Chance, dass dein Geschoss abprallt und weiterfliegt.",
       "en-US": "There's a chance you'll fire a bouncy bullet.",
@@ -10725,7 +9906,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 330,
+    "colorOrder": 339,
     "desc": {
       "de": "Es besteht die Chance, dass du ein wärmesuchendes Geschoss abfeuerst.",
       "en-US": "There's a chance you'll fire a heat-seeking bullet.",
@@ -10758,7 +9939,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 69,
+    "colorOrder": 71,
     "desc": {
       "de": "Es besteht die Chance, dass du einen Laser abfeuerst. Doch ob er trifft oder nicht, steht auf einem anderen Blatt ...",
       "en-US": "There's a chance you'll fire a laser. Whether or not it hits anything is another matter...",
@@ -10791,7 +9972,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 121,
+    "colorOrder": 125,
     "desc": {
       "de": "Es besteht die Chance, dass du ein Rattenimitat abfeuerst. Und wer hätte davor keine Angst?",
       "en-US": "There's a chance you'll fire a fake rat. And who wouldn't be scared of that?",
@@ -10824,7 +10005,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 300,
+    "colorOrder": 309,
     "desc": {
       "de": "Es besteht die Chance, dass dein Geschoss abprallt und weiterfliegt.",
       "en-US": "There's a chance you'll fire a ricocheting bullet.",
@@ -10857,7 +10038,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 361,
+    "colorOrder": 370,
     "desc": {
       "de": "Es besteht die Chance, dass du eine wärmesuchende Rakete abfeuerst.",
       "en-US": "There's a chance you'll fire a heat-seeking rocket.",
@@ -10890,7 +10071,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 212,
+    "colorOrder": 220,
     "desc": {
       "de": "Es besteht die Chance, dass du mehrere Geschosse abfeuerst.",
       "en-US": "There's a chance you'll fire multiple bullets.",
@@ -10923,7 +10104,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 250,
+    "colorOrder": 259,
     "desc": {
       "de": "Es besteht die Chance, dass du ein Elektrogeschoss abfeuerst.",
       "en-US": "There's a chance you'll fire an electric bullet.",
@@ -10956,7 +10137,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 107,
+    "colorOrder": 110,
     "desc": {
       "de": "Es besteht die Chance, dass du ein Feuergeschoss abfeuerst.",
       "en-US": "There's a chance you'll fire a flame bullet.",
@@ -10989,7 +10170,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 86,
+    "colorOrder": 89,
     "desc": {
       "de": "Es besteht die Chance, dass du ein Eisgeschoss abfeuerst.",
       "en-US": "There's a chance you'll fire an ice bullet.",
@@ -11022,7 +10203,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 190,
+    "colorOrder": 198,
     "desc": {
       "de": "Es besteht die Chance, dass du ein Giftgeschoss abfeuerst.",
       "en-US": "There's a chance you'll fire a poison bullet.",
@@ -11055,7 +10236,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 88,
+    "colorOrder": 91,
     "desc": {
       "de": "Es besteht die Chance, dass du zufällige Elementargeschosse abfeuerst.",
       "en-US": "You have a chance to shoot random element bullets.",
@@ -11154,7 +10335,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 238,
+    "colorOrder": 247,
     "desc": {
       "de": "Jedes Mal, wenn du eine Holzkiste mit Nahkampfschaden zerstörst, erhältst du 1 Münze.",
       "en-US": "Each time you destroy a wooden box using melee damage, you gain 1 coin.",
@@ -11187,7 +10368,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 251,
+    "colorOrder": 260,
     "desc": {
       "de": "Je mehr Münzen du hast, desto mehr Nahkampfschaden verursachst du.",
       "en-US": "The more coins you have, the more melee damage you do.",
@@ -11220,7 +10401,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 288,
+    "colorOrder": 297,
     "desc": {
       "de": "Je öfter du in diesem Raum deinen Nahkampfangriff nutzt, desto mehr Schaden verursacht er, solange du dich dort aufhältst.",
       "en-US": "While in this room, the more times you use your melee attack, the more damage it does.",
@@ -11253,7 +10434,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 239,
+    "colorOrder": 248,
     "desc": {
       "de": "Deine Nahkampfangriffe lassen Gegner explodieren, wenn du sie tötest.",
       "en-US": "Your melee attacks cause enemies to explode when they die.",
@@ -11286,7 +10467,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 101,
+    "colorOrder": 104,
     "desc": {
       "de": "Deine Lieblingswaffe! Erhöhe deinen Nahkampfschaden.",
       "en-US": "Your favorite weapon! Increase your melee attack damage.",
@@ -11319,7 +10500,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 268,
+    "colorOrder": 277,
     "desc": {
       "de": "Wenn du einen Gegner mit Nahkampfschaden tötest, besteht die Chance, dass dieser eine scharfe Bombe fallen lässt.",
       "en-US": "Each time you kill an enemy with melee damage, there's a chance a mine will drop.",
@@ -11352,7 +10533,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 108,
+    "colorOrder": 111,
     "desc": {
       "de": "Je mehr Eier du hast, desto mehr Nahkampfschaden verursachst du.",
       "en-US": "The more eggs you have, the more melee damage you do.",
@@ -11418,7 +10599,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 258,
+    "colorOrder": 267,
     "desc": {
       "de": "Deine Nahkampfangriffe verursachen Elektroschaden.",
       "en-US": "Your melee attack deals electric damage.",
@@ -11451,7 +10632,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 85,
+    "colorOrder": 88,
     "desc": {
       "de": "Deine Nahkampfangriffe verursachen Feuerschaden.",
       "en-US": "Your melee attack deals fire damage.",
@@ -11484,7 +10665,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 122,
+    "colorOrder": 126,
     "desc": {
       "de": "Wenn du genug Gegner mit Nahkampfangriffen getötet hast, stellst du ein halbes Herz wieder her.",
       "en-US": "Kill enough enemies in melee, you will recover half a heart.",
@@ -11616,7 +10797,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 344,
+    "colorOrder": 353,
     "desc": {
       "de": "Wenn du einen Gegner mit Nahkampfschaden tötest, besteht die Chance, dass du zusätzliche Kristalle bekommst.",
       "en-US": "Each time you kill an enemy with melee damage, there's a chance you'll receive extra crystals.",
@@ -11649,7 +10830,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 209,
+    "colorOrder": 217,
     "desc": {
       "de": "Wenn du einen Gegner mit Nahkampfschaden tötest, besteht die Chance, dass du zusätzliche Münzen bekommst.",
       "en-US": "Each time you kill an enemy with melee damage, there's a chance you'll receive extra coins.",
@@ -11682,7 +10863,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 368,
+    "colorOrder": 377,
     "desc": {
       "de": "Erhalte Schilde, wenn du Gegner mit Nahkampfschaden tötest.",
       "en-US": "Gain shields after killing enemies with melee damage.",
@@ -11715,7 +10896,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 214,
+    "colorOrder": 222,
     "desc": {
       "de": "Erhöhe jedes Mal, wenn du im aktuellen Raum verletzt wirst, deinen Nahkampfschaden.",
       "en-US": "Increase your melee damage every time you get hurt in the current room.",
@@ -11748,7 +10929,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 216,
+    "colorOrder": 224,
     "desc": {
       "de": "Je öfter du springst, desto mehr Nahkampfschaden verursachst du.",
       "en-US": "The more times you jump, the more melee damage you do.",
@@ -11781,7 +10962,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 217,
+    "colorOrder": 225,
     "desc": {
       "de": "Manchmal will das Schicksal jemanden sehr gern tot sehen. Erhöhe deine Nahkampfreichweite.",
       "en-US": "Sometimes, the Fates just want someone dead. Increase your melee range.",
@@ -11880,7 +11061,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 277,
+    "colorOrder": 286,
     "desc": {
       "de": "Feuert abprallende Geschosse ab, wenn die Bombe explodiert.",
       "en-US": "Launches 10 bouncy bullets after your bomb explodes.",
@@ -11913,7 +11094,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 388,
+    "colorOrder": 398,
     "desc": {
       "de": "Feuert 10 wärmesuchende Geschosse ab, wenn die Bombe explodiert.",
       "en-US": "Launches 10 heat-seeking bullets after your bomb explodes.",
@@ -11946,7 +11127,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 163,
+    "colorOrder": 170,
     "desc": {
       "de": "Feuert Geschosse ab, wenn die Bombe explodiert.",
       "en-US": "Launches colorful bullets after your bomb explodes.",
@@ -11979,7 +11160,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 80,
+    "colorOrder": 83,
     "desc": {
       "de": "Feuert durchdringende Geschosse ab, wenn die Bombe explodiert.",
       "en-US": "Launches piercing bullets after your bomb explodes.",
@@ -12012,7 +11193,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 319,
+    "colorOrder": 328,
     "desc": {
       "de": "Deine Bombe beseitigt alle Geschosse aus einem gewissen Bereich.",
       "en-US": "Your bomb will clear a certain area of bullets.",
@@ -12045,7 +11226,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 147,
+    "colorOrder": 152,
     "desc": {
       "de": "Es besteht die Chance, dass diese Bombe ein Extra fallen lässt, wenn sie explodiert.",
       "en-US": "There's a chance your bomb will drop a pickup after it explodes in battle.",
@@ -12078,7 +11259,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 271,
+    "colorOrder": 280,
     "desc": {
       "de": "Deine Bombe explodiert X-förmig.",
       "en-US": "Your explosion will create an X-shaped blast.",
@@ -12111,7 +11292,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 272,
+    "colorOrder": 281,
     "desc": {
       "de": "Deine Bombe explodiert kreuzförmig.",
       "en-US": "Your explosion will create a cross-shaped blast.",
@@ -12144,7 +11325,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 109,
+    "colorOrder": 112,
     "desc": {
       "de": "Die Explosion hinterlässt einen Brand.",
       "en-US": "Your explosion leaves a burst of fire behind.",
@@ -12177,7 +11358,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 275,
+    "colorOrder": 284,
     "desc": {
       "de": "Lege eine Mine am Boden, anstatt eine Bombe zu werfen.",
       "en-US": "Instead of throwing a bomb, place a mine on the ground.",
@@ -12210,7 +11391,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 259,
+    "colorOrder": 268,
     "desc": {
       "de": "Heftigere Bomben. Hellere Bomben. Hammermäßige Bomben.",
       "en-US": "Explosions are bigger, brighter, and better.",
@@ -12243,7 +11424,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 273,
+    "colorOrder": 282,
     "desc": {
       "de": "Wenn die Bombe explodiert, zersplittert sie in mehr Bomben.",
       "en-US": "After the bomb explodes, it will split into more small bombs.",
@@ -12276,7 +11457,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 149,
+    "colorOrder": 154,
     "desc": {
       "de": "Schlüssel sind nicht die einzige Lösung! Es besteht die Chance, dass du Truhen oder Türen mit Explosionen aufschließt.",
       "en-US": "Keys are not the only answer! You have a chance to unlock chests or doors with explosions.",
@@ -12309,7 +11490,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 183,
+    "colorOrder": 191,
     "desc": {
       "de": "Wenn du alle Portalsteine aktiviert hast, erhältst du ein paar Eier.",
       "en-US": "After you activate all the Portal Stones, you'll get some eggs.",
@@ -12342,7 +11523,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 218,
+    "colorOrder": 226,
     "desc": {
       "de": "Wenn das Ei mit Stein (wie Türen oder Truhen) in Berührung kommt, explodiert beides und verschwindet.",
       "en-US": "If the egg touches stone - such as doors or chests - they'll both explode and disappear.",
@@ -12375,7 +11556,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 303,
+    "colorOrder": 312,
     "desc": {
       "de": "Du kannst ein Ei manuell am Schlüpfen hindern, indem du die ESC-Taste drückst.",
       "en-US": "You can manually cancel the hatching process of the egg by pressing [Cancel Key].",
@@ -12408,7 +11589,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 252,
+    "colorOrder": 261,
     "desc": {
       "de": "Je mehr Eier du hast, desto mehr Schaden verursachen deine Geschosse.",
       "en-US": "The more eggs you have, the more damage your bullets do.",
@@ -12441,7 +11622,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 184,
+    "colorOrder": 192,
     "desc": {
       "de": "Deine Eier können gegnerische Geschosse blocken.",
       "en-US": "Your eggs can block bullets from enemies.",
@@ -12474,7 +11655,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 240,
+    "colorOrder": 249,
     "desc": {
       "de": "Zwei auf einmal, juhu! Verdoppelt deine Anzahl an Eiern.",
       "en-US": "Two at a time baby, yeah! Double the number of eggs you have.",
@@ -12507,7 +11688,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 253,
+    "colorOrder": 262,
     "desc": {
       "de": "Wenn ein Schlüpfen fehlschlägt, lässt du eine zusätzliche Bombe fallen.",
       "en-US": "You will drop an extra bomb if you hatch an empty egg.",
@@ -12573,7 +11754,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 185,
+    "colorOrder": 193,
     "desc": {
       "de": "Wenn ein Schlüpfen fehlschlägt, lässt du zusätzliche Herzen fallen.",
       "en-US": "You will drop extra hearts if you hatch an empty egg.",
@@ -12639,7 +11820,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 377,
+    "colorOrder": 387,
     "desc": {
       "de": "Wenn ein Schlüpfen fehlschlägt, lässt du einen zusätzlichen Kristall fallen.",
       "en-US": "You will drop an extra crystal if you hatch an empty egg.",
@@ -12672,7 +11853,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 223,
+    "colorOrder": 231,
     "desc": {
       "de": "Jedes Mal, wenn ein Schlüpfen fehlschlägt, besteht die Chance, dass du zusätzliche Schilde fallen lässt.",
       "en-US": "You have a chance to drop extra shields if you hatch an empty egg.",
@@ -12705,7 +11886,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 380,
+    "colorOrder": 390,
     "desc": {
       "de": "Je mehr Eier du hast, desto mehr Geschosse feuerst du ab.",
       "en-US": "The more eggs you have, the more bullets you will fire.",
@@ -12738,7 +11919,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 241,
+    "colorOrder": 250,
     "desc": {
       "de": "Je mehr Eier du hast, desto öfter kannst du springen.",
       "en-US": "The more eggs you have, the more times you can jump.",
@@ -12771,7 +11952,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 166,
+    "colorOrder": 173,
     "desc": {
       "de": "Wenn dich ein Angriff tötet, kannst du ein Ei gegen ein halbes Herz eintauschen.",
       "en-US": "If an attack kills you, you'll exchange an egg for half a heart.",
@@ -12837,7 +12018,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 219,
+    "colorOrder": 227,
     "desc": {
       "de": "Je mehr Eier du hast, desto schneller kannst du schießen.",
       "en-US": "The more eggs you have, the faster you can shoot.",
@@ -12870,7 +12051,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 191,
+    "colorOrder": 199,
     "desc": {
       "de": "Aus Eiern schlüpfen keine Begleiter mehr, sondern zufällige Extras.",
       "en-US": "Eggs will hatch random pickups instead of pets.",
@@ -12903,7 +12084,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 289,
+    "colorOrder": 298,
     "desc": {
       "de": "Wenn Gegner Eier berühren, können die Eier Schaden verursachen.",
       "en-US": "Eggs can cause touch damage to enemies.",
@@ -12936,7 +12117,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 97,
+    "colorOrder": 100,
     "desc": {
       "de": "Lecker! Erhöhe den Schaden all deiner Begleiter.",
       "en-US": "Yeah! Increase the damage from all your pets.",
@@ -12969,7 +12150,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 186,
+    "colorOrder": 194,
     "desc": {
       "de": "Je mehr Begleiter du hast, desto mehr Schaden verursacht deine Waffe.",
       "en-US": "The more pets you have, the more damage your gun does.",
@@ -13002,7 +12183,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 381,
+    "colorOrder": 391,
     "desc": {
       "de": "Wenn du volles Leben hast, schlüpfen deine Eier immer erfolgreich.",
       "en-US": "When you're at full health, your eggs never fail to hatch.",
@@ -13035,7 +12216,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 143,
+    "colorOrder": 148,
     "desc": {
       "de": "Je mehr Begleiter du hast, desto mehr Geschosse feuerst du ab.",
       "en-US": "The more pets you have, the more bullets you fire.",
@@ -13068,7 +12249,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 123,
+    "colorOrder": 127,
     "desc": {
       "de": "Je mehr Begleiter du hast, desto öfter kannst du springen.",
       "en-US": "The more pets you have, the more times you can jump.",
@@ -13101,7 +12282,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 187,
+    "colorOrder": 195,
     "desc": {
       "de": "Je mehr Begleiter du hast, desto weiter kannst du schießen.",
       "en-US": "The more pets you have, the further you can shoot.",
@@ -13134,7 +12315,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 98,
+    "colorOrder": 101,
     "desc": {
       "de": "Je mehr Begleiter du hast, desto schneller kannst du schießen.",
       "en-US": "The more pets you have, the faster you can shoot.",
@@ -13167,7 +12348,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 110,
+    "colorOrder": 114,
     "desc": {
       "de": "Jedes Mal, wenn sich dein Begleiter entwickelt, lässt du eine Bombe fallen.",
       "en-US": "Every time your pet evolves, you'll drop a bomb.",
@@ -13200,7 +12381,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 220,
+    "colorOrder": 228,
     "desc": {
       "de": "Jedes Mal, wenn sich dein Begleiter entwickelt, lässt du Münzen fallen.",
       "en-US": "Every time your pet evolves, you'll drop coins.",
@@ -13233,7 +12414,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 390,
+    "colorOrder": 400,
     "desc": {
       "de": "Jedes Mal, wenn sich dein Begleiter entwickelt, lässt du 2 Kristalle fallen.",
       "en-US": "Every time your pet evolves, you'll drop 2 crystals.",
@@ -13266,7 +12447,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 111,
+    "colorOrder": 115,
     "desc": {
       "de": "Jedes Mal, wenn sich dein Begleiter entwickelt, bekommst du ein Geschenk.",
       "en-US": "Every time your pet evolves, you'll get a gift.",
@@ -13299,7 +12480,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 112,
+    "colorOrder": 116,
     "desc": {
       "de": "Jedes Mal, wenn sich dein Begleiter entwickelt, lässt du ein halbes Herz fallen.",
       "en-US": "Every time your pet evolves, you'll drop half a heart.",
@@ -13332,7 +12513,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 188,
+    "colorOrder": 196,
     "desc": {
       "de": "Jedes Mal, wenn sich dein Begleiter entwickelt, lässt du einen Schlüssel fallen.",
       "en-US": "Every time your pet evolves, you'll drop a key.",
@@ -13365,7 +12546,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 290,
+    "colorOrder": 299,
     "desc": {
       "de": "Jedes Mal, wenn sich dein Begleiter entwickelt, lässt du möglicherweise einen halben Schild fallen.",
       "en-US": "Every time your pet evolves, you may drop half a shield.",
@@ -13398,7 +12579,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 78,
+    "colorOrder": 81,
     "desc": {
       "de": "Während du in der Luft bist, nimmst du durch Berührungen keinen Schaden.",
       "en-US": "You're immune to touch damage while you're in the air.",
@@ -13431,7 +12612,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 173,
+    "colorOrder": 182,
     "desc": {
       "de": "Je mehr Jump Marks Sie haben, desto mehr Schaden Ihre Waffe tut.\n",
       "en-US": "The more Jump Marks you have, the more damage your gun does.\n",
@@ -13497,7 +12678,40 @@
   },
   {
     "category": "item",
-    "colorOrder": 90,
+    "colorOrder": 68,
+    "desc": {
+      "de": "Feinde werden explodieren, wenn sie jede Jump Mark berühren.\n",
+      "en-US": "Enemies will explode when they touch any Jump Mark.\n",
+      "es": "Enemigos explotarán cuando tocan cualquier marca de salto.\n",
+      "fr": "Les ennemis vont exploser quand ils touchent tout saut Mark.\n",
+      "it": "I nemici esplodono quando toccano qualsiasi Mark Jump.\n",
+      "ja": "彼らはすべてのジャンプマークをタップしたときに敵が爆発します。\n",
+      "ru": "Враги будут взрываться, когда они касаются любого Скачка Марка.\n",
+      "zh": "敌人触碰到跳跃印记会产生爆炸。\n",
+      "zh-CN": "敌人触碰到跳跃印记会产生爆炸。\n",
+      "zh-TW": "敵人觸碰到跳躍印記會產生爆炸。\n"
+    },
+    "name": {
+      "de": "WISSENSCHAFTSPREISE",
+      "en-US": "SCIENCE AWARDS",
+      "es": "PREMIOS DE LA CIENCIA",
+      "fr": "PRIX SCIENTIFIQUE",
+      "it": "PREMIO DELLA SCIENZA",
+      "ja": "科学賞",
+      "ru": "НАУЧНАЯ ПРЕМИЯ",
+      "zh": "科学奖项",
+      "zh-CN": "科学奖项",
+      "zh-TW": "科學獎項"
+    },
+    "slug": "science-awards",
+    "tags": [
+      "item",
+      "jump"
+    ]
+  },
+  {
+    "category": "item",
+    "colorOrder": 93,
     "desc": {
       "de": "Jump Marks wird eine Feuerkugel schießen, wenn Ihr Ei berührt.",
       "en-US": "Jump Marks will shoot a fireball when your egg touches it.",
@@ -13530,7 +12744,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 77,
+    "colorOrder": 80,
     "desc": {
       "de": "Jump Marks werden Sie Musiknoten jedes Mal landen rufen.\n",
       "en-US": "Jump Marks will summon music notes each time you land.\n",
@@ -13563,7 +12777,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 157,
+    "colorOrder": 163,
     "desc": {
       "de": "Gewinnen Sie ein zusätzliches Ei mit jedem Sprung Mark, aber sie werden verschwinden, sobald Sie landen.",
       "en-US": "Gain an extra egg with each Jump Mark, but they will disappear once you land.",
@@ -13629,7 +12843,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 127,
+    "colorOrder": 131,
     "desc": {
       "de": "Das ist deine Bestimmung. Erhöhe deine Sprunghöhe und deine Bewegungsgeschwindigkeit.",
       "en-US": "This is your calling. Increase your jump height and movement speed.",
@@ -13695,7 +12909,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 274,
+    "colorOrder": 283,
     "desc": {
       "de": "Erhalte einen zusätzlichen Sprung. Wenn sie nicht nützlich wären, würdest du sie ja auch nicht tragen, oder?",
       "en-US": "You wouldn't wear them if they weren't useful, and these let you make an extra jump.",
@@ -13728,7 +12942,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 242,
+    "colorOrder": 251,
     "desc": {
       "de": "Niemand wird dich je kommen sehen. Erhalte einen zusätzlichen Sprung und erhöhe deinen Nahkampfschaden.",
       "en-US": "No one will ever see you coming. You can make an extra jump. Increase your melee damage.",
@@ -13761,7 +12975,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 324,
+    "colorOrder": 333,
     "desc": {
       "de": "Er fängt den Wind – genau wie du! Erhalte einen zusätzlichen Sprung.",
       "en-US": "It catches the wind - just like you! You can make an extra jump.",
@@ -13794,7 +13008,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 243,
+    "colorOrder": 252,
     "desc": {
       "de": "Reise weiter als jemals zuvor. Erhalte einen zusätzlichen Sprung.",
       "en-US": "Travel farther than ever before. You can make an extra jump.",
@@ -13827,7 +13041,7 @@
   },
   {
     "category": "item",
-    "colorOrder": 345,
+    "colorOrder": 354,
     "desc": {
       "de": "Die kleinen Flügel sind extrem niedlich. Und sie lassen dich einmal mehr springen.",
       "en-US": "The little wings are so darn cute. And they let you make an extra jump.",
@@ -13893,7 +13107,7 @@
   },
   {
     "category": "pet",
-    "colorOrder": 70,
+    "colorOrder": 73,
     "desc": {
       "de": "Diese kleine Windmühle verursacht Nahkampfschaden, wenn sie einen Gegner berührt. Bei Tod: Erhalte 3 böse Geister.",
       "en-US": "This little windmill deals melee damage when it touches an enemy. On Death: you get 3 angry sprites.",
@@ -13926,7 +13140,7 @@
   },
   {
     "category": "pet",
-    "colorOrder": 350,
+    "colorOrder": 359,
     "desc": {
       "de": "Dieser kleine Ziegel blockt gegnerische Geschosse. Bei Tod: Es besteht die Chance, dass du noch einen Blauen Ziegel erhältst.",
       "en-US": "This little brick blocks enemies' bullets. On Death: you have the chance to get another Blue Brick.",
@@ -13959,7 +13173,7 @@
   },
   {
     "category": "pet",
-    "colorOrder": 260,
+    "colorOrder": 269,
     "desc": {
       "de": "Dieses kleine Monster fügt Gegnern, die es berühren, Schaden zu.",
       "en-US": "This little monster damages enemies who touch it.",
@@ -13992,7 +13206,7 @@
   },
   {
     "category": "pet",
-    "colorOrder": 71,
+    "colorOrder": 74,
     "desc": {
       "de": "Diese kleine Kugel kann alle möglichen Geschosse blocken und explodiert nach einer gewissen Zahl an Treffern. Explodiert bei Tod.",
       "en-US": "This little ball can block all kinds of bullets, and will explode after taking a certain number of hits. On Death: It will explode.",
@@ -14025,7 +13239,7 @@
   },
   {
     "category": "pet",
-    "colorOrder": 304,
+    "colorOrder": 313,
     "desc": {
       "de": "Er schießt automatisch auf Gegner.",
       "en-US": "He shoots enemies automatically.",
@@ -14091,7 +13305,7 @@
   },
   {
     "category": "pet",
-    "colorOrder": 156,
+    "colorOrder": 161,
     "desc": {
       "de": "Er feuert automatisch ein abprallendes Geschoss auf Gegner ab.",
       "en-US": "He fires a bouncy bullet at enemies automatically.",
@@ -14124,7 +13338,7 @@
   },
   {
     "category": "pet",
-    "colorOrder": 58,
+    "colorOrder": 59,
     "desc": {
       "de": "Er feuert automatisch zwei abprallende Geschosse auf Gegner ab.",
       "en-US": "He fires two bouncy bullets at enemies automatically.",
@@ -14157,7 +13371,73 @@
   },
   {
     "category": "pet",
-    "colorOrder": 269,
+    "colorOrder": 406,
+    "desc": {
+      "de": "Ein verrücktes Mädchen, das Gegner mit Bomben bewirft.",
+      "en-US": "A crazy girl who throws bombs above enemies.",
+      "es": "Esta chica alocada lanza bombas sobre los enemigos.",
+      "fr": "Une fille cinglée qui jette des bombes au-dessus des ennemis.",
+      "it": "Ragazza fuori di testa che fa piovere bombe sui nemici.",
+      "ja": "敵の上にボムを投げつけるクレイジーな女の子。",
+      "ru": "Безумная девочка, которая бросает бомбы на врагов.",
+      "zh": "谁是你的甜心！会在敌人上方垂直投掷炸弹。",
+      "zh-CN": "她会在敌人上方垂直投掷炸弹。",
+      "zh-TW": "她會在敵人上方垂直投擲炸彈。"
+    },
+    "name": {
+      "de": "KARSA",
+      "en-US": "KARSA",
+      "es": "KARSA",
+      "fr": "KARSA",
+      "it": "KARSA",
+      "ja": "カーサ",
+      "ru": "КАРСА",
+      "zh": "卡莎",
+      "zh-CN": "卡莎",
+      "zh-TW": "卡莎"
+    },
+    "slug": "karsa",
+    "tags": [
+      "item",
+      "pet"
+    ]
+  },
+  {
+    "category": "pet",
+    "colorOrder": 162,
+    "desc": {
+      "de": "Strotzt vor Selbstvertrauen und attackiert jeden Gegner, der dir zu nahe kommt.",
+      "en-US": "Full of confidence! He will actively attack the enemies who are close to you.",
+      "es": "¡Rebosa confianza! Ataca activamente a los enemigos que están cerca de ti.",
+      "fr": "Il déborde de confiance ! Il attaquera activement les ennemis qui sont proches de vous.",
+      "it": "Attacca di sua iniziativa i nemici vicini. Che personalità!",
+      "ja": "自信満々！ あなたのそばに寄ってきた敵を積極的に攻撃する男の子。",
+      "ru": "Непоколебимо уверен в себе! Будет активно атаковать врагов, которые подойдут к вам слишком близко.",
+      "zh": "自信满满！他会主动攻击靠近你的敌人。",
+      "zh-CN": "自信满满！他会主动攻击靠近你的敌人。",
+      "zh-TW": "自信滿滿！他會主動攻擊靠近你的敵人。"
+    },
+    "name": {
+      "de": "BATU",
+      "en-US": "BATU",
+      "es": "BATU",
+      "fr": "BATU",
+      "it": "BATU",
+      "ja": "バトゥ",
+      "ru": "БАТУ",
+      "zh": "巴图",
+      "zh-CN": "巴图",
+      "zh-TW": "巴圖"
+    },
+    "slug": "batu",
+    "tags": [
+      "item",
+      "pet"
+    ]
+  },
+  {
+    "category": "pet",
+    "colorOrder": 278,
     "desc": {
       "de": "Es fügt jedem Schaden zu, das es berührt.",
       "en-US": "She causes damage to anyone she touches.",
@@ -14190,7 +13470,40 @@
   },
   {
     "category": "pet",
-    "colorOrder": 179,
+    "colorOrder": 384,
+    "desc": {
+      "de": "Erhöhe deinen Waffenschaden, während sie dir folgt. Bei Tod: Erhöhe deinen Waffenschaden vorübergehend enorm.",
+      "en-US": "Increase your weapon damage when she follows you. On Death: temporarily greatly increase your weapon damage.",
+      "es": "Aumenta el daño de tu arma cuando te sigue. En muerte: aumenta temporalmente y en gran medida el daño de tu arma.",
+      "fr": "Augmente vos dégâts d'arme quand elle vous suit. À la mort : augmente considérablement vos dégâts d'arme de manière temporaire.",
+      "it": "Incrementa i danni dell'arma quando ti segue. Alla morte: incrementa nettamente i danni dell'arma per un periodo.",
+      "ja": "あとをついてきて武器のダメージを増加させてくれる。死亡時：一時的に武器のダメージが大幅に増加する。",
+      "ru": "Повышает урон от оружия, когда следует за вами. При смерти значительно повышает урон от оружия на некоторое время.",
+      "zh": "增加武器伤害。临终效果：暂时大幅度提升攻击力。",
+      "zh-CN": "有她在就会增加你的武器伤害。死亡效果：暂时大幅度提升攻击力。",
+      "zh-TW": "有她在就會增加你的武器傷害。死亡效果：暫時大幅度提升攻擊力。"
+    },
+    "name": {
+      "de": "TÖDLICHES PARFÜM",
+      "en-US": "LETHAL PERFUME",
+      "es": "PERFUME LETAL",
+      "fr": "PARFUM MORTEL",
+      "it": "PROFUMO LETALE",
+      "ja": "死の香水",
+      "ru": "АРОМАТ СМЕРТИ",
+      "zh": "危险的香水",
+      "zh-CN": "致命的香水",
+      "zh-TW": "致命的香水"
+    },
+    "slug": "lethal-perfume",
+    "tags": [
+      "item",
+      "pet"
+    ]
+  },
+  {
+    "category": "pet",
+    "colorOrder": 187,
     "desc": {
       "de": "Er schießt einen Feuerball auf Gegner ab.",
       "en-US": "He shoots a fireball at enemies.",
@@ -14223,7 +13536,7 @@
   },
   {
     "category": "pet",
-    "colorOrder": 145,
+    "colorOrder": 150,
     "desc": {
       "de": "Er schießt zwei Feuerbälle auf Gegner ab. Bei Tod: Schieße jede Menge Feuerbälle ab.",
       "en-US": "He shoots two fireballs at enemies. On Death: fire a huge amount of fireballs.",
@@ -14256,7 +13569,7 @@
   },
   {
     "category": "pet",
-    "colorOrder": 113,
+    "colorOrder": 117,
     "desc": {
       "de": "Sie feuert automatisch sich spaltende Geschosse auf Gegner ab. Bei Tod: Füge allen Gegnern im Raum Schaden zu.",
       "en-US": "She fires split bullets at enemies automatically. On Death: damage all enemies in the room.",
@@ -14289,7 +13602,7 @@
   },
   {
     "category": "pet",
-    "colorOrder": 396,
+    "colorOrder": 407,
     "desc": {
       "de": "Es feuert automatisch durchdringende Geschosse auf Gegner ab. Bei Tod: Du wirst eine kurze Zeit lang vor Schaden bewahrt.",
       "en-US": "She fires penetrating bullets at enemies automatically. On Death: protect you from damage for a short time.",
@@ -14322,7 +13635,40 @@
   },
   {
     "category": "pet",
-    "colorOrder": 395,
+    "colorOrder": 239,
+    "desc": {
+      "de": "Er feuert Musikgeschosse auf Gegner ab. Bei Tod: Feuert 5 Musikgeschosse ab.",
+      "en-US": "He fires music bullets at enemies. On Death: fires 5 music bullets.",
+      "es": "Dispara balas musicales a los enemigos. En muerte: dispara 5 balas musicales.",
+      "fr": "Il tire des balles musicales sur les ennemis. À la mort : tire 5 balles musicales.",
+      "it": "Spara proiettili musicali contro i nemici. Alla morte: spara 5 proiettili musicali.",
+      "ja": "敵に向かって音楽の弾を発射する男の子。死亡時：音楽の弾を5つ発射する。",
+      "ru": "Стреляет во врагов музыкальными пулями. При смерти выпускает 5 музыкальных пуль.",
+      "zh": "发射音波子弹攻击敌人。临终效果：发射5道音波子弹。",
+      "zh-CN": "发射音波子弹攻击敌人。死亡效果：发射5道音波子弹。",
+      "zh-TW": "發射音波子彈攻擊敵人。死亡時：發射5道音波子彈。"
+    },
+    "name": {
+      "de": "AARON",
+      "en-US": "AARON",
+      "es": "ARÓN",
+      "fr": "AARON",
+      "it": "AARON",
+      "ja": "アーロン",
+      "ru": "ААРОН",
+      "zh": "艾伦",
+      "zh-CN": "艾伦",
+      "zh-TW": "艾倫"
+    },
+    "slug": "aaron",
+    "tags": [
+      "item",
+      "pet"
+    ]
+  },
+  {
+    "category": "pet",
+    "colorOrder": 405,
     "desc": {
       "de": "Er feuert Geschosse in zufällige Richtungen ab.",
       "en-US": "He fires bullets in random directions.",
@@ -14355,7 +13701,106 @@
   },
   {
     "category": "pet",
-    "colorOrder": 84,
+    "colorOrder": 305,
+    "desc": {
+      "de": "Erhöhe deine Sprunghöhe, während er dir folgt. Bei Tod: Erhöhe deine Sprunghöhe vorübergehend enorm.",
+      "en-US": "Increase your jump height when he follows you. On Death: temporarily greatly increase your jump height.",
+      "es": "Aumenta la atura de tu salto cuando te sigue. En muerte: aumenta temporalmente y en gran medida la altura de tu salto.",
+      "fr": "Augmente la hauteur de votre saut quand il vous suit. À la mort : augmente considérablement votre hauteur de saut de manière temporaire.",
+      "it": "Incrementa l'altezza dei salti quando ti segue. Alla morte: incrementa nettamente l'altezza dei salti per un periodo.",
+      "ja": "あとをついてきてジャンプの高さをあげてくれる。死亡時：一時的にジャンプの高さが大幅に高くなる。",
+      "ru": "Увеличивает высоту прыжка, когда следует за вами. При смерти значительно увеличивает высоту прыжка на некоторое время.",
+      "zh": "增加玩家跳跃高度。临终效果：暂时大幅度提升跳跃高度。",
+      "zh-CN": "有她在就会增加你的跳跃高度。死亡效果：暂时大幅度提升跳跃高度。",
+      "zh-TW": "有她在就會增加你的跳躍高度。死亡效果：暫時大幅度提升跳躍高度。"
+    },
+    "name": {
+      "de": "SCHÜCHTERNER PILZ",
+      "en-US": "SHY MUSHROOM",
+      "es": "SETA TÍMIDA",
+      "fr": "CHAMPIGNON TIMIDE",
+      "it": "FUNGO TIMIDO",
+      "ja": "シャイなキノコ",
+      "ru": "ЗАСТЕНЧИВЫЙ ГРИБ",
+      "zh": "害羞的蘑菇",
+      "zh-CN": "害羞的蘑菇",
+      "zh-TW": "害羞的蘑菇"
+    },
+    "slug": "shy-mushroom",
+    "tags": [
+      "item",
+      "pet"
+    ]
+  },
+  {
+    "category": "pet",
+    "colorOrder": 164,
+    "desc": {
+      "de": "Sie wirft einen Speer, um Gegner anzugreifen.",
+      "en-US": "She throws a spear to attack enemies.",
+      "es": "Arroja una lanza para atacar a los enemigos.",
+      "fr": "Elle jette une lance pour attaquer les ennemis.",
+      "it": "Attacca i nemici scagliando una lancia.",
+      "ja": "槍を投げて敵を攻撃する女の子。",
+      "ru": "Бросает во врагов копья.",
+      "zh": "啊呀呀！她会投掷长矛攻击敌人。",
+      "zh-CN": "啊呀呀！她会投掷长矛攻击敌人。",
+      "zh-TW": "啊呀呀！她會投擲長矛攻擊敵人。"
+    },
+    "name": {
+      "de": "YANO",
+      "en-US": "YANO",
+      "es": "YANO",
+      "fr": "YANO",
+      "it": "YANO",
+      "ja": "ヤノ",
+      "ru": "ЯНО",
+      "zh": "雅诺",
+      "zh-CN": "雅诺",
+      "zh-TW": "雅諾"
+    },
+    "slug": "yano",
+    "tags": [
+      "item",
+      "pet"
+    ]
+  },
+  {
+    "category": "pet",
+    "colorOrder": 58,
+    "desc": {
+      "de": "Er greift Gegner mit einem Laser an.",
+      "en-US": "He fires a laser to attack enemies.",
+      "es": "Dispara un láser para atacar a los enemigos.",
+      "fr": "Il tire un laser pour attaquer les ennemis.",
+      "it": "Attacca i nemici a colpi di laser.",
+      "ja": "レーザーを発射して敵を攻撃する男の子。",
+      "ru": "Атакует врагов лазером.",
+      "zh": "他会发射激光攻击敌人。",
+      "zh-CN": "他会发射激光攻击敌人。",
+      "zh-TW": "他會發射雷射攻擊敵人。"
+    },
+    "name": {
+      "de": "GES",
+      "en-US": "GES",
+      "es": "GES",
+      "fr": "GES",
+      "it": "GES",
+      "ja": "ジェス",
+      "ru": "ГЕС",
+      "zh": "格斯",
+      "zh-CN": "格斯",
+      "zh-TW": "格斯"
+    },
+    "slug": "ges",
+    "tags": [
+      "item",
+      "pet"
+    ]
+  },
+  {
+    "category": "pet",
+    "colorOrder": 87,
     "desc": {
       "de": "Eine spielerische Miezekatze. Er sammelt Herzen und bringt Ihnen schimmelig Herzen. On Death: Zufallszahl von schimmelig Herzen fallen.",
       "en-US": "A playful kitty. He collects hearts and brings you moldy hearts. On Death: drop random number of moldy hearts.",
@@ -14388,7 +13833,7 @@
   },
   {
     "category": "pet",
-    "colorOrder": 254,
+    "colorOrder": 263,
     "desc": {
       "de": "Er blockt gegnerische Geschosse und kann zwei Geschosse abfeuern, wenn er angegriffen wird.",
       "en-US": "He can block enemies' bullets, and may fire two bullets when attacked.",
@@ -14454,7 +13899,7 @@
   },
   {
     "category": "pet",
-    "colorOrder": 313,
+    "colorOrder": 322,
     "desc": {
       "de": "Er sammelt Herzen und es besteht die Chance, dass er dir Schilde gibt. Bei Tod: Lasse zufällige Schilde fallen.",
       "en-US": "He collects hearts and has a chance to give you shields. On Death: drop random shields.",
@@ -14487,7 +13932,73 @@
   },
   {
     "category": "pet",
-    "colorOrder": 83,
+    "colorOrder": 178,
+    "desc": {
+      "de": "Erhöhe die Reichweite deiner Waffe, während er dir folgt. Bei Tod: Erhöhe die Reichweite deiner Waffe vorübergehend enorm.",
+      "en-US": "Increase your weapon's range when he follows you. On Death: temporarily greatly increase your weapon's range.",
+      "es": "Aumenta el alcance de tu arma cuando te sigue. En muerte: aumenta temporalmente y en gran medida el alcance de tu arma.",
+      "fr": "Augmente la portée de votre arme quand il vous suit. À la mort : augmente considérablement la portée de votre arme de manière temporaire.",
+      "it": "Incrementa la gittata dell'arma quando ti segue. Alla morte: incrementa nettamente la gittata dell'arma per un periodo.",
+      "ja": "あとをついてきて武器の射程距離を長くしてくれる。死亡時：一時的に武器の射程距離が大幅に上がる。",
+      "ru": "Увеличивает дальность стрельбы, когда следует за вами. При смерти значительно увеличивает дальность стрельбы на некоторое время.",
+      "zh": "增加武器射程。临终效果：暂时大幅度提升攻击距离。",
+      "zh-CN": "有他在就会增加你的武器射程。死亡效果：暂时大幅度提升攻击距离。",
+      "zh-TW": "有他在就會增加你的武器射程。死亡效果：暫時大幅度提升攻擊距離。"
+    },
+    "name": {
+      "de": "GLÜCKSKENDAMA",
+      "en-US": "HAPPY KENDAMA",
+      "es": "KENDAMA FELIZ",
+      "fr": "KENDAMA HEUREUX",
+      "it": "KENDAMA FELICE",
+      "ja": "幸せけん玉",
+      "ru": "ВЕСЕЛАЯ КЕНДАМА",
+      "zh": "欢快的剑玉",
+      "zh-CN": "欢快的剑玉",
+      "zh-TW": "歡快的劍玉"
+    },
+    "slug": "happy-kendama",
+    "tags": [
+      "item",
+      "pet"
+    ]
+  },
+  {
+    "category": "pet",
+    "colorOrder": 113,
+    "desc": {
+      "de": "Erhöhe deine Feuerrate, während er dir folgt. Bei Tod: Erhöhe deine Feuerrate vorübergehend enorm.",
+      "en-US": "Increase your rate of fire when he follows you. On Death: temporarily greatly increase rate of fire.",
+      "es": "Aumenta tu frecuencia de disparo cuando te sigue. En muerte: aumenta temporalmente y en gran medida la frecuencia de disparo.",
+      "fr": "Augmente votre cadence de tir quand elle vous suit. À la mort : augmente considérablement la cadence de tir de manière temporaire.",
+      "it": "Incrementa la cadenza di tiro quando ti segue. Alla morte: incrementa nettamente la cadenza di tiro per un periodo.",
+      "ja": "あとをついてきて射撃速度を上げてくれる。死亡時：一時的に射撃速度が大幅に上がる。",
+      "ru": "Повышает скорость стрельбы, когда следует за вами. При смерти значительно увеличивает скорость стрельбы на некоторое время.",
+      "zh": "增加武器的攻速。临终效果：暂时大幅度提升攻速。",
+      "zh-CN": "有他在就会增加你的武器攻速。死亡效果：暂时大幅度提升攻速。",
+      "zh-TW": "有他在就會增加你的武器攻速。死亡效果：暫時大幅度提升攻速。"
+    },
+    "name": {
+      "de": "WÜTENDE TEEKANNE",
+      "en-US": "ANGRY TEAPOT",
+      "es": "TETERA ENFADADA",
+      "fr": "THÉIÈRE EN COLÈRE",
+      "it": "TEIERA AGGRESSIVA",
+      "ja": "怒れるティーポット",
+      "ru": "ЗЛОЙ ЧАЙНИК",
+      "zh": "愤怒的茶壶",
+      "zh-CN": "愤怒的茶壶",
+      "zh-TW": "憤怒的茶壺"
+    },
+    "slug": "angry-teapot",
+    "tags": [
+      "item",
+      "pet"
+    ]
+  },
+  {
+    "category": "pet",
+    "colorOrder": 86,
     "desc": {
       "de": "Er kann einen Schneeball werfen, der Gegner einfriert.",
       "en-US": "He can throw a snowball which freezes enemies.",
@@ -14520,7 +14031,40 @@
   },
   {
     "category": "pet",
-    "colorOrder": 72,
+    "colorOrder": 176,
+    "desc": {
+      "de": "Werte deine Waffe auf, während er dir folgt. Bei Tod: Werte deine Waffe vorübergehend enorm auf.",
+      "en-US": "Upgrade your weapon when he follows you. On Death: temporarily greatly upgrade your weapon.",
+      "es": "Mejora tu arma cuando te sigue. En muerte: aumenta temporalmente y en gran medida tu arma.",
+      "fr": "Améliore votre arme quand elle vous suit. À la mort : améliore considérablement votre arme de manière temporaire.",
+      "it": "Potenzia la tua arma quando ti segue. Alla morte: potenzia nettamente l'arma per un periodo.",
+      "ja": "あとをついてくる間、武器をアップグレードしてくれる。死亡時：一時的に武器を大幅にアップグレードする。",
+      "ru": "Улучшает ваше оружие, когда следует за вами. При смерти значительно улучшает ваше оружие на некоторое время.",
+      "zh": "增加你的武器等级。临终效果：暂时大幅度提升武器等级。",
+      "zh-CN": "有他在就会增加你的武器等级。死亡效果：暂时大幅度提升武器等级。",
+      "zh-TW": "有他在就會增加你的武器等級。死亡效果：暫時大幅度提升武器等級。"
+    },
+    "name": {
+      "de": "KUGEL NR. 7",
+      "en-US": "BULLET NO.7",
+      "es": "BALA NÚMERO 7",
+      "fr": "BALLE N°7",
+      "it": "PALLOTTOLA NUMERO 7",
+      "ja": "銃弾No.7",
+      "ru": "ПУЛЯ № 7",
+      "zh": "7号子弹",
+      "zh-CN": "7号子弹",
+      "zh-TW": "7號子彈"
+    },
+    "slug": "bullet-no7",
+    "tags": [
+      "item",
+      "pet"
+    ]
+  },
+  {
+    "category": "pet",
+    "colorOrder": 75,
     "desc": {
       "de": "Dieser seltsame Stein kann gegnerische Geschosse blocken.",
       "en-US": "This strange rock can block enemies' bullets.",
@@ -14553,7 +14097,7 @@
   },
   {
     "category": "pet",
-    "colorOrder": 282,
+    "colorOrder": 291,
     "desc": {
       "de": "Sie feuert mit giftigen Geschossen auf Gegner. Wenn sie verletzt wird, spaltet sie sich in zwei Zombieschwestern auf.",
       "en-US": "She shoots poison bullets at enemies. She splits into two zombie sisters after getting hurt.",
