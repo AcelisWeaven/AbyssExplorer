@@ -22,7 +22,7 @@
     "babel-eslint": "^10.1.0",
     "eslint": "^7.16.0",
     "eslint-plugin-vue": "^7.3.0",
-    "jpeg-js": "^0.4.2",
+    "jpeg-js": "^0.4.4",
     "sass": "^1.26.5",
     "sass-loader": "^10.1.0",
     "vue-template-compiler": "^2.6.11",
