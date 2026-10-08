@@ -182,7 +182,7 @@
         Made with ❤ by AcelisWeaven.
         <a
           class="link-orange"
-          href="https://github.com/AcelisWeaven"
+          href="https://buymeacoffee.com/acelisweaven"
           target="_blank"
           rel="noopener noreferrer"
         >Buy me a coffee!</a>
