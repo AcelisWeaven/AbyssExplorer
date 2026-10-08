@@ -1,5 +1,8 @@
 # Abyss Explorer
 
+> [!NOTE]
+> 🎉 This project is no longer maintained. Abyss Explorer is now archived, but it'll stay up for anyone who wants to browse or fork it. Huge thanks to everyone who used it, reported bugs, sent PRs, or bought me a coffee. This was a ton of fun! 💜
+
 An app to search for Neon Abyss items.
 
 Sprites and texts are the property of Team 17 and Veewo.
