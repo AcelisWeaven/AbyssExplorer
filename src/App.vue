@@ -179,10 +179,10 @@
     </section>
     <footer>
       <p>
-        Made with ❤ by Jeremy Graziani.
+        Made with ❤ by Alice Graziani.
         <a
           class="link-orange"
-          href="https://www.buymeacoffee.com/jeremygr"
+          href="https://buymeacoffee.com/acelisweaven"
           target="_blank"
           rel="noopener noreferrer"
         >Buy me a coffee!</a>
